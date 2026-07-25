@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-07-24",
+    "last_updated": "2026-07-25",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 348
+    "total_articles": 361
   },
   "articles": [
     {
@@ -5904,6 +5904,226 @@
         "زیرساخت انرژی",
         "شبکه برق",
         "کانادا"
+      ]
+    },
+    {
+      "id": "e6284b864c34a324",
+      "date": "2026-04-28",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/our-commitment-to-community-safety",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "OpenAI و حفاظت از جامعه: تعهد به ایمنی کاربران ChatGPT",
+      "title_en": "Our commitment to community safety",
+      "summary_fa": "شرکت OpenAI جزئیات تعهد خود به تضمین ایمنی کاربران و حفاظت از جامعه در پلتفرم ChatGPT را منتشر کرده است. این شرکت برای دستیابی به این هدف، از تدابیری چون سازوکارهای محافظتی در مدل‌ها، شناسایی سوءاستفاده‌ها، اجرای سخت‌گیرانه سیاست‌ها و همکاری با کارشناسان ایمنی بهره می‌برد.",
+      "tags": [
+        "OpenAI",
+        "ChatGPT",
+        "ایمنی هوش مصنوعی",
+        "حفاظت از جامعه"
+      ]
+    },
+    {
+      "id": "bc680bc14e9fe206",
+      "date": "2026-04-27",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/openai-available-at-fedramp-moderate",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "تأییدیه امنیتی FedRAMP Moderate: اوپن‌ای‌آی در دسترس نهادهای فدرال آمریکا",
+      "title_en": "OpenAI available at FedRAMP Moderate",
+      "summary_fa": "شرکت اوپن‌ای‌آی موفق به کسب تأییدیه FedRAMP Moderate برای محصولات کلیدی خود، از جمله ChatGPT سازمانی (Enterprise) و رابط برنامه‌نویسی کاربردی (API) اوپن‌ای‌آی، شده است. این دستاورد به سازمان‌های فدرال ایالات متحده امکان می‌دهد تا هوش مصنوعی را به شکلی امن و مطابق با استانداردهای دولتی، در عملیات خود به کار گیرند.",
+      "tags": [
+        "OpenAI",
+        "FedRAMP",
+        "دولت آمریکا",
+        "AI Adoption",
+        "ChatGPT Enterprise"
+      ]
+    },
+    {
+      "id": "ce52abc8a3f020a5",
+      "date": "2026-04-27",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/next-phase-of-microsoft-partnership",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "مایکروسافت و OpenAI: فاز جدید همکاری با توافقی شفاف‌تر برای آینده هوش مصنوعی",
+      "title_en": "The next phase of the Microsoft OpenAI partnership",
+      "summary_fa": "OpenAI و مایکروسافت از توافق‌نامه جدیدی برای همکاری‌های آتی خود پرده‌برداری کردند. این توافق با هدف ساده‌سازی شراکت موجود، افزایش شفافیت بلندمدت و تقویت نوآوری در مقیاس وسیع در حوزه هوش مصنوعی تنظیم شده است. انتظار می‌رود که این گام جدید، مسیر توسعه فناوری‌های پیشرفته هوش مصنوعی را برای هر دو شرکت هموارتر سازد.",
+      "tags": [
+        "OpenAI",
+        "Microsoft",
+        "هوش مصنوعی",
+        "شراکت",
+        "نوآوری"
+      ]
+    },
+    {
+      "id": "29e3d13268b3eecb",
+      "date": "2026-04-27",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/open-source-codex-orchestration-symphony",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "Symphony: مشخصات متن‌باز ارکستراسیون برای جهش بهره‌وری مهندسی",
+      "title_en": "An open-source spec for orchestration: Symphony",
+      "summary_fa": "Symphony یک مشخصات متن‌باز (open-source spec) برای ارکستراسیون Codex است. این فناوری با تبدیل سیستم‌های ردیابی مسائل (issue trackers) به سیستم‌های عامل (agent systems) همیشه فعال، فرآیند توسعه را بهبود می‌بخشد. هدف اصلی آن افزایش چشمگیر بهره‌وری تیم‌های مهندسی و کاهش جابجایی مداوم بستر کاری (context switching) برای توسعه‌دهندگان است.",
+      "tags": [
+        "Symphony",
+        "Open-source",
+        "Orchestration",
+        "Agent Systems",
+        "Engineering Productivity"
+      ]
+    },
+    {
+      "id": "bc507498ac479287",
+      "date": "2026-04-27",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/choco",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "Choco: هوش مصنوعی جریان توزیع مواد غذایی را روان‌تر می‌کند",
+      "title_en": "Choco automates food distribution with AI agents",
+      "summary_fa": "شرکت Choco با بهره‌گیری از APIهای OpenAI، موفق شده است فرآیند توزیع مواد غذایی خود را به شکل چشمگیری ساده‌سازی کند. این رویکرد هوش مصنوعی نه تنها به افزایش بهره‌وری کمک کرده، بلکه مسیرهای جدیدی برای رشد و توسعه شرکت گشوده است. داستان Choco نمونه‌ای بارز از تأثیر عملی و واقعی هوش مصنوعی در حل چالش‌های تجاری است.",
+      "tags": [
+        "Choco",
+        "OpenAI",
+        "هوش مصنوعی",
+        "توزیع مواد غذایی",
+        "خودکارسازی"
+      ]
+    },
+    {
+      "id": "e1e83761f7ea575f",
+      "date": "2026-04-26",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/our-principles",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "اصول راهنمای OpenAI: تضمین منفعت‌رسانی AGI به تمام بشریت",
+      "title_en": "Our principles",
+      "summary_fa": "شرکت OpenAI مأموریت خود را تضمین منفعت‌رسانی هوش مصنوعی عمومی (AGI) به تمام بشریت اعلام کرده است. در همین راستا، سم آلتمن، مدیرعامل این شرکت، پنج اصل کلیدی را برای راهنمایی توسعه و پیاده‌سازی AGI تشریح کرده تا از دستیابی به این هدف اطمینان حاصل شود.",
+      "tags": [
+        "Sam Altman",
+        "OpenAI",
+        "AGI",
+        "اخلاق هوش مصنوعی",
+        "توسعه مسئولانه هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "658d80679c4e2857",
+      "date": "2026-07-25",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+      "category": "سخت‌افزار و ابزارهای هوش مصنوعی",
+      "title_fa": "معرفی صفحه‌کلید هوش مصنوعی OpenAI: ابزاری ویژه کدنویسان، نامفهوم برای بقیه",
+      "title_en": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
+      "summary_fa": "OpenAI اخیراً از یک صفحه‌کلید هوش مصنوعی جدید (AI keypad) رونمایی کرده است. این ابزار پیشرفته، پتانسیل زیادی برای جذب برنامه‌نویسان و توسعه‌دهندگان دارد و می‌تواند کار آن‌ها را ساده‌تر و سریع‌تر کند. با این حال، به نظر می‌رسد کاربری آن برای عموم مردم چندان روشن نباشد و شاید بسیاری از کاربران غیرتخصصی، از آن استقبال نکنند و آن را گیج‌کننده بیابند.",
+      "tags": [
+        "OpenAI",
+        "AI keypad",
+        "برنامه‌نویسان",
+        "ابزارهای هوش مصنوعی",
+        "سخت‌افزار"
+      ]
+    },
+    {
+      "id": "e887b32468d67bea",
+      "date": "2026-07-24",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "Prentis: آزمایشگاه هوش مصنوعی رید هافمن و مارک پینکاس به دنبال جذب ۱۰۰ میلیون دلار سرمایه",
+      "title_en": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+      "summary_fa": "آزمایشگاه هوش مصنوعی جدید Prentis که توسط چهره‌های برجسته‌ای همچون رید هافمن (بنیان‌گذار لینکدین) و مارک پینکاس (بنیان‌گذار زینگا) راه‌اندازی شده است، در حال مذاکره برای جذب ۱۰۰ میلیون دلار سرمایه است. این مجموعه پیش‌بینی می‌کند که در آینده نزدیک، اتوماسیون وظایف روتین کامپیوتری به بزرگترین کاربرد هوش مصنوعی تبدیل شده و حتی از کدنویسی نیز فراتر رود. تمرکز اصلی Prentis بر توسعه راهکارهایی در این زمینه است.",
+      "tags": [
+        "Prentis",
+        "Reid Hoffman",
+        "Mark Pincus",
+        "هوش مصنوعی",
+        "سرمایه‌گذاری"
+      ]
+    },
+    {
+      "id": "a91368251778839a",
+      "date": "2026-07-24",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "شخصیت هوش مصنوعی: برگ برنده جدید در رقابت؛ چرا Cognition شرکت Poke را خرید؟",
+      "title_en": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
+      "summary_fa": "شرکت Cognition، سازنده دستیار کدنویس Devin، با هدف تقویت سبک تعامل و گفت‌وگوی محصول خود، شرکت Poke را خریداری کرده است. این اقدام نشان‌دهنده این باور رو به رشد در صنعت است که نحوه تعامل دستیاران هوش مصنوعی با کاربران، به اندازه خود مدل‌های قدرتمند پشت آن‌ها اهمیت دارد و به یک مزیت رقابتی کلیدی تبدیل شده است.",
+      "tags": [
+        "Cognition",
+        "Poke",
+        "Devin",
+        "شخصیت هوش مصنوعی",
+        "مزیت رقابتی"
+      ]
+    },
+    {
+      "id": "204fa3eb1ba92a94",
+      "date": "2026-07-24",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "Anthropic با Opus 5، هوش مصنوعی را ارزان‌تر و کاربردی‌تر می‌کند",
+      "title_en": "Anthropic launches Opus 5",
+      "summary_fa": "شرکت Anthropic از مدل جدید هوش مصنوعی خود به نام Opus 5 رونمایی کرد. این مدل در مقایسه با گزینه‌های موجود، هم از نظر هزینه مقرون‌به‌صرفه‌تر است و هم محدودیت‌های کمتری برای استفاده دارد. این ویژگی‌ها باعث می‌شود Opus 5 برای طیف وسیعی از کاربردها و سناریوها، انتخابی ارجح و پرطرفدارتر باشد.",
+      "tags": [
+        "Anthropic",
+        "Opus 5",
+        "هوش مصنوعی",
+        "مدل‌های زبانی بزرگ",
+        "رقابت در هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "4000b95c0a6a3a3a",
+      "date": "2026-07-24",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "فراخوان صنعت هوش مصنوعی به آمریکا: از محدودیت‌های گسترده بر مدل‌های وزن‌آزاد اجتناب کنید",
+      "title_en": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
+      "summary_fa": "در حالی که دولت آمریکا در حال بررسی راه‌های مقابله با هوش مصنوعی چین و نگرانی‌ها در مورد «استخراج مدل» (model distillation) توسط پکن است، شرکت‌های بزرگ هوش مصنوعی از جمله انویدیا و میسترال وارد عمل شده‌اند. این شرکت‌ها از سیاست‌گذاران آمریکایی خواسته‌اند تا از اعمال محدودیت‌های گسترده بر مدل‌های هوش مصنوعی با «وزن‌آزاد» (open-weight) خودداری کنند.",
+      "tags": [
+        "Nvidia",
+        "Mistral",
+        "محدودیت‌های هوش مصنوعی",
+        "مدل‌های وزن‌آزاد",
+        "هوش مصنوعی چین"
+      ]
+    },
+    {
+      "id": "983cb962224dc03f",
+      "date": "2026-07-24",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/",
+      "category": "کاربرد هوش مصنوعی در شبکه‌های اجتماعی",
+      "title_fa": "تحول Attie بلواسکای: دستیار هوش مصنوعی به ابزار پژوهش اجتماعی آزاد تبدیل شد",
+      "title_en": "Bluesky’s AI assistant Attie expands into an open social research tool",
+      "summary_fa": "دستیار هوش مصنوعی Attie در پلتفرم Bluesky، اکنون پا را فراتر گذاشته و به یک ابزار پژوهش اجتماعی باز تبدیل شده است. کاربران می‌توانند با پرسیدن سوالاتی از Attie، به اطلاعاتی در مورد اخبار روز، ترندها و مکالمات جاری در Bluesky و سایر اپلیکیشن‌های مبتنی بر پروتکل AT دسترسی پیدا کنند.",
+      "tags": [
+        "Bluesky",
+        "Attie",
+        "AT Protocol",
+        "دستیار هوش مصنوعی",
+        "شبکه‌های اجتماعی"
+      ]
+    },
+    {
+      "id": "ef01a26ae081ddf9",
+      "date": "2026-07-24",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/",
+      "category": "پژوهش و فناوری پزشکی",
+      "title_fa": "پیشرفت چشمگیر در پیوند اعضا: فناوری خنک‌سازی فوق‌سرد، زمان حیات اندام‌ها را افزایش می‌دهد",
+      "title_en": "The Download: an organ transplant breakthrough, and homegrown Chinese chips",
+      "summary_fa": "محققان در دستاوردی مهم در حوزه پیوند اعضا، کلیه‌هایی را که با فناوری فوق‌سرد نگهداری شده بودند، با موفقیت به خوک‌ها پیوند زدند. این روش نوین، زمان حیاتی برای نگهداری اندام‌های اهدایی را به شکل چشمگیری افزایش می‌دهد. با بهبود قابل توجه مدت زمان قابل استفاده بودن عضو پس از جداسازی، این فناوری می‌تواند امید تازه‌ای برای بیماران نیازمند پیوند ایجاد کند.",
+      "tags": [
+        "پیوند اعضا",
+        "فناوری خنک‌سازی",
+        "پزشکی",
+        "Biotechnology",
+        "حفظ اندام"
       ]
     }
   ]
