@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-07-26",
+    "last_updated": "2026-07-27",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 374
+    "total_articles": 382
   },
   "articles": [
     {
@@ -6345,6 +6345,142 @@
         "بانک اعضا",
         "فناوری پزشکی",
         "Organ preservation"
+      ]
+    },
+    {
+      "id": "5278705df0e56402",
+      "date": "2026-04-22",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "وب‌سوکت و کش‌سازی: راه‌حل‌های کلیدی برای تسریع عامل‌های هوش مصنوعی در API",
+      "title_en": "Speeding up agentic workflows with WebSockets in the Responses API",
+      "summary_fa": "این گزارش به بررسی عمیق فرایند عامل هوش مصنوعی Codex می‌پردازد و نشان می‌دهد که چگونه وب‌سوکت‌ها و کش‌سازی محدود به اتصال توانسته‌اند سربار API را کاهش داده و تأخیر مدل را بهبود بخشند. این نوآوری در نهایت منجر به افزایش چشمگیر سرعت و کارایی عامل‌های هوش مصنوعی شده است.",
+      "tags": [
+        "WebSockets",
+        "Codex",
+        "بهینه‌سازی API",
+        "عامل‌های هوش مصنوعی",
+        "کاهش تأخیر"
+      ]
+    },
+    {
+      "id": "1b162ea8d4aa8cdf",
+      "date": "2026-04-22",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/academy/workspace-agents",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "عوامل هوشمند ChatGPT: ابزاری برای بهینه‌سازی و خودکارسازی کارهای تیمی",
+      "title_en": "Workspace agents",
+      "summary_fa": "این خبر به معرفی و آموزش نحوه ساخت، استفاده و مقیاس‌دهی عوامل هوشمند (Agents) در پلتفرم ChatGPT می‌پردازد. این عوامل به شرکت‌ها و تیم‌ها کمک می‌کنند تا فرایندهای کاری تکراری را خودکار کنند، ابزارهای مختلف را به یکدیگر متصل سازند و عملیات تیمی را به شکل چشمگیری ساده‌تر و کارآمدتر کنند.",
+      "tags": [
+        "ChatGPT",
+        "Workspace agents",
+        "اتوماسیون",
+        "بهره‌وری تیمی",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "e2bf2733d05a142a",
+      "date": "2026-04-22",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/introducing-openai-privacy-filter",
+      "category": "حریم خصوصی",
+      "title_fa": "OpenAI از «فیلتر حریم خصوصی» برای حفاظت از داده‌های شخصی رونمایی کرد",
+      "title_en": "Introducing OpenAI Privacy Filter",
+      "summary_fa": "OpenAI از مدل جدید و متن‌باز (open-weight) خود با نام «فیلتر حریم خصوصی» (Privacy Filter) رونمایی کرده است. این ابزار قادر است اطلاعات قابل شناسایی شخصی (PII) را از متون با دقت بسیار بالا تشخیص داده و حذف (redact) کند. هدف از ارائه این فیلتر، افزایش قابل توجه امنیت و حفظ حریم خصوصی در پردازش و مدیریت داده‌های متنی است.",
+      "tags": [
+        "OpenAI",
+        "Privacy Filter",
+        "PII",
+        "حریم خصوصی",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "84d8ed5de18a7300",
+      "date": "2026-04-21",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/introducing-chatgpt-images-2-0",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "ChatGPT Images 2.0 معرفی شد: ارتقای چشمگیر در تولید تصویر با هوش مصنوعی",
+      "title_en": "Introducing ChatGPT Images 2.0",
+      "summary_fa": "ChatGPT Images 2.0 با معرفی یک مدل پیشرفته تولید تصویر، قابلیت‌های هوش مصنوعی در این زمینه را متحول کرده است. این نسخه جدید بهبودهای چشمگیری در رندرینگ متن داخل تصاویر، پشتیبانی چندزبانه و استدلال بصری پیشرفته ارائه می‌دهد و تجربه‌ای بی‌نظیر را برای کاربران به ارمغان می‌آورد.",
+      "tags": [
+        "ChatGPT Images 2.0",
+        "OpenAI",
+        "تولید تصویر",
+        "هوش مصنوعی مولد",
+        "استدلال بصری"
+      ]
+    },
+    {
+      "id": "d9639e2fcb88555e",
+      "date": "2026-04-21",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/scaling-codex-to-enterprises-worldwide",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "اوپن‌ای‌آی Codex را برای شرکت‌ها جهانی می‌کند: راه‌اندازی Codex Labs و همکاری با شرکای بزرگ",
+      "title_en": "Scaling Codex to enterprises worldwide",
+      "summary_fa": "اوپن‌ای‌آی با راه‌اندازی Codex Labs، قصد دارد مدل هوش مصنوعی Codex خود را در سطح جهانی در شرکت‌ها گسترش دهد. این شرکت برای دستیابی به این هدف، با غول‌های مشاوره مانند Accenture، PwC و Infosys همکاری کرده است. هدف اصلی، استقرار و مقیاس‌بندی Codex در کل چرخه عمر توسعه نرم‌افزار سازمانی است. در حال حاضر، Codex به چهار میلیون کاربر فعال هفتگی رسیده است.",
+      "tags": [
+        "OpenAI",
+        "Codex",
+        "هوش مصنوعی سازمانی",
+        "توسعه نرم‌افزار",
+        "Accenture"
+      ]
+    },
+    {
+      "id": "0ab8893ae8deee95",
+      "date": "2026-07-27",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "امواج مغزی: گام بعدی در تکامل هوش مصنوعی فیزیکی؟",
+      "title_en": "Are brain waves the next unlock for physical AI?",
+      "summary_fa": "مدل‌های پیشرفته هوش مصنوعی فیزیکی دیگر تنها با ویدئوهای یوتیوب آموزش نمی‌بینند. این مدل‌ها برای یادگیری موثر، به داده‌هایی شامل زوایای متعدد دوربین و حاشیه‌نویسی‌های متراکم نیاز دارند. پیش‌بینی می‌شود که در آینده نزدیک، داده‌های حاصل از امواج مغزی نیز به این مجموعه الزامات افزوده شود. این تحول نشان‌دهنده نیاز به منابع داده پیچیده‌تر برای توسعه هوش مصنوعی با قابلیت تعامل فیزیکی پیشرفته‌تر است.",
+      "tags": [
+        "امواج مغزی",
+        "هوش مصنوعی فیزیکی",
+        "مدل‌های هوش مصنوعی",
+        "آموزش هوش مصنوعی",
+        "داده‌های هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "44767f774743d7e1",
+      "date": "2026-07-26",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "Kimi: هوش مصنوعی چینی که سیلیکون ولی و وال استریت را نگران کرد",
+      "title_en": "Making sense of the panic over Chinese AI",
+      "summary_fa": "در جدیدترین قسمت پادکست Equity، دلیل اصلی وحشت و نگرانی سیلیکون ولی و وال استریت از پیشرفت‌های چشمگیر هوش مصنوعی Kimi محصول شرکت چینی Moonshot AI مورد بحث و بررسی قرار گرفت. این بحث بر پیامدهای احتمالی Kimi بر رقابت جهانی در صنعت هوش مصنوعی و تاثیر آن بر بازارهای مالی متمرکز بود.",
+      "tags": [
+        "Moonshot AI",
+        "Kimi",
+        "هوش مصنوعی چین",
+        "Silicon Valley",
+        "رقابت هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "381c0186a6a6feae",
+      "date": "2026-07-26",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "پس از حمله سایبری «عامل خودمختار» به OpenAI، مدیرعامل Hugging Face خواستار شفافیت بی‌سابقه شد",
+      "title_en": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+      "summary_fa": "اولین حمله سایبری انجام‌شده توسط یک عامل خودمختار هوش مصنوعی به عنوان رویدادی بی‌سابقه در دنیای فناوری شناخته شده است. مدیرعامل Hugging Face در واکنش به این اتفاق، که گمان می‌رود OpenAI را هدف قرار داده، خواستار شفافیت «رادیکال» از سوی شرکت‌های فناوری شده است. او معتقد است چنین حمله بی‌سابقه‌ای نیازمند واکنشی مشابه و همکاری گسترده برای درک و مقابله با تهدیدات جدید هوش مصنوعی است.",
+      "tags": [
+        "Hugging Face",
+        "OpenAI",
+        "Autonomous Agent",
+        "Cyberattack",
+        "AI Safety"
       ]
     }
   ]
