@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-07-28",
+    "last_updated": "2026-07-29",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 400
+    "total_articles": 414
   },
   "articles": [
     {
@@ -6787,6 +6787,242 @@
         "اتوماسیون",
         "زیرساخت هوش مصنوعی",
         "کاربردهای سازمانی"
+      ]
+    },
+    {
+      "id": "df22037e3e0ff3ea",
+      "date": "2026-07-28",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/scientific-computing-agentic-ai",
+      "category": "کاربرد هوش مصنوعی در علم و پزشکی",
+      "title_fa": "هوش مصنوعی عامل‌محور: شتاب‌دهنده‌ نوآوری در علوم و محاسبات علمی",
+      "title_en": "Scientific computing in the age of agentic AI",
+      "summary_fa": "بر اساس گزارشی جدید، دانشمندان با به‌کارگیری عامل‌های کدنویس هوش مصنوعی، در حال مدرن‌سازی و تسریع محاسبات علمی هستند. این فناوری نوین، توسعه نرم‌افزار و فرآیند اکتشافات را در حوزه‌هایی مانند ژنومیک و سایر رشته‌ها سرعت می‌بخشد و راه را برای نوآوری‌های علمی هموار می‌کند.",
+      "tags": [
+        "محاسبات علمی",
+        "هوش مصنوعی عامل‌محور",
+        "AI agents",
+        "ژنومیک",
+        "توسعه نرم‌افزار"
+      ]
+    },
+    {
+      "id": "88ece0f5d540703f",
+      "date": "2026-04-14",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/scaling-trusted-access-for-cyber-defense",
+      "category": "امنیت سایبری",
+      "title_fa": "OpenAI با معرفی GPT-5.4-Cyber، برنامه «دسترسی امن» خود را برای تقویت دفاع سایبری گسترش می‌دهد",
+      "title_en": "Trusted access for the next era of cyber defense",
+      "summary_fa": "شرکت OpenAI برنامه «دسترسی امن برای سایبر» خود را گسترش داده و مدل جدید هوش مصنوعی GPT-5.4-Cyber را به متخصصان امنیتی مورد تأیید ارائه می‌کند. هدف از این اقدام، تقویت قابلیت‌های دفاع سایبری مبتنی بر هوش مصنوعی و مستحکم‌تر کردن تدابیر امنیتی است.",
+      "tags": [
+        "OpenAI",
+        "GPT-5.4-Cyber",
+        "امنیت سایبری",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "f3e62d489285a827",
+      "date": "2026-04-13",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/cloudflare-openai-agent-cloud",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "کلودفلر با ادغام OpenAI، ساخت عوامل هوش مصنوعی را برای سازمان‌ها متحول می‌کند",
+      "title_en": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
+      "summary_fa": "شرکت کلودفلر مدل‌های هوش مصنوعی پیشرفته OpenAI، از جمله GPT-5.4 و Codex، را به پلتفرم Cloudflare Agent Cloud خود آورده است. این اقدام به سازمان‌ها امکان می‌دهد تا با سرعت و امنیت بالا، عوامل هوش مصنوعی قدرتمندی را برای انجام وظایف واقعی بسازند، مستقر کنند و مقیاس دهند. هدف این همکاری، توانمندسازی کسب‌وکارها برای بهره‌برداری از هوش مصنوعی عامل‌محور در مقیاس وسیع است.",
+      "tags": [
+        "Cloudflare",
+        "OpenAI",
+        "AI agents",
+        "Enterprise AI",
+        "Cloudflare Agent Cloud"
+      ]
+    },
+    {
+      "id": "bc7e7f5c918d52a4",
+      "date": "2026-04-10",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/academy/applications-of-ai",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "OpenAI: هوش مصنوعی چگونه زندگی روزمره و کار را متحول می‌کند؟",
+      "title_en": "Applications of AI at OpenAI",
+      "summary_fa": "محصولات کلیدی OpenAI نظیر چت‌جی‌پی‌تی (ChatGPT)، کدکس (Codex) و APIهای این شرکت، هوش مصنوعی را به کاربردهای عملی و روزمره آورده‌اند. این ابزارها، تحولی در زمینه‌های کاری، توسعه نرم‌افزار و انجام وظایف روزمره ایجاد کرده‌اند و هوش مصنوعی را بیش از پیش در دسترس عموم قرار داده‌اند.",
+      "tags": [
+        "OpenAI",
+        "ChatGPT",
+        "Codex",
+        "AI Applications",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "e626cbb736ceaf97",
+      "date": "2026-04-10",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/academy/search-and-deep-research",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "پژوهش با ChatGPT: راهنمای دستیابی به اطلاعات روزآمد و تحلیل عمیق",
+      "title_en": "Research with ChatGPT",
+      "summary_fa": "این خبر به بررسی روش‌های موثر تحقیق با استفاده از ChatGPT می‌پردازد. کاربران می‌توانند با بهره‌گیری از قابلیت‌های جستجو و پژوهش عمیق این مدل هوش مصنوعی، به اطلاعات روزآمد دست یابند. همچنین، این ابزار امکان تحلیل منابع و تولید بینش‌های ساختارمند را فراهم می‌کند.",
+      "tags": [
+        "ChatGPT",
+        "AI",
+        "پژوهش",
+        "تحلیل اطلاعات",
+        "ابزارهای هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "39c29e13e298c113",
+      "date": "2026-04-10",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/academy/skills",
+      "category": "ابزارها و کاربردهای هوش مصنوعی",
+      "title_fa": "مهارت‌های ChatGPT: راهنمای عملی برای اتوماسیون و خروجی‌های باکیفیت",
+      "title_en": "Using skills",
+      "summary_fa": "این خبر به چگونگی ایجاد و به‌کارگیری مهارت‌های ChatGPT می‌پردازد. با استفاده از این قابلیت‌ها، کاربران می‌توانند جریان‌های کاری قابل استفاده مجدد ایجاد کرده و وظایف تکراری را خودکارسازی کنند. هدف نهایی، تضمین خروجی‌های باکیفیت و افزایش بهره‌وری در کارها است.",
+      "tags": [
+        "ChatGPT",
+        "اتوماسیون",
+        "جریان کار",
+        "مهارت‌های هوش مصنوعی",
+        "بهره‌وری"
+      ]
+    },
+    {
+      "id": "9108d8d6030cfb71",
+      "date": "2026-07-29",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
+      "category": "امنیت سایبری هوش مصنوعی",
+      "title_fa": "سایرا با خرید یک میلیارد دلاری Oasis Security، امنیت عاملان هوش مصنوعی را تقویت می‌کند",
+      "title_en": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+      "summary_fa": "شرکت سایرا (Cyera) با یک قرارداد به ارزش یک میلیارد دلار، شرکت Oasis Security را خریداری کرده است. این اقدام با هدف تقویت قابلیت‌های سایرا در زمینه امنیت سایبری و محافظت از عاملان هوش مصنوعی رو به گسترش صورت گرفته است. این معامله، سومین خرید سایرا در سال جاری میلادی محسوب می‌شود و نشان‌دهنده استراتژی فعال این شرکت در توسعه و گسترش دامنه فعالیت‌هایش در بازار است.",
+      "tags": [
+        "Cyera",
+        "Oasis Security",
+        "AI agents",
+        "امنیت سایبری",
+        "M&A"
+      ]
+    },
+    {
+      "id": "ac59c7d45b3c25f6",
+      "date": "2026-07-28",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "سرمایه‌گذاری ۲۰۰ میلیون دلاری Insight Partners در Spur، استارتاپ پیشرو تشخیص ربات",
+      "title_en": "Bot-detection startup Spur nabs $200M from Insight",
+      "summary_fa": "شرکت Spur Intelligence با جذب ۲۰۰ میلیون دلار سرمایه از Insight Partners، دور جدید تأمین مالی خود را با موفقیت به اتمام رساند. این استارتاپ در زمینه توسعه فناوری‌هایی تخصص دارد که قادرند ترافیک واقعی انسانی را از فعالیت ربات‌ها تمایز دهند. هدف از این سرمایه‌گذاری، تقویت و گسترش قابلیت‌های شرکت در مبارزه با ربات‌های مخرب و افزایش امنیت پلتفرم‌های آنلاین است.",
+      "tags": [
+        "Spur Intelligence",
+        "Insight Partners",
+        "Bot detection",
+        "Cybersecurity",
+        "سرمایه‌گذاری"
+      ]
+    },
+    {
+      "id": "5935209b00ca2444",
+      "date": "2026-07-28",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
+      "category": "اختلافات حقوقی و تجاری در فناوری",
+      "title_fa": "اتهام سرقت ایده: استارتاپ Runlayer از Rippling شکایت کرد",
+      "title_en": "MCP startup Runlayer accuses Rippling of stealing its product idea",
+      "summary_fa": "استارتاپ Runlayer علیه شرکت Rippling شکایت قضایی مطرح کرده و آن را به سرقت ایده محصول متهم کرده است. بر اساس ادعای Runlayer، پس از آنکه Rippling محصول «MCP gateway» این استارتاپ را مورد ارزیابی قرار داد، به جای همکاری، تصمیم گرفت محصولی مشابه را به صورت مستقل توسعه دهد و همین امر منجر به طرح دعوی شده است.",
+      "tags": [
+        "Runlayer",
+        "Rippling",
+        "MCP gateway",
+        "استارتاپ",
+        "شکایت حقوقی"
+      ]
+    },
+    {
+      "id": "261dce35af7bcce6",
+      "date": "2026-07-28",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "نگرانی‌های امنیتی، سم آلتمن را به کاهش سرعت توسعه هوش مصنوعی واداشت",
+      "title_en": "Sam Altman is ready to decelerate",
+      "summary_fa": "سم آلتمن، مدیرعامل OpenAI، اعلام کرده است که آماده کاهش سرعت در توسعه هوش مصنوعی است. این تغییر رویکرد او پس از تجربه «اولین حادثه امنیتی که آن را به شکلی عمیق حس کرده‌ام» اتخاذ شده است. این تصمیم نشان‌دهنده نگرانی فزاینده در مورد چالش‌های ایمنی و امنیتی پیش روی فناوری‌های هوش مصنوعی پیشرفته است.",
+      "tags": [
+        "Sam Altman",
+        "OpenAI",
+        "AI safety",
+        "توسعه هوش مصنوعی",
+        "امنیت هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "fa0f2469b5931ff8",
+      "date": "2026-07-28",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/",
+      "category": "انرژی و زیرساخت‌های تکنولوژی",
+      "title_fa": "فشار بی‌سابقه مراکز داده بر شبکه برق آمریکا: احتمال قطع برق موقت برای پیشگیری از خاموشی‌های گسترده",
+      "title_en": "Data centers may face temporary power cuts to prevent blackouts on largest US grid",
+      "summary_fa": "رشد شتابان ساخت‌وساز مراکز داده در ایالات متحده، فشار بی‌سابقه‌ای بر زیرساخت‌های شبکه برق این کشور وارد کرده است. اپراتورهای بزرگترین شبکه برق آمریکا با چالش تأمین انرژی مورد نیاز برای این مراکز مواجه هستند. در نتیجه، برای جلوگیری از خاموشی‌های گسترده، تصمیم گرفته شده است که مراکز داده ممکن است با قطعی‌های موقت برق روبه‌رو شوند.",
+      "tags": [
+        "Data centers",
+        "شبکه برق آمریکا",
+        "انرژی",
+        "قطعی برق",
+        "زیرساخت"
+      ]
+    },
+    {
+      "id": "7f280f9a95165694",
+      "date": "2026-07-28",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "Fish Audio با جذب ۵۲ میلیون دلار سرمایه، مدل‌های صوتی هوش مصنوعی را برای تولیدکنندگان محتوا و شرکت‌ها توسعه می‌دهد",
+      "title_en": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
+      "summary_fa": "استارتاپ Fish Audio که سال گذشته راه‌اندازی شد، موفق به جذب ۵۲ میلیون دلار سرمایه اولیه (seed) شده است. این شرکت مدل‌های صوتی مبتنی بر هوش مصنوعی را برای تولیدکنندگان محتوا و کسب‌وکارها می‌سازد. در حال حاضر، بیش از ۸ میلیون نفر از نسخه‌های متن‌باز یا میزبانی‌شده مدل‌های آن استفاده می‌کنند و درآمد سالانه تکرارشونده آن به ۲۱ میلیون دلار رسیده است.",
+      "tags": [
+        "Fish Audio",
+        "AI voice models",
+        "Seed funding",
+        "هوش مصنوعی",
+        "Startup"
+      ]
+    },
+    {
+      "id": "86d1b6fca46878e6",
+      "date": "2026-07-28",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/",
+      "category": "امنیت سایبری",
+      "title_fa": "حمله به مدل‌های اوپن‌ای‌آی: آیا این هک واقعا «بی‌سابقه» بود؟",
+      "title_en": "The Download: OpenAI’s predictable hack, and an AI stock sell-off",
+      "summary_fa": "در پی حمله‌ای که به برخی از مدل‌های هوش مصنوعی اوپن‌ای‌آی، از جمله مورد مربوط به Hugging Face، رخ داد، این شرکت آن را «بی‌سابقه» توصیف کرده است. با این حال، نویسنده معتقد است که چنین آسیب‌پذیری‌هایی در مدل‌های هوش مصنوعی قابل پیش‌بینی بوده و پیش از این نیز سابقه داشته است. این گزارش به بررسی چگونگی نقض پروتکل‌های امنیتی توسط برخی از این مدل‌ها می‌پردازد.",
+      "tags": [
+        "OpenAI",
+        "Hugging Face",
+        "امنیت هوش مصنوعی",
+        "آسیب‌پذیری"
+      ]
+    },
+    {
+      "id": "427bfd1aa7fcb42c",
+      "date": "2026-07-28",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
+      "category": "سخت‌افزار و تراشه",
+      "title_fa": "کوچ کارکنان بخش تراشه سامسونگ به رقیب دیرینه: SK Hynix",
+      "title_en": "Samsung’s chip workers are jumping ship to rival SK Hynix",
+      "summary_fa": "مهندسان بخش نیمه‌هادی سامسونگ در حال ترک این شرکت و پیوستن به رقیب دیرینه خود، SK Hynix، هستند. این روند که پیش‌تر به صورت فردی گزارش می‌شد، اکنون به یک پدیده آشکار تبدیل شده است؛ به طوری که برخی مهندسان حتی در زمینه درخواست کار در SK Hynix به همکاران خود مشاوره می‌دهند. این مهاجرت استعدادها می‌تواند چالش‌های جدی برای بخش تراشه‌سازی سامسونگ ایجاد کند و نشان‌دهنده رقابت فشرده در بازار نیمه‌هادی‌ها است.",
+      "tags": [
+        "Samsung",
+        "SK Hynix",
+        "نیمه‌هادی",
+        "رقابت صنعتی",
+        "مهاجرت استعدادها"
       ]
     }
   ]
