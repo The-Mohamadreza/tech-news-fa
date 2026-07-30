@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-07-29",
+    "last_updated": "2026-07-30",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 414
+    "total_articles": 429
   },
   "articles": [
     {
@@ -7023,6 +7023,260 @@
         "نیمه‌هادی",
         "رقابت صنعتی",
         "مهاجرت استعدادها"
+      ]
+    },
+    {
+      "id": "cc8e132c619995d1",
+      "date": "2026-07-29",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "ARC-AGI-3: جهش سه‌برابری امتیازات با تغییر تنها دو تنظیم",
+      "title_en": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+      "summary_fa": "فعال‌سازی تنها دو تنظیم API توانسته است عملکرد مدل GPT-5.6 را در معیار ارزیابی هوش عمومی مصنوعی (ARC-AGI-3) به طور چشمگیری بهبود بخشد. این تنظیمات با حفظ قابلیت استدلال و فعال‌سازی فرآیند فشرده‌سازی، نه تنها امتیازات مدل را سه برابر افزایش داده، بلکه کارایی آن را نیز بهبود بخشیده‌اند. این یافته‌ها راه را برای بهینه‌سازی‌های آتی مدل‌های هوش مصنوعی هموار می‌کند.",
+      "tags": [
+        "GPT-5.6",
+        "ARC-AGI-3",
+        "هوش مصنوعی",
+        "بهینه‌سازی عملکرد",
+        "معیارسنجی"
+      ]
+    },
+    {
+      "id": "14fd05ad34f9923e",
+      "date": "2026-07-29",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/chatgpt-for-academic-researchers",
+      "category": "کاربرد هوش مصنوعی در علم و پزشکی",
+      "title_fa": "شتاب‌بخشی به اکتشافات علمی: دسترسی رایگان ۱۰۰ هزار محقق به ChatGPT پیشرفته",
+      "title_en": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+      "summary_fa": "شرکت اوپن‌ای‌آی برای تسریع تحقیقات و کشفیات علمی، برنامه‌ای جدید راه‌اندازی کرده است. در این طرح، ۱۰۰ هزار محقق دانشگاهی به طور رایگان به پیشرفته‌ترین مدل‌های هوش مصنوعی ChatGPT دسترسی پیدا می‌کنند. هدف اصلی این اقدام، تقویت همکاری‌های علمی و شتاب‌بخشی به نوآوری‌ها در حوزه‌های مختلف دانش است.",
+      "tags": [
+        "ChatGPT",
+        "OpenAI",
+        "تحقیقات علمی",
+        "هوش مصنوعی",
+        "Academic Researchers"
+      ]
+    },
+    {
+      "id": "6d964f10c3337bbc",
+      "date": "2026-07-29",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "GPT-5.6: هوش پیشرفته با کارایی بی‌نظیر",
+      "title_en": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+      "summary_fa": "GPT-5.6 گام مهمی در بهبود کارایی هوش مصنوعی برداشته است. این نسخه جدید، بهره‌وری را در سطوح مختلف از جمله مدل‌ها، فرآیندهای استنتاج و جریان‌های کاری مبتنی بر عامل افزایش می‌دهد. در نتیجه، کاربران می‌توانند با هر دلار سرمایه‌گذاری، هوش مصنوعی مفیدتری را تجربه کنند.",
+      "tags": [
+        "GPT-5.6",
+        "AI",
+        "کارایی",
+        "مدل‌های هوش مصنوعی",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "c792fea6548e9ed6",
+      "date": "2026-04-10",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/academy/healthcare",
+      "category": "کاربرد هوش مصنوعی در علم و پزشکی",
+      "title_fa": "تحول سلامت با ChatGPT: هوش مصنوعی، دستیار امن کادر درمان",
+      "title_en": "Healthcare",
+      "summary_fa": "این خبر به بررسی چگونگی استفاده پزشکان و متخصصان بالینی از ChatGPT می‌پردازد. این ابزار هوش مصنوعی در زمینه‌هایی چون پشتیبانی از تشخیص بیماری، مستندسازی پرونده‌ها و بهبود کلی مراقبت از بیماران به کار گرفته می‌شود. نکته کلیدی در این رویکرد، استفاده از ابزارهای هوش مصنوعی امن و سازگار با قوانین حریم خصوصی بیماران مانند HIPAA است تا از اطلاعات حساس بیماران محافظت شود.",
+      "tags": [
+        "ChatGPT",
+        "هوش مصنوعی پزشکی",
+        "مراقبت سلامت",
+        "HIPAA",
+        "سلامت دیجیتال"
+      ]
+    },
+    {
+      "id": "4914e2b883325f11",
+      "date": "2026-04-10",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/academy/research",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "راهنمای جامع استفاده از ChatGPT در فرآیند پژوهش: از گردآوری تا تحلیل",
+      "title_en": "ChatGPT for research",
+      "summary_fa": "این خبر به محققان می‌آموزد که چگونه می‌توانند از ChatGPT به عنوان دستیاری قدرتمند در تمامی مراحل پژوهش بهره ببرند. از گردآوری منابع و تحلیل اطلاعات پیچیده گرفته تا تدوین بینش‌های ساختارمند و مستند، ChatGPT ابزاری کارآمد برای ارتقاء کیفیت تحقیقات علمی است.",
+      "tags": [
+        "ChatGPT",
+        "هوش مصنوعی",
+        "پژوهش علمی",
+        "تحلیل اطلاعات",
+        "Academic Research"
+      ]
+    },
+    {
+      "id": "4dbb1c1ec2bea53d",
+      "date": "2026-04-10",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/academy/writing",
+      "category": "کاربردهای هوش مصنوعی",
+      "title_fa": "راهنمای نگارش با ChatGPT: خلق، ویرایش و بهبود محتوا با هوش مصنوعی",
+      "title_en": "Writing with ChatGPT",
+      "summary_fa": "این خبر به شما می‌آموزد که چگونه از ChatGPT برای نگارش استفاده کنید. با کمک این ابزار، می‌توانید پیش‌نویس مطالب را تهیه، آن‌ها را بازبینی و محتوای نهایی را با ساختار، لحن و هدف مشخص بهبود بخشید. این راهنما به کاربران کمک می‌کند تا از قابلیت‌های هوش مصنوعی برای خلق متون کارآمد بهره‌مند شوند.",
+      "tags": [
+        "ChatGPT",
+        "هوش مصنوعی",
+        "نگارش",
+        "تولید محتوا"
+      ]
+    },
+    {
+      "id": "df34ed215123aaa0",
+      "date": "2026-07-30",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "رقابت علنی مایکروسافت با OpenAI و Anthropic به اوج خود رسید",
+      "title_en": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+      "summary_fa": "مایکروسافت اخیراً با معرفی مدل‌های هوش مصنوعی بومی، ابزارهای توسعه اختصاصی و حتی یک رقیب برای طرح Mythos (احتمالاً در زمینه سخت‌افزار یا پلتفرم)، استراتژی رشد خود را به وال استریت ارائه کرده است. این اقدامات نشان‌دهنده ورود این غول فناوری به رقابتی مستقیم و علنی‌تر با شرکای کلیدی خود، OpenAI و Anthropic، در بازار هوش مصنوعی است. این رویکرد جدید، تاکید مایکروسافت بر تقویت جایگاه مستقل خود در اکوسیستم هوش مصنوعی را به وضوح نشان می‌دهد.",
+      "tags": [
+        "Microsoft",
+        "OpenAI",
+        "Anthropic",
+        "هوش مصنوعی",
+        "رقابت"
+      ]
+    },
+    {
+      "id": "ad9c3055b763ac15",
+      "date": "2026-07-29",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "مارک زاکربرگ: میلیاردها نفر تا ۵ سال آینده صاحب دستیار هوش مصنوعی شخصی می‌شوند",
+      "title_en": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+      "summary_fa": "مارک زاکربرگ، مدیرعامل متا، پیش‌بینی کرده است که طی پنج سال آینده، میلیاردها نفر در سراسر جهان دستیار هوش مصنوعی شخصی خود را خواهند داشت. این پیش‌بینی در حالی مطرح می‌شود که متا میلیاردها دلار را صرف توسعه زیرساخت‌ها و عامل‌های هوش مصنوعی می‌کند. زاکربرگ تلاش می‌کند تا سرمایه‌گذاران را متقاعد کند که این سرمایه‌گذاری هنگفت، بازدهی قابل توجهی در آینده خواهد داشت.",
+      "tags": [
+        "Mark Zuckerberg",
+        "Meta",
+        "AI agents",
+        "هوش مصنوعی شخصی",
+        "سرمایه‌گذاری هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "2413ef2608780b25",
+      "date": "2026-07-29",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "گزارش مالی مایکروسافت: سود ۳.۲ میلیارد دلاری از آنتروپیک و ابهام در سرمایه‌گذاری OpenAI",
+      "title_en": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+      "summary_fa": "مایکروسافت در گزارش مالی سه‌ماهه چهارم سال مالی ۲۰۲۶ خود که در ۳۰ ژوئن به پایان رسید، جزئیات جالبی از عملکرد سرمایه‌گذاری‌هایش در دو آزمایشگاه بزرگ و رقیب هوش مصنوعی ارائه داد. این گزارش نشان می‌دهد که مایکروسافت از سرمایه‌گذاری خود در Anthropic، سودی معادل ۳.۲ میلیارد دلار کسب کرده است. با این حال، وضعیت سرمایه‌گذاری این شرکت در OpenAI پیچیده‌تر و با نتایج متفاوتی همراه بوده است.",
+      "tags": [
+        "Microsoft",
+        "Anthropic",
+        "OpenAI",
+        "سرمایه‌گذاری",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "39de907ded3d528e",
+      "date": "2026-07-29",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "زاکربرگ: هوش مصنوعی سازمانی متا فراتر از عامل‌های هوشمند، فرصت‌های بزرگی دارد",
+      "title_en": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
+      "summary_fa": "مارک زاکربرگ، مدیرعامل متا، در تماس مالی سه‌ماهه دوم شرکت، از چشم‌انداز گسترده متا در حوزه هوش مصنوعی سازمانی خبر داد. به گفته او، این فرصت‌های عظیم تنها به توسعه عامل‌های هوشمند (AI Agents) محدود نمی‌شوند، بلکه بخش‌هایی نظیر APIها، توان محاسباتی و نرم‌افزارهای داخلی را نیز در بر می‌گیرد.",
+      "tags": [
+        "Meta",
+        "Mark Zuckerberg",
+        "هوش مصنوعی سازمانی",
+        "AI agents",
+        "استراتژی هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "ede83952feba6e64",
+      "date": "2026-07-29",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "TechCrunch Disrupt 2026: نگاهی به آینده هوش مصنوعی، از دگرگونی SaaS تا چالش امنیت عامل‌ها",
+      "title_en": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
+      "summary_fa": "مرحله هوش مصنوعی (AI Stage) کنفرانس TechCrunch Disrupt در سال ۲۰۲۶ بار دیگر برگزار خواهد شد. این بخش با حمایت Google for Startups، به بررسی عمیق داغ‌ترین مباحث جامعه هوش مصنوعی در سال‌های اخیر می‌پردازد. موضوعاتی نظیر دگرگونی مدل‌های SaaS و شکاف‌های امنیتی مربوط به عامل‌های هوشمند، از محورهای اصلی گفتگو خواهند بود.",
+      "tags": [
+        "TechCrunch Disrupt 2026",
+        "هوش مصنوعی",
+        "Google for Startups",
+        "SaaS",
+        "امنیت هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "520a785ee3962a98",
+      "date": "2026-07-29",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "بازگشت لیلیان ونگ، هم‌بنیان‌گذار Thinking Machines، به OpenAI",
+      "title_en": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
+      "summary_fa": "لیلیان ونگ، از هم‌بنیان‌گذاران شرکت Thinking Machines، پس از ترک این استارتاپ به دلیل مشکلات سلامتی، اکنون به OpenAI بازگشته است. او پیش از این نیز در OpenAI فعالیت داشت و سمت معاونت پژوهش ایمنی هوش مصنوعی را در این شرکت معتبر برعهده داشت.",
+      "tags": [
+        "Lilian Weng",
+        "OpenAI",
+        "Thinking Machines",
+        "AI Safety",
+        "جابجایی مدیران"
+      ]
+    },
+    {
+      "id": "ffca231be3928065",
+      "date": "2026-07-29",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/",
+      "category": "فناوری انرژی",
+      "title_fa": "احیای یک نیروگاه ژئوترمال ورشکسته با فناوری‌های نوین",
+      "title_en": "How an overlooked geothermal plant got a second chance",
+      "summary_fa": "شرکت Zanskar در ژوئن ۲۰۲۴ یک نیروگاه برق ژئوترمال در نیومکزیکو را خریداری کرد که به دلیل کاهش دمای آب و عدم توجیه اقتصادی، در آستانه از کار افتادن بود. اکنون، تنها دو سال پس از این خرید، به لطف رویکردها و فناوری‌های نوین، این نیروگاه به طور کامل احیا شده و با ظرفیت حداکثری مشغول به کار است.",
+      "tags": [
+        "Zanskar",
+        "Geothermal Energy",
+        "انرژی تجدیدپذیر",
+        "فناوری نوین",
+        "New Mexico"
+      ]
+    },
+    {
+      "id": "426a6717ec1c3711",
+      "date": "2026-07-29",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/",
+      "category": "تحلیل صنعت تکنولوژی",
+      "title_fa": "رقابت تنگاتنگ برای جذب استعدادهای تراشه و کاهش تب‌وتاب هوش مصنوعی",
+      "title_en": "The Download: a chip talent battle, and deflating AI hype",
+      "summary_fa": "صنعت تراشه شاهد نبردی جدی برای جذب نیروی انسانی متخصص است؛ به عنوان مثال، مهندسان بخش نیمه‌هادی سامسونگ به شرکت رقیب، SK Hynix، کوچ می‌کنند. این رقابت فزاینده نشان‌دهنده اهمیت استعدادها در توسعه فناوری‌های کلیدی است. همزمان با این چالش‌ها در حوزه سخت‌افزار، شاهد کاهش انتظارات و فروکش‌کردن هیجان اولیه پیرامون هوش مصنوعی هستیم.",
+      "tags": [
+        "Samsung",
+        "SK Hynix",
+        "تراشه",
+        "هوش مصنوعی",
+        "رقابت صنعتی"
+      ]
+    },
+    {
+      "id": "d39556b679b69b18",
+      "date": "2026-07-29",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
+      "category": "رباتیک و هوش مصنوعی کاربردی",
+      "title_fa": "از هایپ تا آشپزخانه: ربات‌های «هوش مصنوعی غیرجذاب» در راهند",
+      "title_en": "The AI Hype Index: Unsexy AI",
+      "summary_fa": "در حالی که نامه‌های سرگشاده اقتصاددانان برجسته از خطر ربوده شدن شغل‌ها توسط هوش مصنوعی هشدار می‌دهند، وجه دیگری از AI در حال ظهور است: توانایی آن در انجام کارهای روزمره خانگی. شرکت 1X با نمایش ربات‌های جدید و بسیار ماهر خود که حتی می‌توانند شام بپزند، نشان می‌دهد که هوش مصنوعی در حال نفوذ به جنبه‌های کمتر جذاب اما بسیار کاربردی زندگی ماست و فراتر از جنجال‌ها، در حال تبدیل شدن به ابزاری برای آسایش روزمره است.",
+      "tags": [
+        "AI",
+        "1X",
+        "Robotics",
+        "هوش مصنوعی کاربردی",
+        "ربات‌های خانگی"
       ]
     }
   ]
