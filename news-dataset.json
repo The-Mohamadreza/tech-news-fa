@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-08-01",
+    "last_updated": "2026-08-02",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 458
+    "total_articles": 470
   },
   "articles": [
     {
@@ -7768,6 +7768,211 @@
         "درمان‌های تجربی",
         "قوانین سلامت",
         "بیوتکنولوژی"
+      ]
+    },
+    {
+      "id": "6d58997b466ca59f",
+      "date": "2026-08-01",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/ten-advances-in-mathematics",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "OpenAI: ده پیشرفت کلیدی در حل مسائل دیرینه ریاضی و علوم کامپیوتر نظری",
+      "title_en": "Ten advances in mathematics and theoretical computer science",
+      "summary_fa": "شرکت OpenAI نتایج تازه‌ای از تحقیقات خود در زمینه مسائل دیرینه و حل نشده ریاضیات و علوم کامپیوتر نظری منتشر کرده است. این دستاوردها شامل پیشرفت‌هایی در ۱۰ حوزه مختلف می‌شود که از جمله آن‌ها می‌توان به هندسه، رمزنگاری و نظریه پیچیدگی اشاره کرد. این یافته‌ها نویدبخش گام‌های جدیدی در درک بنیادین این حوزه‌ها هستند.",
+      "tags": [
+        "OpenAI",
+        "ریاضیات",
+        "علوم کامپیوتر نظری",
+        "پژوهش",
+        "Cryptography"
+      ]
+    },
+    {
+      "id": "e7ee83693ccb7abf",
+      "date": "2026-04-10",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/academy/responsible-and-safe-use",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "راهنمای استفاده مسئولانه از هوش مصنوعی: ایمنی، دقت و شفافیت",
+      "title_en": "Responsible and safe use of AI",
+      "summary_fa": "این راهنما، بهترین روش‌ها را برای استفاده مسئولانه از هوش مصنوعی ارائه می‌دهد. اصول کلیدی شامل تضمین ایمنی، دقت و شفافیت در به‌کارگیری ابزارهایی نظیر ChatGPT است. هدف، ارتقاء کاربرد اخلاقی و مطمئن از فناوری‌های هوش مصنوعی است.",
+      "tags": [
+        "هوش مصنوعی مسئولانه",
+        "ایمنی هوش مصنوعی",
+        "ChatGPT",
+        "شفافیت",
+        "اخلاق هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "4c2fa33ea84fbefa",
+      "date": "2026-04-10",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/academy/working-with-files",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "ChatGPT فایل‌ها را می‌خواند: تحلیل داده، خلاصه‌سازی اسناد و تولید محتوا",
+      "title_en": "Working with files in ChatGPT",
+      "summary_fa": "کاربران ChatGPT اکنون می‌توانند فایل‌های مختلف را در این پلتفرم بارگذاری کنند و با آن‌ها تعامل داشته باشند. این قابلیت جدید امکان تحلیل داده‌ها، خلاصه‌سازی اسناد طولانی و تولید محتوا را فراهم می‌آورد. با پشتیبانی از فرمت‌هایی نظیر PDF و صفحات گسترده، ChatGPT به ابزاری قدرتمند برای پردازش و استخراج اطلاعات از فایل‌های شما تبدیل شده است.",
+      "tags": [
+        "ChatGPT",
+        "OpenAI",
+        "پردازش فایل",
+        "تحلیل داده",
+        "هوش مصنوعی مولد"
+      ]
+    },
+    {
+      "id": "11c496abc34e390b",
+      "date": "2026-04-10",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/academy/financial-services",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "هوش مصنوعی در خدمات مالی: راهنمای استقرار و توسعه امن",
+      "title_en": "Financial services",
+      "summary_fa": "منابع متعددی برای استفاده از هوش مصنوعی در صنعت خدمات مالی ارائه شده است. این منابع شامل بسته‌های پرامپت، مدل‌های GPT، راهنماها و ابزارهای متنوعی می‌شوند. هدف از ارائه این ابزارها، کمک به موسسات مالی برای استقرار و توسعه امن و مقیاس‌پذیر فناوری‌های هوش مصنوعی است.",
+      "tags": [
+        "هوش مصنوعی",
+        "خدمات مالی",
+        "پذیرش سازمانی",
+        "امنیت AI",
+        "ابزارهای هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "a73b17417cccc9d9",
+      "date": "2026-04-10",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/academy/finance",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "ChatGPT در امور مالی: ابزاری نوین برای افزایش بهره‌وری تیم‌ها",
+      "title_en": "ChatGPT for finance teams",
+      "summary_fa": "تیم‌های مالی می‌توانند از ChatGPT برای ساده‌سازی فرآیند گزارش‌دهی، تحلیل دقیق‌تر داده‌ها، بهبود دقت پیش‌بینی‌ها و ارائه‌ی شفاف‌تر بینش‌های مالی بهره‌مند شوند. این کاربردها به افزایش کارایی و تصمیم‌گیری‌های بهتر در سازمان کمک می‌کند.",
+      "tags": [
+        "ChatGPT",
+        "امور مالی",
+        "هوش مصنوعی",
+        "بهره‌وری سازمانی",
+        "تحلیل داده"
+      ]
+    },
+    {
+      "id": "64e3c6b3c0f5833d",
+      "date": "2026-04-10",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/academy/custom-gpts",
+      "category": "توسعه ابزارهای هوش مصنوعی",
+      "title_fa": "ساخت GPTهای سفارشی: دستیاران هوش مصنوعی اختصاصی برای کاربردهای گوناگون",
+      "title_en": "Using custom GPTs",
+      "summary_fa": "این خبر راهنمایی جامع برای ساخت و استفاده از GPTهای سفارشی ارائه می‌دهد. با بهره‌گیری از این ابزارها، کاربران می‌توانند جریان‌های کاری خود را خودکار کنند، خروجی‌های یکدست و پایداری به دست آورند و دستیاران هوش مصنوعی اختصاصی برای نیازهای خاص خود بسازند. این قابلیت امکان ایجاد هوش مصنوعی هدفمند برای وظایف مختلف را فراهم می‌کند.",
+      "tags": [
+        "Custom GPTs",
+        "OpenAI",
+        "AI assistants",
+        "اتوماسیون",
+        "ابزارهای هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "e1bf53682cbd5cca",
+      "date": "2026-08-01",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "قاضی درخواست xAI برای لغو ممنوعیت اپلیکیشن‌های «لخت‌کننده» در مینه سوتا را رد کرد",
+      "title_en": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+      "summary_fa": "با وجود شکایت شرکت xAI، ممنوعیت استفاده از اپلیکیشن‌های «لخت‌کننده» تصاویر در ایالت مینه سوتا قابل اجرا خواهد بود. این تصمیم پس از آن اتخاذ شد که قاضی درخواست xAI برای جلوگیری از اجرای این قانون را رد کرد و بدین ترتیب، این قانون محلی به قوت خود باقی می‌ماند.",
+      "tags": [
+        "xAI",
+        "قانون‌گذاری",
+        "ممنوعیت اپلیکیشن",
+        "هوش مصنوعی",
+        "nudify apps"
+      ]
+    },
+    {
+      "id": "271ca55a8a1ed181",
+      "date": "2026-08-01",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "اعتراف تکان‌دهنده هنک گرین: استفاده از هوش مصنوعی برایم ناسالم است",
+      "title_en": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+      "summary_fa": "هنک گرین، یوتیوبر مشهور، اخیراً با یک عذرخواهی قابل توجه، اذعان کرده است که سطح دوپامینی که از تعامل با مدل‌های زبان بزرگ (LLMها) دریافت می‌کند، برای او سالم نیست. او اضافه کرد که این میزان دوپامین نه تنها برای خودش مضر است، بلکه برای جهان نیز خوب نیست و نگرانی‌هایش را درباره تأثیرات این فناوری بر سلامت فردی و جامعه ابراز کرد.",
+      "tags": [
+        "Hank Green",
+        "AI",
+        "LLM",
+        "Dopamine",
+        "سلامت روان"
+      ]
+    },
+    {
+      "id": "53ed436cb4425014",
+      "date": "2026-08-01",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "سم آلتمن از «کاربرد جذاب» ChatGPT در تربیت فرزندان می‌گوید",
+      "title_en": "Sam Altman is still making the case for parenting via ChatGPT",
+      "summary_fa": "مدیرعامل OpenAI، سم آلتمن، بار دیگر بر استفاده از ChatGPT در زمینه تربیت فرزندان تاکید کرده است. او این کاربرد را «بسیار جذاب» توصیف کرده و به نظر می‌رسد از پتانسیل هوش مصنوعی در کمک به والدین هیجان‌زده است.",
+      "tags": [
+        "ChatGPT",
+        "Sam Altman",
+        "OpenAI",
+        "هوش مصنوعی",
+        "تربیت فرزند"
+      ]
+    },
+    {
+      "id": "e529c7879a4af84c",
+      "date": "2026-08-01",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
+      "category": "ابزارهای شخصی و رفاه دیجیتال",
+      "title_fa": "کلید فیزیکی ۹ دلاری: راه‌حلی برای مدیریت اعتیاد به اپلیکیشن‌ها",
+      "title_en": "This $9 key physically locks your most addictive apps",
+      "summary_fa": "یک کلید فیزیکی جدید با قیمت ۹ دلار معرفی شده است که به کاربران کمک می‌کند اپلیکیشن‌های اعتیادآور و حواس‌پرت‌کننده را روی گوشی خود قفل کنند. این کلید مجهز به فناوری NFC است و برای باز کردن قفل اپلیکیشن‌های مورد نظر، باید به صورت فیزیکی آن را اسکن کنید. هدف این محصول، کاهش وابستگی به گوشی و افزایش تمرکز کاربران است.",
+      "tags": [
+        "NFC key",
+        "Digital wellbeing",
+        "App lock",
+        "Smartphone addiction",
+        "Tech gadget"
+      ]
+    },
+    {
+      "id": "2508e3dc7aad0e13",
+      "date": "2026-07-31",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "تأخیر یک ساله اسپیس‌ایکس در برچیدن توربین‌های بدون مجوز دیتاسنتر xAI",
+      "title_en": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
+      "summary_fa": "شرکت اسپیس‌ایکس در حال احداث یک نیروگاه جدید برای دیتاسنترهای کُلوسوس (Colossus) شرکت xAI است. با این حال، توربین‌های فعلی که بدون مجوزهای لازم نصب شده‌اند، تا یک سال دیگر از محل برداشته نخواهند شد. این موضوع نشان‌دهنده‌ی چالش‌های نظارتی در پروژه‌های زیرساختی مشترک این دو شرکت ایلان ماسک است.",
+      "tags": [
+        "SpaceX",
+        "xAI",
+        "Colossus",
+        "Elon Musk",
+        "دیتاسنتر",
+        "مجوز"
+      ]
+    },
+    {
+      "id": "d240f02eb7f1d851",
+      "date": "2026-07-31",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "Smallest.ai با جذب ۱۳ میلیون دلار، هوش مصنوعی صوتی فوق‌سریع و انسان‌گونه می‌سازد",
+      "title_en": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
+      "summary_fa": "استارتاپ Smallest.ai موفق به جذب ۱۳ میلیون دلار سرمایه شده تا نسل جدیدی از مدل‌های هوش مصنوعی صوتی را توسعه دهد. هدف اصلی این شرکت، ساخت سیستمی است که بتواند تماس‌های تلفنی مبتنی بر هوش مصنوعی را با چنان سرعت و کیفیتی انجام دهد که از نظر طبیعی بودن صدا، بتوانند آزمون تورینگ را پشت سر بگذارند و از صدای انسان غیرقابل تشخیص باشند.",
+      "tags": [
+        "Smallest.ai",
+        "Voice AI",
+        "هوش مصنوعی صوتی",
+        "Turing Test",
+        "Startup Funding"
       ]
     }
   ]
