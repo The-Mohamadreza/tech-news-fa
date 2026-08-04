@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-08-03",
+    "last_updated": "2026-08-04",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 478
+    "total_articles": 482
   },
   "articles": [
     {
@@ -8109,6 +8109,73 @@
         "Amazon",
         "SpaceX",
         "ایمنی هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "2163b413300de52f",
+      "date": "2026-08-03",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/apple-is-getting-this-wrong",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "پاسخ قاطع OpenAI به اپل: ادعاهای شما بی‌اساس است و مستندات داریم",
+      "title_en": "Apple is getting this wrong",
+      "summary_fa": "شرکت OpenAI به آنچه 'شکایت بی‌اساس' اپل می‌خواند، واکنش نشان داده است. این شرکت ادعاهای مطرح شده توسط اپل درباره کارکنانش را نادرست خوانده و اعلام کرده برای اثبات این موضوع، پیام‌های مستند کننده وقایع را به اشتراک می‌گذارد.",
+      "tags": [
+        "OpenAI",
+        "Apple",
+        "مناقشه حقوقی",
+        "ادعاهای کارکنان"
+      ]
+    },
+    {
+      "id": "d04cc35bd3ccb8a5",
+      "date": "2026-08-03",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+      "category": "سیستم‌های هوش مصنوعی مکالمه‌ای",
+      "title_fa": "تحقق مکالمات بی‌درنگ و طبیعی با هوش مصنوعی صوتی: معرفی GPT-Live",
+      "title_en": "How we built a realtime system for responsive voice AI in six months",
+      "summary_fa": "پروژه GPT-Live سیستمی نوین برای تعامل صوتی پیوسته با هوش مصنوعی توسعه داده است. این سیستم با بهره‌گیری از یک مدل گفتاری بدون نوبت و معماری کم‌تأخیر، امکان برقراری مکالماتی سریع‌تر و روان‌تر را فراهم می‌کند. هدف اصلی، ارائه تجربه‌ای طبیعی‌تر و پاسخگوتر در گفتگو با هوش مصنوعی است.",
+      "tags": [
+        "GPT-Live",
+        "هوش مصنوعی صوتی",
+        "مکالمه بی‌درنگ",
+        "کم‌تأخیر",
+        "تعامل انسان و هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "54e616a32e5ede38",
+      "date": "2026-08-03",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/circles",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "Circles: افزایش درآمد و رضایت مشتری در مخابرات با شخصی‌سازی هوش مصنوعی OpenAI",
+      "title_en": "Circles powers telco personalization with OpenAI technology",
+      "summary_fa": "شرکت Circles با بهره‌گیری از API و فناوری Codex شرکت OpenAI، تجربه‌های بومی هوش مصنوعی را در صنعت مخابرات توسعه داده است. این رویکرد به شخصی‌سازی عمیق‌تر خدمات و تعامل با مشتریان منجر شده است. نتایج این همکاری شامل افزایش ۲۲ درصدی درآمد متوسط از هر کاربر (ARPU)، کاهش ۹ درصدی ریزش مشتریان و بهبود قابل توجهی در کارایی توسعه نرم‌افزاری است.",
+      "tags": [
+        "Circles",
+        "OpenAI",
+        "مخابرات",
+        "شخصی‌سازی",
+        "ARPU"
+      ]
+    },
+    {
+      "id": "284df27bcb93b21d",
+      "date": "2026-04-09",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/cyberagent",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "CyberAgent: افزایش سرعت و کارایی با ChatGPT Enterprise و Codex",
+      "title_en": "CyberAgent moves faster with ChatGPT Enterprise and Codex",
+      "summary_fa": "شرکت CyberAgent با هدف توسعه امن و مقیاس‌پذیر هوش مصنوعی در سازمان خود، از پلتفرم‌های ChatGPT Enterprise و Codex استفاده می‌کند. این اقدام به منظور بهبود کیفیت و تسریع فرآیند تصمیم‌گیری در حوزه‌های مختلفی چون تبلیغات، رسانه و بازی انجام شده است.",
+      "tags": [
+        "CyberAgent",
+        "ChatGPT Enterprise",
+        "Codex",
+        "OpenAI",
+        "پذیرش سازمانی هوش مصنوعی"
       ]
     }
   ]
