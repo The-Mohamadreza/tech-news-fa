@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-08-05",
+    "last_updated": "2026-08-06",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 498
+    "total_articles": 513
   },
   "articles": [
     {
@@ -8448,6 +8448,260 @@
         "ایمنی هوش مصنوعی",
         "OpenAI",
         "Hugging Face"
+      ]
+    },
+    {
+      "id": "54bfe59297d42836",
+      "date": "2026-04-08",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/introducing-child-safety-blueprint",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "رونمایی اوپن‌ای‌آی از «نقشه راه ایمنی کودکان» در هوش مصنوعی",
+      "title_en": "Introducing the Child Safety Blueprint",
+      "summary_fa": "اوپن‌ای‌آی از «نقشه راه ایمنی کودکان» خود رونمایی کرد. این سند یک برنامه‌ی جامع برای توسعه‌ی مسئولانه‌ی هوش مصنوعی است که با در نظر گرفتن طراحی متناسب با سن و تدابیر حفاظتی، به دنبال محافظت و توانمندسازی جوانان در فضای آنلاین است. این نقشه راه بر همکاری با متخصصان و ذینفعان مختلف برای تحقق این اهداف تاکید دارد.",
+      "tags": [
+        "OpenAI",
+        "AI Safety",
+        "ایمنی کودکان",
+        "هوش مصنوعی مسئولانه"
+      ]
+    },
+    {
+      "id": "703e1a7c3252b257",
+      "date": "2026-04-06",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/introducing-openai-safety-fellowship",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "تعهد OpenAI به هوش مصنوعی ایمن: راه‌اندازی برنامه بورسیه ایمنی",
+      "title_en": "Announcing the OpenAI Safety Fellowship",
+      "summary_fa": "شرکت OpenAI یک برنامه آزمایشی جدید به نام «بورسیه ایمنی OpenAI» را معرفی کرده است. هدف این برنامه حمایت از تحقیقات مستقل در زمینه ایمنی و همسوسازی هوش مصنوعی و پرورش نسل آینده متخصصان در این حوزه حیاتی است.",
+      "tags": [
+        "OpenAI",
+        "AI Safety",
+        "AI Alignment",
+        "Fellowship",
+        "پژوهش هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "627413d21cd79941",
+      "date": "2026-04-02",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/openai-acquires-tbpn",
+      "category": "اکوسیستم و جامعه هوش مصنوعی",
+      "title_fa": "OpenAI با خرید TBPN به دنبال تسریع گفت‌وگوهای جهانی هوش مصنوعی است",
+      "title_en": "OpenAI acquires TBPN",
+      "summary_fa": "شرکت OpenAI با هدف تسریع گفت‌وگوهای جهانی پیرامون هوش مصنوعی و حمایت از رسانه‌های مستقل، اقدام به خرید شرکت TBPN کرده است. این گام استراتژیک به منظور گسترش تعامل و دیالوگ با توسعه‌دهندگان، کسب‌وکارها و جامعه گسترده‌تر فناوری برداشته شده است.",
+      "tags": [
+        "OpenAI",
+        "TBPN",
+        "هوش مصنوعی",
+        "رسانه‌های مستقل",
+        "گفت‌وگوی جهانی"
+      ]
+    },
+    {
+      "id": "b681370c7a53bb6a",
+      "date": "2026-04-02",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/codex-flexible-pricing-for-teams",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "کدکس: معرفی مدل پرداخت منعطف برای تیم‌های تجاری ChatGPT",
+      "title_en": "Codex now offers more flexible pricing for teams",
+      "summary_fa": "کدکس اکنون مدل قیمت‌گذاری «پرداخت در ازای مصرف» (pay-as-you-go) را برای نسخه‌های تجاری و سازمانی ChatGPT ارائه می‌دهد. این اقدام با هدف افزایش انعطاف‌پذیری انجام شده تا تیم‌ها بتوانند با سهولت بیشتری از ChatGPT در مقیاس‌های مختلف استفاده کرده و پذیرش آن را در سازمان خود گسترش دهند.",
+      "tags": [
+        "Codex",
+        "ChatGPT Business",
+        "ChatGPT Enterprise",
+        "Pay-as-you-go",
+        "قیمت‌گذاری هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "a9b4cf584547554d",
+      "date": "2026-04-01",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/gradient-labs",
+      "category": "کاربرد هوش مصنوعی در صنعت و کسب‌وکار",
+      "title_fa": "Gradient Labs: ارائه دستیار هوش مصنوعی شخصی به تمامی مشتریان بانکی",
+      "title_en": "Gradient Labs gives every bank customer an AI account manager",
+      "summary_fa": "شرکت Gradient Labs با بهره‌گیری از مدل‌های پیشرفته هوش مصنوعی مانند GPT-4.1 و GPT-5.4 mini و nano، دستیارهای هوشمندی را توسعه داده است. این دستیارها با هدف خودکارسازی فرآیندهای پشتیبانی و مدیریت حساب در سیستم‌های بانکی طراحی شده‌اند. هدف اصلی Gradient Labs، ارائه خدمات به مشتریان بانکی با تأخیر بسیار کم و پایداری بالاست.",
+      "tags": [
+        "Gradient Labs",
+        "GPT",
+        "بانکداری",
+        "هوش مصنوعی",
+        "خدمات مشتری"
+      ]
+    },
+    {
+      "id": "092ef1a3b23417a8",
+      "date": "2026-03-31",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/accelerating-the-next-phase-ai",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "شتاب‌بخشی به فاز بعدی هوش مصنوعی با سرمایه‌گذاری ۱۲۲ میلیارد دلاری در OpenAI",
+      "title_en": "Accelerating the next phase of AI",
+      "summary_fa": "شرکت OpenAI موفق به جذب ۱۲۲ میلیارد دلار سرمایه جدید برای توسعه و گسترش جهانی هوش مصنوعی پیشگام شده است. این سرمایه‌گذاری عظیم با هدف تقویت زیرساخت‌های محاسباتی نسل آینده و پاسخگویی به تقاضای فزاینده برای محصولات محبوبی همچون ChatGPT، Codex و راهکارهای هوش مصنوعی سازمانی این شرکت صورت گرفته است.",
+      "tags": [
+        "OpenAI",
+        "AI funding",
+        "ChatGPT",
+        "frontier AI",
+        "compute"
+      ]
+    },
+    {
+      "id": "13a41dea41f762e6",
+      "date": "2026-08-05",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+      "category": "کاربرد هوش مصنوعی در توسعه نرم‌افزار",
+      "title_fa": "متا از عامل هوش مصنوعی Muse Code برای مدیریت پروژه‌های کدنویسی بزرگ رونمایی کرد",
+      "title_en": "Meta launches Muse Code, an AI agent for large code bases",
+      "summary_fa": "شرکت متا به منظور گسترش ابزارهای هوش مصنوعی خود در حوزه کدنویسی، از عامل هوش مصنوعی جدیدی به نام Muse Code رونمایی کرده است. این عامل نوید می‌دهد که قادر به انجام وظایف پیچیده در محیط‌های نرم‌افزاری بزرگ و ساختارهای کدی پیچیده باشد و بدین ترتیب به توسعه‌دهندگان در پروژه‌های دشوار یاری رساند.",
+      "tags": [
+        "Meta",
+        "Muse Code",
+        "هوش مصنوعی",
+        "کدنویسی",
+        "AI agent"
+      ]
+    },
+    {
+      "id": "e9f9bc817190c643",
+      "date": "2026-08-05",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "بازگشت کارآفرین نام‌آشنا به Klaviyo: تصاحب شرکت Elias Torres برای هدایت عامل‌های هوش مصنوعی",
+      "title_en": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
+      "summary_fa": "شرکت Klaviyo، پلتفرم فعال در حوزه‌ی تجارت الکترونیک، اعلام کرد که شرکت Agency متعلق به کارآفرین باسابقه، Elias Torres، را به طور کامل تصاحب کرده است. این اقدام، Elias Torres را در یک بازگشت کامل به عنوان مدیر ارشد محصول (CPO) به Klaviyo بازمی‌گرداند. وظیفه اصلی او رهبری و توسعه عامل‌های هوش مصنوعی در این شرکت خواهد بود.",
+      "tags": [
+        "Klaviyo",
+        "Elias Torres",
+        "AI agents",
+        "تصاحب",
+        "تجارت الکترونیک"
+      ]
+    },
+    {
+      "id": "d0d37e3ae2468af6",
+      "date": "2026-08-05",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "خروج جف دین و نخبگان هوش مصنوعی از گوگل برای راه‌اندازی استارتاپ جدید",
+      "title_en": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
+      "summary_fa": "جف دین، مدیر اجرایی و چهره‌ی افسانه‌ای گوگل در حوزه‌ی هوش مصنوعی، به همراه چند مدیر ارشد دیگر این شرکت را ترک کرده‌اند. آن‌ها قصد دارند با راه‌اندازی یک استارتاپ جدید، از هوش مصنوعی برای پیشبرد و تسریع فرآیند کشف علمی بهره ببرند.",
+      "tags": [
+        "Jeff Dean",
+        "Google",
+        "AI",
+        "Startup",
+        "اکتشاف علمی"
+      ]
+    },
+    {
+      "id": "f868c2ae379cb84a",
+      "date": "2026-08-05",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
+      "category": "کاربرد هوش مصنوعی در کسب‌وکار",
+      "title_fa": "شاپِفای: جستجوی هوش مصنوعی ترافیک و فروش را سه‌برابر کرده، جایگزین گوگل نمی‌شود",
+      "title_en": "Shopify says AI search is driving more traffic and sales, not replacing Google",
+      "summary_fa": "شرکت شاپِفای اعلام کرده است که جستجوی مبتنی بر هوش مصنوعی، برخلاف آنچه برای ناشران رخ داده، باعث کاهش ترافیک ورودی نشده است. این فناوری نه تنها جایگزین موتورهای جستجوی موجود نشده، بلکه به رشد قابل توجهی در ترافیک و سفارشات فروشگاه‌های شاپِفای منجر شده است. بر اساس گزارش این شرکت، ترافیک و سفارشات ناشی از هوش مصنوعی در سه‌ماهه‌ی دوم سال نسبت به سال گذشته سه برابر شده است.",
+      "tags": [
+        "Shopify",
+        "AI search",
+        "تجارت الکترونیک",
+        "Google",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "2c94353a06fda297",
+      "date": "2026-08-05",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/",
+      "category": "ابزارهای هوش مصنوعی و بهره‌وری",
+      "title_fa": "هارک از دستیار هوشمند مرورگر خود برای انجام سریع و ارزان کارها رونمایی کرد",
+      "title_en": "Hark previews its browser use agent for completing tasks",
+      "summary_fa": "شرکت هارک یک عامل هوشمند جدید برای مرورگرها معرفی کرده است. این دستیار هوش مصنوعی قادر است وظایف مختلف را به صورت خودکار در محیط مرورگر انجام دهد. هارک ادعا می‌کند که این محصول جدید نسبت به نمونه‌های مشابه در بازار، هم سریع‌تر و هم ارزان‌تر عمل می‌کند.",
+      "tags": [
+        "Hark",
+        "AI Agent",
+        "Browser Automation",
+        "بهره‌وری",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "a9586ae9d88cd3d6",
+      "date": "2026-08-05",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/",
+      "category": "کاربرد هوش مصنوعی در دنیای فیزیکی",
+      "title_fa": "TechCrunch Disrupt 2026: هوش مصنوعی به دنیای واقعی می‌آید؛ از ربات‌ها تا کارخانه‌های خودکار",
+      "title_en": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals",
+      "summary_fa": "در کنفرانس TechCrunch Disrupt 2026، صحنه‌ای جدید تحت عنوان «هوش مصنوعی دنیای واقعی» معرفی خواهد شد. این صحنه بر تقاطع هوش مصنوعی دیجیتال با جهان فیزیکی تمرکز دارد. شرکت‌کنندگان شاهد نمایش‌هایی از ربات‌ها، کارخانه‌های خودکار و سایر کاربردهایی خواهند بود که مرزهای میان این دو حوزه را کمرنگ می‌کنند.",
+      "tags": [
+        "TechCrunch Disrupt",
+        "AI",
+        "Robotics",
+        "Automated Manufacturing",
+        "Real World AI"
+      ]
+    },
+    {
+      "id": "cba9fed1609d92bf",
+      "date": "2026-08-05",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/08/05/1141230/puzzle-corner-84/",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "چالش‌های معمایی هوش مصنوعی: معرفی دور جدید مسائل برای سپتامبر/اکتبر ۲۰۲۶",
+      "title_en": "Puzzle Corner",
+      "summary_fa": "این بخش، مجموعه جدیدی از چالش‌های محاسباتی را برای توسعه‌دهندگان و محققان هوش مصنوعی در سپتامبر/اکتبر ۲۰۲۶ معرفی می‌کند. این مسائل توسط تیمی از متخصصان، از جمله Michael S. Branicky و گروه PC2، طراحی شده‌اند. هدف این چالش‌ها، محک زدن توانایی‌های فعلی هوش مصنوعی در حل مسائل پیچیده و تفکر منطقی است. همچنین، در این شماره، راه‌حل‌های ارائه‌شده برای چالش‌های شماره می/ژوئن بررسی می‌شوند و از جامعه هوش مصنوعی برای ارسال مسائل و راه‌حل‌های جدید دعوت شده است.",
+      "tags": [
+        "AI",
+        "Problem Solving",
+        "Cognitive AI",
+        "Benchmarks",
+        "PC2"
+      ]
+    },
+    {
+      "id": "f29d9d58dbc298b4",
+      "date": "2026-08-05",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/",
+      "category": "پژوهش و فناوری",
+      "title_fa": "تلسکوپ جدید ناسا برای شکار انرژی تاریک و سیارک‌های مرگبار؛ چالش‌های واردات فناوری در چین",
+      "title_en": "The Download: NASA’s new telescope and Chinese tech import curbs",
+      "summary_fa": "ناسا در حال آماده‌سازی برای پرتاب تلسکوپ فضایی جدید خود، «نانسی گریس رومن»، در پایان ماه آگوست است. این تلسکوپ قدرتمند با هدف شناسایی انرژی تاریک و رصد سیارک‌هایی که می‌توانند تهدیدی برای زمین باشند، طراحی شده است. در خبری دیگر، دولت چین محدودیت‌هایی را بر واردات فناوری‌های خاص اعمال کرده که نشان‌دهنده سیاست‌های جدید این کشور در حوزه تکنولوژی است.",
+      "tags": [
+        "NASA",
+        "Nancy Grace Roman Space Telescope",
+        "چین",
+        "سیاست فناوری",
+        "فضا"
+      ]
+    },
+    {
+      "id": "1e5c72698b86dda6",
+      "date": "2026-08-05",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/",
+      "category": "پژوهش‌های علمی و فضایی",
+      "title_fa": "تلسکوپ فضایی «رومن» ناسا: از شکار انرژی تاریک تا رصد سیارک‌های خطرناک",
+      "title_en": "NASA’s new dark-energy space telescope can also detect killer asteroids",
+      "summary_fa": "ناسـا در اواخر ماه آگوست، تلسکوپ فضایی «نانسی گریس رومن» را از مرکز فضایی کندی در فلوریدا پرتاب خواهد کرد. هدف اصلی این تلسکوپ، کمک به درک بهتر چگونگی عملکرد جهان، از جمله ماده تاریک و انرژی تاریک است که انبساط کیهان را هدایت می‌کند. علاوه بر این، تلسکوپ رومن قادر به شناسایی سیارک‌های بالقوه خطرناک نیز خواهد بود.",
+      "tags": [
+        "NASA",
+        "Nancy Grace Roman Space Telescope",
+        "Dark Energy",
+        "Asteroids",
+        "Space Telescope"
       ]
     }
   ]
