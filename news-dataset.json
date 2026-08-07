@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-08-06",
+    "last_updated": "2026-08-07",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 513
+    "total_articles": 526
   },
   "articles": [
     {
@@ -8702,6 +8702,227 @@
         "Dark Energy",
         "Asteroids",
         "Space Telescope"
+      ]
+    },
+    {
+      "id": "0f0c1961f93e8e0c",
+      "date": "2026-08-06",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "ارتقای ChatGPT: بهبود چشمگیر GPT-5.6 Sol و دسترسی رایگان به GPT-5.6 Luna",
+      "title_en": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+      "summary_fa": "ChatGPT مدل بهبودیافته GPT-5.6 Sol را با دقت و ثبات بالاتر معرفی کرده است. همچنین، دسترسی به GPT-5.6 Luna برای کاربران رایگان افزایش یافته و آن‌ها اکنون می‌توانند از چت‌های روزانه نامحدود با این مدل بهره‌مند شوند.",
+      "tags": [
+        "ChatGPT",
+        "GPT-5.6 Sol",
+        "GPT-5.6 Luna",
+        "OpenAI",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "6da5f2d271da214d",
+      "date": "2026-08-06",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "حفظ سلامت روان جوانان در عصر هوش مصنوعی: رهنمودهای جدید APA و OpenAI",
+      "title_en": "Working with the American Psychological Association on youth mental health and AI",
+      "summary_fa": "شرکت OpenAI و انجمن روان‌شناسی آمریکا (APA) برای ارائه رهنمودها، منابع و تمهیدات مبتنی بر شواهد در زمینه استفاده مسئولانه از هوش مصنوعی، همکاری مشترکی را پیش می‌برند. هدف اصلی این همکاری، حفظ و ارتقای سلامت روان جوانان در مواجهه با فناوری‌های هوش مصنوعی است، تا اطمینان حاصل شود که این ابزارها به شیوه‌ای ایمن و مفید به کار گرفته می‌شوند.",
+      "tags": [
+        "OpenAI",
+        "APA",
+        "سلامت روان",
+        "جوانان",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "fea9ae47ebf2b0f0",
+      "date": "2026-08-06",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "ChatGPT در میدان عمل: نگاهی به تحول جهانی در شیوه استفاده از هوش مصنوعی",
+      "title_en": "From asking to doing: How the world is putting ChatGPT to work",
+      "summary_fa": "داده‌های جدید «OpenAI Signals» نشان می‌دهد که مردم در سراسر جهان چگونه از ChatGPT استفاده می‌کنند. این گزارش بینش‌های ارزشمندی در مورد میزان پذیرش، روندهای کاربری و تغییر رفتار کاربران در سطوح کشوری ارائه می‌دهد. بر اساس این آمار، شیوه استفاده از ChatGPT از صرفاً پرسش و پاسخ به انجام کارهای عملی و پیاده‌سازی در workflows روزمره در حال تغییر است.",
+      "tags": [
+        "ChatGPT",
+        "OpenAI",
+        "کاربرد هوش مصنوعی",
+        "روندهای مصرف",
+        "آمار جهانی"
+      ]
+    },
+    {
+      "id": "1e6c9d1cec804f86",
+      "date": "2026-03-29",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/helping-disaster-response-teams-asia",
+      "category": "کاربرد هوش مصنوعی در مدیریت بحران و بلایا",
+      "title_fa": "توانمندسازی تیم‌های امداد و نجات آسیا با هوش مصنوعی: کارگاه مشترک OpenAI و بنیاد گیتس",
+      "title_en": "Helping disaster response teams turn AI into action across Asia",
+      "summary_fa": "OpenAI با همکاری بنیاد بیل و ملیندا گیتس، کارگاهی را با هدف توانمندسازی تیم‌های واکنش به بلایا در سراسر آسیا برگزار کرد. این برنامه بر چگونگی تبدیل قابلیت‌های هوش مصنوعی به اقدامات عملی و مؤثر در زمان بحران‌ها و بلایای طبیعی متمرکز بود. هدف نهایی این инициаتیو، تقویت آمادگی و سرعت پاسخگویی در برابر حوادث غیرمترقبه در منطقه آسیا از طریق به‌کارگیری ابزارهای هوش مصنوعی است.",
+      "tags": [
+        "OpenAI",
+        "Gates Foundation",
+        "هوش مصنوعی",
+        "مدیریت بحران",
+        "آسیا"
+      ]
+    },
+    {
+      "id": "757698a9a08dffe5",
+      "date": "2026-03-27",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/stadler",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "بازآفرینی کار دانش‌محور در STADLER با ChatGPT: افزایش بهره‌وری در شرکتی ۲۳۰ ساله",
+      "title_en": "STADLER reshapes knowledge work at a 230-year-old company",
+      "summary_fa": "شرکت ۲۳۰ ساله STADLER با به‌کارگیری ChatGPT، فرایندهای کاری دانش‌محور خود را متحول کرده است. این اقدام منجر به صرفه‌جویی قابل توجه در زمان و افزایش چشمگیر بهره‌وری برای ۶۵۰ کارمند این شرکت شده است و نشان می‌دهد چگونه هوش مصنوعی می‌تواند شرکت‌های با سابقه طولانی را دگرگون کند.",
+      "tags": [
+        "STADLER",
+        "ChatGPT",
+        "هوش مصنوعی",
+        "بهره‌وری",
+        "کار دانش‌محور"
+      ]
+    },
+    {
+      "id": "d046884ba608b2b1",
+      "date": "2026-03-25",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/our-approach-to-the-model-spec",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "Model Spec اوپن‌ای‌آی: توازن ایمنی و آزادی در رفتار مدل‌های هوش مصنوعی",
+      "title_en": "Inside our approach to the Model Spec",
+      "summary_fa": "اوپن‌ای‌آی جزئیات رویکرد خود به «Model Spec» را منتشر کرده است؛ چارچوبی عمومی که برای تعریف و تنظیم رفتار مدل‌های هوش مصنوعی طراحی شده است. این چارچوب به دنبال برقراری تعادلی ظریف میان ارتقاء ایمنی، تضمین آزادی کاربران و افزایش پاسخگویی سیستم‌های هوش مصنوعی در مواجهه با پیشرفت‌های آتی است. هدف نهایی آن، ایجاد یک بستر شفاف و مسئولانه برای توسعه و استفاده از فناوری‌های هوش مصنوعی است.",
+      "tags": [
+        "OpenAI",
+        "Model Spec",
+        "هوش مصنوعی",
+        "ایمنی هوش مصنوعی",
+        "حکمرانی هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "4255172739ea8019",
+      "date": "2026-08-06",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+      "category": "سخت‌افزار و تراشه",
+      "title_fa": "اسپیکر هوشمند OpenAI: گزارش‌ها از قیمت ۳۰۰ تا ۴۰۰ دلار حکایت دارند",
+      "title_en": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
+      "summary_fa": "گزارش‌های جدید حاکی از آن است که شرکت OpenAI در حال توسعه یک دستگاه هوش مصنوعی جدید است که به نظر می‌رسد یک اسپیکر هوشمند گران‌قیمت باشد. بر اساس این اطلاعات فاش‌شده، قیمت احتمالی این دستگاه بین ۳۰۰ تا ۴۰۰ دلار خواهد بود. این اقدام، ورود OpenAI به بازار سخت‌افزاری را نشان می‌دهد و گمانه‌زنی‌ها درباره‌ی قابلیت‌های این دستگاه مرموز را افزایش می‌دهد.",
+      "tags": [
+        "OpenAI",
+        "AI smart speaker",
+        "سخت‌افزار",
+        "محصولات هوش مصنوعی",
+        "لوازم الکترونیکی مصرفی"
+      ]
+    },
+    {
+      "id": "587e2720ff86b439",
+      "date": "2026-08-06",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
+      "category": "کاربردهای هوش مصنوعی",
+      "title_fa": "چت‌جی‌پی‌تی رایگان: چت نامحدود و دکمه جدید برای پرسش‌های پیچیده",
+      "title_en": "ChatGPT brings unlimited text chats to free users",
+      "summary_fa": "شرکت OpenAI اعلام کرد که قابلیت‌های جدیدی را برای کاربران رایگان و Go چت‌جی‌پی‌تی فراهم کرده است. از این پس، این کاربران می‌توانند بدون محدودیت زمانی یا تعداد، از مکالمات متنی بهره‌مند شوند. همچنین، یک دکمه جدید با عنوان «فکر کن» (Think button) برای کمک به پردازش پرسش‌های پیچیده به این نسخه‌ها اضافه شده است.",
+      "tags": [
+        "ChatGPT",
+        "OpenAI",
+        "هوش مصنوعی",
+        "کاربران رایگان",
+        "به‌روزرسانی محصول"
+      ]
+    },
+    {
+      "id": "cb9c8c68c6dcaff3",
+      "date": "2026-08-06",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "Naïve با جذب ۲۸.۵ میلیون دلار سرمایه، فرآیندهای راه‌اندازی و اداره کسب‌وکارها را خودکار می‌کند",
+      "title_en": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
+      "summary_fa": "استارتاپ Naïve با موفقیت ۲۸.۵ میلیون دلار سرمایه جذب کرده است. این شرکت ادعا می‌کند که زیرساخت‌های توسعه‌یافته توسط آن قادر است بخش عمده‌ای از فرآیندهای مربوط به راه‌اندازی و مدیریت روزمره یک کسب‌وکار را به صورت خودکار انجام دهد. هدف از این اقدام، کاهش بار کارهای تکراری و زمان‌بر است تا شرکت‌ها بتوانند با تمرکز بیشتر، به نوآوری و رشد بپردازند.",
+      "tags": [
+        "Naïve",
+        "سرمایه‌گذاری",
+        "خودکارسازی",
+        "Startup",
+        "عملیات کسب‌وکار"
+      ]
+    },
+    {
+      "id": "698e59b3fc3747bc",
+      "date": "2026-08-06",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
+      "category": "کاربرد هوش مصنوعی در زندگی روزمره",
+      "title_fa": "خداحافظی نسل Z با سوایپ: هوش مصنوعی ناجی اپلیکیشن‌های دوستیابی جدید",
+      "title_en": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
+      "summary_fa": "نسل زد (Gen Z) که از اپلیکیشن‌های دوستیابی سنتی مبتنی بر سوایپ به شدت ناامید شده است، اکنون به دنبال راه‌حل‌های جدید می‌گردد. این جوانان ترجیح می‌دهند هر گزینه دیگری را امتحان کنند، حتی اگر این گزینه، خواستگاری از طریق هوش مصنوعی باشد. اپلیکیشن‌هایی مانند Ditto با کنار گذاشتن سیستم سوایپ و استفاده از هوش مصنوعی برای تطبیق کاربران، در حال جذب این گروه هستند.",
+      "tags": [
+        "Gen Z",
+        "dating apps",
+        "AI matchmaking",
+        "Ditto",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "a4d19f269b5fcd52",
+      "date": "2026-08-06",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
+      "category": "امنیت سایبری",
+      "title_fa": "اپن‌ای‌آی: سیاست‌های امنیتی اپل، پرونده اسرار تجاری‌اش را تضعیف می‌کند",
+      "title_en": "OpenAI says Apple’s own security practices undermine its trade secrets case",
+      "summary_fa": "اسناد جدید دادگاه استراتژی حقوقی اپن‌ای‌آی در دعوای قضایی اپل بر سر اسرار تجاری را فاش کرده‌اند. اپن‌ای‌آی استدلال می‌کند که شیوه‌های امنیتی و رویه‌های خروج کارمندان خودِ اپل، ادعاهای این شرکت مبنی بر حفاظت صحیح از اطلاعات مدعی سرقت‌شده را زیر سوال می‌برد. به عنوان مثال، اپن‌ای‌آی اشاره می‌کند که چگونه یک مدیر اپل پس از خروج یک مهندس سابق از شرکت، به حساب iCloud او دسترسی پیدا کرده است.",
+      "tags": [
+        "OpenAI",
+        "Apple",
+        "اسرار تجاری",
+        "امنیت",
+        "دعوای حقوقی"
+      ]
+    },
+    {
+      "id": "d3d7f4fde737af1d",
+      "date": "2026-08-06",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "Suno: واترمارک‌گذاری آهنگ‌ها در میانه کشمکش‌های حقوقی",
+      "title_en": "Amid legal battles, Suno says it will start watermarking songs",
+      "summary_fa": "شرکت Suno اعلام کرده است که آهنگ‌های تولیدی خود را واترمارک‌گذاری خواهد کرد. این تصمیم در حالی گرفته می‌شود که Suno در حال حاضر با چندین چالش و نبرد حقوقی دست و پنجه نرم می‌کند.",
+      "tags": [
+        "Suno",
+        "AI Music",
+        "watermarking",
+        "Copyright",
+        "Legal disputes"
+      ]
+    },
+    {
+      "id": "4f67486fb3805b5f",
+      "date": "2026-08-06",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "بازآرایی بزرگ در هوش مصنوعی گوگل؛ ابهامات مدل سرکش متا",
+      "title_en": "The Download: Google’s AI shake-up and Meta’s rogue model",
+      "summary_fa": "بخش هوش مصنوعی گوگل در حال تجربه تغییرات گسترده‌ای است که آن را با چالش‌هایی جدی روبه‌رو کرده است. این تحولات شامل از دست دادن استعدادهای کلیدی و تأخیر در توسعه مدل‌های شاخص هوش مصنوعی شرکت می‌شود. همچنین زمزمه‌هایی از کاهش روحیه کارکنان به گوش می‌رسد که نشان‌دهنده دوره‌ای پرفراز و نشیب برای «امپراتوری هوش مصنوعی» گوگل است.",
+      "tags": [
+        "Google",
+        "Meta",
+        "هوش مصنوعی",
+        "مدیریت تکنولوژی",
+        "رقابت استعدادها"
       ]
     }
   ]
