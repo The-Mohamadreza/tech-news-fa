@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-08-07",
+    "last_updated": "2026-08-08",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 526
+    "total_articles": 540
   },
   "articles": [
     {
@@ -8923,6 +8923,243 @@
         "هوش مصنوعی",
         "مدیریت تکنولوژی",
         "رقابت استعدادها"
+      ]
+    },
+    {
+      "id": "833934ee3b25f4a5",
+      "date": "2026-08-07",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+      "category": "امنیت سایبری",
+      "title_fa": "OpenAI در خط مقدم امنیت سایبری: ارزیابی‌های اولیه از مدل Astra منتشر شد",
+      "title_en": "Responding to the next frontier of critical cyber capabilities",
+      "summary_fa": "شرکت OpenAI در حال انتشار گزارش‌های ارزیابی اولیه امنیت سایبری برای مدل جدید خود به نام Astra است. این اقدام با هدف تقویت تدابیر حفاظتی و کنترل‌های امنیتی در برابر تهدیدات سایبری صورت می‌گیرد. OpenAI با این رویکرد، گام‌های مهمی برای ایمن‌سازی قابلیت‌های حیاتی هوش مصنوعی برمی‌دارد.",
+      "tags": [
+        "OpenAI",
+        "Astra",
+        "امنیت سایبری",
+        "هوش مصنوعی",
+        "امنیت هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "2ee94000fec4618b",
+      "date": "2026-08-07",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/hsp-gruppe",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "HSP GRUPPE؛ انقلاب در خدمات مالیاتی با بهره‌گیری از هوش مصنوعی و ChatGPT Enterprise",
+      "title_en": "How HSP GRUPPE builds AI capabilities for tax advisory",
+      "summary_fa": "شرکت HSP GRUPPE با به‌کارگیری ChatGPT Enterprise، گام مهمی در جهت ارتقاء خدمات مشاوره مالیاتی و مشتریان برداشته است. این اقدام به آن‌ها کمک کرده تا بهره‌وری را به شکل چشمگیری افزایش داده، کیفیت کار را بهبود بخشیده و ظرفیت بیشتری برای پاسخگویی به نیازهای مالیاتی ایجاد کنند. این رویکرد نوین، تحولی اساسی در نحوه‌ی ارائه‌ی خدمات مالیاتی این شرکت ایجاد کرده است.",
+      "tags": [
+        "HSP GRUPPE",
+        "ChatGPT Enterprise",
+        "مشاوره مالیاتی",
+        "هوش مصنوعی",
+        "بهره‌وری"
+      ]
+    },
+    {
+      "id": "7414617764709a8c",
+      "date": "2026-03-25",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/safety-bug-bounty",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "اوپن‌ای‌آی برنامه‌ی پاداش برای کشف آسیب‌پذیری‌های امنیتی هوش مصنوعی راه‌اندازی کرد",
+      "title_en": "Introducing the OpenAI Safety Bug Bounty program",
+      "summary_fa": "شرکت اوپن‌ای‌آی به منظور شناسایی و رفع خطرات و سوءاستفاده‌های احتمالی از سیستم‌های هوش مصنوعی خود، برنامه‌ی پاداش کشف آسیب‌پذیری‌های امنیتی (Bug Bounty) را آغاز کرده است. این برنامه بر روی آسیب‌پذیری‌های مرتبط با خودکارانگی (agentic vulnerabilities)، حملات تزریق پرامپت (prompt injection) و خروج غیرمجاز داده‌ها (data exfiltration) تمرکز دارد.",
+      "tags": [
+        "OpenAI",
+        "Bug Bounty",
+        "امنیت هوش مصنوعی",
+        "آسیب‌پذیری",
+        "تزریق پرامپت"
+      ]
+    },
+    {
+      "id": "5aac17e98eb60c88",
+      "date": "2026-03-24",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "OpenAI: راهکارهایی برای هوش مصنوعی ایمن‌تر برای نوجوانان",
+      "title_en": "Helping developers build safer AI experiences for teens",
+      "summary_fa": "OpenAI به تازگی سیاست‌های جدیدی را در زمینه ایمنی نوجوانان برای توسعه‌دهندگان منتشر کرده است. این سیاست‌ها که بر پایه پرامپت‌ها (دستورات متنی) عمل می‌کنند، به توسعه‌دهندگانی که از ابزار gpt-oss-safeguard بهره می‌برند، یاری می‌رساند. هدف اصلی این اقدام، کاهش خطرات و چالش‌های خاص سنی در سیستم‌های هوش مصنوعی و تضمین تجربه‌ای امن‌تر برای کاربران نوجوان است.",
+      "tags": [
+        "OpenAI",
+        "ایمنی هوش مصنوعی",
+        "نوجوانان",
+        "gpt-oss-safeguard",
+        "توسعه‌دهندگان"
+      ]
+    },
+    {
+      "id": "508e5e5933454f44",
+      "date": "2026-03-24",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/update-on-the-openai-foundation",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "بنیاد OpenAI: سرمایه‌گذاری حداقل یک میلیارد دلاری در سلامت، اقتصاد و پایداری هوش مصنوعی",
+      "title_en": "Update on the OpenAI Foundation",
+      "summary_fa": "بنیاد OpenAI از برنامه‌های خود برای اختصاص حداقل یک میلیارد دلار به سرمایه‌گذاری‌های استراتژیک خبر داد. این سرمایه‌گذاری‌ها با هدف درمان بیماری‌ها، ایجاد فرصت‌های اقتصادی، تقویت تاب‌آوری هوش مصنوعی و حمایت از برنامه‌های اجتماعی جهانی صورت می‌گیرد.",
+      "tags": [
+        "OpenAI",
+        "OpenAI Foundation",
+        "AI resilience",
+        "سرمایه‌گذاری",
+        "مسئولیت اجتماعی"
+      ]
+    },
+    {
+      "id": "49a9730ea52b0ee7",
+      "date": "2026-03-24",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/powering-product-discovery-in-chatgpt",
+      "category": "کاربردهای هوش مصنوعی در تجارت الکترونیک",
+      "title_fa": "چت‌جی‌پی‌تی وارد دنیای تجارت الکترونیک می‌شود: کشف محصول با هوش مصنوعی",
+      "title_en": "Powering product discovery in ChatGPT",
+      "summary_fa": "چت‌جی‌پی‌تی به تازگی قابلیت‌های جدیدی را برای خرید و کشف محصول معرفی کرده است. این امکانات با استفاده از «پروتکل تجارت خودکار» (Agentic Commerce Protocol)، تجربه‌ای بصری و غنی‌تر از خرید را ارائه می‌دهند. کاربران می‌توانند محصولات را به راحتی کشف کرده، آن‌ها را کنار هم مقایسه کنند و فروشندگان نیز قابلیت ادغام با این پلتفرم را خواهند داشت.",
+      "tags": [
+        "ChatGPT",
+        "تجارت الکترونیک",
+        "Agentic Commerce Protocol",
+        "کشف محصول",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "5655a593c8d3ecb0",
+      "date": "2026-08-07",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "اوپن‌ای‌آی توسعه مدل «آسترا» را به دلیل توانایی‌های حمله سایبری کُند کرد",
+      "title_en": "OpenAI says it slowed Astra model development over security concerns",
+      "summary_fa": "اوپن‌ای‌آی اعلام کرد که مدل «آسترا»، که هنوز در حال توسعه است، به «آستانه حیاتی امنیت سایبری» خود رسیده است. این بدان معناست که مدل مذکور می‌تواند به طور مستقل حملات سایبری را شناسایی و علیه سیستم‌های واقعی و دارای حفاظت قوی اجرا کند.",
+      "tags": [
+        "OpenAI",
+        "Astra",
+        "Cybersecurity",
+        "AI Safety"
+      ]
+    },
+    {
+      "id": "0d1fce010906239f",
+      "date": "2026-08-07",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "Rippling پس از تجربه‌ی هزینه‌های میلیونی، ابزاری برای ردیابی و سنجش بازدهی هوش مصنوعی کارمندان عرضه کرد",
+      "title_en": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+      "summary_fa": "شرکت Rippling پس از آگاهی از هزینه‌های سنگین و میلیونی خود در زمینه‌ی هوش مصنوعی طی چند ماه، ابزاری جدید به نام AI Spend Console را معرفی کرده است. این محصول به شرکت‌ها امکان می‌دهد تا میزان مصرف هوش مصنوعی را توسط کارمندان و تیم‌ها ردیابی کنند. هدف از این ابزار، کمک به سازمان‌ها برای مدیریت بهتر هزینه‌ها و سنجش بازده سرمایه‌گذاری (ROI) در فناوری‌های هوش مصنوعی است، تا استفاده از هوش مصنوعی توجیه‌پذیرتر و کارآمدتر شود.",
+      "tags": [
+        "Rippling",
+        "AI Spend Console",
+        "ROI",
+        "مدیریت هزینه‌های هوش مصنوعی",
+        "بهره‌وری سازمانی"
+      ]
+    },
+    {
+      "id": "6a3d740c5113ff5a",
+      "date": "2026-08-07",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "Kitesurf: مرورگر اختصاصی کلودفلر برای عامل‌های هوش مصنوعی",
+      "title_en": "Cloudflare launches Kitesurf, a browser built for AI agents",
+      "summary_fa": "کلودفلر (Cloudflare) محصول جدید خود به نام Kitesurf را عرضه کرده است. این یک مرورگر میزبانی‌شده در فضای ابری است که برخلاف مرورگرهای سنتی برای استفاده انسان‌ها طراحی نشده، بلکه مخصوص عامل‌های هوش مصنوعی (AI agents) ساخته شده است. Kitesurf برای انجام کارهای خودکارسازی رایج، مصرف منابع پردازشی کمتری نسبت به کرومیوم (Chromium) دارد. هدف آن کمک به توسعه‌دهندگان برای ساخت کارآمدتر عامل‌های هوش مصنوعی مبتنی بر مرورگر است.",
+      "tags": [
+        "Cloudflare",
+        "Kitesurf",
+        "AI agents",
+        "مرورگر",
+        "فضای ابری"
+      ]
+    },
+    {
+      "id": "883433c49b252abd",
+      "date": "2026-08-07",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "سرعت‌گیری Airbnb با هوش مصنوعی: معرفی قابلیت جستجوی جدید و توسعه سریع‌تر",
+      "title_en": "Airbnb says AI is helping it ship features faster as it tests a new search function",
+      "summary_fa": "شرکت Airbnb اعلام کرده که استفاده از هوش مصنوعی به آن‌ها کمک می‌کند تا قابلیت‌های جدید را با سرعت بیشتری عرضه کنند. در همین راستا، این شرکت در حال آزمایش یک تجربه جستجوی کاملاً جدید مبتنی بر هوش مصنوعی است که قرار است به زودی در پلتفرم خود رونمایی کند. این قابلیت جدید جستجو، با یک کلید انتخاب (toggle) در اختیار کاربران قرار خواهد گرفت تا بتوانند بین جستجوی عادی و هوشمند جابجا شوند.",
+      "tags": [
+        "Airbnb",
+        "هوش مصنوعی",
+        "جستجوی هوشمند",
+        "توسعه محصول",
+        "پذیرش سازمانی"
+      ]
+    },
+    {
+      "id": "f06e1c45b430d76d",
+      "date": "2026-08-07",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "نقد تند مورخ سرشناس به «دولت‌های مصنوعی» سیلیکون‌ولی و رهبرانی که علمی‌تخیلی نمی‌خوانند",
+      "title_en": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
+      "summary_fa": "جیل لپور، مورخ برجسته، تئوری جدیدی درباره‌ی زبان پرطمطراق شرکت‌های فناوری ارائه کرده که محصولاتشان را شبیه به تشکیل یک حکومت جدید توصیف می‌کنند. او معتقد است این رویکرد، چه در شعار قدیمی توییتر «تالار شهر در جیب شما» و چه در «قانون اساسی» مدل Claude شرکت Anthropic، تصویر مثبتی از رهبران سیلیکون‌ولی ترسیم نمی‌کند. این تحلیل در کتاب آتی او با عنوان «ظهور و سقوط دولت مصنوعی» منتشر خواهد شد و به ریشه‌یابی این گرایش و پیامدهای آن می‌پردازد.",
+      "tags": [
+        "Jill Lepore",
+        "Silicon Valley",
+        "Artificial State",
+        "Anthropic",
+        "حکمرانی فناوری"
+      ]
+    },
+    {
+      "id": "5d2f329784e33401",
+      "date": "2026-08-07",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
+      "category": "امنیت سایبری",
+      "title_fa": "جریمه سنگین جدید برای متا: دادگاه نیومکزیکو ۵۶۷ میلیون دلار دیگر در پرونده ایمنی کودکان حکم داد",
+      "title_en": "New Mexico court orders Meta to pay additional $567M in child safety case",
+      "summary_fa": "دادگاه ایالت نیومکزیکو به شرکت متا دستور داده است تا ۵۶۷ میلیون دلار جریمه اضافی در پرونده‌ای مرتبط با عدم رعایت ایمنی کودکان بر روی پلتفرم‌هایش بپردازد. با صدور این حکم جدید، مجموع جریمه‌های متا در این پرونده به رقم سرسام‌آور ۹۴۲ میلیون دلار رسیده است.",
+      "tags": [
+        "Meta",
+        "Child Safety",
+        "New Mexico",
+        "Online Safety",
+        "Regulation"
+      ]
+    },
+    {
+      "id": "59682a41dacf616c",
+      "date": "2026-08-07",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
+      "category": "سیاست‌گذاری اینترنت و محتوای آنلاین",
+      "title_fa": "از حاشیه آنلاین تا مرکز سیاست: صعود تئوری توطئه سانسور دیجیتال در آمریکا",
+      "title_en": "The Download: a censorship conspiracy theory and the first virus created by AI",
+      "summary_fa": "این خبر به بررسی چگونگی نفوذ تئوری توطئه «شبکه سانسور صنعتی» از محافل راست‌گرا در فضای آنلاین به سیاست‌های رسمی دولت، به‌ویژه در دوره ترامپ می‌پردازد. این روایت، که ادعا می‌کند نهادهای گسترده‌ای برای سانسور محتوای آنلاین فعالیت می‌کنند، سال‌ها در حاشیه مطرح بود. تحلیل نشان می‌دهد چگونه این ایده توانست به گفتمان سیاسی اصلی راه یابد و بر تصمیم‌گیری‌ها تأثیر بگذارد.",
+      "tags": [
+        "سانسور",
+        "تئوری توطئه",
+        "سیاست آمریکا",
+        "Trump",
+        "محتوای آنلاین"
+      ]
+    },
+    {
+      "id": "a8511d9ef969dcf3",
+      "date": "2026-08-07",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "چگونه ایده‌های یک شبکه سانسور گسترده از حاشیه آنلاین به سیاست‌های ترامپ راه یافتند؟",
+      "title_en": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
+      "summary_fa": "این مقاله تحقیقاتی به بررسی چگونگی حرکت ایده‌های یک شبکه سانسور گسترده از محافل غیررسمی آنلاین به سیاست‌های احتمالی دولت ترامپ می‌پردازد. در روایتی فرضی برای آوریل ۲۰۲۵، کارکنان وزارت امور خارجه آمریکا با خبر تغییرات گسترده‌ای مواجه می‌شوند. این تحولات، تحت نظارت «دپارتمان کارایی دولتی» ایلان ماسک، حکایت از تاثیرگذاری ایده‌های او و تمایل به کنترل اطلاعات در ساختار حکومتی آینده دارد.",
+      "tags": [
+        "Censorship",
+        "Trump",
+        "Elon Musk",
+        "سیاست دولتی",
+        "تنظیم‌گری محتوا"
       ]
     }
   ]
