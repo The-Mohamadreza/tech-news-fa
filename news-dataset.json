@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-08-08",
+    "last_updated": "2026-08-09",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 540
+    "total_articles": 552
   },
   "articles": [
     {
@@ -9160,6 +9160,210 @@
         "Elon Musk",
         "سیاست دولتی",
         "تنظیم‌گری محتوا"
+      ]
+    },
+    {
+      "id": "acec20302c9edaac",
+      "date": "2026-03-23",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/creating-with-sora-safely",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "سورا: تعهد OpenAI به ایمنی در تولید ویدئو",
+      "title_en": "Creating with Sora Safely",
+      "summary_fa": "شرکت OpenAI برای مقابله با چالش‌های ایمنی نوظهور که از سوی مدل پیشرفته تولید ویدئو (Sora) و پلتفرم جدید خلق محتوای اجتماعی آن ایجاد می‌شود، رویکردی بنیادی در پیش گرفته است. این شرکت، نسخه Sora 2 و اپلیکیشن Sora را با محوریت ایمنی از همان ابتدا طراحی و توسعه داده است. رویکرد آنها بر اساس محافظت‌های مشخص و عملی بنا شده تا امنیت کاربران را تضمین کند.",
+      "tags": [
+        "Sora",
+        "OpenAI",
+        "AI safety",
+        "video generation",
+        "مدل‌های هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "fd3208099b40794a",
+      "date": "2026-03-19",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "نظارت بر هوش مصنوعی کدنویس: رویکرد OpenAI برای جلوگیری از انحراف",
+      "title_en": "How we monitor internal coding agents for misalignment",
+      "summary_fa": "اوپن‌ای‌آی (OpenAI) با استفاده از تکنیک «نظارت بر زنجیره تفکر»، به بررسی و کنترل انحراف در هوش مصنوعی‌های کدنویس داخلی خود می‌پردازد. هدف این رویکرد، تشخیص زودهنگام خطرات و تقویت سازوکارهای ایمنی هوش مصنوعی از طریق تحلیل عملکرد مدل‌ها در محیط‌های واقعی است.",
+      "tags": [
+        "OpenAI",
+        "ایمنی هوش مصنوعی",
+        "انحراف هوش مصنوعی",
+        "نظارت بر هوش مصنوعی",
+        "AI coding"
+      ]
+    },
+    {
+      "id": "625785a3d5f593f2",
+      "date": "2026-03-19",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/openai-to-acquire-astral",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "OpenAI با خرید Astral، رشد Codex را برای ابزارهای توسعه پایتون سرعت می‌بخشد",
+      "title_en": "OpenAI to acquire Astral",
+      "summary_fa": "شرکت OpenAI اعلام کرده است که شرکت Astral را خریداری خواهد کرد. هدف از این اقدام، تسریع رشد پلتفرم Codex خود است که به توسعه ابزارهای نسل آینده برای برنامه‌نویسان پایتون کمک می‌کند. این خرید، موقعیت OpenAI را در بازار ابزارهای کدنویسی مبتنی بر هوش مصنوعی تقویت خواهد کرد.",
+      "tags": [
+        "OpenAI",
+        "Astral",
+        "Codex",
+        "Python",
+        "ابزارهای توسعه‌دهنده"
+      ]
+    },
+    {
+      "id": "c3d41e50070e87e4",
+      "date": "2026-03-17",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "رونمایی از GPT-5.4 مینی و نانو: مدل‌های کوچکتر و سریعتر برای کارهای تخصصی",
+      "title_en": "Introducing GPT-5.4 mini and nano",
+      "summary_fa": "مدل‌های GPT-5.4 مینی و نانو، نسخه‌هایی کوچکتر و سریعتر از GPT-5.4 هستند که برای پاسخگویی به نیازهای خاص توسعه داده شده‌اند. این مدل‌ها به طور ویژه برای کدنویسی، استفاده از ابزارها و استدلال چندوجهی بهینه‌سازی شده‌اند. همچنین، قابلیت مدیریت حجم بالای درخواست‌های API و وظایف زیرنماینده را دارند.",
+      "tags": [
+        "GPT-5.4",
+        "OpenAI",
+        "مدل هوش مصنوعی",
+        "LLM",
+        "API"
+      ]
+    },
+    {
+      "id": "1e673d33f79738b4",
+      "date": "2026-03-17",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/japan-teen-safety-blueprint",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "اوپن‌ای‌آی ژاپن: نقشه راه ایمنی نوجوانان برای استفاده مسئولانه از هوش مصنوعی",
+      "title_en": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
+      "summary_fa": "شعبه ژاپن شرکت OpenAI طرح «نقشه راه ایمنی نوجوانان ژاپن» را معرفی کرده است. این طرح با هدف اولویت‌بندی ایمنی کاربران جوان، حفاظت‌های سنی قوی‌تر، کنترل‌های والدین و تدابیری برای حفظ سلامت روان نوجوانان در استفاده از هوش مصنوعی مولد را شامل می‌شود. این اقدامات پاسخی به نگرانی‌ها در مورد تعامل نوجوانان با فناوری‌های هوش مصنوعی است.",
+      "tags": [
+        "OpenAI Japan",
+        "ایمنی هوش مصنوعی",
+        "نوجوانان",
+        "کنترل والدین",
+        "Generative AI"
+      ]
+    },
+    {
+      "id": "e4cbc2849b39c989",
+      "date": "2026-03-17",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/equipping-workers-with-insights-about-compensation",
+      "category": "کاربرد هوش مصنوعی در بازار کار",
+      "title_fa": "میلیون‌ها پرسش روزانه از ChatGPT: هوش مصنوعی و شفافیت دستمزد",
+      "title_en": "Equipping workers with insights about compensation",
+      "summary_fa": "تحقیقات جدید نشان می‌دهد که شهروندان آمریکایی روزانه نزدیک به سه میلیون پیام برای پرسش درباره دستمزد و درآمد به ChatGPT ارسال می‌کنند. این حجم گسترده از تعامل، به شکل قابل توجهی به کاهش شکاف اطلاعاتی در مورد حقوق و مزایا کمک کرده و شفافیت بیشتری را برای نیروی کار فراهم می‌آورد.",
+      "tags": [
+        "ChatGPT",
+        "هوش مصنوعی",
+        "دستمزد",
+        "شفافیت اطلاعات",
+        "بازار کار"
+      ]
+    },
+    {
+      "id": "2b6c4338169a2f45",
+      "date": "2026-08-08",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "دیتاسنتر جدید آمازون در تگزاس؛ آیا به بزرگترین آلاینده آب‌وهوایی آمریکا تبدیل می‌شود؟",
+      "title_en": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+      "summary_fa": "شرکت آمازون در حال سرمایه‌گذاری برای ساخت یک دیتاسنتر عظیم در تگزاس است که شامل احداث یک نیروگاه اختصاصی در محل پروژه می‌شود. بر اساس گزارش‌ها، این نیروگاه بالقوه می‌تواند به بزرگترین منبع آلایندگی آب و هوایی در ایالات متحده تبدیل شود. این خبر نگرانی‌های جدی زیست‌محیطی را در مورد ردپای کربنی زیرساخت‌های فناوری بزرگ برانگیخته است.",
+      "tags": [
+        "Amazon",
+        "Data Center",
+        "Climate Pollution",
+        "Texas",
+        "Sustainability"
+      ]
+    },
+    {
+      "id": "c9329978009ef53b",
+      "date": "2026-08-08",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "OpenAI استارتاپ NextSlide را تصاحب کرد؛ تیم آن به ChatGPT پیوست",
+      "title_en": "OpenAI acquires presentation startup NextSlide",
+      "summary_fa": "شرکت OpenAI، توسعه‌دهنده پیشرو در حوزه هوش مصنوعی، استارتاپ NextSlide را به مالکیت خود درآورد. اعضای تیم NextSlide، که در زمینه ارائه‌های دیجیتال فعالیت می‌کرد، اکنون به تیم توسعه ChatGPT پیوسته‌اند و بر روی پروژه‌های مرتبط با آن کار خواهند کرد. این حرکت نشان‌دهنده گسترش تمرکز OpenAI بر کاربردهای جدید و جذب استعدادهای تخصصی است.",
+      "tags": [
+        "OpenAI",
+        "NextSlide",
+        "ChatGPT",
+        "اکتساب",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "da00e1a1384b1683",
+      "date": "2026-08-06",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "تیم سابق اسپاتیفای با ۱۰ میلیون دلار سرمایه، هوش مصنوعی توصیه‌گر را به تجارت الکترونیک می‌آورد",
+      "title_en": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
+      "summary_fa": "کارمندان سابق اسپاتیفای با جذب ۱۰ میلیون دلار سرمایه، استارتاپی را راه‌اندازی کرده‌اند که قصد دارد هوش مصنوعی پیشرفته توصیه‌گر موسیقی این شرکت را به حوزه تجارت الکترونیک وارد کند. پلتفرم هوش مصنوعی آن‌ها قادر است محصول بعدی مورد علاقه خریداران را پیش‌بینی کرده و با یادگیری سلیقه کلی آن‌ها، به صورت لحظه‌ای و بر اساس رفتارهای کاربر، پیشنهادات خود را دقیق‌تر کند.",
+      "tags": [
+        "Spotify",
+        "AI",
+        "E-commerce",
+        "Recommendation Engine",
+        "استارتاپ"
+      ]
+    },
+    {
+      "id": "1fba99a1ba40f767",
+      "date": "2026-08-06",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "Mirendil با قرارداد ۱۰۰ میلیون دلاری گوگل کلود، به توسعه هوش مصنوعی خودبهبوددهنده سرعت می‌بخشد",
+      "title_en": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
+      "summary_fa": "شرکت Mirendil قراردادی به ارزش بیش از ۱۰۰ میلیون دلار با Google Cloud امضا کرده است. این همکاری با هدف گسترش زیرساخت‌های محاسباتی Mirendil برای پیشبرد تحقیقات در زمینه سیستم‌های هوش مصنوعی خودبهبوددهنده صورت می‌گیرد. این سیستم‌ها برای تسریع کشفیات علمی و توسعه کلی هوش مصنوعی طراحی شده‌اند.",
+      "tags": [
+        "Mirendil",
+        "Google Cloud",
+        "Self-improving AI",
+        "هوش مصنوعی",
+        "محاسبات ابری"
+      ]
+    },
+    {
+      "id": "a7be612269dbdab6",
+      "date": "2026-08-06",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
+      "category": "کاربردها و محصولات هوش مصنوعی",
+      "title_fa": "گوگل مپس فراتر از مسیریابی: از یک نقشه به دستیار هوشمند برای سفارش غذا و رزرو هتل",
+      "title_en": "Google Maps adds agentic features, including food ordering and hotel bookings",
+      "summary_fa": "گوگل با معرفی قابلیت‌های جدیدی از جمله امکان سفارش غذا و رزرو هتل، قصد دارد گوگل مپس را از یک ابزار مسیریابی ساده به یک دستیار هوشمند قدرتمند تبدیل کند. این به‌روزرسانی‌ها جاه‌طلبی گوگل برای کمک به کاربران در انجام کارهای روزمره و تعامل مستقیم‌تر با دنیای واقعی از طریق این اپلیکیشن را نشان می‌دهد.",
+      "tags": [
+        "Google Maps",
+        "Google",
+        "Agentic AI",
+        "دستیار هوشمند",
+        "سفارش آنلاین"
+      ]
+    },
+    {
+      "id": "c62018892e4476d4",
+      "date": "2026-08-06",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "Omilia با جذب ۶۷ میلیون دلار سرمایه، پلتفرم پشتیبانی مشتری خود را گسترش می‌دهد",
+      "title_en": "Omilia raises $67M to scale its customer support platform",
+      "summary_fa": "شرکت Omilia در دور تأمین مالی سری B خود ۶۷ میلیون دلار جذب کرد. این دومین جذب سرمایه این شرکت از سال ۲۰۲۰ است و در این مدت، درآمد سالانه تکراری (ARR) آن ۱۰ برابر افزایش یافته و به ۶۰ میلیون دلار رسیده است.",
+      "tags": [
+        "Omilia",
+        "Customer Support",
+        "AI",
+        "Funding",
+        "SaaS"
       ]
     }
   ]
