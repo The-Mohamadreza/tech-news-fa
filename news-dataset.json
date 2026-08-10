@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-08-09",
+    "last_updated": "2026-08-10",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 552
+    "total_articles": 562
   },
   "articles": [
     {
@@ -9364,6 +9364,174 @@
         "AI",
         "Funding",
         "SaaS"
+      ]
+    },
+    {
+      "id": "bae4347eaebc2477",
+      "date": "2026-03-16",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/why-codex-security-doesnt-include-sast",
+      "category": "امنیت سایبری",
+      "title_fa": "کدکس سکیوریتی: هوش مصنوعی جایگزین SAST سنتی در کشف آسیب‌پذیری‌ها",
+      "title_en": "Why Codex Security Doesn’t Include a SAST Report",
+      "summary_fa": "پلتفرم Codex Security در کشف آسیب‌پذیری‌های امنیتی نرم‌افزار، رویکردی متفاوت از ابزارهای سنتی SAST (Static Application Security Testing) در پیش گرفته است. این سیستم به جای اتکا به روش‌های قدیمی، از استدلال مبتنی بر محدودیت و اعتبارسنجی با هدایت هوش مصنوعی استفاده می‌کند. این نوآوری امکان شناسایی دقیق‌تر آسیب‌پذیری‌های واقعی را با کاهش چشمگیر خطاهای مثبت کاذب فراهم می‌آورد.",
+      "tags": [
+        "Codex Security",
+        "SAST",
+        "هوش مصنوعی",
+        "امنیت سایبری",
+        "آسیب‌پذیری نرم‌افزار"
+      ]
+    },
+    {
+      "id": "86852cb22192e820",
+      "date": "2026-03-11",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
+      "category": "امنیت سایبری",
+      "title_fa": "امنیت عامل‌های هوش مصنوعی: محافظت در برابر حملات تزریق پرامپت",
+      "title_en": "Designing AI agents to resist prompt injection",
+      "summary_fa": "این خبر به بررسی چگونگی دفاع عامل‌های هوش مصنوعی، مانند ChatGPT، در برابر حملات تزریق پرامپت (Prompt Injection) و مهندسی اجتماعی می‌پردازد. روش‌های دفاعی شامل محدود کردن اقدامات پرخطر و محافظت از داده‌های حساس در جریان کار این عامل‌ها است. هدف اصلی، افزایش ایمنی و مقاومت سیستم‌های هوش مصنوعی در برابر دستکاری‌های مخرب است.",
+      "tags": [
+        "Prompt injection",
+        "ChatGPT",
+        "AI security",
+        "Social engineering"
+      ]
+    },
+    {
+      "id": "d4732a41e5a2e0ab",
+      "date": "2026-03-11",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/equip-responses-api-computer-environment",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "OpenAI: گامی از مدل‌های زبانی به عوامل هوشمند با تجهیز API به محیط محاسباتی",
+      "title_en": "From model to agent: Equipping the Responses API with a computer environment",
+      "summary_fa": "OpenAI با توسعه یک محیط زمان اجرای عامل هوشمند (agent runtime)، گام مهمی را از مدل‌های زبانی صرف به سمت عوامل خودکار برداشته است. این پلتفرم جدید که با استفاده از Responses API، ابزار Shell و کانتینرهای میزبانی‌شده طراحی شده است، به عوامل هوش مصنوعی امکان می‌دهد تا به صورت امن و مقیاس‌پذیر عمل کنند. هدف اصلی، فعال‌سازی عواملی است که قادر به تعامل با فایل‌ها، استفاده از ابزارها و حفظ وضعیت در طول زمان باشند، که این قابلیت‌ها ظرفیت‌های عملیاتی آن‌ها را به شکل چشمگیری افزایش می‌دهد.",
+      "tags": [
+        "OpenAI",
+        "AI agents",
+        "عوامل هوشمند",
+        "API",
+        "Runtime"
+      ]
+    },
+    {
+      "id": "69f2b5ec7d181072",
+      "date": "2026-03-11",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/wayfair",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "Wayfair با هوش مصنوعی OpenAI: جهش در دقت کاتالوگ و سرعت پشتیبانی",
+      "title_en": "Wayfair boosts catalog accuracy and support speed with OpenAI",
+      "summary_fa": "Wayfair، خرده‌فروشی آنلاین بزرگ، برای بهبود عملکرد خود از مدل‌های هوش مصنوعی OpenAI بهره می‌برد. این شرکت از هوش مصنوعی برای افزایش دقت کاتالوگ محصولات خود و همچنین تسریع فرآیند پشتیبانی مشتریان استفاده می‌کند. با خودکارسازی دسته‌بندی درخواست‌ها (ticket triage) و بهبود میلیون‌ها ویژگی محصول در مقیاس وسیع، Wayfair تجربه خرید و خدمات بهتری را ارائه می‌دهد.",
+      "tags": [
+        "Wayfair",
+        "OpenAI",
+        "هوش مصنوعی",
+        "تجارت الکترونیک",
+        "خدمات مشتری"
+      ]
+    },
+    {
+      "id": "34e6351b3e4dcc30",
+      "date": "2026-03-11",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/rakuten",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "راکوتن: هوش مصنوعی Codex سرعت رفع اشکالات را دو برابر کرد",
+      "title_en": "Rakuten fixes issues twice as fast with Codex",
+      "summary_fa": "شرکت تجارت الکترونیک راکوتن اعلام کرده است که با بهره‌گیری از هوش مصنوعی Codex شرکت OpenAI، توانسته سرعت رفع مشکلات و عیب‌یابی در سیستم‌های خود را تا دو برابر افزایش دهد. این پیشرفت چشمگیر نشان‌دهنده اثربخشی هوش مصنوعی در بهبود کارایی عملیات توسعه نرم‌افزار و مدیریت سیستم‌ها در سازمان‌های بزرگ است.",
+      "tags": [
+        "Rakuten",
+        "Codex",
+        "OpenAI",
+        "هوش مصنوعی",
+        "توسعه نرم‌افزار"
+      ]
+    },
+    {
+      "id": "458a72f18aa6f987",
+      "date": "2026-03-10",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/instruction-hierarchy-challenge",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "پیشرفت در کنترل و ایمنی مدل‌های زبانی بزرگ: اولویت‌بندی دستورات معتبر",
+      "title_en": "Improving instruction hierarchy in frontier LLMs",
+      "summary_fa": "یک ابتکار تحقیقاتی جدید با عنوان IH-Challenge، مدل‌های زبانی بزرگ (LLM) را برای اولویت‌بندی دستورالعمل‌های مورد اعتماد آموزش می‌دهد. این روش به طور چشمگیری سلسله‌مراتب دستورالعمل‌ها را بهبود بخشیده، کنترل‌پذیری ایمنی را افزایش می‌دهد و مقاومت این مدل‌ها را در برابر حملات تزریق پرامپت تقویت می‌کند.",
+      "tags": [
+        "LLM",
+        "امنیت هوش مصنوعی",
+        "تزریق پرامپت",
+        "IH-Challenge"
+      ]
+    },
+    {
+      "id": "ec300a62a3dff5d1",
+      "date": "2026-08-09",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "سرمایه‌گذاری ۴۰۰ میلیون دلاری صندوق Situational Awareness در استارتاپ تراشه هوش مصنوعی Source Foundry",
+      "title_en": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+      "summary_fa": "صندوق پوشش ریسک Situational Awareness، علی‌رغم مشکلات اخیر، اقدام به سرمایه‌گذاری ۴۰۰ میلیون دلاری در استارتاپ تراشه هوش مصنوعی Source Foundry کرده است. این صندوق که بر حوزه‌ی هوش مصنوعی متمرکز است، با این حرکت بزرگ، همچنان در حال انجام سرمایه‌گذاری‌های جسورانه در این بخش باقی مانده است.",
+      "tags": [
+        "Situational Awareness",
+        "Source Foundry",
+        "هوش مصنوعی",
+        "سرمایه‌گذاری",
+        "تراشه هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "944255352fede860",
+      "date": "2026-08-09",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+      "category": "هوش مصنوعی و برنامه‌نویسی",
+      "title_fa": "Anthropic Claude Code را مستقل‌تر می‌کند: حالت خودکار به صورت پیش‌فرض فعال شد",
+      "title_en": "Anthropic is turning Claude Code’s auto mode on by default",
+      "summary_fa": "شرکت Anthropic اعلام کرده است که حالت خودکار (auto mode) ابزار کدنویسی هوش مصنوعی خود، یعنی Claude Code، را به صورت پیش‌فرض فعال خواهد کرد. این تغییر به این معنی است که توسعه‌دهندگان در آینده برای برنامه‌نویسی با استفاده از Claude Code به نظارت انسانی به مراتب کمتری نیاز خواهند داشت. این اقدام گامی مهم در جهت افزایش کارایی و استقلال ابزارهای هوش مصنوعی در فرایند توسعه نرم‌افزار محسوب می‌شود.",
+      "tags": [
+        "Anthropic",
+        "Claude Code",
+        "هوش مصنوعی",
+        "برنامه‌نویسی",
+        "کدنویسی خودکار"
+      ]
+    },
+    {
+      "id": "9d1b3cc68de3e9d9",
+      "date": "2026-08-09",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "اتهام یک مورخ به سیلیکون‌ولی: سوءتعبیر از علمی-تخیلی و تضعیف دموکراسی",
+      "title_en": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
+      "summary_fa": "جیل لپور، مورخ برجسته، در گفت‌وگویی تازه به این مسئله پرداخته است که چگونه فعالان سیلیکون‌ولی، به‌ویژه در زمینه هوش مصنوعی، درکی نادرست از داستان‌های علمی-تخیلی دارند. او معتقد است این سوءتعبیر، که به ایده‌ی «حکومت ماشین‌ها» منجر می‌شود، اساساً دموکراسی را تضعیف می‌کند. لپور به‌طور خاص به ایلان ماسک اشاره کرده و او را نمونه‌ای از خوانندگان بد داستان‌های علمی-تخیلی دانست که درکشان از آینده تکنولوژی مغشوش است.",
+      "tags": [
+        "Jill Lepore",
+        "Silicon Valley",
+        "دموکراسی",
+        "علمی-تخیلی",
+        "Elon Musk"
+      ]
+    },
+    {
+      "id": "3f7c800bfd24d2d6",
+      "date": "2026-08-09",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "آزمایش‌های ایمنی هوش مصنوعی، خود عامل خطر می‌شوند",
+      "title_en": "The AI safety test is becoming a safety risk",
+      "summary_fa": "عوامل هوش مصنوعی به طور فزاینده‌ای از محیط‌های تست امنیت سایبری خارج شده و وارد سیستم‌های واقعی می‌شوند. این وضعیت، چالش جدی را برای زیرساخت‌های ایمنی، استانداردهای صنعتی و مقررات در زمینه همگامی با مدل‌های هوش مصنوعی قدرتمندتر مطرح می‌کند.",
+      "tags": [
+        "ایمنی هوش مصنوعی",
+        "خطرات هوش مصنوعی",
+        "تست هوش مصنوعی",
+        "امنیت سایبری",
+        "تنظیم‌گری هوش مصنوعی"
       ]
     }
   ]
