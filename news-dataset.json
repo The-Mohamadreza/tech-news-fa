@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-08-11",
+    "last_updated": "2026-08-12",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 575
+    "total_articles": 587
   },
   "articles": [
     {
@@ -9753,6 +9753,209 @@
         "هوش مصنوعی مولد",
         "نوآوری",
         "Transformer"
+      ]
+    },
+    {
+      "id": "b274e00978a8c030",
+      "date": "2026-08-11",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+      "category": "امنیت سایبری",
+      "title_fa": "مدل‌های امنیت سایبری Daybreak: همکاری OpenAI و AWS برای ارتقای امنیت سازمانی",
+      "title_en": "Daybreak models are now available on AWS",
+      "summary_fa": "شرکت OpenAI و Amazon Web Services (AWS) با همکاری یکدیگر، قابلیت‌های امنیت سایبری مدل‌های Daybreak را از طریق پلتفرم Amazon Bedrock در دسترس قرار داده‌اند.\nاین اقدام با هدف کمک به سازمان‌ها برای تقویت و بهبود گردش‌کارهای امنیتی خود با استفاده از هوش مصنوعی پیشرفته صورت گرفته است.",
+      "tags": [
+        "OpenAI",
+        "AWS",
+        "Amazon Bedrock",
+        "Daybreak",
+        "امنیت سایبری",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "ee449db47d8dff19",
+      "date": "2026-08-10",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/premium-seats-chatgpt-business",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "ChatGPT Business: معرفی امکانات پرمیوم برای کسب‌وکارها",
+      "title_en": "Premium seats are coming to ChatGPT Business",
+      "summary_fa": "اوپن‌ای‌آی در حال افزودن امکانات پرمیوم به سرویس ChatGPT Business است. این امکانات به شرکت‌ها اجازه می‌دهد تا با بهره‌گیری از منابع بیشتر، پروژه‌های سنگین و نیازمند به قدرت پردازشی بالا را مدیریت کنند. همچنین، کسب‌وکارهایی که تا ۲۰ آگوست برای این سرویس ثبت‌نام کنند، ۱۰۰ دلار اعتبار رایگان دریافت خواهند کرد.",
+      "tags": [
+        "ChatGPT Business",
+        "OpenAI",
+        "هوش مصنوعی سازمانی",
+        "خدمات ابری AI"
+      ]
+    },
+    {
+      "id": "1ea3eea3d9a52b4c",
+      "date": "2026-08-10",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/zapier",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "Zapier: دگرگونی بازاریابی سازمانی با قدرت ChatGPT Work",
+      "title_en": "How Zapier transformed core marketing processes with ChatGPT Work",
+      "summary_fa": "تیم بازاریابی سازمانی Zapier برای بهینه‌سازی فرآیندهای خود به سراغ ChatGPT Work رفته است. این پلتفرم هوش مصنوعی به آنها کمک می‌کند تا ریزش سرنخ‌ها در قیف فروش را کاهش دهند و کارایی خود را بالا ببرند. همچنین، تیم بازاریابی Zapier از ChatGPT Work برای تولید محتوای کمپین‌ها و خودکارسازی فرآیند گزارش‌دهی بهره می‌برد که منجر به افزایش چشمگیر کارایی شده است.",
+      "tags": [
+        "Zapier",
+        "ChatGPT Work",
+        "هوش مصنوعی",
+        "بازاریابی",
+        "اتوماسیون"
+      ]
+    },
+    {
+      "id": "8f3f7b571773b5e8",
+      "date": "2026-08-10",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "ویرجین آتلانتیک: ارتقاء هوشمندانه تجربه مشتری با ChatGPT Work",
+      "title_en": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+      "summary_fa": "شرکت هواپیمایی ویرجین آتلانتیک برای تسریع چشمگیر فرآیندهای تحقیقاتی، برنامه‌ریزی محصولات و تصمیم‌گیری‌های خود از ابزار ChatGPT Work بهره می‌برد. این پلتفرم به تیم‌های ویرجین آتلانتیک کمک می‌کند تا تمامی سیگنال‌ها و داده‌ها را در طول سفر مشتری به هم متصل کرده و درک جامع‌تری از نیازهای مسافران به دست آورند. هدف نهایی، ارائه تجربه‌ای روان‌تر، شخصی‌سازی‌شده‌تر و کارآمدتر برای تمامی مشتریان است.",
+      "tags": [
+        "Virgin Atlantic",
+        "ChatGPT Work",
+        "هوش مصنوعی",
+        "تجربه مشتری",
+        "شرکت هواپیمایی"
+      ]
+    },
+    {
+      "id": "88306bd64ac11846",
+      "date": "2026-03-10",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "گام نوین ChatGPT در آموزش ریاضی و علوم: توضیحات بصری و تعاملی",
+      "title_en": "New ways to learn math and science in ChatGPT",
+      "summary_fa": "ChatGPT قابلیت‌های جدیدی را برای آموزش ریاضی و علوم معرفی کرده است. این قابلیت‌ها شامل توضیحات بصری تعاملی هستند که به دانش‌آموزان کمک می‌کنند تا فرمول‌ها، متغیرها و مفاهیم پیچیده را به صورت بی‌درنگ و شهودی بررسی کنند. این نوآوری هدفمند است تا فرآیند یادگیری را برای کاربران تسهیل و عمیق‌تر سازد.",
+      "tags": [
+        "ChatGPT",
+        "AI",
+        "Education",
+        "OpenAI",
+        "Interactive learning"
+      ]
+    },
+    {
+      "id": "bdffd4a95bf1bb86",
+      "date": "2026-03-09",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/openai-to-acquire-promptfoo",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "OpenAI با خرید Promptfoo، امنیت سیستم‌های هوش مصنوعی را تقویت می‌کند",
+      "title_en": "OpenAI to acquire Promptfoo",
+      "summary_fa": "شرکت OpenAI در حال خرید Promptfoo، یک پلتفرم امنیت هوش مصنوعی است. Promptfoo به شرکت‌ها کمک می‌کند تا آسیب‌پذیری‌ها و نقاط ضعف را در سیستم‌های هوش مصنوعی خود، به خصوص در طول فرایند توسعه، شناسایی و برطرف کنند. این تصاحب می‌تواند گامی مهم برای افزایش ایمنی و پایداری مدل‌های هوش مصنوعی OpenAI باشد و نشان‌دهنده تمرکز بیشتر بر مسئولیت‌پذیری در توسعه هوش مصنوعی است.",
+      "tags": [
+        "OpenAI",
+        "Promptfoo",
+        "امنیت هوش مصنوعی",
+        "ایمنی هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "25809d3aff130c2f",
+      "date": "2026-08-11",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
+      "category": "توسعه محصول و پلتفرم هوش مصنوعی",
+      "title_fa": "ChatGPT بالاخره به دسکتاپ لینوکس رسید",
+      "title_en": "OpenAI launches ChatGPT desktop app for Linux",
+      "summary_fa": "شرکت OpenAI بالاخره اپلیکیشن اختصاصی دسکتاپ ChatGPT را برای سیستم‌عامل لینوکس منتشر کرد. این اقدام دسترسی کاربران لینوکس به قابلیت‌های هوش مصنوعی ChatGPT را مستقیماً از طریق دسکتاپ سهولت می‌بخشد.",
+      "tags": [
+        "OpenAI",
+        "ChatGPT",
+        "Linux",
+        "اپلیکیشن دسکتاپ",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "8b18fe174be4812d",
+      "date": "2026-08-11",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "جمینی گوگل از مرز یک میلیارد کاربر گذشت: اوج‌گیری استفاده از قابلیت‌های صوتی و تصویری",
+      "title_en": "Google’s Gemini app surges to 1 billion users",
+      "summary_fa": "اپلیکیشن هوش مصنوعی جمینی گوگل به تازگی از مرز یک میلیارد کاربر عبور کرده است. گوگل همچنین جزئیات استفاده کاربران از این چت‌بات را به اشتراک گذاشته که نشان می‌دهد ۶۳ درصد از کاربران جمینی مستقیماً از طریق ویژگی صوتی با آن مکالمه می‌کنند. علاوه بر این، جمینی اکنون روزانه بیش از ۱۵۰ میلیون تصویر تولید می‌کند که نشان‌دهنده استقبال گسترده از قابلیت‌های مولد آن است.",
+      "tags": [
+        "Google",
+        "Gemini",
+        "هوش مصنوعی",
+        "چت‌بات",
+        "رشد کاربران"
+      ]
+    },
+    {
+      "id": "76fde13897ce60cc",
+      "date": "2026-08-11",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "سرمایه‌گذاری عظیم ۱.۱ میلیارد دلاری General Catalyst در استارتاپ دوماهه River AI",
+      "title_en": "General Catalyst leads $1.1B round into 2-month-old River AI",
+      "summary_fa": "استارتاپ River AI، که توسط ایگور بابوشکین، یکی از بنیانگذاران xAI، تأسیس شده، تنها دو ماه پس از آغاز به کار، موفق به جذب سرمایه هنگفت ۱.۱ میلیارد دلاری شد. این سرمایه‌گذاری که توسط General Catalyst رهبری شده، نشان‌دهنده اعتماد به چشم‌انداز این شرکت در توسعه دستیارهای شخصی هوشمند است.",
+      "tags": [
+        "River AI",
+        "General Catalyst",
+        "xAI",
+        "سرمایه‌گذاری",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "5570c557a3ab740b",
+      "date": "2026-08-11",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "مدل هوش مصنوعی Anthropic: پیشرفتی غیرمنتظره در معمای ۱۵۰ ساله ریمان",
+      "title_en": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
+      "summary_fa": "فرضیه ریمان بیش از ۱۵۰ سال است که به عنوان یکی از بزرگترین مسائل حل‌نشده در ریاضیات مطرح است. اگرچه مدل‌های هوش مصنوعی شرکت Anthropic این فرضیه را به طور کامل حل نکرده‌اند، اما پیشرفت‌هایی فراتر از انتظار در این زمینه داشته‌اند. این دستاورد، پتانسیل فزاینده هوش مصنوعی در درک و مواجهه با چالش‌های علمی عمیق را به نمایش می‌گذارد.",
+      "tags": [
+        "Anthropic",
+        "Riemann hypothesis",
+        "هوش مصنوعی",
+        "ریاضیات",
+        "مدل‌های هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "8fddc0f0ab4e854a",
+      "date": "2026-08-11",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/08/11/1141635/how-the-censorship-industrial-complex-is-changing-the-internet-and-us-policy/",
+      "category": "سیاست و تنظیم‌گری",
+      "title_fa": "ظهور «مجتمع صنعتی سانسور»: تغییر چهره اینترنت و سیاست خارجی آمریکا",
+      "title_en": "How the “censorship-industrial complex” is changing the Internet and US policy",
+      "summary_fa": "مفهوم «مجتمع صنعتی سانسور» در حال تبدیل شدن به یک موضوع کلیدی در بحث‌های مربوط به آینده اینترنت و سیاست‌های ایالات متحده است. اخیراً، دفتری در وزارت امور خارجه آمریکا با نام R/FIMI که مسئول مقابله با اطلاعات نادرست خارجی از کشورهایی مانند روسیه، ایران و چین بود، در آستانه تعطیلی قرار گرفت. این تحولات نشان‌دهنده یک تغییر جهت‌گیری عمیق در رویکرد آمریکا به کنترل اطلاعات و مبارزه با اطلاعات نادرست، و پیامدهای آن برای آزادی اینترنت و سیاست خارجی کشور است.",
+      "tags": [
+        "Censorship-industrial complex",
+        "Disinformation",
+        "سیاست آمریکا",
+        "اینترنت",
+        "R/FIMI"
+      ]
+    },
+    {
+      "id": "1a2fbaeed3343394",
+      "date": "2026-08-11",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "نسل بعدی مدل‌های زبانی بزرگ و تحول در پژوهش‌های هوش مصنوعی",
+      "title_en": "The Download: the next big thing in LLMs and how AI academic research is shifting",
+      "summary_fa": "این خبر به بررسی روند تکاملی مدل‌های زبانی بزرگ (LLM) می‌پردازد و به نوآوری‌های پیش رو در این حوزه اشاره می‌کند. استارتاپ‌های متعددی در حال پیگیری نسل بعدی LLMها هستند که بر پایه معماری ترنسفورمر، که نه سال پیش توسط محققان گوگل معرفی شد و اکنون موتور محرک تمامی مدل‌های بزرگ است، بنا شده‌اند. همچنین، این گزارش به تغییر جهت‌گیری و اولویت‌بندی پژوهش‌های دانشگاهی در حوزه هوش مصنوعی می‌پردازد.",
+      "tags": [
+        "LLMs",
+        "پژوهش هوش مصنوعی",
+        "Transformer",
+        "Startups",
+        "Google"
       ]
     }
   ]
