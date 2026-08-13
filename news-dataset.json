@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-08-12",
+    "last_updated": "2026-08-13",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 587
+    "total_articles": 603
   },
   "articles": [
     {
@@ -9956,6 +9956,279 @@
         "Transformer",
         "Startups",
         "Google"
+      ]
+    },
+    {
+      "id": "fb21820d806b1b78",
+      "date": "2026-08-12",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "تحول هوش مصنوعی در سازمان‌ها: از دستیاری صرف تا اجرای کامل وظایف",
+      "title_en": "From assistance to execution: How enterprises put AI to work",
+      "summary_fa": "نتایج تحقیقات جدید OpenAI چگونگی پذیرش هوش مصنوعی عامل‌محور (Agentic AI) توسط سازمان‌ها را آشکار ساخته است. این مطالعه نشان می‌دهد که شرکت‌ها چگونه از مدل‌هایی مانند ChatGPT و Codex استفاده می‌کنند. همچنین، این گزارش تاکید می‌کند که شرکت‌های پیشرو با سرعت بیشتری در بهره‌گیری از هوش مصنوعی پیشتاز هستند و از قابلیت‌های آن برای اجرای عملیاتی وظایف بهره می‌برند.",
+      "tags": [
+        "OpenAI",
+        "ChatGPT",
+        "Agentic AI",
+        "پذیرش هوش مصنوعی",
+        "سازمان‌ها"
+      ]
+    },
+    {
+      "id": "cad35e6294feba2f",
+      "date": "2026-08-12",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/ringcentral",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "استراتژی RingCentral: ادغام هوش مصنوعی در تمام مراحل از مهندسی تا عملیات",
+      "title_en": "How RingCentral builds AI-native work from engineering to ops",
+      "summary_fa": "شرکت RingCentral با بهره‌گیری از ابزارهایی مانند ChatGPT Work و Codex، فرایند توسعه محصولات مبتنی بر هوش مصنوعی خود را تسریع بخشیده است. این رویکرد به آن‌ها امکان می‌دهد تا اطلاعات عملیاتی را در سراسر بخش‌های مهندسی و عملیات متمرکز کرده و هوش مصنوعی را به صورت بومی در تمامی جنبه‌های کاری خود ادغام کنند.",
+      "tags": [
+        "RingCentral",
+        "ChatGPT Work",
+        "Codex",
+        "هوش مصنوعی",
+        "توسعه محصول"
+      ]
+    },
+    {
+      "id": "b9a7811027c857a9",
+      "date": "2026-07-14",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/academy/chatgpt-work/how-data-science-teams-use-codex",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "ChatGPT Work: افزایش بهره‌وری تیم‌های علم داده در تحلیل و گزارش‌دهی",
+      "title_en": "How data science teams use ChatGPT Work",
+      "summary_fa": "تیم‌های علم داده می‌توانند از ChatGPT Work برای افزایش کارایی خود در فرآیندهای تحلیلی و گزارش‌دهی استفاده کنند. این ابزار به آن‌ها امکان می‌دهد تا از ورودی‌های کاری واقعی، خلاصه‌های تحلیل ریشه‌ای، گزارش‌های تأثیرگذاری، یادداشت‌های KPI و مشخصات داشبورد را به سرعت ایجاد کنند. استفاده از ChatGPT Work به ساده‌سازی و تسریع تهیه مستندات تحلیلی کمک می‌کند و زمان لازم برای ارائه بینش‌های کلیدی را کاهش می‌دهد.",
+      "tags": [
+        "ChatGPT Work",
+        "Data Science",
+        "هوش مصنوعی",
+        "بهره‌وری",
+        "تحلیل داده"
+      ]
+    },
+    {
+      "id": "40d7f59e47186db1",
+      "date": "2026-07-14",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/academy/chatgpt-work/how-sales-teams-use-codex",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "ChatGPT Work: هوش مصنوعی در خدمت تیم‌های فروش برای افزایش کارایی و برنامه‌ریزی هوشمند",
+      "title_en": "How sales teams use ChatGPT Work",
+      "summary_fa": "تیم‌های فروش می‌توانند از قابلیت‌های ChatGPT Work برای بهینه‌سازی فرآیندهای کاری خود بهره ببرند. این ابزار هوش مصنوعی امکان تهیه خلاصه‌های خط لوله فروش، بسته‌های آمادگی جلسات، بررسی پیش‌بینی‌ها و برنامه‌ریزی حساب‌ها را فراهم می‌آورد. همچنین، با تحلیل ورودی‌های واقعی کاری، به تشخیص دلایل توقف معاملات کمک کرده و برنامه‌ریزی استراتژیک را تسهیل می‌کند.",
+      "tags": [
+        "ChatGPT Work",
+        "Sales",
+        "هوش مصنوعی",
+        "کارایی",
+        "ابزارهای سازمانی"
+      ]
+    },
+    {
+      "id": "f486b6f8ef6c8c01",
+      "date": "2026-05-15",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/academy/chatgpt-work/how-business-operations-teams-use-codex",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "ChatGPT Work: ابزاری کلیدی برای افزایش بهره‌وری تیم‌های عملیاتی کسب‌وکار",
+      "title_en": "How business operations teams use ChatGPT Work",
+      "summary_fa": "این خبر به بررسی چگونگی استفاده تیم‌های عملیاتی کسب‌وکار از ChatGPT Work می‌پردازد. این ابزار به آنها امکان می‌دهد تا از ورودی‌های کاری واقعی، اسناد مهمی مانند گزارش‌های اولیه طرح‌ها، به‌روزرسانی‌های استراتژی، بسته‌های تصمیم‌گیری برای مدیران و گزارش‌های پیشرفت را تولید کنند. هدف اصلی این کاربرد، تسهیل و تسریع فرآیندهای عملیاتی و تصمیم‌گیری در سازمان‌ها است.",
+      "tags": [
+        "ChatGPT Work",
+        "هوش مصنوعی",
+        "کسب‌وکار",
+        "بهره‌وری",
+        "عملیات کسب‌وکار"
+      ]
+    },
+    {
+      "id": "f15850658adf779c",
+      "date": "2026-03-06",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/codex-security-now-in-research-preview",
+      "category": "امنیت سایبری",
+      "title_fa": "Codex Security: هوش مصنوعی تامین امنیت برنامه‌ها در دسترس محققان قرار گرفت",
+      "title_en": "Codex Security: now in research preview",
+      "summary_fa": "Codex Security عاملی امنیتی و مبتنی بر هوش مصنوعی است که برای تامین امنیت برنامه‌ها طراحی شده. این ابزار با تحلیل دقیق محتوای پروژه‌ها، آسیب‌پذیری‌های پیچیده را شناسایی، اعتبارسنجی و رفع می‌کند. هدف آن ارائه راه‌حل‌های امنیتی با اطمینان بالا و حداقل خطا است و اکنون در مرحله پیش‌نمایش تحقیقاتی قرار گرفته است.",
+      "tags": [
+        "Codex Security",
+        "هوش مصنوعی",
+        "امنیت برنامه‌ها",
+        "Cybersecurity",
+        "AppSec"
+      ]
+    },
+    {
+      "id": "6648dbd01204eccb",
+      "date": "2026-08-12",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+      "category": "حریم خصوصی",
+      "title_fa": "واترمارک‌های افشاگر آنتروپیک؛ کاربران Claude نگران لو رفتن استفاده در محیط کار و تحصیل هستند",
+      "title_en": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+      "summary_fa": "شرکت Anthropic به تازگی یک سیستم واترمارکینگ جدید برای مدل هوش مصنوعی Claude خود معرفی کرده است که هدف آن شناسایی محتوای تولید شده توسط این هوش مصنوعی است. اما این اقدام با واکنش‌های تند کاربران در شبکه‌های اجتماعی مواجه شده است. بسیاری از کاربران نگران هستند که این واترمارک‌ها می‌توانند استفاده آن‌ها از Claude را در محیط‌های کاری یا تحصیلی فاش کرده و آن‌ها را در معرض مشکلات احتمالی قرار دهند. این موضوع بحث‌هایی را پیرامون حریم خصوصی و شفافیت در استفاده از ابزارهای هوش مصنوعی برانگیخته است.",
+      "tags": [
+        "Anthropic",
+        "Claude",
+        "واترمارک",
+        "حریم خصوصی",
+        "اخلاق هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "05510c646bcda098",
+      "date": "2026-08-12",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "محتوای استریمرهای توییچ، خوراک پیش‌فرض هوش مصنوعی آمازون؛ جنجال بر سر رضایت",
+      "title_en": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
+      "summary_fa": "آمازون اعلام کرده است که قصد دارد از محتوای تولید شده توسط استریمرهای پلتفرم توییچ برای آموزش مدل‌های هوش مصنوعی خود استفاده کند. این سیاست به صورت پیش‌فرض (opt-out) اعمال می‌شود، به این معنی که محتوای تمامی کاربران به صورت خودکار مورد استفاده قرار می‌گیرد، مگر اینکه خودشان به صورت فعالانه انصراف دهند. مایک مینتون، مدیر ارشد محصولات توییچ، در واکنش به انتقادات، صراحتاً اعتراف کرد که اگر این سیستم به صورت انتخابی (opt-in) بود، هیچ‌کس با آن موافقت نمی‌کرد، که نشان‌دهنده بحث‌برانگیز بودن این رویکرد در زمینه حریم خصوصی و رضایت کاربران است.",
+      "tags": [
+        "Amazon",
+        "Twitch",
+        "آموزش هوش مصنوعی",
+        "حریم خصوصی",
+        "Opt-out"
+      ]
+    },
+    {
+      "id": "b83b50f5183589b9",
+      "date": "2026-08-12",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "مذاکرات Cognition برای جذب سرمایه با ارزش خیره‌کننده ۴۰ میلیارد دلار",
+      "title_en": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+      "summary_fa": "استارتاپ Cognition که در حوزه کدنویسی با هوش مصنوعی فعالیت می‌کند، تنها چند ماه پس از جذب سرمایه ۱ میلیارد دلاری با ارزش ۲۶ میلیارد دلار، بار دیگر در حال مذاکره برای جذب دور جدید سرمایه است. گزارش‌ها حاکی از آن است که این شرکت به دنبال افزایش سرمایه با ارزش‌گذاری چشمگیر ۴۰ میلیارد دلاری است.",
+      "tags": [
+        "Cognition",
+        "AI coding",
+        "Startup funding",
+        "Valuation",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "84d87ed8b9ce946e",
+      "date": "2026-08-12",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "چالش ایمنی هوش مصنوعی: تأکید سه پیشگام بر رویکرد «باز»",
+      "title_en": "As AI safety concerns mount, three pioneers make the case for staying open",
+      "summary_fa": "در کنفرانس Ai4، سه تن از برجسته‌ترین متخصصان هوش مصنوعی جهان – جفری هینتون، فی‌فی لی و اندرو اِن‌جی – گرد هم آمدند تا درباره موضوعات حیاتی این حوزه مناظره کنند. محور اصلی بحث‌های آن‌ها شامل مقررات‌گذاری هوش مصنوعی، دسترسی آزاد به کد منبع (Open Source) و چگونگی رقابت آمریکا با پیشرفت‌های چین در قاره آسیا بود. این پیشگامان در حالی بر حفظ رویکردی باز در توسعه هوش مصنوعی تأکید کردند که نگرانی‌های فزاینده‌ای درباره ایمنی و خطرات احتمالی آن مطرح است.",
+      "tags": [
+        "ایمنی هوش مصنوعی",
+        "مقررات‌گذاری هوش مصنوعی",
+        "Open Source AI",
+        "Geoffrey Hinton",
+        "Andrew Ng"
+      ]
+    },
+    {
+      "id": "26e311ec1c77a03a",
+      "date": "2026-08-12",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "Thrive Holdings با حمایت OpenAI، ۲ میلیارد دلار برای هوش مصنوعی سازمانی جذب کرد",
+      "title_en": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+      "summary_fa": "شرکت Thrive Holdings موفق به جذب ۲ میلیارد دلار سرمایه جدید شد که ارزش‌گذاری آن را به ۱۲ میلیارد دلار رساند. این سرمایه‌گذاری بزرگ از سوی شرکت‌هایی چون SoftBank، D1 Capital Partners و Altimeter Capital صورت گرفته است. Thrive Holdings با حمایت OpenAI، قصد دارد هوش مصنوعی را به سطح سازمانی (Enterprise) برساند و استفاده از آن را در شرکت‌ها گسترش دهد.",
+      "tags": [
+        "Thrive Holdings",
+        "OpenAI",
+        "هوش مصنوعی",
+        "سرمایه‌گذاری",
+        "SoftBank",
+        "Enterprise AI"
+      ]
+    },
+    {
+      "id": "82aaff9864944828",
+      "date": "2026-08-12",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
+      "category": "کاربرد هوش مصنوعی",
+      "title_fa": "برنامه Mesh از Automattic با قابلیت هوش مصنوعی برای اندروید عرضه شد",
+      "title_en": "Mesh, Automattic’s CRM for everyone, comes to Android",
+      "summary_fa": "برنامه Mesh، یک اپلیکیشن مدیریت مخاطبین و ارتباطات مبتنی بر هوش مصنوعی از شرکت Automattic (توسعه‌دهنده وردپرس)، اکنون برای سیستم عامل اندروید در دسترس قرار گرفته است. این ابزار با هدف ارائه یک CRM کاربرپسند و جامع برای همه طراحی شده تا به کاربران در مدیریت آسان‌تر روابطشان کمک کند.",
+      "tags": [
+        "Mesh",
+        "Automattic",
+        "Android",
+        "CRM",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "a617b144c6bedc70",
+      "date": "2026-08-12",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/08/12/1141768/scientists-just-created-female-clones-of-male-mice/",
+      "category": "پژوهش‌های علمی و زیست‌فناوری",
+      "title_fa": "دستاورد بی‌سابقه: ساخت کلون‌های ماده از موش‌های نر با ویرایش ژنتیکی CRISPR",
+      "title_en": "Scientists just created female clones of male mice",
+      "summary_fa": "دانشمندان در ژاپن برای اولین بار موفق شدند جنین‌های نر موش را به کلون‌های ماده تبدیل کنند. این تیم با بهره‌گیری از رویکرد مبتنی بر فناوری CRISPR، کروموزوم Y را از سلول‌های نر حذف کرده و کلون‌های ماده‌ای از موش‌های نر به وجود آوردند. این دستاورد یک پیشرفت بی‌سابقه در زمینه زیست‌شناسی تولیدمثل و ویرایش ژنتیکی محسوب می‌شود.",
+      "tags": [
+        "CRISPR",
+        "ویرایش ژنتیکی",
+        "کلونینگ",
+        "زیست‌فناوری",
+        "موش آزمایشگاهی"
+      ]
+    },
+    {
+      "id": "c0a1cd381041ade5",
+      "date": "2026-08-12",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "داده‌های قابل اعتماد؛ راز موفقیت و مقیاس‌پذیری عوامل هوش مصنوعی",
+      "title_en": "Scaling AI agents with trustworthy data",
+      "summary_fa": "سازمان‌ها به سرعت در حال پذیرش عوامل هوش مصنوعی (AI agents) هستند و پتانسیل بالای این فناوری برای دگرگونی فضای کار بر کسی پوشیده نیست. با این حال، بسیاری از شرکت‌ها درمی‌یابند که دستیابی به بازگشت سرمایه مطلوب (ROI) از عوامل هوش مصنوعی، به داشتن زیرساخت مناسب و به خصوص داده‌های قابل اعتماد وابسته است. فقدان داده‌های باکیفیت و زیرساخت‌های ناکافی، مانعی جدی در مسیر مقیاس‌پذیری و موفقیت این عوامل هوشمند است.",
+      "tags": [
+        "AI agents",
+        "داده‌های قابل اعتماد",
+        "مقیاس‌پذیری",
+        "پذیرش سازمانی هوش مصنوعی",
+        "ROI"
+      ]
+    },
+    {
+      "id": "c2d02708a7173ddb",
+      "date": "2026-08-12",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/08/12/1141714/the-download-innovators-under-35-censorship-industrial-complex/",
+      "category": "نوآوری و استعدادهای تکنولوژی",
+      "title_fa": "MIT Technology Review برترین نوآوران جوان جهان را معرفی می‌کند: فهرست ۲۰۲۶ «زیر ۳۵ سال»",
+      "title_en": "The Download: our 35 young innovators and the “censorship-industrial complex”",
+      "summary_fa": "خبرنامه «The Download» از آماده‌سازی مجله MIT Technology Review برای معرفی لیست معتبر «نوآوران زیر ۳۵ سال» خود در سال ۲۰۲۶ خبر داده است. این فهرست که قرار است در تاریخ ۸ سپتامبر رونمایی شود، ۳۵ تن از برترین دانشمندان و مهندسان جوان جهان را که دستاوردهای برجسته‌ای در حوزه فناوری داشته‌اند، شناسایی و تجلیل می‌کند.",
+      "tags": [
+        "MIT Technology Review",
+        "Innovators Under 35",
+        "نوآوری",
+        "استعدادهای جوان",
+        "فناوری"
+      ]
+    },
+    {
+      "id": "9b60ed7b1bba59ca",
+      "date": "2026-08-12",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/08/12/1141605/2026-innovators-under-35-top-young-scientists-engineers/",
+      "category": "نوآوری و توسعه فناوری",
+      "title_fa": "معرفی پیشگامان جوان: MIT Technology Review فهرست «نوآوران زیر ۳۵ سال» ۲۰۲۶ را منتشر می‌کند",
+      "title_en": "How we picked 35 of the world’s top young scientists and engineers",
+      "summary_fa": "مجله MIT Technology Review ماه آینده در تاریخ ۸ سپتامبر، فهرست سال ۲۰۲۶ «نوآوران زیر ۳۵ سال» خود را منتشر خواهد کرد. این فهرست ۳۵ فرد جوان از سراسر جهان را که مشغول به کارهای علمی پیشگامانه و ارائه راهکارهای فنی هوشمندانه برای مشکلات پیچیده هستند، مورد تقدیر قرار می‌دهد. این ابتکار به دنبال شناسایی و برجسته کردن برترین نوآوران جوان و تمرکز آن‌ها در حوزه‌های مختلف است.",
+      "tags": [
+        "Innovators Under 35",
+        "MIT Technology Review",
+        "نوآوری",
+        "علم و فناوری",
+        "مهندسی"
       ]
     }
   ]
