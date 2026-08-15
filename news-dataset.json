@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-08-14",
+    "last_updated": "2026-08-15",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 620
+    "total_articles": 637
   },
   "articles": [
     {
@@ -10517,6 +10517,295 @@
         "هوش مصنوعی",
         "دیدگاه عمومی",
         "نسل جوان"
+      ]
+    },
+    {
+      "id": "cb4caaecf3d1defa",
+      "date": "2026-03-05",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/gpt-5-4-thinking-system-card",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "سند «سیستم تفکر» GPT-5.4 منتشر شد: رویکرد OpenAI به هوش مصنوعی پیشرفته",
+      "title_en": "GPT-5.4 Thinking System Card",
+      "summary_fa": "شرکت OpenAI به تازگی سند «سیستم تفکر» (Thinking System Card) مربوط به مدل پیشرفته GPT-5.4 را منتشر کرده است. این سند به تشریح قابلیت‌های شناختی، معماری درونی و رویکردهای ایمنی و اخلاقی این مدل می‌پردازد. انتشار این گزارش، دیدگاهی عمیق از چگونگی طراحی و کنترل هوش مصنوعی فوق‌پیشرفته و استراتژی‌های OpenAI برای توسعه مسئولانه آن ارائه می‌دهد.",
+      "tags": [
+        "GPT-5.4",
+        "OpenAI",
+        "هوش مصنوعی پیشرفته",
+        "LLM",
+        "ایمنی هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "70d73a6e0656491b",
+      "date": "2026-03-05",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "ناتوانی مدل‌های هوش مصنوعی در کنترل تفکر خود: چرا OpenAI این «ضعف» را مزیتی برای ایمنی می‌داند؟",
+      "title_en": "Reasoning models struggle to control their chains of thought, and that’s good",
+      "summary_fa": "شرکت OpenAI ابزار جدیدی به نام CoT-Control را معرفی کرده و طی پژوهشی دریافت که مدل‌های هوش مصنوعی استدلال‌گر در کنترل زنجیره‌های فکری خود با دشواری مواجه هستند. این ناتوانی در مهار فرایندهای درونی، برخلاف تصور اولیه، یک خبر مثبت تلقی می‌شود. چرا که قابلیت نظارت بر عملکرد و تصمیم‌گیری‌های این مدل‌ها را افزایش داده و بدین ترتیب، به عنوان یک عامل کلیدی در تضمین ایمنی هوش مصنوعی عمل می‌کند.",
+      "tags": [
+        "OpenAI",
+        "AI safety",
+        "مدل‌های استدلال‌گر",
+        "CoT-Control",
+        "نظارت بر AI"
+      ]
+    },
+    {
+      "id": "e535c691836b5eb1",
+      "date": "2026-03-05",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/ai-education-opportunity",
+      "category": "کاربرد هوش مصنوعی در آموزش",
+      "title_fa": "اوپن‌ای‌آی ابزارهای جدیدی برای گسترش فرصت‌های آموزشی با هوش مصنوعی معرفی می‌کند",
+      "title_en": "Ensuring AI use in education leads to opportunity",
+      "summary_fa": "شرکت OpenAI با معرفی مجموعه‌ای از ابزارها، گواهینامه‌ها و منابع اندازه‌گیری جدید، قصد دارد به مدارس و دانشگاه‌ها در کاهش شکاف‌های توانمندی هوش مصنوعی کمک کند. این ابتکار با هدف گسترش دسترسی و فرصت‌های آموزشی از طریق بهره‌گیری مؤثر از فناوری هوش مصنوعی طراحی شده است.",
+      "tags": [
+        "OpenAI",
+        "Education",
+        "هوش مصنوعی",
+        "ابزارهای آموزشی",
+        "گواهینامه‌ها"
+      ]
+    },
+    {
+      "id": "2e8458dbf71dbf51",
+      "date": "2026-03-05",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/vfl-wolfsburg",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "ولفسبورگ: ChatGPT به ابزاری فراگیر در خدمت کل باشگاه بدل شد",
+      "title_en": "VfL Wolfsburg turns ChatGPT into a club-wide capability",
+      "summary_fa": "باشگاه فوتبال بوندس‌لیگایی ولفسبورگ، به جای اکتفا به پروژه‌های آزمایشی کوچک، تمرکز خود را بر توانمندسازی کارکنانش با ChatGPT در سطح کل سازمان گذاشته است. این رویکرد به باشگاه کمک کرده تا بهره‌وری، خلاقیت و تبادل دانش را در مقیاس وسیع افزایش دهد. این اتفاق بدون از دست دادن هویت فوتبالی باشگاه، کاربرد گسترده و عملی هوش مصنوعی را در یک سازمان ورزشی نشان می‌دهد.",
+      "tags": [
+        "VfL Wolfsburg",
+        "ChatGPT",
+        "پذیرش سازمانی هوش مصنوعی",
+        "کاربرد هوش مصنوعی در ورزش",
+        "بهره‌وری سازمانی"
+      ]
+    },
+    {
+      "id": "4ceb746850375586",
+      "date": "2026-03-05",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/introducing-the-adoption-news-channel",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "معرفی کانال خبری «پذیرش هوش مصنوعی»: راهکارهایی برای مزیت رقابتی کسب‌وکارها",
+      "title_en": "Introducing the Adoption news channel",
+      "summary_fa": "یک کانال خبری جدید با هدف ارائه بینش‌ها و چارچوب‌های عملی برای کسب‌وکارها راه‌اندازی شده است. این کانال به شرکت‌ها کمک می‌کند تا پیشرفت‌های هوش مصنوعی را به مزیت رقابتی تبدیل کرده و از آن بهره‌برداری حداکثری داشته باشند.",
+      "tags": [
+        "پذیرش هوش مصنوعی",
+        "کسب‌وکار",
+        "استراتژی هوش مصنوعی",
+        "Enterprise AI"
+      ]
+    },
+    {
+      "id": "70299260bcc5a827",
+      "date": "2026-03-05",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/chatgpt-for-excel",
+      "category": "کاربرد هوش مصنوعی در کسب‌وکار",
+      "title_fa": "ChatGPT وارد اکسل شد: سرعت‌بخش جدیدی برای تحلیل‌های مالی و پژوهش",
+      "title_en": "Introducing ChatGPT for Excel and new financial data integrations",
+      "summary_fa": "اوپن‌ای‌آی از ادغام ChatGPT با نرم‌افزار اکسل و قابلیت‌های جدید اتصال به برنامه‌های داده مالی رونمایی کرد. این امکانات که با قدرت مدل GPT-5.4 ارائه می‌شوند، برای سرعت بخشیدن به مدل‌سازی، پژوهش و تحلیل‌های پیچیده در محیط‌های دارای رگولاسیون طراحی شده‌اند و بهره‌وری را افزایش می‌دهند.",
+      "tags": [
+        "OpenAI",
+        "ChatGPT",
+        "Excel",
+        "هوش مصنوعی",
+        "تحلیل مالی",
+        "GPT-5.4"
+      ]
+    },
+    {
+      "id": "f51202f8724d2bac",
+      "date": "2026-08-14",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "گوگل امکان حذف واترمارک بصری از محتوای تولیدی هوش مصنوعی را فراهم کرد",
+      "title_en": "Google will now allow users to remove visible watermark from its AI generations",
+      "summary_fa": "شرکت گوگل اعلام کرده است که کاربران از این پس می‌توانند واترمارک‌های قابل مشاهده را از محتوای تولیدشده توسط هوش مصنوعی سرویس‌های این شرکت حذف کنند. با این حال، خاموش کردن این قابلیت تاثیری بر نشانگرهای نامرئی نخواهد داشت؛ این نشانگرها همچنان برای شناسایی فایل‌هایی که توسط هوش مصنوعی تولید شده‌اند، مورد استفاده قرار خواهند گرفت.",
+      "tags": [
+        "Google",
+        "AI",
+        "Watermark",
+        "محتوای تولیدی هوش مصنوعی",
+        "شناسایی هویت"
+      ]
+    },
+    {
+      "id": "f3fe42a4b3a4708f",
+      "date": "2026-08-14",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "«هوش مصنوعی برای همه»؛ آیا متا و زاکربرگ واقعاً به این شعار باور دارند؟",
+      "title_en": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+      "summary_fa": "متا اخیراً مدل هوش مصنوعی «گلیمر» را با رویکرد وزن باز منتشر کرده است که به کاربران امکان می‌دهد آن را دانلود کرده و روی سخت‌افزار خود اجرا کنند. این اقدام در تضاد با مدل قدرتمندتر «میوز اسپارک» این شرکت است که پشت API‌های اختصاصی خود محبوس مانده است. انتشار گلیمر همزمان با نامه‌ای از سوی مارک زاکربرگ صورت گرفت که در آن ادعا شده هوش مصنوعی باید «برای همه» باشد و نه در انحصار چند آزمایشگاه، که این دوگانگی رویکرد متا را برجسته می‌کند.",
+      "tags": [
+        "Meta",
+        "Mark Zuckerberg",
+        "Glimmer",
+        "Open-weight AI",
+        "استراتژی هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "21c40107424f32b9",
+      "date": "2026-08-14",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+      "category": "سخت‌افزار و تراشه",
+      "title_fa": "کگ: کشف ظرفیت پنهان GPUها برای هوش مصنوعی عامل‌محور",
+      "title_en": "Kog is going deeper to squeeze more inference out of GPUs",
+      "summary_fa": "استارتاپ فرانسوی Kog معتقد است که تصور رایج مبنی بر عدم تناسب پردازنده‌های گرافیکی (GPU) برای گردش‌کارهای عامل‌محور در هوش مصنوعی (Agentic Workflows) اشتباه است. این شرکت در حال تلاش‌های عمیق‌تر برای استخراج حداکثر توان پردازش استنتاجی از GPUهاست. هدف Kog بهره‌برداری کامل از پتانسیل GPUها برای اجرای کارآمدتر سیستم‌های هوش مصنوعی چندمرحله‌ای و تصمیم‌گیرنده است.",
+      "tags": [
+        "Kog",
+        "GPU",
+        "هوش مصنوعی عامل‌محور",
+        "بهینه‌سازی عملکرد",
+        "پردازش استنتاجی"
+      ]
+    },
+    {
+      "id": "887ae253679fc99a",
+      "date": "2026-08-14",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "هشدار: افزایش سرسام‌آور قیمت گاز طبیعی در آمریکا، قبض برق دیتاسنترهای هوش مصنوعی هایپرسکیلرها را سه برابر می‌کند",
+      "title_en": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
+      "summary_fa": "بر اساس پیش‌بینی‌های جدید، قیمت گاز طبیعی در بخش‌هایی از ایالات متحده ممکن است تا سه برابر افزایش یابد. این جهش قیمتی می‌تواند هایپرسکیلرها را با صورت‌حساب‌های نجومی برای تامین انرژی دیتاسنترهای هوش مصنوعی‌شان مواجه کند و احتمالاً آن‌ها را از روی آوردن به این منبع انرژی پشیمان سازد. این وضعیت می‌تواند چالش‌های مالی قابل توجهی برای غول‌های فناوری و زیرساخت هوش مصنوعی ایجاد کند.",
+      "tags": [
+        "Hyperscalers",
+        "AI Data Centers",
+        "Natural Gas",
+        "Energy Costs",
+        "U.S."
+      ]
+    },
+    {
+      "id": "c3418764be1f5d20",
+      "date": "2026-08-14",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "متا مدل هوش مصنوعی Glimmer را «باز» منتشر کرد؛ زاکربرگ: هوش مصنوعی باید برای همه باشد",
+      "title_en": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
+      "summary_fa": "شرکت متا این هفته مدل هوش مصنوعی «اوپن‌ویت» Glimmer را منتشر کرد که کاربران می‌توانند آن را دانلود کرده و روی سخت‌افزار خود اجرا کنند. این اقدام در تضاد با مدل قدرتمندتر و بسته Muse Spark است که تنها از طریق APIهای خود متا قابل دسترسی است. مارک زاکربرگ همزمان با این انتشار، طی نامه‌ای استدلال کرد که هوش مصنوعی باید «برای همه» باشد و نه در انحصار چند آزمایشگاه محدود.",
+      "tags": [
+        "Meta",
+        "Glimmer",
+        "هوش مصنوعی باز",
+        "Mark Zuckerberg",
+        "Muse Spark"
+      ]
+    },
+    {
+      "id": "024707716675ff9b",
+      "date": "2026-08-13",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "مایکروسافت کوپایلوت را ساده‌سازی می‌کند: ادغام برنامه‌ها و حذف قابلیت‌های ناموفق هوش مصنوعی",
+      "title_en": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
+      "summary_fa": "مایکروسافت در راستای ساده‌سازی سرویس هوش مصنوعی کوپایلوت خود، اقدام به ادغام اپلیکیشن‌های مجزای مصرف‌کننده و تجاری این ابزار کرده است. همزمان با این تغییر، شرکت چندین قابلیت هوش مصنوعی ناموفق را کنار می‌گذارد. از جمله این قابلیت‌های حذف‌شده می‌توان به پادکست‌های تولیدی هوش مصنوعی، چت‌های گروهی، تحقیق عمیق و شخصیت مجازی «میکو» اشاره کرد.",
+      "tags": [
+        "Microsoft",
+        "Copilot",
+        "AI",
+        "پلتفرم هوش مصنوعی",
+        "ساده‌سازی محصول"
+      ]
+    },
+    {
+      "id": "1a1d1216706df775",
+      "date": "2026-08-14",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "واکنش Flock به انتقادات نظارتی: قوانین دسترسی به پلاک‌خوان‌ها سخت‌تر می‌شود",
+      "title_en": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
+      "summary_fa": "شرکت Flock، غول فناوری پلیس، در واکنش به اعتراضات فزاینده علیه نظارت، قوانین دسترسی به شبکه ملی پلاک‌خوان‌های خود را سخت‌تر می‌کند. این شرکت دسترسی افسران پلیس به سامانه‌های تشخیص پلاک خودرو را محدودتر خواهد کرد. این اقدام در پی انتقادها از حجم بالای جمع‌آوری اطلاعات و نگرانی‌های مربوط به حریم خصوصی انجام می‌شود.",
+      "tags": [
+        "Flock",
+        "Surveillance",
+        "License plate readers",
+        "Privacy",
+        "AI Policy"
+      ]
+    },
+    {
+      "id": "47581de17fe41693",
+      "date": "2026-08-14",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
+      "category": "کاربرد هوش مصنوعی در علم و پزشکی",
+      "title_fa": "تکمیل نقشه سلولی انسان: تلاش یک دانشمند برای پوشش دوران کودکی",
+      "title_en": "This scientist is helping build a missing map of childhood",
+      "summary_fa": "در سال ۲۰۱۷، دیانا تیلور پس از مشاهده پروژه «اطلس سلولی انسان» که با هدف نقشه‌برداری از تمامی سلول‌های بدن بشر در حال انجام بود، متوجه کمبود جدی داده‌ها در مورد سلول‌های دوران کودکی شد. این کشف او را بر آن داشت تا به یکی از پیشگامان ساخت «نقشه گمشده دوران کودکی» تبدیل شود. او در تلاش است با جمع‌آوری اطلاعات سلولی منحصر به فرد این دوره، اطلس جامع انسانی را کامل کند.",
+      "tags": [
+        "Human Cell Atlas",
+        "Deanne Taylor",
+        "پژوهش زیستی",
+        "نقشه‌برداری سلولی",
+        "دوران کودکی"
+      ]
+    },
+    {
+      "id": "47bee6d3e540a7fe",
+      "date": "2026-08-14",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/",
+      "category": "صنایع نوظهور و مشاغل آینده",
+      "title_fa": "از سفرهای لوکس تا مقصد فضا: ظهور «نماینده سفر فضایی» به عنوان شغل آینده",
+      "title_en": "Job titles of the future: Space travel agent",
+      "summary_fa": "«رومن چیپوروخا»، بنیان‌گذار شرکت خدمات لوکس Roman & Erica، با دو دهه تجربه در تحقق رویاهای سفرهای خاص و منحصربه‌فرد، از ساخت قایق‌های تفریحی بزرگ گرفته تا تعطیلات خصوصی در باهاما، به شهرت رسیده است. اکنون این مهارت‌ها او را در موقعیتی قرار داده که می‌تواند به پیشگامان حوزه‌ی جدید «نماینده سفر فضایی» تبدیل شود. این عنوان شغلی آینده، با توسعه‌ی صنعت گردشگری فضایی، برای افراد متخصص در برنامه‌ریزی تجربه‌های لوکس و پیچیده، فرصت‌های جدیدی را رقم خواهد زد.",
+      "tags": [
+        "نماینده سفر فضایی",
+        "مشاغل آینده",
+        "گردشگری فضایی",
+        "Luxury Travel",
+        "Roman Chiporukha"
+      ]
+    },
+    {
+      "id": "4699e0646707b022",
+      "date": "2026-08-14",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/08/14/1141919/cloning-save-species-or-make-human-organ-sacks/",
+      "category": "فناوری زیستی و مهندسی ژنتیک",
+      "title_fa": "تولید موش‌های ماده از جنین نر با CRISPR: تحولی در شبیه‌سازی و مهندسی ژنتیک",
+      "title_en": "Cloning could be used to save species—or make human “organ sacks”",
+      "summary_fa": "دانشمندان با استفاده از فناوری ویرایش ژن CRISPR، روشی نوین برای تبدیل جنین‌های نر موش به جنین‌های ماده ابداع کرده‌اند. این تکنیک با حذف موفقیت‌آمیز کروموزوم Y، امکان تولید کلون‌های ماده‌ای را فراهم می‌کند که از نظر ژنتیکی کاملاً با موش‌های نر اصلی یکسان هستند، به جز کروموزوم جنسی. این دستاورد جدید، افق‌های تازه‌ای را در زمینه شبیه‌سازی، مهندسی ژنتیک و احتمالاً حفظ گونه‌ها می‌گشاید.",
+      "tags": [
+        "CRISPR",
+        "Cloning",
+        "Genetic engineering",
+        "Biotechnology",
+        "موش"
+      ]
+    },
+    {
+      "id": "34f9b28071ea498b",
+      "date": "2026-08-13",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice/",
+      "category": "ابعاد اجتماعی هوش مصنوعی",
+      "title_fa": "بچه‌ها درباره هوش مصنوعی چه می‌گویند؟ بررسی دیدگاه‌های نسل آینده",
+      "title_en": "The Download: kids’ thoughts on AI, and female clones of male mice",
+      "summary_fa": "این خبر به بررسی دیدگاه‌ها و احساسات کودکان و نوجوانان درباره هوش مصنوعی می‌پردازد. مجله مستقل Anyway که توسط Jen Swetzoff و Keeley McNamara برای گروه سنی نوجوانان تأسیس شده، اقدام به جمع‌آوری نظرات و ایده‌های مستقیم این نسل کرده است. هدف این گزارش درک این موضوع است که نسل آینده چه تصوری از نقش هوش مصنوعی در زندگی خود و جامعه دارد.",
+      "tags": [
+        "AI",
+        "کودکان",
+        "نوجوانان",
+        "دیدگاه عمومی",
+        "Anyway magazine"
       ]
     }
   ]
