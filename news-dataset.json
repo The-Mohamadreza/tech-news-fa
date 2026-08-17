@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-08-16",
+    "last_updated": "2026-08-17",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 648
+    "total_articles": 657
   },
   "articles": [
     {
@@ -10992,6 +10992,159 @@
         "هوش مصنوعی",
         "ناشران خبر",
         "WSJ"
+      ]
+    },
+    {
+      "id": "7fc87634da57c097",
+      "date": "2026-02-28",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/our-agreement-with-the-department-of-war",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "OpenAI و پنتاگون: جزئیات توافقنامه استقرار هوش مصنوعی در محیط‌های محرمانه نظامی",
+      "title_en": "Our agreement with the Department of War",
+      "summary_fa": "شرکت OpenAI جزئیاتی از قرارداد خود با وزارت دفاع آمریکا (پنتاگون) را منتشر کرده است. این توافق‌نامه خطوط قرمز ایمنی برای استفاده از سیستم‌های هوش مصنوعی، حمایت‌های قانونی مربوطه و نحوه استقرار این سیستم‌ها در محیط‌های محرمانه را مشخص می‌کند.",
+      "tags": [
+        "OpenAI",
+        "Pentagon",
+        "AI",
+        "AI Safety",
+        "Military AI"
+      ]
+    },
+    {
+      "id": "0b6632a60f074d90",
+      "date": "2026-02-27",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock",
+      "category": "پلتفرم‌ها و ابزارهای هوش مصنوعی",
+      "title_fa": "آمازون بیدراک عامل‌های هوش مصنوعی را به حافظه و پایداری مجهز می‌کند: معرفی محیط اجرایی حالت‌مند",
+      "title_en": "Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock",
+      "summary_fa": "قابلیت جدید \"Stateful Runtime\" در سرویس آمازون بیدراک معرفی شده است که هماهنگی پایدار، حافظه و اجرای امن را برای عامل‌های هوش مصنوعی فراهم می‌کند. این نوآوری به عامل‌ها امکان می‌دهد تا در گردش‌کارهای هوش مصنوعی چندمرحله‌ای، که توسط مدل‌های OpenAI قدرت می‌گیرند، با پایداری و کارایی بیشتری عمل کنند.",
+      "tags": [
+        "Amazon Bedrock",
+        "AI Agents",
+        "AWS",
+        "Stateful Runtime",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "794d4515e72219ef",
+      "date": "2026-02-27",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/scaling-ai-for-everyone",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "سرمایه‌گذاری ۱۱۰ میلیارد دلاری غول‌های تکنولوژی برای گسترش فراگیر هوش مصنوعی",
+      "title_en": "Scaling AI for everyone",
+      "summary_fa": "یک شرکت هوش مصنوعی توانست ۱۱۰ میلیارد دلار سرمایه جدید جذب کند که ارزش پیش از سرمایه‌گذاری آن را به ۷۳۰ میلیارد دلار می‌رساند. این تزریق سرمایه چشمگیر با مشارکت غول‌هایی چون سافت‌بنک (۳۰ میلیارد دلار)، انویدیا (۳۰ میلیارد دلار) و آمازون (۵۰ میلیارد دلار) صورت گرفته است. هدف از این اقدام، تسریع در توسعه و همگانی‌سازی فناوری‌های هوش مصنوعی اعلام شده است.",
+      "tags": [
+        "هوش مصنوعی",
+        "سرمایه‌گذاری",
+        "SoftBank",
+        "NVIDIA",
+        "Amazon"
+      ]
+    },
+    {
+      "id": "8c87fa05a78ceb8f",
+      "date": "2026-02-27",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/continuing-microsoft-partnership",
+      "category": "شرکت‌ها و همکاری‌های هوش مصنوعی",
+      "title_fa": "مایکروسافت و OpenAI: تایید تداوم همکاری‌های عمیق در تحقیق و توسعه",
+      "title_en": "Joint Statement from OpenAI and Microsoft",
+      "summary_fa": "مایکروسافت و OpenAI طی بیانیه‌ای مشترک، بر تداوم و تعمیق همکاری‌های استراتژیک خود تاکید کردند. این دو غول تکنولوژی اعلام کردند که مشارکت نزدیکشان در حوزه‌های تحقیق، مهندسی و توسعه محصولات هوش مصنوعی، بر مبنای سال‌ها موفقیت و همکاری عمیق، همچنان ادامه خواهد داشت.",
+      "tags": [
+        "Microsoft",
+        "OpenAI",
+        "هوش مصنوعی",
+        "همکاری استراتژیک",
+        "تحقیق و توسعه"
+      ]
+    },
+    {
+      "id": "11f28611545f156e",
+      "date": "2026-02-27",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/amazon-partnership",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "همکاری استراتژیک OpenAI و آمازون: زیرساخت‌های هوش مصنوعی در AWS تقویت می‌شود",
+      "title_en": "OpenAI and Amazon announce strategic partnership",
+      "summary_fa": "OpenAI و آمازون از یک همکاری استراتژیک مهم خبر دادند که پلتفرم Frontier اوپن‌ای‌آی را به خدمات وب آمازون (AWS) می‌آورد. این شراکت با هدف گسترش زیرساخت‌های هوش مصنوعی، ارائه مدل‌های سفارشی‌سازی شده و توسعه عوامل هوش مصنوعی سازمانی (Enterprise AI Agents) شکل گرفته است. این گامی کلیدی برای تقویت اکوسیستم هوش مصنوعی و دسترس‌پذیری بیشتر آن برای کسب‌وکارها محسوب می‌شود.",
+      "tags": [
+        "OpenAI",
+        "Amazon",
+        "AWS",
+        "AI infrastructure",
+        "Enterprise AI"
+      ]
+    },
+    {
+      "id": "54ea56b76bbab583",
+      "date": "2026-02-27",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/update-on-mental-health-related-work",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "OpenAI از پیشرفت‌ها در حوزه ایمنی سلامت روان کاربران خبر داد",
+      "title_en": "An update on our mental health-related work",
+      "summary_fa": "شرکت OpenAI تازه‌ترین اقدامات و پیشرفت‌های خود را در زمینه ایمنی مرتبط با سلامت روان کاربران اعلام کرده است. این به‌روزرسانی‌ها شامل معرفی قابلیت‌هایی مانند کنترل والدین، امکان افزودن مخاطبین معتمد و بهبود سیستم‌های تشخیص پریشانی کاربران می‌شود. همچنین، OpenAI به تحولات اخیر مربوط به پرونده‌های قضایی در این حوزه نیز اشاره کرده است.",
+      "tags": [
+        "OpenAI",
+        "سلامت روان",
+        "ایمنی هوش مصنوعی",
+        "کنترل والدین",
+        "هوش مصنوعی مسئولانه"
+      ]
+    },
+    {
+      "id": "fafd24ceadc9a76f",
+      "date": "2026-08-16",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "استرایپ با خریدی ۷ میلیارد دلاری، OpenRouter، دروازه‌بان هوش مصنوعی، را تصاحب می‌کند",
+      "title_en": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+      "summary_fa": "بر اساس گزارش‌ها، شرکت پرداخت‌محور استرایپ (Stripe) قصد دارد استارتاپ OpenRouter، فعال در زمینه‌ی دروازه‌های هوش مصنوعی (AI Gateway)، را با مبلغی بیش از ۷ میلیارد دلار خریداری کند. این معامله نشان‌دهنده‌ی ورود جدی استرایپ به اکوسیستم هوش مصنوعی است. مدیرعامل OpenRouter پیش از این شرکت خود را «استرایپ هوش مصنوعی» توصیف کرده بود، که به نقش کلیدی آن در مدیریت دسترسی و پرداخت‌ها برای مدل‌های هوش مصنوعی اشاره دارد.",
+      "tags": [
+        "Stripe",
+        "OpenRouter",
+        "هوش مصنوعی",
+        "M&A",
+        "AI Gateway"
+      ]
+    },
+    {
+      "id": "832c648f0c9fd1c9",
+      "date": "2026-08-16",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "آینده هوش مصنوعی مارک زاکربرگ: چرا عموم مردم قانع نمی‌شوند؟",
+      "title_en": "Why people aren’t buying Mark Zuckerberg’s AI future",
+      "summary_fa": "در جدیدترین قسمت پادکست Equity، بحثی پیرامون چشم‌انداز هوش مصنوعی مارک زاکربرگ مطرح شد. این گفتگو به دلایل اصلی عدم پذیرش یا همراهی عموم مردم با این آینده‌نگری می‌پردازد و بررسی می‌کند که چرا بسیاری نسبت به رویاهای زاکربرگ در حوزه هوش مصنوعی تردید دارند.",
+      "tags": [
+        "Mark Zuckerberg",
+        "AI",
+        "Meta",
+        "پذیرش عمومی",
+        "چشم‌انداز هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "1968340f8ecead84",
+      "date": "2026-08-16",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "مدیرعامل Anthropic: بحران بنیادین اعتماد، عامل اصلی واکنش‌های منفی به هوش مصنوعی است",
+      "title_en": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+      "summary_fa": "داریو آمودی، مدیرعامل شرکت پیشرو Anthropic، معتقد است که ریشه اصلی واکنش‌های منفی اخیر به هوش مصنوعی در یک «بحران اعتماد» عمیق نهفته است. او در سخنان خود به دفاع از دیدگاهش در مورد آینده هوش مصنوعی پرداخت و اظهار داشت که رویکرد او به این فناوری به اشتباه بیش از حد بدبینانه توصیف شده است. آمودی تأکید کرد که پرداختن به مسائل اعتماد عمومی برای پیشرفت پایدار هوش مصنوعی حیاتی است.",
+      "tags": [
+        "Anthropic",
+        "Dario Amodei",
+        "اعتماد عمومی",
+        "ایمنی هوش مصنوعی",
+        "صنعت هوش مصنوعی"
       ]
     }
   ]
