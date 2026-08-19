@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-08-18",
+    "last_updated": "2026-08-19",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 672
+    "total_articles": 688
   },
   "articles": [
     {
@@ -11400,6 +11400,277 @@
         "ربات همدم",
         "کودکان",
         "سلامت روان"
+      ]
+    },
+    {
+      "id": "67f37d861d340b85",
+      "date": "2026-08-18",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "اوپن‌ای‌آی طرحی برای تقویت نظارت دموکراتیک بر هوش مصنوعی در امنیت ملی راه‌اندازی کرد",
+      "title_en": "Strengthening democratic oversight in national security",
+      "summary_fa": "شرکت OpenAI ابتکار جدیدی را با هدف تقویت نظارت دموکراتیک بر هوش مصنوعی در حوزه امنیت ملی راه‌اندازی کرده است. این برنامه نهادهای دولتی را با ارائه ابزارها، آموزش‌ها و تخصص لازم، برای اعمال نظارتی موثرتر بر کاربردهای هوش مصنوعی حمایت می‌کند.",
+      "tags": [
+        "OpenAI",
+        "هوش مصنوعی",
+        "امنیت ملی",
+        "نظارت دموکراتیک",
+        "تنظیم‌گری"
+      ]
+    },
+    {
+      "id": "9765648ad527edb6",
+      "date": "2026-08-18",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/partnering-with-codeai",
+      "category": "آموزش و سواد هوش مصنوعی",
+      "title_fa": "OpenAI و CodeAI نسل آینده هوش مصنوعی را آموزش می‌دهند: سواد هوش مصنوعی برای دانش‌آموزان",
+      "title_en": "Partnering with CodeAI to prepare the first AI generation",
+      "summary_fa": "شرکت‌های OpenAI و CodeAI با هدف آماده‌سازی نسل آینده، همکاری مشترکی را آغاز کرده‌اند. این همکاری بر آموزش دانش‌آموزان تمرکز دارد تا سواد هوش مصنوعی آن‌ها را ارتقاء بخشیده و توانایی تفکر انتقادی درباره این فناوری را در آن‌ها تقویت کند. هدف نهایی، پرورش نسلی است که بتواند هوش مصنوعی را به شکلی مسئولانه استفاده کرده و آن را شکل دهد.",
+      "tags": [
+        "OpenAI",
+        "CodeAI",
+        "آموزش هوش مصنوعی",
+        "سواد هوش مصنوعی",
+        "نسل آینده"
+      ]
+    },
+    {
+      "id": "68c52c81310f1d0e",
+      "date": "2026-08-18",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "OpenAI با تدابیر امنیتی جدید، سرعت توسعه مدل‌های پیشرفته هوش مصنوعی را تنظیم می‌کند",
+      "title_en": "Pacing model development in an era of cyber-critical capabilities",
+      "summary_fa": "شرکت OpenAI از تقویت نظارت، همسوسازی و تدابیر امنیتی برای مدل‌های پیشرفته هوش مصنوعی خود خبر داده است. این اقدامات جدید حفاظتی با هدف افزایش ایمنی و مسئولیت‌پذیری صورت می‌گیرد و سرعت توسعه مدل‌های هوش مصنوعی مرزی را تعیین خواهد کرد. این رویکرد در عصری که قابلیت‌های سایبری اهمیت حیاتی دارند، به مدیریت بهتر خطرات احتمالی کمک می‌کند.",
+      "tags": [
+        "OpenAI",
+        "AI Safety",
+        "Frontier AI",
+        "مسئولیت‌پذیری هوش مصنوعی",
+        "توسعه هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "01003c6680bc2ecc",
+      "date": "2026-08-18",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/chatgpt-for-teens",
+      "category": "هوش مصنوعی و جامعه",
+      "title_fa": "معرفی ChatGPT برای نوجوانان: ابزاری برای یادگیری با حفاظت‌های قوی‌تر",
+      "title_en": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+      "summary_fa": "OpenAI نسخه‌ای اختصاصی از ChatGPT را برای نوجوانان معرفی کرده است. این نسخه با هدف کمک به یادگیری، تقویت تفکر انتقادی و استفاده با اعتماد به نفس از هوش مصنوعی طراحی شده است. ویژگی‌های حفاظتی قوی‌تر، امکانات استفاده سالم و کنترل‌های بیشتر برای والدین از جمله قابلیت‌های کلیدی آن است.",
+      "tags": [
+        "ChatGPT",
+        "OpenAI",
+        "نوجوانان",
+        "ایمنی هوش مصنوعی",
+        "آموزش"
+      ]
+    },
+    {
+      "id": "dfcf73efa3a68602",
+      "date": "2026-08-18",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/nvidia/chatgpt-work",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "NVIDIA با کمک ChatGPT Work تخصص خود را جهانی می‌کند",
+      "title_en": "How NVIDIA scales expertise with ChatGPT Work",
+      "summary_fa": "تیم‌های انویدیا با بهره‌گیری از پلتفرم ChatGPT Work، فرآیندهای داخلی خود را متحول کرده‌اند. این ابزار به آن‌ها کمک می‌کند تا حجم وظایف دستی را کاهش دهند، ارتباط بین اطلاعات پویا را سرعت بخشند و گردش کارهای موفق را در سطح جهانی مقیاس‌پذیر کنند. هدف اصلی این رویکرد، افزایش بهره‌وری و گسترش مؤثر تخصص سازمانی است.",
+      "tags": [
+        "NVIDIA",
+        "ChatGPT Work",
+        "هوش مصنوعی",
+        "بهره‌وری سازمانی",
+        "مقیاس‌پذیری"
+      ]
+    },
+    {
+      "id": "7d7eacff40aa330c",
+      "date": "2026-08-18",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/asana",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "افزایش بهره‌وری با هوش مصنوعی: آسانا پروژه ۵ ساله را در ۲ هفته با کدکس تکمیل کرد",
+      "title_en": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+      "summary_fa": "شرکت آسانا با استفاده از مدل هوش مصنوعی Codex توسعه‌یافته توسط OpenAI، موفق شد سیستم تست قدیمی خود را در مدت زمان تنها دو هفته به‌طور کامل جایگزین کند. این پروژه که تخمین زده می‌شد حدود پنج سال کار مهندسی نیاز داشته باشد، با هزینه‌ای در حدود ۱۲ هزار دلار به اتمام رسید. این دستاورد نمونه‌ای درخشان از پتانسیل بالای هوش مصنوعی در تسریع چشمگیر پروژه‌های مهندسی و افزایش بهره‌وری سازمانی است.",
+      "tags": [
+        "Asana",
+        "OpenAI",
+        "Codex",
+        "هوش مصنوعی",
+        "مهندسی نرم‌افزار"
+      ]
+    },
+    {
+      "id": "5ae44dec09ad8b6d",
+      "date": "2026-08-18",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+      "category": "ابزارهای توسعه و هوش مصنوعی",
+      "title_fa": "Cursor با هدف جذب ناراضیان GitHub، پلتفرم میزبانی کد رقیب را عرضه می‌کند",
+      "title_en": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
+      "summary_fa": "شرکت Cursor، که پیش‌تر با ویرایشگر کد مبتنی بر هوش مصنوعی خود شناخته شده بود، از راه‌اندازی پلتفرم جدیدی برای میزبانی کد خبر داده است. این پلتفرم با هدف رقابت با GitHub، که سال‌هاست انتخاب محبوب توسعه‌دهندگان به شمار می‌رود، طراحی شده است. Cursor تلاش می‌کند با ارائه جایگزینی جدید، بخشی از بازار GitHub را به خود اختصاص دهد.",
+      "tags": [
+        "Cursor",
+        "GitHub",
+        "Code Hosting",
+        "AI Code Editor",
+        "Developer Tools"
+      ]
+    },
+    {
+      "id": "d8b7c8511a2cb182",
+      "date": "2026-08-18",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+      "category": "امنیت سایبری",
+      "title_fa": "اقدامات امنیتی تازه OpenAI در واکنش به رخنه امنیتی Hugging Face",
+      "title_en": "OpenAI institutes new safeguards after Hugging Face breach",
+      "summary_fa": "شرکت OpenAI در پی رخنه امنیتی اخیر در پلتفرم Hugging Face، تدابیر محافظتی جدیدی را به اجرا گذاشته است. این تمهیدات شامل نظارت دقیق‌تر بر مدل‌ها در طول فرایند توسعه می‌شود. همچنین، تأکید بیشتری بر هم‌راستاسازی (alignment) و امنیت پس از اتمام آموزش مدل‌ها خواهد شد.",
+      "tags": [
+        "OpenAI",
+        "Hugging Face",
+        "امنیت سایبری",
+        "ایمنی هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "7d26bb4b9e08ab19",
+      "date": "2026-08-18",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "Etched: جهش دو برابری ارزش شرکت به ۲۱ میلیارد دلار در یک ماه",
+      "title_en": "Etched’s valuation doubles to $21B in a month",
+      "summary_fa": "شرکت Etched، فعال در زمینه توسعه سیستم‌های کلاستر هوش مصنوعی، شاهد رشد خیره‌کننده‌ای در ارزش خود بوده است. بر اساس گزارش‌ها، پس از نصب موفقیت‌آمیز اولین سیستم کلاستر هوش مصنوعی این شرکت توسط Jane Street، مشتری به شدت تحت تأثیر عملکرد آن قرار گرفت. این رضایت منجر به رهبری یک دور سرمایه‌گذاری بزرگ جدید توسط Jane Street شد که در نتیجه آن، ارزش Etched تنها در یک ماه به ۲۱ میلیارد دلار رسید.",
+      "tags": [
+        "Etched",
+        "Jane Street",
+        "AI cluster",
+        "سرمایه‌گذاری",
+        "ارزش‌گذاری"
+      ]
+    },
+    {
+      "id": "1b26716648fa598d",
+      "date": "2026-08-18",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
+      "category": "حریم خصوصی و هوش مصنوعی",
+      "title_fa": "ایرپادهای دوربین‌دار اپل: آیا نگرانی‌ها از تبدیل شدن به 'ابزار فضولی' بی‌پایه است؟",
+      "title_en": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
+      "summary_fa": "بر اساس اطلاعات فاش‌شده، اپل در حال کار بر روی ایرپادهای مجهز به دوربین است که نگرانی‌هایی را درباره‌ی نقض حریم خصوصی کاربران (با عنوان \"ابزارهای فضولی\") ایجاد کرده است. با این حال، این محصول ممکن است با رویکردی متفاوت، یعنی جلوگیری از قابلیت ضبط عکس و فیلم، از مشکلات حریم خصوصی سایر گجت‌های پوشیدنی هوش مصنوعی دوری کند. این اقدام می‌تواند کاربرد دوربین را به ویژگی‌های مبتنی بر هوش مصنوعی محدود کرده و نگرانی‌های مصرف‌کنندگان را کاهش دهد.",
+      "tags": [
+        "Apple",
+        "AirPods",
+        "حریم خصوصی",
+        "هوش مصنوعی",
+        "گجت‌های پوشیدنی"
+      ]
+    },
+    {
+      "id": "c64a0d365d610b99",
+      "date": "2026-08-18",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
+      "category": "ابزارها و پلتفرم‌های هوش مصنوعی",
+      "title_fa": "Warp با معرفی «کارخانه‌های نرم‌افزاری»، توسعه هوش مصنوعی را متحول می‌کند",
+      "title_en": "Warp’s new system is an out-of-the-box software factory for AI development",
+      "summary_fa": "شرکت Warp روز سه‌شنبه از سیستم زیرساختی جدید خود با نام «Warp Factories» رونمایی کرد. این پلتفرم نوآورانه با هدف تسهیل و ساده‌سازی فرایند ساخت «کارخانه‌های نرم‌افزاری» برای توسعه هوش مصنوعی طراحی شده است. Warp قصد دارد با این ابزار، چالش‌های مربوط به راه‌اندازی و مدیریت محیط‌های توسعه هوش مصنوعی را به حداقل برساند و آن را در دسترس‌تر کند.",
+      "tags": [
+        "Warp",
+        "Warp Factories",
+        "AI Development",
+        "Software Factory",
+        "Infrastructure"
+      ]
+    },
+    {
+      "id": "36f8322736289bc7",
+      "date": "2026-08-18",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "اوپن‌ای‌آی نسخه ایمن‌تر ChatGPT را برای نوجوانان عرضه کرد؛ سال‌ها پس از شروع استفاده آنها",
+      "title_en": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+      "summary_fa": "شرکت OpenAI نسخه‌ای ویژه از ChatGPT را برای نوجوانان معرفی کرده که با تدابیر ایمنی مناسب سن آنها همراه است. این نسخه جدید شامل کنترل‌های والدین و ابزارهای آموزشی می‌شود. هدف از این امکانات، دور نگه داشتن نوجوانان از محتوای مضر و جلوگیری از تقلب در تکالیف مدرسه با استفاده از هوش مصنوعی است.",
+      "tags": [
+        "OpenAI",
+        "ChatGPT",
+        "AI Safety",
+        "نوجوانان",
+        "کنترل والدین"
+      ]
+    },
+    {
+      "id": "a7d1773382176fa6",
+      "date": "2026-08-18",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "درک واقعی از کاربرد هوش مصنوعی: ابهام در گزارش‌های رسمی شرکت‌ها",
+      "title_en": "The Download: how people really use AI, and Flock’s design choices",
+      "summary_fa": "با وجود گزارش‌های منظم شرکت‌های هوش مصنوعی برجسته‌ای مانند Anthropic و OpenAI درباره‌ی نحوه‌ی استفاده کاربران از محصولاتشان، هنوز درکی کامل و شفاف از کاربردهای واقعی هوش مصنوعی در میان مردم وجود ندارد. این گزارش‌ها اغلب تنها بخش‌های گزینشی از اطلاعات را منتشر می‌کنند و تصویری جامع از رفتار کاربران ارائه نمی‌دهند. این ابهام، نیاز به تحلیل‌های مستقل‌تر و عمیق‌تر برای شناخت دقیق‌تر تعامل مردم با هوش مصنوعی را برجسته می‌سازد.",
+      "tags": [
+        "کاربرد هوش مصنوعی",
+        "رفتار کاربران",
+        "OpenAI",
+        "Anthropic",
+        "شفافیت داده"
+      ]
+    },
+    {
+      "id": "dcedd6fa1f805abd",
+      "date": "2026-08-18",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "کاربرد واقعی هوش مصنوعی؛ ابهام در پس گزارش‌های شرکت‌ها",
+      "title_en": "We still don’t know how people are really using AI",
+      "summary_fa": "شرکت‌های پیشرو هوش مصنوعی نظیر Anthropic و OpenAI به طور مرتب گزارش‌هایی از نحوه استفاده کاربران از محصولات خود مانند Claude و ChatGPT منتشر می‌کنند. با این حال، محققان هوش مصنوعی هشدار می‌دهند که این شرکت‌ها تنها بخشی از داده‌ها را که خود تمایل دارند، به اشتراک می‌گذارند. به گفته این محققان، هیچ منبع مستقل و قابل اعتمادی برای تأیید صحت و جامعیت این گزارش‌ها وجود ندارد که این امر باعث ایجاد ابهام در درک واقعی نحوه تعامل مردم با هوش مصنوعی می‌شود.",
+      "tags": [
+        "کاربرد هوش مصنوعی",
+        "شفافیت",
+        "OpenAI",
+        "Anthropic",
+        "ChatGPT"
+      ]
+    },
+    {
+      "id": "e608a03499cf3cc6",
+      "date": "2026-08-18",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/08/18/1141614/book-review-astronaut-role-in-flux/",
+      "category": "فناوری فضایی و اکتشافات",
+      "title_fa": "نقش فضانوردان در آستانه تحول: ماموریت‌های تاریخی آرتمیس و افق‌های جدید",
+      "title_en": "The role of the astronaut is in flux",
+      "summary_fa": "چهار فضانورد ماموریت آرتمیس ۲ ناسا اخیراً با گردش به دور ماه، رکورد جدیدی برای دورترین سفر انسان از زمین ثبت کردند. این فضانوردان با پشت سر گذاشتن رکورد آپولو ۱۳ در سال ۱۹۷۲، مسافتی ۴۰۰۰ مایلی بیشتر را پیمودند. این دستاورد در حالی است که نقش سنتی فضانوردان در حال تحول است و فناوری‌های جدید آینده اکتشافات فضایی را شکل می‌دهند.",
+      "tags": [
+        "Artemis II",
+        "NASA",
+        "اکتشافات فضایی",
+        "فضانوردان",
+        "ماه"
+      ]
+    },
+    {
+      "id": "72564937568e78cc",
+      "date": "2026-08-18",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "خودارتقایی هوش مصنوعی: شاید آنقدرها هم نزدیک نباشد",
+      "title_en": "AI’s recursive self-improvement might not come so quickly after all",
+      "summary_fa": "صنعت هوش مصنوعی با جسارت وعده داده که سیستم‌ها به‌زودی و با کمترین نظارت انسانی، خود را بهبود خواهند بخشید. مدل‌های زبانی بزرگ (LLM) هم‌اکنون قادر به کدنویسی، تولید داده‌های مصنوعی برای آموزش و حتی بهینه‌سازی تراشه‌هایی هستند که روی آن‌ها اجرا می‌شوند. با این حال، پیش‌بینی‌ها مبنی بر پیشرفت انفجاری و خودبهبودسازی بازگشتی هوش مصنوعی که محققان از آن سخن می‌گویند و در افق به نظر می‌رسد، اکنون با تردیدهایی درباره سرعت تحقق آن مواجه شده است.",
+      "tags": [
+        "خودارتقایی هوش مصنوعی",
+        "Recursive self-improvement",
+        "LLMs",
+        "آینده هوش مصنوعی",
+        "پیش‌بینی فناوری"
       ]
     }
   ]
