@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-08-19",
+    "last_updated": "2026-08-20",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 688
+    "total_articles": 702
   },
   "articles": [
     {
@@ -11671,6 +11671,244 @@
         "LLMs",
         "آینده هوش مصنوعی",
         "پیش‌بینی فناوری"
+      ]
+    },
+    {
+      "id": "ef913e9fdabc01a8",
+      "date": "2026-08-19",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+      "category": "حریم خصوصی",
+      "title_fa": "OpenAI: تضمین حریم خصوصی داده‌ها با قابلیت Zero Data Retention برای مدل‌های پیشرفته",
+      "title_en": "Offering Zero Data Retention for frontier models",
+      "summary_fa": "OpenAI بار دیگر تعهد خود به حفظ حریم خصوصی داده‌ها را با تاکید بر قابلیت Zero Data Retention برای مشتریان API واجد شرایط اعلام کرد. این ویژگی به کاربران امکان می‌دهد تا با اطمینان از عدم نگهداری داده‌هایشان، از مدل‌های پیشرفته هوش مصنوعی استفاده کنند. همچنین، این شرکت از قابلیتی جدید به نام Private Safety Processing رونمایی کرده که امنیت هوش مصنوعی را در بالاترین سطح، بدون به خطر انداختن حریم خصوصی کاربران، فراهم می‌آورد.",
+      "tags": [
+        "OpenAI",
+        "Zero Data Retention",
+        "حریم خصوصی داده‌ها",
+        "امنیت هوش مصنوعی",
+        "API"
+      ]
+    },
+    {
+      "id": "9ac0643f24279d08",
+      "date": "2026-08-19",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/replit",
+      "category": "کاربرد هوش مصنوعی در توسعه نرم‌افزار",
+      "title_fa": "Replit با قدرت GPT-5.6 Luna، خلق نرم‌افزار را همگانی می‌کند",
+      "title_en": "Replit expands access to software creation with GPT-5.6 Luna",
+      "summary_fa": "پلتفرم توسعه Replit با معرفی «حالت رایگان» جدید خود، که از مدل هوش مصنوعی GPT-5.6 Luna بهره می‌برد، گام بلندی در جهت دموکراتیک کردن خلق نرم‌افزار برداشته است. این ابتکار به کاربران امکان می‌دهد تا بدون نگرانی از هزینه‌های مربوط به توکن‌ها، ایده‌های خود را به کد و نرم‌افزار کارآمد تبدیل کنند و دسترسی به ابزارهای توسعه را برای همگان فراهم می‌سازد.",
+      "tags": [
+        "Replit",
+        "GPT-5.6 Luna",
+        "توسعه نرم‌افزار",
+        "هوش مصنوعی",
+        "Free Mode"
+      ]
+    },
+    {
+      "id": "e4563871866d3a63",
+      "date": "2026-08-18",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+      "category": "کاربرد هوش مصنوعی در تجارت و بازاریابی",
+      "title_fa": "گسترش تبلیغات ChatGPT در ۳۱ بازار اروپایی: دسترسی مستقیم به کاربران در فرایند تصمیم‌گیری",
+      "title_en": "ChatGPT Ads expands across Europe",
+      "summary_fa": "قابلیت‌های تبلیغاتی ChatGPT اکنون در ۳۱ بازار اروپایی جدید در دسترس قرار گرفته است. این توسعه به تبلیغ‌کنندگان امکان می‌دهد تا در مراحل کلیدی تصمیم‌گیری، از جمله جستجو، مقایسه گزینه‌ها و انتخاب نهایی، به طور مستقیم با کاربران ارتباط برقرار کنند. هدف این اقدام، افزایش کارایی کمپین‌های تبلیغاتی از طریق هدف‌گیری دقیق در پلتفرم ChatGPT است.",
+      "tags": [
+        "ChatGPT",
+        "تبلیغات",
+        "اروپا",
+        "بازاریابی هوش مصنوعی",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "2ef2d61adeb4fb2f",
+      "date": "2026-02-24",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/arvind-kc-chief-people-officer",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "OpenAI آرویند کی‌سی را به عنوان مدیر ارشد منابع انسانی منصوب کرد",
+      "title_en": "Arvind KC appointed Chief People Officer",
+      "summary_fa": "شرکت OpenAI آرویند کی‌سی را به عنوان مدیر ارشد منابع انسانی (Chief People Officer) جدید خود منصوب کرده است. وظیفه اصلی او کمک به توسعه مقیاس شرکت، تقویت فرهنگ سازمانی و هدایت چگونگی تکامل کار در عصر هوش مصنوعی خواهد بود.",
+      "tags": [
+        "OpenAI",
+        "Arvind KC",
+        "Chief People Officer",
+        "منابع انسانی",
+        "مدیریت استراتژیک"
+      ]
+    },
+    {
+      "id": "b958e58176b78cc8",
+      "date": "2026-02-23",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "توقف ارزیابی SWE-bench Verified: بنچمارکی که اعتبار خود را از دست داد",
+      "title_en": "Why we no longer evaluate SWE-bench Verified",
+      "summary_fa": "با توجه به افزایش آلودگی و عدم دقت در سنجش پیشرفت کدنویسی هوش مصنوعی، ارزیابی بنچمارک SWE-bench Verified متوقف شده است. تحلیل‌ها نشان می‌دهد که این بنچمارک دچار تست‌های معیوب و نشت داده‌های آموزشی شده است که منجر به ارزیابی نادرست توانایی‌های مدل‌های هوش مصنوعی می‌شود. به همین دلیل، استفاده از SWE-bench Pro به عنوان جایگزینی دقیق‌تر توصیه می‌شود.",
+      "tags": [
+        "SWE-bench Verified",
+        "SWE-bench Pro",
+        "ارزیابی هوش مصنوعی",
+        "بنچمارک",
+        "نشت داده"
+      ]
+    },
+    {
+      "id": "4526d33ef1a20060",
+      "date": "2026-02-23",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/frontier-alliance-partners",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "OpenAI با «فرانتیر اَلیانس پارتنرز»، استقرار هوش مصنوعی در شرکت‌ها را تسهیل می‌کند",
+      "title_en": "OpenAI announces Frontier Alliance Partners",
+      "summary_fa": "اوپن‌ای‌آی برنامه‌ی جدیدی تحت عنوان «فرانتیر اَلیانس پارتنرز» (Frontier Alliance Partners) را معرفی کرد. هدف از این ابتکار، کمک به سازمان‌ها برای انتقال از فاز آزمایشی پروژه‌های هوش مصنوعی به مرحله‌ی عملیاتی و تولیدی است. این همکاری‌ها بر استقرار ایمن و مقیاس‌پذیر عوامل هوش مصنوعی (AI Agents) در محیط‌های سازمانی تمرکز دارد تا شرکت‌ها بتوانند از پتانسیل کامل هوش مصنوعی بهره‌مند شوند.",
+      "tags": [
+        "OpenAI",
+        "Frontier Alliance Partners",
+        "Enterprise AI",
+        "AI deployment",
+        "هوش مصنوعی سازمانی"
+      ]
+    },
+    {
+      "id": "a5a7e6076f8b731b",
+      "date": "2026-08-19",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "خرید OpenRouter توسط استرایپ: دلایل واقعی ورای ادعای «تکینگی» هوش مصنوعی",
+      "title_en": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
+      "summary_fa": "غول پرداخت آنلاین، استرایپ، استارتاپ OpenRouter را که در زمینه مسیریابی درخواست‌ها بین مدل‌های مختلف هوش مصنوعی فعالیت دارد، خریداری کرده است. این خرید با ادعای استرایپ مبنی بر آمادگی برای «تکینگی» هوش مصنوعی همراه شد، اما تحلیلگران معتقدند دلایل تجاری و عملی‌تر دیگری پشت این معامله وجود دارد. OpenRouter با فراهم کردن امکان جابجایی آسان بین APIهای مدل‌های AI، به کسب‌وکارها کمک می‌کند تا زیرساخت‌های هوش مصنوعی خود را بهینه کنند.",
+      "tags": [
+        "Stripe",
+        "OpenRouter",
+        "هوش مصنوعی",
+        "M&A",
+        "FinTech"
+      ]
+    },
+    {
+      "id": "36c53ad4b676acc8",
+      "date": "2026-08-19",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+      "category": "حریم خصوصی",
+      "title_fa": "رقابت جدید OpenAI و Anthropic: تمرکز بر حریم خصوصی داده‌های سازمانی",
+      "title_en": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+      "summary_fa": "رقابت فزاینده‌ای میان دو غول هوش مصنوعی، OpenAI و Anthropic، بر سر ارائه بهترین محافظت از حریم خصوصی داده‌های مشتریان سازمانی در جریان است. OpenAI با معرفی تدابیر و ویژگی‌های جدید حریم خصوصی، قصد دارد در این زمینه از Anthropic پیشی بگیرد و مزیت رقابتی برای جذب و نگهداری مشتریان بزرگ کسب کند.",
+      "tags": [
+        "OpenAI",
+        "Anthropic",
+        "حریم خصوصی",
+        "داده سازمانی",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "c83af89f9f204fe2",
+      "date": "2026-08-19",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "مدیرعامل Cognition شایعه تلاش اسپیس‌ایکس برای خرید این استارتاپ را تکذیب کرد",
+      "title_en": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+      "summary_fa": "بر اساس گزارش‌ها، شرکت اسپیس‌ایکس (SpaceX) در حال مذاکره برای خرید استارتاپ هوش مصنوعی کدنویسی Cognition بود. اما مدیرعامل Cognition این خبر را تکذیب کرده است. این گمانه‌زنی‌ها در حالی مطرح می‌شود که اسپیس‌ایکس پیش از این Cursor را خریداری کرده و برای رقابت با شرکت‌هایی مانند OpenAI و Anthropic در حوزه هوش مصنوعی سازمانی تلاش می‌کند.",
+      "tags": [
+        "Cognition",
+        "SpaceX",
+        "AI startup",
+        "M&A",
+        "Enterprise AI"
+      ]
+    },
+    {
+      "id": "78d8316069feb962",
+      "date": "2026-08-19",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+      "category": "پذیرش عمومی هوش مصنوعی",
+      "title_fa": "هوش مصنوعی: فراگیری بی‌اعتماد و چالش پذیرش عمومی",
+      "title_en": "AI was supposed to win people over by now — it hasn’t",
+      "summary_fa": "با وجود افزایش نفوذ و حضور غیرقابل اجتناب هوش مصنوعی در زندگی روزمره، مصرف‌کنندگان نسبت به این فناوری محتاط‌تر شده‌اند. شرکت‌های فعال در سیلیکون‌ولی در حال درک این موضوع هستند که گسترش و پذیرش عمومی دو مقوله‌ی متفاوتند. به عبارت دیگر، صرف فراگیر شدن یک فناوری لزوماً به معنای جلب اعتماد و پذیرش کامل آن توسط عموم نیست.",
+      "tags": [
+        "هوش مصنوعی",
+        "پذیرش عمومی",
+        "اعتماد عمومی",
+        "Silicon Valley",
+        "مصرف‌کننده"
+      ]
+    },
+    {
+      "id": "dd7fdeb4628bfcbc",
+      "date": "2026-08-19",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+      "category": "کاربرد هوش مصنوعی در آموزش",
+      "title_fa": "گوگل Search و Gemini را به ابزارهای هوش مصنوعی آموزشی مجهز می‌کند",
+      "title_en": "Google packs Search and Gemini with new AI study tools",
+      "summary_fa": "گوگل مجموعه‌ای از ابزارهای هوش مصنوعی جدید را برای کمک به دانشجویان در مطالعه و یادگیری، در سرویس‌های Search و Gemini خود معرفی کرده است. این اقدام بخشی از تلاش‌های گوگل برای تثبیت Gemini به عنوان دستیار هوش مصنوعی اصلی برای قشر دانشجو است و با هدف رقابت هرچه بهتر با شرکت‌هایی نظیر OpenAI در حوزه هوش مصنوعی صورت می‌گیرد.",
+      "tags": [
+        "Google",
+        "Gemini",
+        "هوش مصنوعی",
+        "ابزارهای آموزشی",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "5dbaa1ce7ac4c743",
+      "date": "2026-08-19",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+      "category": "امنیت سایبری",
+      "title_fa": "محققان: اوپن‌ای‌آی دسترسی ما را به برنامه سایبری خود لغو کرد",
+      "title_en": "Researchers say OpenAI revoked their access to limited cyber program",
+      "summary_fa": "برنامه «دسترسی مورد اعتماد برای امنیت سایبری» اوپن‌ای‌آی با هدف ارائه مدل‌های هوش مصنوعی پیشرفته‌تر به متخصصان مورد اعتماد طراحی شده بود. این برنامه به محققان امکان می‌داد تا با شناسایی و گزارش آسیب‌پذیری‌ها به شرکت‌ها، به رفع سریع‌تر ایرادات کمک کنند. با این حال، برخی از محققان اکنون مدعی شده‌اند که اوپن‌ای‌آی دسترسی آن‌ها را به این برنامه لغو کرده است.",
+      "tags": [
+        "OpenAI",
+        "Cybersecurity",
+        "AI",
+        "Vulnerability",
+        "Trusted Access for Cyber"
+      ]
+    },
+    {
+      "id": "a03f1f355f00b80e",
+      "date": "2026-08-19",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "خودبهبودی هوش مصنوعی: چالش‌های پیش‌رو و واقعیت‌های پشت وعده‌ها",
+      "title_en": "The Download: AI’s self-improvement problem, and what’s driving the heat",
+      "summary_fa": "صنعت هوش مصنوعی وعده‌ی بزرگی مبنی بر توانایی سیستم‌ها برای خودبهبودی و ارتقاء بدون نیاز به نظارت انسانی مطرح کرده است. با این حال، شواهد نشان می‌دهد که این «خودبهبودی بازگشتی» به این زودی‌ها محقق نخواهد شد. این گزارش به بررسی چالش‌ها و واقعیت‌های موجود در پشت این وعده‌های بلندپروازانه می‌پردازد.",
+      "tags": [
+        "خودبهبودی هوش مصنوعی",
+        "Recursive AI",
+        "مدل‌های هوش مصنوعی",
+        "توسعه هوش مصنوعی",
+        "آینده هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "aa95229b217c6a7e",
+      "date": "2026-08-19",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/08/19/1141623/child-monitoring-apps-need-reboot/",
+      "category": "حریم خصوصی و ایمنی دیجیتال کودکان",
+      "title_fa": "اپلیکیشن‌های نظارت بر کودکان: ضرورت بازنگری در رویکردها",
+      "title_en": "Child-monitoring apps might need a reboot",
+      "summary_fa": "این خبر به چالش‌ها و لزوم بازنگری در رویکرد اپلیکیشن‌های نظارت بر کودکان می‌پردازد. با تکیه بر تجربیات شخصی نوجوانانی که در شرایط دشوار از اینترنت استفاده کرده‌اند، مقاله به پیچیدگی‌های حفاظت از فرزندان در فضای آنلاین اشاره می‌کند. این بحث مطرح می‌کند که طراحی و کارکرد این ابزارها ممکن است نیاز به بازنگری اساسی داشته باشد تا ضمن تامین امنیت، حریم خصوصی و استقلال کودکان، به‌ویژه در موقعیت‌های آسیب‌پذیر، نیز حفظ شود.",
+      "tags": [
+        "Child monitoring",
+        "Parental control apps",
+        "حریم خصوصی",
+        "امنیت آنلاین کودکان",
+        "اخلاق دیجیتال"
       ]
     }
   ]
