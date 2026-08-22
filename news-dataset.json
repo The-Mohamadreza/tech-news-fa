@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-08-21",
+    "last_updated": "2026-08-22",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 719
+    "total_articles": 728
   },
   "articles": [
     {
@@ -12197,6 +12197,157 @@
         "شبکه‌های حمایتی",
         "تغییرات اقلیمی",
         "مسئولیت اجتماعی"
+      ]
+    },
+    {
+      "id": "8c59d007b8cb8a85",
+      "date": "2026-02-12",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/introducing-gpt-5-3-codex-spark",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "کدنویسی بی‌درنگ ۱۵ برابر سریع‌تر: OpenAI از GPT-5.3-Codex-Spark رونمایی کرد",
+      "title_en": "Introducing GPT-5.3-Codex-Spark",
+      "summary_fa": "OpenAI جدیدترین مدل هوش مصنوعی خود را با نام GPT-5.3-Codex-Spark معرفی کرده است. این مدل، اولین ابزار کدنویسی بی‌درنگ این شرکت محسوب می‌شود که قادر است کد را ۱۵ برابر سریع‌تر تولید کند و از یک پنجره متنی ۱۲۸ هزار توکنی بهره می‌برد. در حال حاضر، این قابلیت به صورت پیش‌نمایش تحقیقاتی برای کاربران حرفه‌ای ChatGPT در دسترس قرار گرفته است.",
+      "tags": [
+        "GPT-5.3-Codex-Spark",
+        "OpenAI",
+        "ChatGPT",
+        "AI Coding",
+        "مدل هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "989e332f832c8987",
+      "date": "2026-02-11",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/harness-engineering",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "قدرت‌بخشی به عامل‌های هوش مصنوعی با Codex: رویکردی مهندسی در عصر عامل‌محور",
+      "title_en": "Harness engineering: leveraging Codex in an agent-first world",
+      "summary_fa": "این مقاله به بررسی چگونگی بهره‌برداری موثر از مدل هوش مصنوعی Codex (تولیدکننده کد) در طراحی و توسعه عامل‌های هوشمند می‌پردازد. هدف، تقویت قابلیت‌های این عامل‌ها از طریق توانایی آن‌ها در تولید یا درک کد است. با ورود به عصر عامل‌های هوش مصنوعی، این رویکرد مهندسی می‌تواند نقش حیاتی در ساخت سیستم‌های خودمختارتر ایفا کند.",
+      "tags": [
+        "Codex",
+        "AI Agents",
+        "OpenAI",
+        "مهندسی هوش مصنوعی",
+        "تولید کد"
+      ]
+    },
+    {
+      "id": "e4f6afd078cda123",
+      "date": "2026-08-21",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+      "category": "سرمایه‌گذاری و زیرساخت هوش مصنوعی",
+      "title_fa": "انویدیا سرمایه‌گذاری در مراکز داده هوش مصنوعی را با همکاری Cloverleaf گسترش می‌دهد",
+      "title_en": "Nvidia partners with data center developer Cloverleaf",
+      "summary_fa": "شرکت انویدیا در ادامه روند سرمایه‌گذاری‌های خود در توسعه مراکز داده، این بار با Cloverleaf، یک توسعه‌دهنده مراکز داده، وارد همکاری شده است. این اقدام استراتژیک در حالی صورت می‌گیرد که تقاضا برای مراکز داده هوش مصنوعی به شدت رو به افزایش است و سودآوری قابل توجهی برای انویدیا به ارمغان می‌آورد. به این ترتیب، انویدیا با تزریق سرمایه در زیرساخت‌های لازم، چرخه درآمدزایی خود را تقویت می‌کند.",
+      "tags": [
+        "NVIDIA",
+        "Cloverleaf",
+        "Data Center",
+        "AI Infrastructure",
+        "سرمایه‌گذاری"
+      ]
+    },
+    {
+      "id": "6df4ce90783712b9",
+      "date": "2026-08-21",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "انویدیا: کنترل و تنظیم، کلید موفقیت و پایداری مدل‌های هوش مصنوعی",
+      "title_en": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+      "summary_fa": "تحقیقات جدید انویدیا نشان می‌دهد که برای دستیابی به عملکرد مطلوب و قابل اعتماد از عوامل هوش مصنوعی، لزوماً نیاز به مدل‌های خارق‌العاده با توانایی‌های ذاتی بالا نیست. بلکه حتی مدل‌هایی که در ابتدا در وظایف خاص عملکرد ضعیفی دارند، می‌توانند با تنظیم دقیق (fine-tuning) و مکانیزم‌های کنترلی موثر، به نتایج عالی دست یابند. این یافته بر اهمیت نحوه مهار و هدایت هوش مصنوعی برای جلوگیری از خطاهای احتمالی و تضمین پایداری آن‌ها تأکید دارد.",
+      "tags": [
+        "NVIDIA",
+        "AI",
+        "Fine-tuning",
+        "عوامل هوش مصنوعی",
+        "پایداری هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "897ae96f35ff355b",
+      "date": "2026-08-21",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "تحقیقات وزارت دادگستری از a16z: ابعاد جدیدی در قوانین ضد انحصار برای سرمایه‌گذاری خطرپذیر؟",
+      "title_en": "The DOJ is investigating a16z. What does this mean for venture capital?",
+      "summary_fa": "وزارت دادگستری آمریکا (DOJ) تحقیقاتی را درباره شرکت سرمایه‌گذاری خطرپذیر Andreessen Horowitz (a16z) آغاز کرده است. این تحقیقات به دلیل حضور دو شریک a16z در هیئت‌مدیره شرکت‌های Databricks و Fivetran صورت می‌گیرد که اکنون رقیب یکدیگر محسوب می‌شوند. DOJ با استناد به یک قانون ۱۱۲ ساله ضد انحصار که به‌ندرت علیه شرکت‌های VC به‌کار گرفته می‌شود، به بررسی این تعارض منافع می‌پردازد. این اقدام می‌تواند ابعاد جدیدی را برای نظارت بر ساختار هیئت‌مدیره و سرمایه‌گذاری در اکوسیستم فناوری رقم بزند.",
+      "tags": [
+        "a16z",
+        "DOJ",
+        "venture capital",
+        "antitrust"
+      ]
+    },
+    {
+      "id": "8a5a6d190a21bcd2",
+      "date": "2026-08-21",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+      "category": "فناوری فضایی و زیرساخت",
+      "title_fa": "استارکلاد ۲۵۰ میلیون دلار برای دیتاسنترهای فضایی جذب کرد؛ رقابت برای دسترسی به فضا شدت می‌گیرد",
+      "title_en": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "summary_fa": "شرکت استارکلاد موفق به جذب ۲۵۰ میلیون دلار سرمایه برای توسعه مفهوم نوآورانه مراکز داده در مدار زمین شده است. هدف این شرکت ایجاد دیتاسنترهایی در فضا است تا خدمات پردازشی و ذخیره‌سازی با تاخیر کم را ارائه دهد. این سرمایه‌گذاری در حالی صورت می‌گیرد که گزینه‌های پرتاب به فضا رو به کاهش بوده و رقابت شدیدی برای تضمین دسترسی به فضا در حال شکل‌گیری است.",
+      "tags": [
+        "Starcloud",
+        "Orbital data centers",
+        "Space access",
+        "سرمایه‌گذاری",
+        "صنعت فضایی"
+      ]
+    },
+    {
+      "id": "c7d89ab550768739",
+      "date": "2026-08-21",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/",
+      "category": "فناوری فضایی و پیامدها",
+      "title_fa": "طرح‌های بحث‌برانگیز آینه‌های فضایی؛ خطری برای آسمان شب",
+      "title_en": "The Download: threats from space mirrors and credit for AI drugs",
+      "summary_fa": "گزارش جدیدی به بررسی طرح‌های یک شرکت برای استقرار آینه‌های غول‌پیکر در فضا می‌پردازد. هدف این پروژه، ارسال نور خورشید به زمین در زمان نیاز و روشن کردن مناطق مورد نظر است. اما منتقدان هشدار می‌دهند که این تکنولوژی می‌تواند به طور ناخواسته منجر به روشن شدن دائمی آسمان شب و از بین رفتن زیبایی‌های کیهانی و امکان رصد ستارگان شود.",
+      "tags": [
+        "Space Mirrors",
+        "آلودگی نوری",
+        "فناوری فضایی",
+        "آسمان شب"
+      ]
+    },
+    {
+      "id": "785c810c16ee7a0c",
+      "date": "2026-08-21",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
+      "category": "کاربرد هوش مصنوعی در علم و پزشکی",
+      "title_fa": "کشف دارو توسط هوش مصنوعی: مسئله اعتبار و مالکیت فکری",
+      "title_en": "When AI designs a drug, who gets the credit?",
+      "summary_fa": "شرکت بیوتکنولوژی Insilico Medicine اعلام کرده است که پلتفرم هوش مصنوعی مولد آن، دارویی امیدوارکننده برای درمان فیبروز ریوی «کشف» کرده است. این ادعا، سوالات مهمی را درباره‌ی مالکیت فکری و اعتبار در فرآیند کشف دارو توسط هوش مصنوعی مطرح می‌کند. Insilico پیشگام استفاده از هوش مصنوعی برای تولید سریع ایده‌های دارویی است که ممکن است فراتر از توانایی‌های انسانی باشد.",
+      "tags": [
+        "Insilico Medicine",
+        "AI drug discovery",
+        "Intellectual property",
+        "بیوتکنولوژی",
+        "داروسازی"
+      ]
+    },
+    {
+      "id": "4db71fc4427e9b3e",
+      "date": "2026-08-21",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/08/21/1142755/space-mirrors-night-sky/",
+      "category": "فناوری فضایی و نجوم",
+      "title_fa": "طرح آینه‌های فضایی Reflect Orbital: تهدیدی برای آسمان شب و رصد ستارگان",
+      "title_en": "This company’s plans to deploy space mirrors could jeopardize the night sky for many",
+      "summary_fa": "یک مطالعه جدید نشان می‌دهد که برنامه‌های شرکت آمریکایی Reflect Orbital برای تاباندن نور خورشید از فضا به زمین توسط آینه‌های مداری، ممکن است به طور ناخواسته آسمان شب را برای تعداد زیادی از مردم روشن‌تر کند. این شرکت قصد دارد ماهواره آزمایشی خود به نام Eärendil-1 را که مجهز به یک آینه ۱۸ در ۱۸ متری است، اواخر امسال به فضا پرتاب کند.",
+      "tags": [
+        "Reflect Orbital",
+        "Space mirrors",
+        "Eärendil-1",
+        "Light pollution",
+        "فناوری فضایی"
       ]
     }
   ]
