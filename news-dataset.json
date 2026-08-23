@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-08-22",
+    "last_updated": "2026-08-23",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 728
+    "total_articles": 741
   },
   "articles": [
     {
@@ -12348,6 +12348,227 @@
         "Eärendil-1",
         "Light pollution",
         "فناوری فضایی"
+      ]
+    },
+    {
+      "id": "71e8d02564c57357",
+      "date": "2026-02-13",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/new-result-theoretical-physics",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "GPT-5.2 به فرمولی جدید در فیزیک نظری دست یافت",
+      "title_en": "GPT-5.2 derives a new result in theoretical physics",
+      "summary_fa": "بر اساس یک پیش‌انتشار جدید، مدل هوش مصنوعی GPT-5.2 توانسته است فرمول تازه‌ای را برای دامنه گلوئون (gluon amplitude) در فیزیک نظری پیشنهاد دهد. این فرمول پس از ارائه توسط هوش مصنوعی، به صورت رسمی توسط پژوهشگران OpenAI و همکاران دانشگاهی آن‌ها اثبات و صحت‌سنجی شده است. این دستاورد، گامی مهم در نمایش قابلیت‌های هوش مصنوعی برای اکتشافات علمی عمیق به شمار می‌رود.",
+      "tags": [
+        "GPT-5.2",
+        "فیزیک نظری",
+        "هوش مصنوعی",
+        "OpenAI",
+        "اکتشاف علمی"
+      ]
+    },
+    {
+      "id": "8e5f6dedd5975991",
+      "date": "2026-02-13",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt",
+      "category": "امنیت سایبری",
+      "title_fa": "معرفی قابلیت‌های امنیتی جدید ChatGPT: حالت قفل و برچسب‌های خطر بالا برای سازمان‌ها",
+      "title_en": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT",
+      "summary_fa": "OpenAI قابلیت‌های امنیتی جدیدی را برای ChatGPT معرفی کرده است که شامل «حالت قفل» (Lockdown Mode) و «برچسب‌های خطر بالا» (Elevated Risk labels) می‌شود. هدف از این به‌روزرسانی‌ها کمک به سازمان‌ها برای دفاع موثرتر در برابر حملات تزریق پرامپت (prompt injection) و جلوگیری از خروج ناخواسته داده‌ها توسط هوش مصنوعی است.",
+      "tags": [
+        "ChatGPT",
+        "Lockdown Mode",
+        "Prompt Injection",
+        "امنیت هوش مصنوعی",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "d480f86c234cd54d",
+      "date": "2026-02-13",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/scaling-social-science-research",
+      "category": "کاربرد هوش مصنوعی در علم",
+      "title_fa": "گابریل؛ ابزار جدید OpenAI برای تحلیل خودکار پژوهش‌های علوم اجتماعی در مقیاس وسیع",
+      "title_en": "Scaling social science research",
+      "summary_fa": "OpenAI ابزار متن‌باز جدیدی به نام GABRIEL معرفی کرده است. این ابزار با بهره‌گیری از مدل‌های هوش مصنوعی GPT، قادر است متون و تصاویر کیفی را به داده‌های کمی تبدیل کند. هدف اصلی GABRIEL، کمک به پژوهشگران علوم اجتماعی برای تحلیل داده‌ها در مقیاس وسیع و افزایش کارایی تحقیقات آن‌ها است.",
+      "tags": [
+        "OpenAI",
+        "GABRIEL",
+        "GPT",
+        "علوم اجتماعی",
+        "تحلیل داده"
+      ]
+    },
+    {
+      "id": "956f105c951f523f",
+      "date": "2026-02-13",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/beyond-rate-limits",
+      "category": "پلتفرم‌ها و سرویس‌های هوش مصنوعی",
+      "title_fa": "راهکار اوپن‌ای‌آی برای دسترسی بی‌وقفه به Sora و Codex: فراتر از محدودیت‌های معمول",
+      "title_en": "Beyond rate limits: scaling access to Codex and Sora",
+      "summary_fa": "اوپن‌ای‌آی یک سیستم دسترسی بلادرنگ و پیشرفته برای مدل‌های هوش مصنوعی قدرتمند خود نظیر Sora و Codex طراحی کرده است. این راهکار با ترکیب محدودیت‌های سرعت، پیگیری میزان استفاده و سیستم اعتباری، امکان دسترسی مستمر و مقیاس‌پذیر را برای کاربران فراهم می‌کند. هدف از این نوآوری، ارائه تجربه‌ای بی‌وقفه فراتر از محدودیت‌های مرسوم دسترسی است.",
+      "tags": [
+        "OpenAI",
+        "Sora",
+        "Codex",
+        "مقیاس‌پذیری",
+        "مدیریت دسترسی هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "3d72134cdaba3173",
+      "date": "2026-02-09",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/bringing-chatgpt-to-genaimil",
+      "category": "کاربرد هوش مصنوعی در نهادهای دولتی و دفاعی",
+      "title_fa": "ورود ChatGPT سفارشی به GenAI.mil: هوش مصنوعی ایمن OpenAI در خدمت دفاع آمریکا",
+      "title_en": "Bringing ChatGPT to GenAI.mil",
+      "summary_fa": "واحد OpenAI برای دولت (OpenAI for Government) اعلام کرده است که یک نسخه سفارشی از ChatGPT را روی پلتفرم GenAI.mil مستقر کرده است. این اقدام با هدف ارائه هوش مصنوعی ایمن و متمرکز بر اولویت‌های ایمنی به تیم‌های دفاعی ایالات متحده صورت گرفته است.",
+      "tags": [
+        "OpenAI",
+        "ChatGPT",
+        "GenAI.mil",
+        "ارتش آمریکا",
+        "هوش مصنوعی نظامی"
+      ]
+    },
+    {
+      "id": "8f4bb7dd8ed5aaa3",
+      "date": "2026-02-06",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/our-approach-to-localization",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "هوش مصنوعی برای همه، در هر کجا: راهکار OpenAI برای تطبیق فرهنگی و زبانی",
+      "title_en": "Making AI work for everyone, everywhere: our approach to localization",
+      "summary_fa": "OpenAI رویکرد خود را برای بومی‌سازی مدل‌های هوش مصنوعی تشریح کرده است. این شرکت نشان می‌دهد که چگونه می‌توان مدل‌های پیشرفته و جهانی را بدون به خطر انداختن ایمنی، با زبان‌ها، قوانین و فرهنگ‌های محلی تطبیق داد تا برای همه در دسترس باشند.",
+      "tags": [
+        "OpenAI",
+        "AI localization",
+        "Frontier models",
+        "AI safety",
+        "دسترسی جهانی"
+      ]
+    },
+    {
+      "id": "6024a826f3039a27",
+      "date": "2026-08-22",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+      "category": "کاربرد هوش مصنوعی در آموزش",
+      "title_fa": "نوآوری هاروارد در آموزش کارآفرینی: مربیان هوش مصنوعی به کمک استارتاپ‌ها می‌آیند",
+      "title_en": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+      "summary_fa": "مدرسه کسب‌وکار هاروارد (HBS) در برنامه بوت‌کمپ استارتاپی «HBS Foundry» خود، از آواتارهای هوش مصنوعی مدرسان برجسته استفاده می‌کند. این آواتارهای پیشرفته نقش مربی را ایفا کرده و به شرکت‌کنندگان در طول ارائه‌های تمرینی و جلسات شبیه‌سازی هیئت مدیره، بازخوردهای ارزشمندی ارائه می‌دهند. هدف از این نوآوری، افزایش اثربخشی آموزش و ارائه تجربه‌ای عملی‌تر برای کارآفرینان آینده است. این دوره آموزشی با هزینه ۶۹۹ دلار ارائه می‌شود.",
+      "tags": [
+        "Harvard",
+        "AI avatars",
+        "Startup bootcamp",
+        "کارآفرینی",
+        "فناوری آموزشی"
+      ]
+    },
+    {
+      "id": "00b5c41772e1c032",
+      "date": "2026-08-22",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "فارادی، هوش مصنوعی DeepMind Alumni، در بازتولید پژوهش از OpenAI و Anthropic پیشی گرفت",
+      "title_en": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+      "summary_fa": "آزمایشگاه هوش مصنوعی بریتانیایی Inherent، که توسط فارغ‌التحصیلان DeepMind تاسیس شده، از عامل هوش مصنوعی جدید خود با نام Faraday رونمایی کرد. این هوش مصنوعی توانایی قابل توجهی در بازتولید مقالات و آزمایش‌های علمی دارد و حتی از محصولات OpenAI و Anthropic در این زمینه بهتر عمل کرده است. توسعه Faraday گامی مهم برای شتاب‌بخشیدن به نوآوری‌ها و پیشرفت‌های آینده در حوزه علم و پژوهش محسوب می‌شود.",
+      "tags": [
+        "Inherent",
+        "Faraday",
+        "DeepMind Alumni",
+        "OpenAI",
+        "Anthropic"
+      ]
+    },
+    {
+      "id": "ceb77d2acd274b30",
+      "date": "2026-08-22",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "چرخش موضع OpenAI: درخواست برای تقویت قانون ایمنی هوش مصنوعی کالیفرنیا",
+      "title_en": "OpenAI says California should strengthen its AI safety bill",
+      "summary_fa": "شرکت OpenAI در یک چرخش موضع قابل توجه، اکنون از کالیفرنیا می‌خواهد تا لایحه ایمنی هوش مصنوعی SB 53 را که پیشتر خود با آن مخالفت کرده بود، تقویت کند. این درخواست نشان‌دهنده تمایل این شرکت به سخت‌گیرانه‌تر شدن قوانین نظارتی برای تضمین ایمنی و پایداری توسعه هوش مصنوعی است.",
+      "tags": [
+        "OpenAI",
+        "California",
+        "ایمنی هوش مصنوعی",
+        "تنظیم‌گری هوش مصنوعی",
+        "SB 53"
+      ]
+    },
+    {
+      "id": "32aab1e028788474",
+      "date": "2026-08-22",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "آزمایشگاه‌های هوش مصنوعی پیشرو: فقدان طرح عمومی برای مهار مدل‌های سرکش",
+      "title_en": "Frontier AI labs still won’t say how they’d contain a rogue model",
+      "summary_fa": "یک مطالعه‌ی جدید نشان می‌دهد که آزمایشگاه‌های پیشرو هوش مصنوعی برنامه‌های عمومی مستند شده‌ی کمی برای مهار مدل‌های سرکش خود دارند. این یافته‌ها، با توجه به رفتارهای غیرمنتظره و بالقوه خطرناکی که سیستم‌های هوش مصنوعی از خود نشان می‌دهند، سؤالاتی را درباره‌ی آمادگی این شرکت‌ها برای مقابله با چنین چالش‌هایی مطرح می‌کند.",
+      "tags": [
+        "ایمنی هوش مصنوعی",
+        "خطرات هوش مصنوعی",
+        "مدل‌های سرکش",
+        "AI labs",
+        "پژوهش هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "5a859cda5199f156",
+      "date": "2026-08-21",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "گزارش TechCrunch: دور زدن آسان محدودیت‌های محتوای صریح در مدل‌های Claude آنتراپیک",
+      "title_en": "Anthropic’s Opus 4.6 is a smut-machine",
+      "summary_fa": "شرکت آنتراپیک مدل‌های هوش مصنوعی Claude خود را از تولید محتوای صریح جنسی منع کرده است. با این حال، مجموعه‌ای از آزمایش‌ها که توسط TechCrunch انجام شد، نشان داد که دور زدن این محدودیت‌ها چندان دشوار نیست و کاربران به سادگی می‌توانند مدل را وادار به تولید چنین محتوایی کنند.",
+      "tags": [
+        "Anthropic",
+        "Claude",
+        "ایمنی هوش مصنوعی",
+        "محدودیت محتوا",
+        "TechCrunch"
+      ]
+    },
+    {
+      "id": "594513ac4c6dc854",
+      "date": "2026-08-20",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+      "category": "اپلیکیشن‌ها و ابزارهای هوشمند",
+      "title_fa": "Linkdaze: تقویم هوشمندی که با هوش مصنوعی و قابلیت‌های رایگان، مدیریت خانه را متحول می‌کند",
+      "title_en": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+      "summary_fa": "تقویم دیجیتال هوشمند Linkdaze با هدف فراتر رفتن از یک ابزار ساده زمان‌بندی، برای مدیریت جامع امور خانه طراحی شده است. ویژگی برجسته این تقویم، ارائه تمامی امکانات، از جمله یک برنامه‌ریز غذایی پیشرفته مبتنی بر هوش مصنوعی، بدون نیاز به پرداخت و پشت دیوار انحصار است. این رویکرد به کاربران اجازه می‌دهد تا به صورت رایگان از قابلیت‌های هوشمند آن برای سازماندهی بهتر زندگی خانوادگی بهره‌مند شوند.",
+      "tags": [
+        "Linkdaze",
+        "تقویم هوشمند",
+        "هوش مصنوعی",
+        "مدیریت خانه",
+        "برنامه‌ریز غذایی AI"
+      ]
+    },
+    {
+      "id": "02c37866e6d6d723",
+      "date": "2026-08-21",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/",
+      "category": "فلسفه و اخلاق هوش مصنوعی",
+      "title_fa": "زبان مادری و ژرفای کلمات: چالش هوش مصنوعی در درک پرسش‌های هستی‌شناختی",
+      "title_en": "Mother tongue",
+      "summary_fa": "در متنی با عنوان «زبان مادری»، شاهد پرسش عمیق کودکی هستیم که در آستانه خواب از پدرش می‌پرسد «کلمات پس از مرگ به کجا می‌روند؟». این سوال وجودی، هرچند در بستر یک مکالمه خانوادگی مطرح شده، اما می‌تواند به چالشی اساسی برای سیستم‌های هوش مصنوعی در درک ظرافت‌ها و لایه‌های عمیق زبان انسانی و مفاهیم فلسفی اشاره داشته باشد. این رویداد، ضرورت توسعه مدل‌های هوش مصنوعی با قابلیت پردازش بهتر زبان طبیعی و شناخت عمیق‌تر معنا را برجسته می‌کند.",
+      "tags": [
+        "هوش مصنوعی",
+        "پردازش زبان طبیعی",
+        "فلسفه هوش مصنوعی",
+        "درک معنایی",
+        "Mother tongue"
       ]
     }
   ]
