@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-08-23",
+    "last_updated": "2026-08-24",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 741
+    "total_articles": 752
   },
   "articles": [
     {
@@ -12569,6 +12569,192 @@
         "فلسفه هوش مصنوعی",
         "درک معنایی",
         "Mother tongue"
+      ]
+    },
+    {
+      "id": "df0b4d474a022be6",
+      "date": "2026-02-05",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/gpt-5-lowers-protein-synthesis-cost",
+      "category": "کاربرد هوش مصنوعی در علم و پزشکی",
+      "title_fa": "همکاری GPT-5 و زیست‌فناوری: کاهش ۴۰ درصدی هزینه سنتز پروتئین",
+      "title_en": "GPT-5 lowers the cost of cell-free protein synthesis",
+      "summary_fa": "یک آزمایشگاه خودکار با بهره‌گیری از مدل GPT-5 شرکت OpenAI و اتوماسیون ابری Ginkgo Bioworks، موفق به کاهش ۴۰ درصدی هزینه سنتز پروتئین بدون سلول شد. این دستاورد چشمگیر از طریق آزمایش‌های حلقه بسته به دست آمد و نشان‌دهنده پتانسیل هوش مصنوعی در بهینه‌سازی و مقرون‌به‌صرفه کردن فرآیندهای پیچیده زیستی است.",
+      "tags": [
+        "GPT-5",
+        "OpenAI",
+        "Ginkgo Bioworks",
+        "هوش مصنوعی",
+        "زیست‌فناوری"
+      ]
+    },
+    {
+      "id": "4a49a2171babb1e4",
+      "date": "2026-02-05",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/trusted-access-for-cyber",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "OpenAI و «دسترسی مورد اعتماد»: گسترش قابلیت‌های سایبری در کنار تقویت ایمنی",
+      "title_en": "Introducing Trusted Access for Cyber",
+      "summary_fa": "شرکت OpenAI چارچوبی جدید تحت عنوان «Trusted Access for Cyber» را معرفی کرده است. این سیستم مبتنی بر اعتماد، به منظور گسترش دسترسی به قابلیت‌های سایبری پیشرفته طراحی شده است. هدف اصلی آن، فراهم آوردن دسترسی بیشتر به ابزارهای سایبری نوین، ضمن تقویت تدابیر حفاظتی و جلوگیری از هرگونه سوءاستفاده احتمالی است.",
+      "tags": [
+        "OpenAI",
+        "Trusted Access for Cyber",
+        "امنیت سایبری",
+        "ایمنی هوش مصنوعی",
+        "سوءاستفاده از هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "537f97d9df022e3a",
+      "date": "2026-02-05",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/introducing-openai-frontier",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "رونمایی از OpenAI Frontier: پلتفرمی جامع برای ایجنت‌های هوش مصنوعی سازمانی",
+      "title_en": "Introducing OpenAI Frontier",
+      "summary_fa": "OpenAI از پلتفرم سازمانی جدید خود با نام Frontier رونمایی کرده است. این پلتفرم به شرکت‌ها امکان می‌دهد تا ایجنت‌های هوش مصنوعی خود را با قابلیت‌هایی نظیر توسعه، استقرار و مدیریت آسان، ایجاد و به کار گیرند. Frontier همچنین ویژگی‌های کلیدی برای محیط‌های سازمانی از جمله مدیریت دسترسی‌ها، فرایند ورود کاربران، حاکمیت داده‌ها و قابلیت به اشتراک‌گذاری اطلاعات را ارائه می‌دهد تا نیازهای پیچیده کسب‌وکارها را برآورده سازد.",
+      "tags": [
+        "OpenAI",
+        "Frontier",
+        "AI Agents",
+        "Enterprise AI",
+        "پلتفرم هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "1f7427a9e036922c",
+      "date": "2026-02-05",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/introducing-gpt-5-3-codex",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "رونمایی از GPT-5.3-Codex: دستیار پیشرفته هوش مصنوعی برای کدنویسی و استدلال عمومی",
+      "title_en": "Introducing GPT-5.3-Codex",
+      "summary_fa": "GPT-5.3-Codex، یک عامل هوش مصنوعی بومی Codex، به تازگی معرفی شده است. این مدل جدید توانایی‌های کدنویسی بسیار پیشرفته را با قابلیت‌های استدلال عمومی ترکیب می‌کند. هدف اصلی آن پشتیبانی از پروژه‌های فنی پیچیده و طولانی‌مدت در دنیای واقعی است و می‌تواند کارایی توسعه‌دهندگان را به شکل قابل توجهی افزایش دهد.",
+      "tags": [
+        "GPT-5.3-Codex",
+        "Codex",
+        "هوش مصنوعی",
+        "برنامه‌نویسی",
+        "مدل‌های زبانی بزرگ"
+      ]
+    },
+    {
+      "id": "8a0c8c7ac88d6956",
+      "date": "2026-02-05",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/gpt-5-3-codex-system-card",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "GPT-5.3-Codex: قدرتمندترین مدل هوش مصنوعی عامل برای کدنویسی معرفی شد",
+      "title_en": "GPT-5.3-Codex System Card",
+      "summary_fa": "مدل هوش مصنوعی GPT-5.3-Codex به عنوان قدرتمندترین مدل عامل (Agentic) در زمینه کدنویسی تا به امروز معرفی شده است. این سیستم با ترکیب عملکرد پیشرو در کدنویسی که از GPT-5.2-Codex به ارث برده، و قابلیت‌های استدلال و دانش حرفه‌ای GPT-5.2، به اوج توانمندی خود رسیده است. این مدل یک گام بزرگ در توسعه ابزارهای کدنویسی مبتنی بر هوش مصنوعی محسوب می‌شود.",
+      "tags": [
+        "GPT-5.3-Codex",
+        "هوش مصنوعی",
+        "مدل عامل",
+        "کدنویسی",
+        "GPT"
+      ]
+    },
+    {
+      "id": "a45c7ee6fc086348",
+      "date": "2026-02-04",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/unlocking-the-codex-harness",
+      "category": "معماری و زیرساخت هوش مصنوعی",
+      "title_fa": "ساخت سرور برنامه برای عامل هوشمند Codex: راهکاری برای ادغام عمیق‌تر هوش مصنوعی",
+      "title_en": "Unlocking the Codex harness: how we built the App Server",
+      "summary_fa": "این مقاله به چگونگی ادغام عامل (agent) مدل Codex، که از OpenAI برای تولید کد شناخته شده است، با استفاده از یک سرور برنامه (App Server) اختصاصی می‌پردازد. سرور برنامه Codex یک رابط API دوطرفه JSON-RPC است که امکان پیشرفت لحظه‌ای، استفاده از ابزارها، دریافت تاییدیه و مشاهده تفاوت‌ها را فراهم می‌کند. هدف این راهکار، تسهیل و عمیق‌تر کردن تعامل با قابلیت‌های عامل هوش مصنوعی Codex است.",
+      "tags": [
+        "Codex",
+        "App Server",
+        "AI Agent",
+        "API",
+        "ادغام هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "bab230b853cb2058",
+      "date": "2026-08-23",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "Ox Alpha: معمای مدل هوش مصنوعی «پنهانی» که اینترنت را به تکاپو انداخته",
+      "title_en": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+      "summary_fa": "یک مدل هوش مصنوعی جدید و مرموز به نام Ox Alpha اخیراً در فضای مجازی ظاهر شده است. ظهور این مدل پنهان، موجی از کنجکاوی و حدس و گمان‌های فراوان را در میان کاربران و متخصصان فناوری به راه انداخته است.",
+      "tags": [
+        "Ox Alpha",
+        "مدل هوش مصنوعی",
+        "گمانه‌زنی",
+        "مدل مخفی"
+      ]
+    },
+    {
+      "id": "ff8825167e803fae",
+      "date": "2026-08-23",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+      "category": "زندگی هوشمند و خانه",
+      "title_fa": "Linkdaze: تقویم هوشمند رایگان با دستیار هوش مصنوعی برای مدیریت کامل خانه",
+      "title_en": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+      "summary_fa": "شرکت Linkdaze یک تقویم دیجیتال هوشمند معرفی کرده که فراتر از یک ابزار زمان‌بندی عمل می‌کند. این تقویم با هدف مدیریت کامل و یکپارچه امور خانه طراحی شده و از ویژگی‌هایی مانند برنامه‌ریز غذایی مبتنی بر هوش مصنوعی بهره می‌برد. نکته برجسته Linkdaze این است که تمامی قابلیت‌های آن، از جمله ابزارهای هوش مصنوعی، بدون نیاز به پرداخت و به صورت رایگان در دسترس کاربران قرار گرفته است.",
+      "tags": [
+        "Linkdaze",
+        "تقویم هوشمند",
+        "هوش مصنوعی",
+        "مدیریت خانه",
+        "اپلیکیشن رایگان"
+      ]
+    },
+    {
+      "id": "80d039e631a921e8",
+      "date": "2026-08-23",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+      "category": "حریم خصوصی",
+      "title_fa": "فشار افکار عمومی بر شرکت نظارتی Flock Safety؛ مدیرعامل خواستار «مصالحه» شد",
+      "title_en": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+      "summary_fa": "شرکت Flock Safety که در زمینه فناوری‌های نظارتی فعالیت می‌کند، با اعتراضات گسترده‌ای از سوی افکار عمومی روبرو شده است. این نگرانی‌ها عمدتاً حول محور سوءاستفاده احتمالی از تکنولوژی‌های نظارتی این شرکت شکل گرفته است. در واکنش به این انتقادات و موج نارضایتی عمومی، مدیرعامل Flock Safety خواستار یافتن «مصالحه» و راهکارهای مشترک شده است.",
+      "tags": [
+        "Flock Safety",
+        "Surveillance",
+        "حریم خصوصی",
+        "هوش مصنوعی",
+        "اعتراض عمومی"
+      ]
+    },
+    {
+      "id": "badce92339778deb",
+      "date": "2026-08-23",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "حق تکثیر و هوش مصنوعی: آیا آموزش مدل‌ها با آثار نویسندگان قانونی است؟",
+      "title_en": "Is it legal to train AI models on copyrighted books? It’s complicated",
+      "summary_fa": "اکثر نویسندگان شناخته‌شده، بدون اطلاع یا رضایت خود، در توسعه ابزارهای هوش مصنوعی نقش داشته‌اند. این ابزارها اکنون معیشت آنها را تهدید می‌کنند و همین امر پرسش‌هایی جدی درباره قانونی بودن این شیوه استفاده از آثار دارای حق تکثیر به وجود آورده است. مناقشه بر سر این موضوع و پیچیدگی‌های حقوقی آن در حال افزایش است.",
+      "tags": [
+        "حق تکثیر",
+        "هوش مصنوعی",
+        "AI",
+        "نویسندگان",
+        "AI training data"
+      ]
+    },
+    {
+      "id": "aacf0e17caa36e32",
+      "date": "2026-08-20",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "اختلال در هوش مصنوعی Grok: ارسال پاسخ‌های نامفهوم و بی‌معنی به کاربران",
+      "title_en": "Grok keeps sending gibberish responses to users",
+      "summary_fa": "کاربران نسخه Grok Lite از هوش مصنوعی X گزارش داده‌اند که این مدل از صبح چهارشنبه در حال ارسال پاسخ‌های نامفهوم و بی‌معنی بوده است. این مشکل باعث سردرگمی استفاده‌کنندگان شده و بر اساس گزارش TechCrunch، تعداد قابل توجهی از کاربران را تحت تأثیر قرار داده است.",
+      "tags": [
+        "Grok",
+        "AI",
+        "AI models",
+        "TechCrunch",
+        "اختلال"
       ]
     }
   ]
