@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-08-24",
+    "last_updated": "2026-08-25",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 752
+    "total_articles": 767
   },
   "articles": [
     {
@@ -12755,6 +12755,258 @@
         "AI models",
         "TechCrunch",
         "اختلال"
+      ]
+    },
+    {
+      "id": "df015003760c1205",
+      "date": "2026-08-24",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/gpt-5-6-in-kiro",
+      "category": "ابزارها و پلتفرم‌های هوش مصنوعی",
+      "title_fa": "Kiro با GPT-5.6: بهره‌وری و صرفه اقتصادی برای توسعه‌دهندگان نرم‌افزار",
+      "title_en": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+      "summary_fa": "مدل زبانی GPT-5.6 اکنون در پلتفرم Kiro در دسترس قرار گرفته است. این ابزار جدید به توسعه‌دهندگان کمک می‌کند تا با بهره‌وری بالاتر و هزینه‌ای بهینه‌تر، مراحل برنامه‌ریزی، ساخت، بازبینی و آزمایش نرم‌افزار را انجام دهند. هدف اصلی، ارائه عملکردی بهتر در کنار صرفه اقتصادی برای فرآیندهای توسعه نرم‌افزار است.",
+      "tags": [
+        "GPT-5.6",
+        "Kiro",
+        "توسعه‌دهنده",
+        "هوش مصنوعی",
+        "نرم‌افزار"
+      ]
+    },
+    {
+      "id": "1d2f67546cfdfedb",
+      "date": "2026-02-03",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/sora-feed-philosophy",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "فلسفه فید سورا: خلق، اتصال و امنیت تجربه کاربری",
+      "title_en": "The Sora feed philosophy",
+      "summary_fa": "فلسفه فید سورا بر سه محور اصلی استوار است: برانگیختن خلاقیت، تقویت ارتباطات و حفظ امنیت کاربران. این رویکرد با ارائه توصیه‌های شخصی‌سازی‌شده، کنترل‌های والدین و سازوکارهای محافظتی قوی، محیطی ایمن و الهام‌بخش برای تجربه‌های کاربری فراهم می‌کند.",
+      "tags": [
+        "Sora",
+        "AI",
+        "تجربه کاربری",
+        "ایمنی هوش مصنوعی",
+        "فید محتوا"
+      ]
+    },
+    {
+      "id": "bea71e9121e97715",
+      "date": "2026-02-02",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/snowflake-partnership",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "شراکت ۲۰۰ میلیون دلاری Snowflake و OpenAI: هوش پیشرفته به داده‌های سازمانی می‌آید",
+      "title_en": "Snowflake and OpenAI partner to bring frontier intelligence to enterprise data",
+      "summary_fa": "OpenAI و Snowflake در یک توافق ۲۰۰ میلیون دلاری برای ادغام «هوش پیشرفته» با داده‌های سازمانی همکاری می‌کنند. هدف این شراکت، آوردن قابلیت‌های نوین هوش مصنوعی مستقیماً به پلتفرم Snowflake است. این اقدام به شرکت‌ها امکان می‌دهد تا از عامل‌های هوش مصنوعی و بینش‌های عمیق‌تر روی داده‌های خود بهره‌مند شوند و تصمیم‌گیری‌های هوشمندانه‌تری داشته باشند.",
+      "tags": [
+        "OpenAI",
+        "Snowflake",
+        "هوش مصنوعی",
+        "داده‌های سازمانی",
+        "AI agents"
+      ]
+    },
+    {
+      "id": "15315cc38e8625f6",
+      "date": "2026-02-02",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/introducing-the-codex-app",
+      "category": "توسعه نرم‌افزار و هوش مصنوعی",
+      "title_fa": "Codex: مرکز فرماندهی کدنویسی و توسعه نرم‌افزار هوش مصنوعی برای macOS",
+      "title_en": "Introducing the Codex app",
+      "summary_fa": "اپلیکیشن جدید Codex برای سیستم‌عامل macOS معرفی شده است. این برنامه به عنوان یک مرکز فرماندهی پیشرفته برای کدنویسی مبتنی بر هوش مصنوعی و توسعه نرم‌افزار عمل می‌کند. با پشتیبانی از عوامل متعدد هوشمند، گردش کارهای موازی و امکان انجام وظایف طولانی‌مدت، Codex ابزاری قدرتمند برای افزایش بهره‌وری توسعه‌دهندگان به شمار می‌رود.",
+      "tags": [
+        "Codex",
+        "macOS",
+        "AI development",
+        "Software tools"
+      ]
+    },
+    {
+      "id": "efcfc2c531995d14",
+      "date": "2026-01-29",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/inside-our-in-house-data-agent",
+      "category": "ابزارهای هوش مصنوعی",
+      "title_fa": "OpenAI از عامل هوش مصنوعی داده داخلی خود پرده برداشت: استخراج بینش‌های سریع از داده‌های عظیم",
+      "title_en": "Inside OpenAI’s in-house data agent",
+      "summary_fa": "شرکت OpenAI یک عامل هوش مصنوعی داخلی توسعه داده است که برای تحلیل مجموعه داده‌های عظیم به کار می‌رود. این عامل هوشمند با بهره‌گیری از مدل‌های پیشرفته‌ای چون GPT-5 و Codex، همراه با قابلیت حافظه، می‌تواند روی حجم وسیعی از اطلاعات استدلال کرده و بینش‌های قابل اعتماد را در عرض چند دقیقه ارائه دهد. این ابزار بهینه‌سازی شده برای نیازهای داخلی OpenAI، کارایی تحلیل داده را به شکل چشمگیری افزایش می‌دهد.",
+      "tags": [
+        "OpenAI",
+        "AI Agent",
+        "GPT-5",
+        "Data Analysis"
+      ]
+    },
+    {
+      "id": "f582e053a20ed453",
+      "date": "2026-01-29",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/retiring-gpt-4o-and-older-models",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "OpenAI مدل‌های GPT-4o و 4.1 را در سال ۲۰۲۶ از ChatGPT بازنشسته می‌کند",
+      "title_en": "Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT",
+      "summary_fa": "شرکت OpenAI اعلام کرده است که در تاریخ ۱۳ فوریه ۲۰۲۶ (۲۴ بهمن ۱۴۰۴)، چندین مدل از جمله GPT-4o، GPT-4.1، GPT-4.1 mini و OpenAI o4-mini را از پلتفرم ChatGPT بازنشسته خواهد کرد. این اقدام همزمان با بازنشستگی پیشتر اعلام‌شده‌ی مدل‌های GPT-5 (نسخه‌های Instant, Thinking, و Pro) صورت می‌گیرد. با این حال، در حال حاضر هیچ تغییری در دسترس بودن این مدل‌ها از طریق API اعمال نخواهد شد و توسعه‌دهندگان می‌توانند همچنان از آن‌ها استفاده کنند.",
+      "tags": [
+        "OpenAI",
+        "ChatGPT",
+        "GPT-4o",
+        "GPT-4.1",
+        "مدل‌های هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "23a36ae92a3cbc95",
+      "date": "2026-08-25",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "از اوج تا آستانه فروپاشی: صندوق هوش مصنوعی Situational Awareness تحت تحقیقات SEC",
+      "title_en": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+      "summary_fa": "صندوق پوشش ریسک هوش مصنوعی Situational Awareness که زمانی ستاره درخشان وال‌استریت محسوب می‌شد، به سرعت از اوج شهرت به سمت بحران و اکنون تحقیقات فدرال سوق یافته است. این صندوق پس از نزدیک شدن به فروپاشی، حالا توسط کمیسیون بورس و اوراق بهادار (SEC) مورد بررسی دقیق قرار گرفته است تا دلایل و ابعاد این سقوط ناگهانی مشخص شود.",
+      "tags": [
+        "Situational Awareness",
+        "SEC",
+        "Hedge Fund",
+        "AI",
+        "Financial Regulation"
+      ]
+    },
+    {
+      "id": "44dcec9c1286b9a9",
+      "date": "2026-08-24",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
+      "category": "سرمایه‌گذاری در فناوری",
+      "title_fa": "ترامپ سهام اسپیس‌ایکس را اندکی پس از عرضه اولیه پرسروصدا خریداری کرد",
+      "title_en": "Trump bought SpaceX shares two weeks after blockbuster IPO",
+      "summary_fa": "دونالد ترامپ، رئیس‌جمهور سابق آمریکا، دو هفته پس از عرضه اولیه سهام شرکت SpaceX که با استقبال چشمگیری مواجه شد، اقدام به خرید این سهام کرد. او سهام اسپیس‌ایکس را زمانی که در محدوده قیمتی ۱۵۰ دلار بود، خریداری کرده بود. با این حال، ارزش سهام این شرکت فضایی روز دوشنبه به قیمت عرضه اولیه ۱۳۵ دلار بازگشت.",
+      "tags": [
+        "SpaceX",
+        "Donald Trump",
+        "سرمایه‌گذاری",
+        "عرضه اولیه",
+        "بازار سهام"
+      ]
+    },
+    {
+      "id": "d7e46a5aa8544253",
+      "date": "2026-08-24",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
+      "category": "آینده برنامه‌نویسی و ابزارهای توسعه",
+      "title_fa": "Amjad Masad، مدیرعامل Replit، در TechCrunch Disrupt 2026 از آینده برنامه‌نویسی می‌گوید",
+      "title_en": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
+      "summary_fa": "امجد مسعد، مدیرعامل و هم‌بنیان‌گذار Replit، در کنفرانس TechCrunch Disrupt 2026 حضور خواهد یافت. او در این رویداد، دیدگاه‌های خود را در مورد چشم‌انداز آینده برنامه‌نویسی و نقش کلیدی Replit در شکل‌گیری آن به اشتراک خواهد گذاشت.",
+      "tags": [
+        "Amjad Masad",
+        "Replit",
+        "TechCrunch Disrupt",
+        "برنامه‌نویسی",
+        "ابزارهای توسعه"
+      ]
+    },
+    {
+      "id": "679f443c18855235",
+      "date": "2026-08-24",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "Instinct: دستیار هوش مصنوعی قدرتمند در کانون نگرانی‌های امنیتی و حریم خصوصی",
+      "title_en": "Instinct’s powerful AI assistant is raising privacy and security concerns",
+      "summary_fa": "دستیار هوش مصنوعی جدید Instinct، با قابلیت‌های چشمگیر خود، تحسین آزمایش‌کنندگان اولیه را برانگیخته است. با این حال، دسترسی گسترده این دستیار، شرایط و ضوابط مبهم و توانایی آن برای عمل کردن به نمایندگی از کاربران، پرسش‌هایی جدی را مطرح کرده است. بسیاری معتقدند که این سطح از خودمختاری، مصالحه ناخوشایندی را در زمینه حریم خصوصی و امنیت داده‌ها به همراه دارد.",
+      "tags": [
+        "Instinct",
+        "AI assistant",
+        "Privacy",
+        "Security",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "97614477a9122817",
+      "date": "2026-08-24",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "Valor و Point72 از General Intuition با ارزش ۶ میلیارد دلار حمایت کردند؛ ورود به دنیای رباتیک",
+      "title_en": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+      "summary_fa": "استارتاپ General Intuition که در حال ساخت یک مدل بنیادی برای آموزش عوامل هوش مصنوعی تعمیم‌یافته جهت حرکت در فضا و زمان است، در حال مذاکره برای جذب سرمایه جدید می‌باشد. این جذب سرمایه با ارزش‌گذاری ۶ میلیارد دلاری قبل از تزریق پول توسط سرمایه‌گذارانی چون Valor Ventures و Point72 Ventures انجام می‌شود. هدف این استارتاپ گسترش فعالیت‌های خود در حوزه رباتیک و توسعه عامل‌های هوشمند است.",
+      "tags": [
+        "General Intuition",
+        "AI",
+        "Robotics",
+        "Funding",
+        "Valor Ventures"
+      ]
+    },
+    {
+      "id": "25d39522dc75ee5f",
+      "date": "2026-08-24",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "عامل‌های هوش مصنوعی OpenAI برای همه: آیا فراگیر خواهند شد؟",
+      "title_en": "OpenAI is building AI agents for everything. Will everyone use them?",
+      "summary_fa": "OpenAI، یکی از پیشروترین آزمایشگاه‌های هوش مصنوعی، تلاش گسترده‌ای را برای فراگیر کردن عامل‌های هوش مصنوعی آغاز کرده است. هدف این شرکت، تبدیل این عوامل از ابزارهایی تخصصی برای مهندسان نرم‌افزار به دستیارانی در دسترس برای عموم کاربران در همه جنبه‌های زندگی است.",
+      "tags": [
+        "OpenAI",
+        "AI agents",
+        "هوش مصنوعی",
+        "پذیرش عمومی"
+      ]
+    },
+    {
+      "id": "b09e26ca9fd0792d",
+      "date": "2026-08-24",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
+      "category": "هوش مصنوعی در آموزش و پرورش",
+      "title_fa": "راهنمای استفاده هوشمند از هوش مصنوعی در کلاس درس",
+      "title_en": "How to encourage smarter AI use in the classroom",
+      "summary_fa": "با ظهور ناگهانی چت‌بات‌ها، مدارس با چالشی جدید در خصوص نحوه استفاده دانش‌آموزان از ابزارهای هوش مصنوعی برای پاسخ به سؤالات مواجه شده‌اند. این مقاله که از خبرنامه «Making AI Work» نشریه MIT Technology Review برگرفته شده، راهکارهایی را برای تشویق به کارگیری هوشمندانه و مؤثر مدل‌های زبان بزرگ (LLM) در محیط‌های آموزشی ارائه می‌دهد.",
+      "tags": [
+        "هوش مصنوعی",
+        "آموزش",
+        "Chatbots",
+        "LLMs",
+        "MIT Technology Review"
+      ]
+    },
+    {
+      "id": "10fa6ee4a4348ec2",
+      "date": "2026-08-24",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "یادگیری زبان: کودکان هوش مصنوعی را پشت سر می‌گذارند، اما چرا؟",
+      "title_en": "The Download: kids outlearning AI, and space travel agents",
+      "summary_fa": "مدل‌های زبان بزرگ (LLM) برای آموزش زبان انسان به حجم فوق‌العاده زیادی از داده‌ها نیاز دارند و به راحتی می‌توانند صدها هزار بار بیشتر از آنچه یک انسان در طول زندگی با آن مواجه می‌شود، اطلاعات را پردازش کنند. با این حال، کودکان با پردازش بسیار کمتری از داده‌ها، قادر به یادگیری مؤثر و کارآمد زبان هستند. این برتری کودکان بر هوش مصنوعی در یادگیری زبان، معمایی است که دانشمندان هنوز دلیل آن را کشف نکرده‌اند.",
+      "tags": [
+        "هوش مصنوعی",
+        "یادگیری زبان",
+        "LLM",
+        "علوم شناختی",
+        "پژوهش هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "3d1f34a6b2eeef1a",
+      "date": "2026-08-24",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "برتری کودکان در یادگیری نسبت به هوش مصنوعی؛ رازی که هنوز حل نشده است",
+      "title_en": "Kids outlearn AI—and we still don’t know why",
+      "summary_fa": "برای ده‌ها هزار سال، تنها کودکان انسان قادر به یادگیری کامل و روان یک زبان بودند. اما با ظهور مدل‌های پیشرفته‌ای مانند ChatGPT در چهار سال اخیر، اکنون هوش مصنوعی نیز به سطح چشمگیری از تسلط بر زبان انسان دست یافته است. با این وجود، کودکان همچنان در بسیاری از جنبه‌های یادگیری از هوش مصنوعی پیشی می‌گیرند و پژوهشگران هنوز به طور کامل درک نکرده‌اند که چرا این برتری در فرآیندهای یادگیری آن‌ها وجود دارد.",
+      "tags": [
+        "یادگیری زبان",
+        "هوش مصنوعی",
+        "کودکان",
+        "ChatGPT",
+        "علوم شناختی"
       ]
     }
   ]
