@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-08-25",
+    "last_updated": "2026-08-26",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 767
+    "total_articles": 785
   },
   "articles": [
     {
@@ -13007,6 +13007,312 @@
         "کودکان",
         "ChatGPT",
         "علوم شناختی"
+      ]
+    },
+    {
+      "id": "829e237a888dfb1d",
+      "date": "2026-08-25",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+      "category": "زیرساخت و توسعه هوش مصنوعی",
+      "title_fa": "رمزگشایی از هوش فراگیر: معماری جامع از تراشه تا محصول از نگاه مدیر مالی OpenAI",
+      "title_en": "The full stack behind abundant intelligence",
+      "summary_fa": "سارا فرایر، مدیر ارشد مالی OpenAI، در توضیحات خود به عوامل بنیادین توسعه هوش مصنوعی فراگیر اشاره کرد. او تشریح کرد که چگونه پیشرفت‌ها در حوزه‌های کلیدی شامل تراشه‌ها، توان محاسباتی، مدل‌های هوش مصنوعی و محصولات نهایی، به صورت هم‌افزا عمل می‌کنند. این هم‌افزایی منجر به ارائه هوشمندی مفیدتر در مقیاس وسیع‌تر و با هزینه‌های کمتر می‌شود.",
+      "tags": [
+        "OpenAI",
+        "هوش مصنوعی",
+        "تراشه",
+        "زیرساخت محاسباتی",
+        "مدل‌های هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "9ad99bb5f40a3110",
+      "date": "2026-08-25",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/jalapeno-first-results",
+      "category": "سخت‌افزار و تراشه",
+      "title_fa": "Jalapeño اوپن‌ای‌آی: پیشتاز سرعت و بهره‌وری در پردازش استنتاجی هوش مصنوعی",
+      "title_en": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+      "summary_fa": "OpenAI از چیپ سفارشی جدید خود با نام Jalapeño رونمایی کرده که نتایج اولیه آن سرعت و کارایی بی‌سابقه‌ای را در پردازش استنتاجی هوش مصنوعی به نمایش می‌گذارد. این تراشه با بهره‌وری توان بالاتر، پهنای باند بیشتر و تأخیر کمتر، عملکرد مدل‌های هوش مصنوعی مدرن را به شکل چشمگیری بهبود می‌بخشد و معیارهای صنعتی را در این زمینه جابجا می‌کند.",
+      "tags": [
+        "OpenAI",
+        "Jalapeño",
+        "AI inference",
+        "تراشه هوش مصنوعی",
+        "کارایی"
+      ]
+    },
+    {
+      "id": "da55f7d7bd9decaa",
+      "date": "2026-08-25",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "OpenAI: خنثی‌سازی کارزار نفوذ پنهان روسیه با استفاده از هوش مصنوعی",
+      "title_en": "Disrupting a new covert influence campaign from Russia",
+      "summary_fa": "شرکت OpenAI اعلام کرد حساب‌های کاربری مرتبط با روسیه را مسدود کرده است. این حساب‌ها با بهره‌گیری از هوش مصنوعی، یک کارزار نفوذ پنهان را پیش می‌بردند. هدف این کارزار، ترویج یک اندیشکده جعلی مستقر در اسرائیل و یک شاخص به نام «حاکمیت» بود که به تمجید از روسیه و انتقاد از سیاست‌های غرب می‌پرداخت.",
+      "tags": [
+        "OpenAI",
+        "Russia",
+        "AI",
+        "کارزار نفوذ",
+        "اطلاعات نادرست"
+      ]
+    },
+    {
+      "id": "cfc376addf8c8224",
+      "date": "2026-08-25",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/introducing-admin-plugin",
+      "category": "مدیریت ابزارهای هوش مصنوعی",
+      "title_fa": "معرفی پلاگین Admin: ابزاری قدرتمند برای مدیریت ChatGPT Work و Codex",
+      "title_en": "Introducing the Admin plugin for ChatGPT Work and Codex",
+      "summary_fa": "پلاگین جدید Admin برای پلتفرم‌های ChatGPT Work و Codex معرفی شده است. این ابزار به مدیران امکان می‌دهد تا استفاده از فضای کاری را تحلیل کرده و اعضا و دسترسی‌های آن‌ها را مدیریت کنند. همچنین، با استفاده از آن می‌توان محدودیت‌ها را تنظیم کرد و به درخواست‌های مدیریتی رسیدگی نمود.",
+      "tags": [
+        "ChatGPT Work",
+        "Codex",
+        "Admin plugin",
+        "مدیریت هوش مصنوعی",
+        "پلاگین"
+      ]
+    },
+    {
+      "id": "a856111bf1044d53",
+      "date": "2026-01-29",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/taisei",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "Taisei Corp: هوش مصنوعی، کلید پرورش استعدادهای آینده",
+      "title_en": "Taisei Corporation shapes the next generation of talent with AI",
+      "summary_fa": "شرکت Taisei با رهبری تیم منابع انسانی خود، در حال پیاده‌سازی گسترده ChatGPT Enterprise در سراسر سازمان است. هدف از این اقدام، توسعه و پرورش استعدادها در تمامی سطوح شرکت با بهره‌گیری از قدرت هوش مصنوعی است تا نسل جدیدی از متخصصان تربیت شوند.",
+      "tags": [
+        "Taisei Corporation",
+        "ChatGPT Enterprise",
+        "هوش مصنوعی",
+        "منابع انسانی",
+        "پرورش استعداد"
+      ]
+    },
+    {
+      "id": "075fc545e694cb4c",
+      "date": "2026-01-28",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/the-next-chapter-for-ai-in-the-eu",
+      "category": "پذیرش و توسعه هوش مصنوعی",
+      "title_fa": "OpenAI فصل جدیدی برای هوش مصنوعی در اروپا می‌گشاید: رونمایی از طرح آبی اقتصادی ۲.۰",
+      "title_en": "The next chapter for AI in the EU",
+      "summary_fa": "شرکت OpenAI با معرفی «طرح آبی اقتصادی اتحادیه اروپا ۲.۰» (EU Economic Blueprint 2.0)، گام مهمی برای تقویت هوش مصنوعی در قاره سبز برداشته است. این ابتکار جامع، شامل مجموعه‌ای از داده‌های جدید، همکاری‌های استراتژیک و برنامه‌های عملیاتی است. هدف اصلی این طرح، تسریع پذیرش فناوری‌های هوش مصنوعی، ارتقای مهارت‌های مرتبط و تحریک رشد اقتصادی پایدار در سراسر اروپا است.",
+      "tags": [
+        "OpenAI",
+        "EU",
+        "هوش مصنوعی",
+        "AI Adoption",
+        "Economic Growth"
+      ]
+    },
+    {
+      "id": "67b26b6216628a2a",
+      "date": "2026-08-26",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "سرمایه‌گذاری ۱۰ میلیون دلاری Peak XV در Ringg هند؛ هوش مصنوعی صوتی فراتر از تماس‌های تلفنی",
+      "title_en": "India’s Ringg gets backing from Peak XV as it pushes voice AI past the phone call",
+      "summary_fa": "استارتاپ هندی Ringg موفق شد ۱۰ میلیون دلار سرمایه جدید از Peak XV جذب کند. این سرمایه‌گذاری که بخشی از توسعه دوره‌ی سری A این شرکت محسوب می‌شود، با هدف پیشبرد فناوری هوش مصنوعی صوتی صورت گرفته است. Ringg قصد دارد کاربردهای هوش مصنوعی صوتی را از مکالمات سنتی تلفنی فراتر ببرد و به افق‌های جدیدی برساند.",
+      "tags": [
+        "Ringg",
+        "Peak XV",
+        "Voice AI",
+        "هوش مصنوعی صوتی",
+        "سرمایه‌گذاری"
+      ]
+    },
+    {
+      "id": "5700b1aa91de59f1",
+      "date": "2026-08-26",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "ارزش‌گذاری استارتاپ رباتیک Generalist به ۳ میلیارد دلار رسید",
+      "title_en": "Robotics startup Generalist reaches $3B valuation, sources say",
+      "summary_fa": "استارتاپ Generalist که در حوزه هوش مصنوعی فیزیکی فعال است، با جذب ۲۰۰ میلیون دلار سرمایه جدید، ارزش خود را به ۳ میلیارد دلار رساند. این افزایش ارزش‌گذاری تنها چند ماه پس از آن صورت می‌گیرد که شرکت به ارزش ۲ میلیارد دلار رسیده بود.",
+      "tags": [
+        "Generalist",
+        "Robotics",
+        "AI",
+        "استارتاپ",
+        "سرمایه‌گذاری"
+      ]
+    },
+    {
+      "id": "bae87cb1275d480a",
+      "date": "2026-08-26",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "تداوم جدایی مدیران ارشد از OpenAI: سرپرست بخش مراکز داده نیز رفت",
+      "title_en": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
+      "summary_fa": "OpenAI پیش از جدایی مالون، ساختار سازمانی بخش زیرساخت خود را بازآرایی کرده بود. طی این تغییرات، خط گزارش‌دهی او از گرگ براکمن، رئیس شرکت، منتقل شده و مسئولیت گروهش به ساچین کاتی، معاون شرکت، واگذار گردیده بود.",
+      "tags": [
+        "OpenAI",
+        "مدیر ارشد",
+        "مراکز داده",
+        "استعفا",
+        "Greg Brockman"
+      ]
+    },
+    {
+      "id": "e1546878c7596d25",
+      "date": "2026-08-25",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "Stability AI، توسعه‌دهنده Stable Diffusion، ۷۶ میلیون دلار سرمایه جدید جذب کرد",
+      "title_en": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+      "summary_fa": "Stability AI، شرکت سازنده مدل تولید تصویر Stable Diffusion، موفق به جذب ۷۶ میلیون دلار سرمایه جدید شد. با این جذب سرمایه، مجموع بودجه جمع‌آوری شده توسط این شرکت به ۲۳۲ میلیون دلار می‌رسد.",
+      "tags": [
+        "Stability AI",
+        "Stable Diffusion",
+        "سرمایه‌گذاری",
+        "هوش مصنوعی مولد",
+        "استارتاپ"
+      ]
+    },
+    {
+      "id": "c00d0b0febc0e4ac",
+      "date": "2026-08-25",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "کلود به حافظه مشترک مجهز شد: خداحافظی با تکرار اطلاعات در گفتگوها",
+      "title_en": "Claude Cowork finally remembers what you told the app in chat",
+      "summary_fa": "شرکت Anthropic، توسعه‌دهنده هوش مصنوعی Claude، قابلیت حافظه مشترک را برای این مدل معرفی کرده است. این ویژگی جدید به کلود امکان می‌دهد تا اطلاعات و زمینه‌های مکالمات قبلی کاربران، چه در چت و چه در محیط Cowork، را به خاطر بسپارد. در نتیجه، کاربران دیگر نیازی به تکرار پروژه‌ها، ترجیحات و سایر جزئیات در هر بار استفاده نخواهند داشت و تجربه کاربری روان‌تری را تجربه می‌کنند.",
+      "tags": [
+        "Claude",
+        "Anthropic",
+        "حافظه مشترک",
+        "هوش مصنوعی",
+        "تجربه کاربری"
+      ]
+    },
+    {
+      "id": "3fceac33cede8b4a",
+      "date": "2026-08-25",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "گاما، استارتاپ طراحی Lica را برای تیم تحقیقاتی جدید خود تصاحب کرد",
+      "title_en": "Gamma acquires Accel-backed design startup Lica",
+      "summary_fa": "شرکت گاما، استارتاپ طراحی Lica را که با حمایت شرکت سرمایه‌گذاری Accel فعالیت می‌کرد، خریداری کرده است. این اقدام با هدف تقویت تیم تحقیقاتی جدید گاما صورت گرفته و بنیان‌گذاران Lica نیز به این تیم نوپا ملحق خواهند شد تا در زمینه‌های پژوهشی و توسعه‌ای به فعالیت بپردازند.",
+      "tags": [
+        "Gamma",
+        "Lica",
+        "Acquisition",
+        "Startup",
+        "R&D"
+      ]
+    },
+    {
+      "id": "62d663b446043782",
+      "date": "2026-08-25",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/08/25/1140902/addressing-a-sticking-point-in-sustainable-adhesives/",
+      "category": "تکنولوژی سبز و پایداری",
+      "title_fa": "چسب‌های پایدار: گره‌گشایی از معضل زیست‌محیطی صنعت بازیافت",
+      "title_en": "Addressing a sticking point in sustainable adhesives",
+      "summary_fa": "چسب‌های مبتنی بر نفت در صنایع مختلف، از ساختمان‌سازی تا بسته‌بندی، کاربرد گسترده‌ای دارند. با این حال، استفاده فراگیر از این چسب‌ها به یک چالش جدی زیست‌محیطی، به‌ویژه در فرآیند بازیافت، تبدیل شده است. برای مثال، برچسب‌های چسبیده با چسب‌های نفتی می‌توانند مانع از بازیافت کامل ظروف شوند. این خبر به بررسی تلاش‌ها برای توسعه چسب‌های پایدارتر می‌پردازد تا این گلوگاه مهم را برطرف کرده و به اقتصاد چرخشی کمک کند.",
+      "tags": [
+        "چسب‌های پایدار",
+        "بازیافت",
+        "محیط زیست",
+        "Petroleum-based adhesives",
+        "تکنولوژی سبز"
+      ]
+    },
+    {
+      "id": "9841daaea004f0e6",
+      "date": "2026-08-25",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/08/25/1140905/youtuber-finds-niche-as-college-admissions-mentor/",
+      "category": "پلتفرم‌های دیجیتال و آموزش",
+      "title_fa": "گوهار خان: یوتیوبری که راهنمای میلیون‌ها متقاضی دانشگاه شد",
+      "title_en": "YouTuber finds niche as college admissions mentor",
+      "summary_fa": "گوهار خان، دانشجویی که خود به تنهایی فرآیند پیچیده پذیرش دانشگاه را طی کرده بود، کانال یوتیوب \"Gohar’s Guide\" را تاسیس کرد تا مسیر را برای دیگران آسان کند. او که از یک شهر کوچک و نسل اول دانشجویان خانواده‌اش بود، تجربیاتش را به اشتراک گذاشت. امروز بیش از ۱۰ میلیون نفر در شبکه‌های اجتماعی برای مشاوره پذیرش دانشگاه و نکات تحصیلی، او را دنبال می‌کنند و از راهنمایی‌هایش بهره می‌برند.",
+      "tags": [
+        "Gohar Khan",
+        "YouTube",
+        "Online Education",
+        "Social Media",
+        "College Admissions"
+      ]
+    },
+    {
+      "id": "d2d41646cdd35e40",
+      "date": "2026-08-25",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/08/25/1140911/launching-youth-entrepreneurship/",
+      "category": "نوآوری و کارآفرینی",
+      "title_fa": "نسل جدید کارآفرینان: پرورش شور حل مسئله از سنین نوجوانی",
+      "title_en": "Launching youth entrepreneurship",
+      "summary_fa": "لوری استاک، فارغ‌التحصیل MIT، بر این باور است که جوانان از سنین نوجوانی دارای جاه‌طلبی‌های بزرگی برای حل مشکلات جهان هستند. او مشاهده می‌کند که آموزش سنتی اغلب این پتانسیل را به 'روزی' در آینده موکول می‌کند. این خبر به اهمیت پرورش این شور و شوق کارآفرینانه در جوانان و توانمندسازی آن‌ها برای اقدام در زمان حال می‌پردازد.",
+      "tags": [
+        "کارآفرینی جوانان",
+        "MIT",
+        "نوآوری",
+        "آموزش",
+        "Laurie Stach"
+      ]
+    },
+    {
+      "id": "b46256018d4fc9e3",
+      "date": "2026-08-25",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/08/25/1140914/a-new-stamp-on-cyberfraud-prevention/",
+      "category": "امنیت سایبری",
+      "title_fa": "از کلکسیون تمبر تا مبارزه با کلاهبرداری سایبری: داستان یک متخصص MIT",
+      "title_en": "A new stamp on cyberfraud prevention",
+      "summary_fa": "روپرت یانگ، فارغ‌التحصیل MIT و متخصص برجسته در علوم داده و امنیت سایبری، مسیر شغلی منحصربه‌فردی را طی کرده است. علاقه او به جمع‌آوری و دسته‌بندی دقیق تمبر در کودکی، بنیان نگاه موشکافانه‌اش را بنا نهاد که بعدها در تحلیل داده و پیشگیری از کلاهبرداری سایبری به کار گرفت. او اکنون به‌عنوان مدیر ارشد محصولات در حوزه‌ی مبارزه با جرایم سایبری فعالیت می‌کند و دیدگاه‌های نوینی را در این زمینه ارائه می‌دهد.",
+      "tags": [
+        "امنیت سایبری",
+        "کلاهبرداری سایبری",
+        "علوم داده",
+        "MIT",
+        "Rupert Young"
+      ]
+    },
+    {
+      "id": "33f6df669717693f",
+      "date": "2026-08-25",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/08/25/1140917/agelab-research-inspires-an-a-i-startup/",
+      "category": "کاربرد هوش مصنوعی در سلامت و سالمندی",
+      "title_fa": "الهام از تحقیقات AgeLab در MIT: راه‌اندازی استارتاپ هوش مصنوعی برای سالمندان",
+      "title_en": "AgeLab research inspires an A I startup",
+      "summary_fa": "دون یانسن، کارآفرین کهنه‌کار، حین شرکت در مطالعه‌ای در AgeLab دانشگاه MIT درباره فناوری‌های مورد استفاده سالمندان، به چالش‌های آن‌ها با دستگاه‌های مدرن پی برد. این تجربه، او را به فکر راه‌اندازی یک استارتاپ هوش مصنوعی جدید انداخت. هدف این شرکت توسعه راهکارهای نوین برای سهولت استفاده سالمندان از فناوری و بهبود مراقبت از آن‌ها است.",
+      "tags": [
+        "MIT AgeLab",
+        "استارتاپ هوش مصنوعی",
+        "سالمندان",
+        "فناوری مراقبتی",
+        "Don Yansen"
+      ]
+    },
+    {
+      "id": "1f4795e26b547d92",
+      "date": "2026-08-25",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/08/25/1140949/amping-up-t-cells-to-target-cancer/",
+      "category": "کاربرد هوش مصنوعی در علم و پزشکی",
+      "title_fa": "تقویت سلول‌های T؛ راهکاری نوین برای مبارزه با سرطان",
+      "title_en": "Amping up T cells to target cancer",
+      "summary_fa": "واکسن‌های سرطانی که سیستم ایمنی بدن را برای مبارزه با تومورها تحریک می‌کنند، در آزمایش‌های بالینی نتایج امیدوارکننده‌ای نشان داده و برخی نیز تاییدیه سازمان غذا و داروی آمریکا (FDA) را کسب کرده‌اند. با این وجود، در بسیاری از بیماران، این واکسن‌ها پاسخ ایمنی کافی را ایجاد نمی‌کنند. پژوهشگران برای تقویت این پاسخ، از ترکیب واکسن با مولکول‌های تحریک‌کننده سیستم ایمنی مانند سیتوکین‌ها استفاده می‌کنند که البته این روش نیز محدودیت‌هایی دارد.",
+      "tags": [
+        "سرطان",
+        "ایمنی‌درمانی",
+        "سلول‌های T",
+        "واکسن",
+        "پژوهش پزشکی"
       ]
     }
   ]
