@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-08-26",
+    "last_updated": "2026-08-27",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 785
+    "total_articles": 793
   },
   "articles": [
     {
@@ -13313,6 +13313,142 @@
         "سلول‌های T",
         "واکسن",
         "پژوهش پزشکی"
+      ]
+    },
+    {
+      "id": "57e276283c193e59",
+      "date": "2026-08-27",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/expanding-our-presence-in-brazil",
+      "category": "توسعه بازار و پذیرش هوش مصنوعی",
+      "title_fa": "OpenAI نفوذ خود را در برزیل گسترش می‌دهد: تمرکز بر توسعه‌دهندگان و کسب‌وکارها",
+      "title_en": "Expanding OpenAI’s presence in Brazil",
+      "summary_fa": "شرکت OpenAI با هدف توسعه حضور خود در برزیل، برنامه‌های جدیدی را آغاز کرده است. این اقدام شامل تعمیق همکاری با توسعه‌دهندگان، کسب‌وکارها و جوامع محلی است. هدف نهایی، ترویج و پشتیبانی از پذیرش هرچه بیشتر هوش مصنوعی در سراسر این کشور آمریکای جنوبی است.",
+      "tags": [
+        "OpenAI",
+        "Brazil",
+        "AI adoption",
+        "آمریکای لاتین",
+        "توسعه کسب‌وکار"
+      ]
+    },
+    {
+      "id": "d6bb1031e66bcecd",
+      "date": "2026-08-26",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+      "category": "کاربرد هوش مصنوعی در آموزش",
+      "title_fa": "ChatGPT به مدارس آمریکا می‌آید: ابزارهای هوش مصنوعی در دسترس ۱۰۰ هزار معلم",
+      "title_en": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "summary_fa": "شرکت OpenAI در حال گسترش برنامه «ChatGPT برای معلمان» خود به ۵۵ سیستم آموزشی جدید در سراسر ایالات متحده است. این طرح، ابزارهای هوش مصنوعی امن، آموزش و پشتیبانی لازم را برای بیش از ۱۰۰ هزار معلم و کارمند آموزشی فراهم می‌کند. هدف از این اقدام، توانمندسازی مربیان با بهره‌گیری از فناوری هوش مصنوعی در محیط‌های آموزشی است.",
+      "tags": [
+        "ChatGPT",
+        "OpenAI",
+        "آموزش",
+        "ابزارهای هوش مصنوعی",
+        "مدارس آمریکا"
+      ]
+    },
+    {
+      "id": "cdfc10030b4b066d",
+      "date": "2026-08-26",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/learning-never-stops",
+      "category": "کاربرد هوش مصنوعی در آموزش",
+      "title_fa": "یادگیری بی‌وقفه: هوش مصنوعی چگونه آموزش را از کلاس درس فراتر می‌برد؟",
+      "title_en": "Learning never stops: How AI makes learning continuous",
+      "summary_fa": "گزارش جدید OpenAI نشان می‌دهد که چگونه دانش‌آموزان و معلمان از ChatGPT برای ایجاد یک تجربه یادگیری پیوسته و فراتر از محدوده‌های کلاس درس استفاده می‌کنند. این رویکرد، پشتیبانی آموزشی را به فضایی همیشگی و در دسترس توسعه می‌دهد و فرآیند یادگیری را متحول می‌سازد.",
+      "tags": [
+        "OpenAI",
+        "ChatGPT",
+        "آموزش",
+        "هوش مصنوعی",
+        "یادگیری پیوسته"
+      ]
+    },
+    {
+      "id": "504dd1ec950803b8",
+      "date": "2026-08-26",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "حادثه امنیتی هاگینگ فیس و برنامه اوپن‌ای‌آی برای تقویت امنیت و هم‌راستایی مدل‌های هوش مصنوعی",
+      "title_en": "The Hugging Face incident and the road ahead",
+      "summary_fa": "شرکت اوپن‌ای‌آی (OpenAI) یافته‌های خود را از حادثه امنیتی مربوط به هاگینگ فیس (Hugging Face) منتشر کرده است. این شرکت اعلام کرد که در پی این رخداد، گام‌هایی جدی برای تقویت امنیت، بهبود نظارت و افزایش هم‌راستایی (alignment) مدل‌های هوش مصنوعی خود برمی‌دارد. هدف از این اقدامات، ایجاد چارچوبی مستحکم‌تر برای مقابله با تهدیدات امنیتی و ایمنی در حوزه هوش مصنوعی است.",
+      "tags": [
+        "OpenAI",
+        "Hugging Face",
+        "امنیت هوش مصنوعی",
+        "هم‌راستایی هوش مصنوعی",
+        "مدل‌های هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "d34e82eae2f299fc",
+      "date": "2026-08-26",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/loveholidays",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "loveholidays: هوش مصنوعی Codex چگونه توسعه نرم‌افزار را برای همه ممکن می‌کند؟",
+      "title_en": "How loveholidays is making everyone a builder with Codex",
+      "summary_fa": "شرکت مسافرتی loveholidays با استفاده از هوش مصنوعی OpenAI Codex، فرآیند توسعه نرم‌افزار را در سراسر سازمان خود متحول کرده است. این رویکرد نوآورانه، امکان دسترسی و مشارکت همه تیم‌ها را در ساخت محصولات نرم‌افزاری فراهم می‌آورد و به آن‌ها کمک می‌کند تا ایده‌های خود را با سرعت بیشتری به واقعیت تبدیل کنند.",
+      "tags": [
+        "OpenAI Codex",
+        "loveholidays",
+        "هوش مصنوعی",
+        "توسعه نرم‌افزار",
+        "نوآوری سازمانی"
+      ]
+    },
+    {
+      "id": "afca402187c86ebe",
+      "date": "2026-08-20",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/introducing-intelligence-age",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "OpenAI از بلاگ جدید «عصر هوش» برای موشکافی تحولات آتی هوش مصنوعی رونمایی کرد",
+      "title_en": "Introducing Intelligence Age",
+      "summary_fa": "شرکت OpenAI بلاگ جدیدی با نام «عصر هوش» (Intelligence Age) را معرفی کرده است. هدف این بلاگ بررسی عمیق چگونگی بازتعریف قدرت، حکمرانی، اقتصاد و آزادی‌های فردی توسط هوش مصنوعی تحول‌آفرین است و دیدگاه‌هایی را درباره شکل‌گیری آینده جوامع ارائه می‌دهد.",
+      "tags": [
+        "OpenAI",
+        "Intelligence Age",
+        "هوش مصنوعی",
+        "حکمرانی هوش مصنوعی",
+        "تاثیر اجتماعی هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "b32137f532dafb7e",
+      "date": "2026-08-27",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
+      "category": "مدل‌های کسب‌وکار هوش مصنوعی",
+      "title_fa": "OpenAI نمایش تبلیغات را در نسخه‌های رایگان ChatGPT در هند آغاز می‌کند",
+      "title_en": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
+      "summary_fa": "شرکت OpenAI اعلام کرده است که قصد دارد نمایش تبلیغات را در نسخه‌های رایگان و Go از ابزار هوش مصنوعی ChatGPT در کشور هند آغاز کند. این اقدام در حالی صورت می‌گیرد که هند بیش از ۱۰۰ میلیون کاربر فعال هفتگی ChatGPT دارد که بخش قابل توجهی از آن‌ها از سرویس‌های رایگان یا ارزان‌تر استفاده می‌کنند.",
+      "tags": [
+        "OpenAI",
+        "ChatGPT",
+        "تبلیغات",
+        "هند",
+        "مدل کسب‌وکار"
+      ]
+    },
+    {
+      "id": "885ea181f134e0cc",
+      "date": "2026-08-27",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "انویدیا در آستانه خرید هاگینگ فیس؛ گامی استراتژیک برای سلطه بر هوش مصنوعی و رایانش ابری",
+      "title_en": "Nvidia closes in on Hugging Face acquisition",
+      "summary_fa": "بر اساس گزارش‌ها، شرکت انویدیا برای خرید هاگینگ فیس، پلتفرم محبوب هوش مصنوعی متن‌باز، به توافق رسیده است. این معامله که ارزشی معادل ۱۲.۹ میلیارد دلار دارد، به انویدیا کمک می‌کند تا هم از موقعیت غالب خود در بازار تراشه‌ها محافظت کند و هم مجدداً وارد کسب‌وکار رایانش ابری شود.",
+      "tags": [
+        "Nvidia",
+        "Hugging Face",
+        "هوش مصنوعی",
+        "M&A",
+        "رایانش ابری"
       ]
     }
   ]
