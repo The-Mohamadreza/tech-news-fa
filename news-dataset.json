@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-08-29",
+    "last_updated": "2026-08-30",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 827
+    "total_articles": 838
   },
   "articles": [
     {
@@ -14024,6 +14024,193 @@
         "ایمنی هوش مصنوعی",
         "خطرات هوش مصنوعی",
         "آینده هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "27ae54dbecf4ae26",
+      "date": "2026-01-22",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/praktika",
+      "category": "کاربرد هوش مصنوعی در آموزش",
+      "title_fa": "پراتیکا: هوش مصنوعی مکالمه‌محور، انقلابی در یادگیری زبان",
+      "title_en": "Inside Praktika's conversational approach to language learning",
+      "summary_fa": "شرکت پراتیکا با بهره‌گیری از مدل‌های پیشرفته هوش مصنوعی GPT-4.1 و GPT-5.2، معلم‌های مجازی تطبیق‌پذیر طراحی کرده است. این معلم‌ها درس‌ها را شخصی‌سازی کرده، پیشرفت زبان‌آموزان را پیگیری می‌کنند و به آن‌ها کمک می‌کنند تا به تسلط واقعی و عملی بر زبان دست یابند. رویکرد مکالمه‌محور این پلتفرم، تجربه‌ای نوین و مؤثر برای یادگیری زبان فراهم می‌آورد.",
+      "tags": [
+        "Praktika",
+        "AI",
+        "یادگیری زبان",
+        "GPT-4.1",
+        "GPT-5.2"
+      ]
+    },
+    {
+      "id": "71c27c70d137893d",
+      "date": "2026-01-21",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/higgsfield",
+      "category": "تولید محتوا با هوش مصنوعی",
+      "title_fa": "Higgsfield: هوش مصنوعی، ایده‌های ساده را به ویدئوهای سینمایی اجتماعی تبدیل می‌کند",
+      "title_en": "How Higgsfield turns simple ideas into cinematic social videos",
+      "summary_fa": "شرکت Higgsfield ابزاری را توسعه داده است که به تولیدکنندگان محتوا امکان می‌دهد با ورودی‌های ساده، ویدئوهای سینمایی و با کیفیت بالا برای شبکه‌های اجتماعی تولید کنند. این پلتفرم از مدل‌های پیشرفته هوش مصنوعی OpenAI، شامل GPT-4.1، GPT-5 و Sora 2 بهره می‌برد. هدف Higgsfield تسهیل ساخت محتوای بصری جذاب و خلاقانه با کمترین زحمت است.",
+      "tags": [
+        "Higgsfield",
+        "Sora 2",
+        "GPT-5",
+        "تولید ویدئو با هوش مصنوعی",
+        "محتوای شبکه‌های اجتماعی"
+      ]
+    },
+    {
+      "id": "03d0ef228762264d",
+      "date": "2026-01-21",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/edu-for-countries",
+      "category": "هوش مصنوعی در آموزش و توسعه نیروی کار",
+      "title_fa": "OpenAI با «Edu for Countries» به کمک دولت‌ها برای نوسازی آموزش می‌آید",
+      "title_en": "Introducing Edu for Countries",
+      "summary_fa": "اوپن‌ای‌آی (OpenAI) از ابتکار جدید خود با نام «Edu for Countries» رونمایی کرد. هدف این برنامه کمک به دولت‌ها برای بهره‌گیری از هوش مصنوعی در نوسازی نظام‌های آموزشی است. این همکاری به کشورها امکان می‌دهد تا نیروی کار خود را برای آینده آماده کرده و آموزش را متحول سازند.",
+      "tags": [
+        "OpenAI",
+        "هوش مصنوعی",
+        "آموزش و پرورش",
+        "دولت",
+        "نیروی کار"
+      ]
+    },
+    {
+      "id": "aca3ad17ccab0721",
+      "date": "2026-01-21",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/how-countries-can-end-the-capability-overhang",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "راهکارهای ملی برای بهره‌برداری حداکثری از هوش مصنوعی: پایان دادن به شکاف ظرفیت‌ها",
+      "title_en": "How countries can end the capability overhang",
+      "summary_fa": "یک گزارش جدید نشان می‌دهد که میزان پذیرش هوش مصنوعی پیشرفته در کشورهای مختلف تفاوت‌های چشمگیری دارد. این گزارش، با ارائه ابتکارات نوین، به کشورها کمک می‌کند تا پتانسیل‌های هوش مصنوعی را به حداکثر رسانده و از مزایای آن در افزایش بهره‌وری ملی بهره‌مند شوند.",
+      "tags": [
+        "هوش مصنوعی",
+        "بهره‌وری",
+        "پذیرش هوش مصنوعی",
+        "سیاست‌گذاری ملی",
+        "گزارش"
+      ]
+    },
+    {
+      "id": "6ed9efa8b174bfbb",
+      "date": "2026-01-20",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/horizon-1000",
+      "category": "کاربرد هوش مصنوعی در علم و پزشکی",
+      "title_fa": "Horizon 1000: همکاری OpenAI و بنیاد گیتس برای توسعه هوش مصنوعی در سلامت آفریقا",
+      "title_en": "Horizon 1000: Advancing AI for primary healthcare",
+      "summary_fa": "OpenAI و بنیاد گیتس طرح Horizon 1000 را با سرمایه‌گذاری ۵۰ میلیون دلاری راه‌اندازی کردند. این پروژه آزمایشی با هدف توسعه قابلیت‌های هوش مصنوعی برای بهبود خدمات مراقبت‌های اولیه سلامت در آفریقا آغاز شده است. هدف Horizon 1000، ارائه خدمات هوش مصنوعی به ۱۰۰۰ کلینیک در قاره آفریقا تا سال ۲۰۲۸ است.",
+      "tags": [
+        "OpenAI",
+        "Gates Foundation",
+        "هوش مصنوعی در سلامت",
+        "آفریقا",
+        "Horizon 1000"
+      ]
+    },
+    {
+      "id": "90314fb861a514e1",
+      "date": "2026-01-20",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/stargate-community",
+      "category": "زیرساخت هوش مصنوعی",
+      "title_fa": "Stargate Community: زیرساخت هوش مصنوعی با اولویت جامعه محلی",
+      "title_en": "Stargate Community",
+      "summary_fa": "ابتکار Stargate Community جزئیات برنامه‌های خود را برای توسعه زیرساخت‌های هوش مصنوعی با رویکردی جامعه‌محور منتشر کرده است. این طرح بر ایجاد برنامه‌های بومی‌سازی شده تأکید دارد که بر اساس مشارکت جوامع محلی، نیازهای انرژی منطقه و اولویت‌های نیروی کار شکل می‌گیرند. هدف، تضمین سودمندی و انطباق پروژه‌ها با شرایط محلی است.",
+      "tags": [
+        "Stargate Community",
+        "زیرساخت هوش مصنوعی",
+        "مشارکت محلی",
+        "انرژی",
+        "نیروی کار"
+      ]
+    },
+    {
+      "id": "a07c3116b1cc1621",
+      "date": "2026-08-29",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+      "category": "مسائل حقوقی و مالکیت فکری هوش مصنوعی",
+      "title_fa": "سونی موزیک و وارنر، انتروپیک را به سرقت «گستاخانه» مالکیت فکری متهم کردند",
+      "title_en": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+      "summary_fa": "شرکت‌های بزرگ موسیقی سونی موزیک و وارنر علیه شرکت هوش مصنوعی Anthropic شکایت قضایی مطرح کرده‌اند. آن‌ها Anthropic را متهم می‌کنند که دست به یک «کمپین گستاخانه» برای سرقت مالکیت فکری آن‌ها زده است. این شکایت تازه به طور خاص گسترده است و بر اتهامات مربوط به دزدی و نقض غیرقانونی حق تکثیر تمرکز دارد.",
+      "tags": [
+        "Anthropic",
+        "Sony Music",
+        "Warner",
+        "مالکیت فکری",
+        "حق تکثیر"
+      ]
+    },
+    {
+      "id": "160a511db123aa08",
+      "date": "2026-08-29",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "مدل نوین سرمایه‌گذاری ویجی پانده: از a16z تا VZVC با تمرکز بر هوش مصنوعی در پزشکی",
+      "title_en": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+      "summary_fa": "ویجی پانده، سرمایه‌گذار برجسته، پس از ترک بخش بیوتکنولوژی ۴ میلیارد دلاری شرکت a16z، استارتاپ کوچک‌تر و هوش مصنوعی‌محور VZVC را تاسیس کرده است. او معتقد است که زیست‌شناسی از یک علم اکتشافی به مهندسی در حال تغییر است و برای تحول پزشکی با کمک هوش مصنوعی، نیاز مبرم به مجموعه‌داده‌های باز و اشتراکی داریم. پانده همچنین به چالش‌های هزینه‌بر کارآزمایی‌های بالینی اشاره می‌کند و رویکرد جدید خود را بر سرمایه‌گذاری‌های هدفمندتر استوار کرده است.",
+      "tags": [
+        "Vijay Pande",
+        "a16z",
+        "VZVC",
+        "Venture Capital",
+        "AI in Medicine"
+      ]
+    },
+    {
+      "id": "dcb10e4dd9846f66",
+      "date": "2026-08-29",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "برتری هوش مصنوعی انویدیا: دیگر فقط GPU نیست",
+      "title_en": "Nvidia’s AI advantage is moving beyond the GPU",
+      "summary_fa": "در نسل جدید سیستم‌های مراکز داده، افزایش بهره‌وری دیگر صرفاً به چرخه‌های پردازشی بیشتر محدود نمی‌شود. این سیستم‌ها با کنترل ترافیک هوشمندتر، کارایی خود را به طور چشمگیری افزایش می‌دهند. این رویکرد نوین، منبع جدید مزیت رقابتی انویدیا در حوزه هوش مصنوعی است و نشان می‌دهد برتری این شرکت از سخت‌افزار GPU فراتر رفته است.",
+      "tags": [
+        "Nvidia",
+        "AI",
+        "GPU",
+        "Data Center",
+        "مزیت رقابتی"
+      ]
+    },
+    {
+      "id": "3a7d70a0e7ded679",
+      "date": "2026-08-27",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents/",
+      "category": "گجت و لوازم جانبی هوشمند",
+      "title_fa": "هدفون جدید Plaud با قابلیت‌های هوش مصنوعی و ضبط مکالمه رونمایی شد: کیس مجهز به eSIM",
+      "title_en": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents",
+      "summary_fa": "هدفون جدید Plaud با نام Plaud One، با طراحی مینیمالیستی شبیه به ایرپادز اپل معرفی شده است. این گجت قادر به ضبط مکالمات تلفنی است و کیس آن نیز می‌تواند برای ضبط گفتگوهای حضوری یا یادداشت‌برداری مورد استفاده قرار گیرد. ویژگی برجسته آن، کیس مجهز به eSIM است که امکان ارتباط با عامل‌های هوش مصنوعی را برای کاربران فراهم می‌کند.",
+      "tags": [
+        "Plaud One",
+        "هدفون هوشمند",
+        "eSIM",
+        "AI agents",
+        "ضبط صدا"
+      ]
+    },
+    {
+      "id": "9180d12bb88bac7a",
+      "date": "2026-08-27",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "استارتاپ پرهیاهوی Instinct با جذب ۳۵۰ میلیون دلار، ۲.۵ میلیارد دلار ارزش گرفت",
+      "title_en": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
+      "summary_fa": "استارتاپ هوش مصنوعی Instinct، تنها یک سال پس از آغاز به کار، موفق به جذب ۳۵۰ میلیون دلار سرمایه و رسیدن به ارزش‌گذاری ۲.۵ میلیارد دلاری شده است. این شرکت نوپا با وجود این رشد چشمگیر، همزمان با ایجاد موج عظیمی از هیجان و توجه، نگرانی‌هایی را نیز در مورد حریم خصوصی کاربران برانگیخته است.",
+      "tags": [
+        "Instinct",
+        "AI startup",
+        "سرمایه‌گذاری",
+        "ارزش‌گذاری",
+        "حریم خصوصی"
       ]
     }
   ]
