@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-08-30",
+    "last_updated": "2026-08-31",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 838
+    "total_articles": 847
   },
   "articles": [
     {
@@ -14211,6 +14211,159 @@
         "سرمایه‌گذاری",
         "ارزش‌گذاری",
         "حریم خصوصی"
+      ]
+    },
+    {
+      "id": "8fe35db9d836ff52",
+      "date": "2026-01-20",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/servicenow-powers-actionable-enterprise-ai-with-openai",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "ServiceNow: هوش مصنوعی عملیاتی برای کسب‌وکارها با همکاری OpenAI",
+      "title_en": "ServiceNow powers actionable enterprise AI with OpenAI",
+      "summary_fa": "شرکت ServiceNow دسترسی به مدل‌های پیشرفته OpenAI را برای توانمندسازی پلتفرم خود گسترش داده است. این اقدام به منظور ایجاد قابلیت‌های هوش مصنوعی محور در فرایندهای کاری سازمانی، خلاصه‌سازی، جستجو و تعامل صوتی صورت گرفته است. هدف نهایی، ارائه هوش مصنوعی کاربردی و عملیاتی‌تر برای محیط‌های کسب‌وکار است.",
+      "tags": [
+        "ServiceNow",
+        "OpenAI",
+        "Enterprise AI",
+        "AI Integration",
+        "پلتفرم سازمانی"
+      ]
+    },
+    {
+      "id": "4628896343fc2384",
+      "date": "2026-01-20",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/our-approach-to-age-prediction",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "تدبیر جدید ChatGPT: تخمین سن کاربران برای حفاظت از نوجوانان",
+      "title_en": "Our approach to age prediction",
+      "summary_fa": "ChatGPT در حال راه‌اندازی قابلیتی برای تخمین سن کاربران است. این سیستم با هدف تشخیص اینکه آیا یک حساب کاربری متعلق به افراد بالای ۱۸ سال است یا خیر، تدابیر محافظتی خاصی را برای نوجوانان اعمال خواهد کرد. OpenAI اعلام کرده که دقت این ابزار پیش‌بینی سن به مرور زمان بهبود خواهد یافت تا محیط امن‌تری برای همه کاربران فراهم شود.",
+      "tags": [
+        "ChatGPT",
+        "OpenAI",
+        "پیش‌بینی سن",
+        "ایمنی کاربران",
+        "نوجوانان"
+      ]
+    },
+    {
+      "id": "68ceabf8f6bf2a56",
+      "date": "2026-01-18",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/a-business-that-scales-with-the-value-of-intelligence",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "استراتژی مقیاس‌پذیری OpenAI: هوش مصنوعی در قلب مدل درآمدی متنوع",
+      "title_en": "A business that scales with the value of intelligence",
+      "summary_fa": "مدل کسب‌وکار OpenAI بر پایه‌ی مقیاس‌پذیری با توانایی‌های هوش مصنوعی آن بنا شده است. این شرکت از طریق کانال‌های درآمدی متنوعی شامل اشتراک‌ها، دسترسی API، تبلیغات، تجارت و خدمات پردازشی درآمدزایی می‌کند. فراگیر شدن و عمیق‌تر شدن پذیرش ChatGPT توسط کاربران و توسعه‌دهندگان، محرک اصلی این رشد تجاری است.",
+      "tags": [
+        "OpenAI",
+        "ChatGPT",
+        "مدل کسب‌وکار",
+        "هوش مصنوعی",
+        "درآمدزایی"
+      ]
+    },
+    {
+      "id": "61959f22e780056a",
+      "date": "2026-01-16",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/our-approach-to-advertising-and-expanding-access",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "OpenAI: تبلیغات در ChatGPT، گامی برای دسترسی جهانی و ارزان‌تر به هوش مصنوعی",
+      "title_en": "Our approach to advertising and expanding access to ChatGPT",
+      "summary_fa": "OpenAI قصد دارد تست تبلیغات را برای نسخه‌های رایگان و Go پلتفرم ChatGPT در ایالات متحده آغاز کند. هدف از این اقدام، گسترش دسترسی ارزان‌قیمت به هوش مصنوعی در سراسر جهان است. این شرکت تاکید کرده که همزمان با این طرح، حفظ حریم خصوصی کاربران، اعتماد و کیفیت پاسخ‌ها در اولویت قرار خواهد داشت.",
+      "tags": [
+        "OpenAI",
+        "ChatGPT",
+        "Advertising",
+        "مدل کسب و کار هوش مصنوعی",
+        "دسترسی جهانی"
+      ]
+    },
+    {
+      "id": "0f1e6ca37d64d873",
+      "date": "2026-01-16",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/introducing-chatgpt-go",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "ChatGPT Go: دسترسی جهانی به هوش مصنوعی پیشرفته و مقرون‌به‌صرفه",
+      "title_en": "Introducing ChatGPT Go, now available worldwide",
+      "summary_fa": "نسخه جدیدی از چت‌بات هوش مصنوعی، با نام ChatGPT Go، اکنون به صورت جهانی در دسترس قرار گرفته است. این سرویس جدید دسترسی گسترده‌تری را به مدل پیشرفته GPT-5.2 Instant فراهم می‌کند. همچنین، کاربران از محدودیت‌های استفاده بالاتر و حافظه طولانی‌تر بهره‌مند خواهند شد. هدف از عرضه جهانی ChatGPT Go، فراهم آوردن هوش مصنوعی پیشرفته‌تر با قیمتی مقرون‌به‌صرفه برای کاربران در سراسر دنیاست.",
+      "tags": [
+        "ChatGPT Go",
+        "GPT-5.2 Instant",
+        "AI Chatbot",
+        "OpenAI",
+        "دسترسی جهانی"
+      ]
+    },
+    {
+      "id": "c379418780318c58",
+      "date": "2026-01-15",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/investing-in-merge-labs",
+      "category": "هوش مصنوعی و توانمندسازی انسان",
+      "title_fa": "سرمایه‌گذاری OpenAI در Merge Labs: آینده هم‌افزایی هوش مصنوعی و مغز انسان",
+      "title_en": "Investing in Merge Labs",
+      "summary_fa": "شرکت OpenAI با هدف پشتیبانی از توسعه فناوری‌های نوین، در Merge Labs سرمایه‌گذاری کرده است. این سرمایه‌گذاری بر روی رابط‌های مغز و رایانه (BCI) متمرکز است که به دنبال ایجاد پلی میان هوش بیولوژیکی و هوش مصنوعی هستند. هدف نهایی، به حداکثر رساندن توانایی‌ها، عاملیت و تجربیات انسانی از طریق این هم‌افزایی است.",
+      "tags": [
+        "OpenAI",
+        "Merge Labs",
+        "BCI",
+        "هوش مصنوعی",
+        "توانمندسازی انسان"
+      ]
+    },
+    {
+      "id": "f2a0380f36ec9e4e",
+      "date": "2026-08-31",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "رقابت آمریکا و چین در حوزه پهپادها و ربات‌ها: سدهای واشنگتن و مزیت مقیاس پکن",
+      "title_en": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+      "summary_fa": "دولت آمریکا در حال افزایش محدودیت‌ها برای واردات و استفاده از پهپادها و ربات‌های ساخت کشورهای خارجی، به‌ویژه چین، است تا مانعی در برابر محصولات رقیب ایجاد کند. با این حال، کشورهایی نظیر چین به دلیل مقیاس گسترده تولید و بازار داخلی، توانایی دور زدن این موانع را دارند. کارشناسان پیش‌بینی می‌کنند که این اقدامات آمریکا ممکن است به جای توقف رقابت، صرفاً مسیر و جغرافیای آن را در سطح جهانی تغییر دهد و میدان رقابت را به سمت بازارهای دیگر هدایت کند.",
+      "tags": [
+        "US",
+        "China",
+        "Drones",
+        "Robots",
+        "موانع تجاری"
+      ]
+    },
+    {
+      "id": "a05533f3a7101e08",
+      "date": "2026-08-30",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
+      "category": "فناوری و محیط زیست",
+      "title_fa": "تولید سریع‌تر توربین‌های گازی توسط ایلان ماسک: مزیت رقابتی با چالش‌های آلودگی",
+      "title_en": "Musk’s faster path to more gas turbines comes with pollution problem",
+      "summary_fa": "ایلان ماسک اعلام کرده است که یک کارخانه ذوب فلزات (فوندری) جدید و محرمانه در اسپیس‌ایکس به او امکان می‌دهد تا تیغه‌های توربین خود را ریخته‌گری کند. این اقدام می‌تواند راه‌اندازی نیروگاه‌های گازی را ۱۸ ماه سریع‌تر از هر شرکت دیگری محقق سازد. اما این رویکرد بر پایه یک منبع سوخت استوار است که در مکان‌های قبلی نصب این توربین‌ها، قبلاً باعث طرح دعواهای حقوقی و مطالعات بهداشتی گسترده به دلیل آلودگی شده است.",
+      "tags": [
+        "Elon Musk",
+        "SpaceX",
+        "توربین گازی",
+        "آلودگی",
+        "تولید صنعتی"
+      ]
+    },
+    {
+      "id": "d427202242767fe7",
+      "date": "2026-08-30",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "کاترپیلار: انتقال دهه‌ها تجربه اتوماسیون معادن به استقرار هوش مصنوعی",
+      "title_en": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+      "summary_fa": "شرکت کاترپیلار (Caterpillar) که ده‌ها سال است در زمینه به‌کارگیری ماشین‌آلات خودران در معادن دورافتاده تجربه کسب کرده، اکنون این دانش عملیاتی گسترده را به دنیای استقرار هوش مصنوعی می‌آورد. این تجربه شامل راه‌اندازی، نگهداری و بهینه‌سازی سیستم‌های پیچیده در محیط‌های چالش‌برانگیز است. کاترپیلار قصد دارد تا درس‌های آموخته از این فرآیندها را برای پیاده‌سازی عملیاتی و مقیاس‌پذیر راهکارهای هوش مصنوعی به کار گیرد.",
+      "tags": [
+        "Caterpillar",
+        "AI deployment",
+        "Autonomous machines",
+        "اتوماسیون صنعتی",
+        "AI"
       ]
     }
   ]
