@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-08-31",
+    "last_updated": "2026-09-01",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 847
+    "total_articles": 855
   },
   "articles": [
     {
@@ -14364,6 +14364,142 @@
         "Autonomous machines",
         "اتوماسیون صنعتی",
         "AI"
+      ]
+    },
+    {
+      "id": "0703988e3a331916",
+      "date": "2026-08-31",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "حمایت OpenAI از طرح کالیفرنیا برای تضمین ایمنی هوش مصنوعی نوجوانان",
+      "title_en": "OpenAI supports California’s bill to advance youth AI safety",
+      "summary_fa": "شرکت OpenAI حمایت خود را از لایحه‌ی SB 1119 کالیفرنیا اعلام کرده است. این طرح با هدف پیشبرد تدابیر حفاظتی قوی و متناسب با سن در حوزه‌ی هوش مصنوعی برای نوجوانان طراحی شده است. در عین حال، لایحه‌ی مذکور بر حفظ فرصت‌های یادگیری، خلاقیت و کاوش برای این گروه سنی نیز تاکید دارد.",
+      "tags": [
+        "OpenAI",
+        "California",
+        "AI safety",
+        "تنظیم‌گری هوش مصنوعی",
+        "نوجوانان"
+      ]
+    },
+    {
+      "id": "7bc3415714321008",
+      "date": "2026-08-31",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/polimill",
+      "category": "کاربرد هوش مصنوعی در خدمات عمومی و دولتی",
+      "title_fa": "Polimill زیرساخت هوش مصنوعی عمومی نسل آینده ژاپن را می‌سازد",
+      "title_en": "Polimill builds Japan's next-generation public AI infrastructure",
+      "summary_fa": "شرکت Polimill در ژاپن، زیرساخت هوش مصنوعی عمومی نسل بعدی این کشور را توسعه می‌دهد. این پلتفرم با بهره‌گیری از مدل‌های GPT و Codex شرکت OpenAI، به نهادهای شهری کمک می‌کند تا دانش اداری خود را جستجو، دسته‌بندی و استفاده کنند و بدین ترتیب فرآیندهای توسعه را سرعت بخشد.",
+      "tags": [
+        "Polimill",
+        "OpenAI GPT",
+        "ژاپن",
+        "زیرساخت هوش مصنوعی",
+        "خدمات عمومی"
+      ]
+    },
+    {
+      "id": "44f61163770f758b",
+      "date": "2026-08-31",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "موفقیت خیره‌کننده ChatGPT: دستیابی به درآمد سالانه یک میلیارد دلار و هموارسازی مسیر دسترسی جهانی به هوش مصنوعی",
+      "title_en": "A milestone in expanding access to AI",
+      "summary_fa": "ChatGPT با دستیابی به نرخ درآمد سالانه یک میلیارد دلار، یک نقطه عطف مالی مهم را رقم زده است. این سرویس هوش مصنوعی اکنون در حال گسترش جهانی است. با ارائه گزینه‌های رایگان و مقرون‌به‌صرفه، ChatGPT نقش کلیدی در گسترش دسترسی عمومی به فناوری هوش مصنوعی در سراسر جهان ایفا می‌کند.",
+      "tags": [
+        "OpenAI",
+        "ChatGPT",
+        "هوش مصنوعی",
+        "درآمد",
+        "AI Access"
+      ]
+    },
+    {
+      "id": "8566227622a63b43",
+      "date": "2026-01-14",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/cerebras-partnership",
+      "category": "سخت‌افزار و تراشه",
+      "title_fa": "همکاری OpenAI با Cerebras: تقویت زیرساخت محاسباتی هوش مصنوعی برای سرعت بیشتر ChatGPT",
+      "title_en": "OpenAI partners with Cerebras",
+      "summary_fa": "OpenAI با Cerebras، شرکتی فعال در زمینه سخت‌افزار هوش مصنوعی، برای افزایش ۷۵۰ مگاوات ظرفیت محاسبات پرسرعت هوش مصنوعی خود وارد همکاری شده است. هدف از این مشارکت، کاهش چشمگیر تاخیر در فرآیند استنتاج (inference) مدل‌ها و افزایش سرعت سرویس ChatGPT است. این اقدام، ChatGPT را برای پاسخگویی سریع‌تر به بارهای کاری هوش مصنوعی در زمان واقعی آماده‌تر می‌کند و تجربه کاربری را بهبود می‌بخشد.",
+      "tags": [
+        "OpenAI",
+        "Cerebras",
+        "AI compute",
+        "ChatGPT",
+        "زیرساخت هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "71ebe41f5e825f74",
+      "date": "2026-09-01",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+      "category": "امنیت سایبری",
+      "title_fa": "اتهامات جدید اپل به کارمند سابق: سرقت داده برای OpenAI و امحای شواهد",
+      "title_en": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+      "summary_fa": "اپل مدعی است که شواهد محکمی در اختیار دارد که نشان می‌دهد یکی از کارمندان سابق این شرکت، پس از آگاهی از آغاز تحقیقات، اقدام به از بین بردن مدارک مربوط به سرقت داده‌ها کرده است. این کارمند پیش از این نیز متهم شده بود که اطلاعات محرمانه اپل را برای شرکت OpenAI به سرقت برده است.",
+      "tags": [
+        "Apple",
+        "OpenAI",
+        "سرقت داده",
+        "مالکیت فکری",
+        "پرونده حقوقی"
+      ]
+    },
+    {
+      "id": "5714bb72d8552593",
+      "date": "2026-08-31",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "محدودیت‌های جدید اینستاگرام برای پروفایل‌های هوش مصنوعی اعلام‌نشده",
+      "title_en": "Instagram puts new limits on undisclosed AI profiles",
+      "summary_fa": "در پی افزایش نارضایتی‌ها از اینفلوئنسرهای تولیدشده با هوش مصنوعی، اینستاگرام قصد دارد دسترسی و دیده شدن پروفایل‌های هوش مصنوعی را که به وضوح اعلام نکرده‌اند توسط هوش مصنوعی اداره می‌شوند، محدود کند. این اقدام با هدف افزایش شفافیت و مقابله با ابهامات ناشی از محتوای ساختگی صورت می‌گیرد.",
+      "tags": [
+        "Instagram",
+        "AI influencers",
+        "AI profiles",
+        "Meta",
+        "شفافیت"
+      ]
+    },
+    {
+      "id": "84762d7f4362111d",
+      "date": "2026-08-31",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "هوش مصنوعی «Blue Voice» با جذب ۶ میلیون دلار سرمایه، دستیار حقوقی اختصاصی پلیس را توسعه می‌دهد",
+      "title_en": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
+      "summary_fa": "استارتاپ Blue Voice، با هدف خلق یک «هاروی» اختصاصی برای افسران پلیس، موفق به جذب ۶ میلیون دلار سرمایه شده است. این ابزار هوش مصنوعی بر اساس قوانین خاص هر دپارتمان، مقررات محلی، پروتکل‌ها و دستورالعمل‌هایی آموزش می‌بیند که برای ابزارهای هوش مصنوعی عمومی در اینترنت در دسترس نیستند. این رویکرد تخصصی، Blue Voice را به یک دستیار حقوقی منحصربه‌فرد برای نیروی انتظامی تبدیل می‌کند.",
+      "tags": [
+        "Blue Voice",
+        "هوش مصنوعی",
+        "پلیس",
+        "Legal AI",
+        "سرمایه گذاری"
+      ]
+    },
+    {
+      "id": "3f983827d88c7f87",
+      "date": "2026-08-31",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
+      "category": "سخت‌افزار و تراشه‌های هوش مصنوعی",
+      "title_fa": "سرمایه‌گذاری ۳.۵ میلیارد دلاری انویدیا در مدیاتک؛ راهبردی برای مقابله با تراشه‌های اختصاصی غول‌های فناوری",
+      "title_en": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
+      "summary_fa": "شرکت انویدیا، غول سازنده پردازنده‌های گرافیکی، با هدف حفظ جایگاه حیاتی خود در زیرساخت‌های هوش مصنوعی، ۳.۵ میلیارد دلار در شرکت تایوانی مدیاتک، سازنده تراشه، سرمایه‌گذاری کرده است. این اقدام استراتژیک در بحبوحه تلاش روزافزون شرکت‌های بزرگ فناوری برای توسعه تراشه‌های هوش مصنوعی اختصاصی خودشان انجام می‌شود. انویدیا با این حرکت، قصد دارد بر چالش‌های ناشی از این رویکرد جدید غلبه کرده و همچنان به عنوان یک بازیگر اصلی در بازار تراشه‌های هوش مصنوعی باقی بماند.",
+      "tags": [
+        "Nvidia",
+        "MediaTek",
+        "AI chips",
+        "سرمایه‌گذاری",
+        "رقابت فناوری"
       ]
     }
   ]
