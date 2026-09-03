@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-09-02",
+    "last_updated": "2026-09-03",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 870
+    "total_articles": 883
   },
   "articles": [
     {
@@ -14754,6 +14754,227 @@
         "امنیت هوش مصنوعی",
         "ایمنی هوش مصنوعی",
         "فرهنگ سازمانی"
+      ]
+    },
+    {
+      "id": "b07b0b2b4d66deed",
+      "date": "2026-09-02",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/atv-big-air-tour",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "ChatGPT: سه روز کار در سه ساعت؛ تحول بهره‌وری برای ATV Big Air Tour",
+      "title_en": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+      "summary_fa": "شرکت ATV Big Air Tour با به‌کارگیری ChatGPT Work توانسته است زمان انجام کارهای بازاریابی، مدیریت کالا و سایر فعالیت‌های خود را به طرز چشمگیری کاهش دهد. این شرکت گزارش داده که موفق شده است سه روز کار را تنها در سه ساعت به اتمام برساند. ChatGPT حتی قابلیت تبدیل عکس‌های کالاها به یک وب‌سایت مدیریت موجودی را در مدت زمان ۱۵ دقیقه فراهم کرده است که نشان‌دهنده افزایش بی‌سابقه بهره‌وری و اتوماسیون در کسب‌وکار است.",
+      "tags": [
+        "ChatGPT",
+        "ATV Big Air Tour",
+        "بهره‌وری هوش مصنوعی",
+        "اتوماسیون کسب‌وکار",
+        "کاربرد هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "3cea822d9d3ce9ae",
+      "date": "2026-01-15",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/strengthening-the-us-ai-supply-chain",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "فراخوان اوپن‌ای‌آی برای تقویت زنجیره تامین هوش مصنوعی آمریکا با تولید داخلی",
+      "title_en": "Strengthening the U.S. AI supply chain through domestic manufacturing",
+      "summary_fa": "شرکت اوپن‌ای‌آی فراخوانی جدید (RFP) برای سرمایه‌گذاری و تسریع در تولید داخلی هوش مصنوعی در ایالات متحده آمریکا منتشر کرده است. هدف از این اقدام، تقویت زنجیره تامین هوش مصنوعی در آمریکا، ایجاد فرصت‌های شغلی و توسعه زیرساخت‌های مرتبط با هوش مصنوعی در این کشور است.",
+      "tags": [
+        "OpenAI",
+        "زنجیره تامین هوش مصنوعی",
+        "تولید داخلی",
+        "زیرساخت هوش مصنوعی",
+        "ایالات متحده"
+      ]
+    },
+    {
+      "id": "1d2d99cb07efa9d6",
+      "date": "2026-01-09",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/stargate-sb-energy-partnership",
+      "category": "سرمایه‌گذاری و زیرساخت هوش مصنوعی",
+      "title_fa": "همکاری OpenAI و سافت‌بانک برای ساخت مراکز داده هوش مصنوعی غول‌پیکر",
+      "title_en": "OpenAI and SoftBank Group partner with SB Energy",
+      "summary_fa": "شرکت OpenAI و SoftBank Group با همکاری SB Energy، توسعه پردیس‌های مراکز داده هوش مصنوعی چند گیگاواتی را آغاز کرده‌اند. این مراکز برای پشتیبانی از نیازهای رو به رشد هوش مصنوعی و مدل‌های پیشرفته ضروری هستند. به عنوان بخشی از این برنامه، یک تاسیسات ۱.۲ گیگاواتی در تگزاس ساخته خواهد شد که از پروژه Stargate حمایت می‌کند.",
+      "tags": [
+        "OpenAI",
+        "SoftBank Group",
+        "SB Energy",
+        "AI Data Center",
+        "Stargate"
+      ]
+    },
+    {
+      "id": "09944dd5bab1dbae",
+      "date": "2026-01-09",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/datadog",
+      "category": "کاربرد هوش مصنوعی در توسعه نرم‌افزار",
+      "title_fa": "Datadog با Codex: بازبینی کدهای سیستمی با هوش مصنوعی",
+      "title_en": "Datadog uses Codex for system-level code review",
+      "summary_fa": "شرکت Datadog، ارائه‌دهنده راهکارهای نظارتی، اعلام کرده است که برای ارتقای فرآیند بازبینی کدهای سیستمی خود، از مدل هوش مصنوعی Codex توسعه‌یافته توسط OpenAI بهره می‌برد. این حرکت، گامی مهم در جهت ادغام هوش مصنوعی در توسعه نرم‌افزار محسوب می‌شود و به خودکارسازی و افزایش دقت در تضمین کیفیت کد کمک می‌کند. استفاده از Codex به Datadog امکان می‌دهد تا پیچیدگی‌های کدهای در سطح سیستم را با کارایی بیشتری شناسایی و مدیریت کند.",
+      "tags": [
+        "Datadog",
+        "OpenAI",
+        "Codex",
+        "بازبینی کد",
+        "توسعه نرم‌افزار"
+      ]
+    },
+    {
+      "id": "bb41bbc5572091aa",
+      "date": "2026-01-08",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/openai-for-healthcare",
+      "category": "کاربرد هوش مصنوعی در علم و پزشکی",
+      "title_fa": "ورود OpenAI به حوزه سلامت: راهکارهای هوش مصنوعی برای کاهش بار اداری و بهبود خدمات درمانی",
+      "title_en": "OpenAI for Healthcare",
+      "summary_fa": "OpenAI با معرفی راهکارهای جدید خود، رسماً وارد حوزه سلامت شده است. این پلتفرم، هوش مصنوعی سطح سازمانی و ایمن را برای مراکز درمانی فراهم می‌کند که به‌طور کامل با قوانین HIPAA سازگار است. هدف اصلی این اقدام، کاهش بار اداری سازمان‌های درمانی و پشتیبانی از جریان‌های کاری بالینی برای بهبود کلی خدمات سلامت است.",
+      "tags": [
+        "OpenAI",
+        "هوش مصنوعی",
+        "سلامت دیجیتال",
+        "HIPAA",
+        "کاربرد سازمانی AI"
+      ]
+    },
+    {
+      "id": "0f7e9213fe84e168",
+      "date": "2026-01-08",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/netomi",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "Netomi: راهکارهایی برای توسعه سیستم‌های هوش مصنوعی عاملی در شرکت‌ها",
+      "title_en": "Netomi’s lessons for scaling agentic systems into the enterprise",
+      "summary_fa": "شرکت Netomi با بهره‌گیری از مدل‌های پیشرفته GPT-4.1 و GPT-5.2، روش‌های نوینی را برای مقیاس‌دهی ایجنت‌های هوش مصنوعی در محیط‌های سازمانی توسعه داده است. این رویکرد بر ترکیب قابلیت‌هایی چون هم‌روندی، حاکمیت (governance) و استدلال چندمرحله‌ای تمرکز دارد. هدف Netomi، ایجاد گردش‌کارهای تولیدی قابل‌اعتماد و کارآمد از طریق این سیستم‌های عاملی است.",
+      "tags": [
+        "Netomi",
+        "AI agents",
+        "هوش مصنوعی سازمانی",
+        "GPT-4.1",
+        "مقیاس‌پذیری"
+      ]
+    },
+    {
+      "id": "f3b8c7fe39ca772c",
+      "date": "2026-09-02",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "استیج Builders به TechCrunch Disrupt بازمی‌گردد: راهکارهای عملی برای رشد و مقیاس‌دهی استارتاپ‌ها",
+      "title_en": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+      "summary_fa": "استیج Builders بار دیگر در کنفرانس TechCrunch Disrupt حضور خواهد یافت. این بخش، بنیان‌گذاران، فعالان استارتاپی و سرمایه‌گذاران را گرد هم می‌آورد تا در مورد استراتژی‌های عملی لازم برای ساخت و توسعه‌ی پایدار استارتاپ‌ها به بحث و تبادل نظر بپردازند.",
+      "tags": [
+        "TechCrunch Disrupt",
+        "Startups",
+        "Scaling",
+        "Founders",
+        "Startup Events"
+      ]
+    },
+    {
+      "id": "e54d1c1e8577db19",
+      "date": "2026-09-02",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "خرید نیم میلیارد دلاری پالو آلتو نتورکس: Console به جمع زیرمجموعه‌های این غول امنیت سایبری پیوست",
+      "title_en": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+      "summary_fa": "بنابر گزارش منابع آگاه، شرکت پالو آلتو نتورکس (Palo Alto Networks)، غول امنیت سایبری، با پرداخت ۵۰۰ میلیون دلار شرکت Console را که مورد حمایت Thrive بود، تصاحب کرده است. این خرید قابل توجه در حوزه اتوماسیون خدمات فناوری اطلاعات مبتنی بر هوش مصنوعی (AI IT service automation) انجام شده است. ناظران صنعت معتقدند که با این اقدام، شرکت Serval که سرمایه‌گذار آن Sequoia است، عملاً به رهبر بلامنازع استارتاپ‌ها در این حوزه تبدیل خواهد شد.",
+      "tags": [
+        "Palo Alto Networks",
+        "Console",
+        "AI IT automation",
+        "Acquisition",
+        "Serval"
+      ]
+    },
+    {
+      "id": "800d247a22b05687",
+      "date": "2026-09-02",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "روش نوین استدلال OpenAI، زنگ خطر را برای متخصصان ایمنی هوش مصنوعی به صدا درآورد",
+      "title_en": "OpenAI’s new reasoning technique alarms AI safety experts",
+      "summary_fa": "مدل جدید Astra از تکنیکی به نام «عمق بازگشتی» (recurrent depth) بهره می‌برد. این روش به مدل اجازه می‌دهد تا فراتر از چارچوب تفکر ترتیبی که مشخصه اکثر مدل‌های استدلالی است، عمل کند. این نوآوری از سوی OpenAI، نگرانی‌های جدی را در میان کارشناسان ایمنی هوش مصنوعی برانگیخته است.",
+      "tags": [
+        "OpenAI",
+        "Astra",
+        "Recurrent Depth",
+        "AI Safety",
+        "ایمنی هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "8561de7d3711a506",
+      "date": "2026-09-02",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "چالش‌های تشخیص هوش مصنوعی: چرا تمایز «واقعی یا جعلی» کافی نیست؟",
+      "title_en": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
+      "summary_fa": "اینترنت با مشکل فزاینده‌ای در اعتماد کاربران مواجه است، چرا که محتوای تولیدی هوش مصنوعی به سرعت در حال گسترش است. متن و تصاویر ساخته شده با هوش مصنوعی اکنون در رزومه‌های شغلی، نقد و بررسی محصولات، و حتی ادعاهای بیمه نفوذ کرده‌اند. این وضعیت، پلتفرم‌ها و کاربران را برای تشخیص واقعیت از جعل به چالش کشیده و نشان می‌دهد که تفکیک ساده «واقعی یا جعلی» دیگر کارساز نیست.",
+      "tags": [
+        "AI detection",
+        "محتوای تولیدی هوش مصنوعی",
+        "اطلاعات جعلی",
+        "اعتماد دیجیتال",
+        "Pangram"
+      ]
+    },
+    {
+      "id": "52702342c41b75fa",
+      "date": "2026-09-02",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/podcast/were-dangerously-close-to-dead-internet-theory-says-pangrams-ceo/",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "هشدار مدیرعامل Pangram: اینترنت به «تئوری اینترنت مرده» خطرناک نزدیک می‌شود",
+      "title_en": "We’re ‘dangerously close’ to dead internet theory, says Pangram’s CEO",
+      "summary_fa": "مدیرعامل شرکت Pangram هشدار داده است که اینترنت به دلیل افزایش محتوای تولید شده توسط هوش مصنوعی، با یک بحران اعتماد مواجه است و به «تئوری اینترنت مرده» نزدیک می‌شود. متن و تصاویر تولیدشده توسط هوش مصنوعی اکنون در درخواست‌های شغلی، بررسی‌های محصول و حتی ادعاهای بیمه راه یافته‌اند. این وضعیت تشخیص واقعیت از محتوای جعلی را برای پلتفرم‌ها و کاربران دشوار کرده و استارتاپ‌هایی برای مقابله با این مشکل در حال ظهور هستند.",
+      "tags": [
+        "Pangram",
+        "AI-generated content",
+        "Dead Internet Theory",
+        "اعتماد دیجیتال",
+        "محتوای جعلی"
+      ]
+    },
+    {
+      "id": "97f276dfad176a62",
+      "date": "2026-09-02",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "ادغام هوش مصنوعی در مقیاس سازمانی: غلبه بر پیچیدگی‌ها با رویکردی ساده",
+      "title_en": "Facilitating AI integration with simplicity at scale",
+      "summary_fa": "با رشد شرکت‌ها، فناوری‌های پشتیبان عملیات می‌توانند به جای مزیت، به مانعی جدی تبدیل شوند. سیستم‌های جداگانه، ابزارهای سایت‌محور، و فرایندهای دستی باعث ایجاد سیلوهای اطلاعاتی می‌شوند که شناسایی زودهنگام مشکلات، هماهنگی پاسخ‌ها و تصمیم‌گیری مطمئن را دشوار می‌کند. این خبر به چالش‌های ادغام هوش مصنوعی در مقیاس وسیع و راهکارهای ساده‌سازی آن برای سازمان‌هایی مانند Jabil می‌پردازد تا هوش مصنوعی به یک مزیت واقعی تبدیل شود.",
+      "tags": [
+        "هوش مصنوعی سازمانی",
+        "ادغام AI",
+        "مقیاس‌پذیری",
+        "مدیریت داده",
+        "Jabil"
+      ]
+    },
+    {
+      "id": "734561a77a0e463c",
+      "date": "2026-09-02",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "چالش معمایی هوش مصنوعی: نگاهی به آزمون‌های هوش و ریشه‌های یادگیری ماشین",
+      "title_en": "The Download: AI puzzles and a path to our nearest star system",
+      "summary_fa": "این خبر به بررسی چالش‌های مدل‌های هوش مصنوعی در مواجهه با آزمون‌های هوش و معماها می‌پردازد. با وجود نقش محوری بازی‌ها و پازل‌ها در پیشرفت هوش مصنوعی از بدو توسعه، مدل‌های کنونی اغلب در این گونه تست‌ها با دشواری روبرو هستند. این گزارش همچنین به پیشینه و محبوبیت یافتن اصطلاح «یادگیری ماشین» در سال ۱۹۵۹ اشاره می‌کند.",
+      "tags": [
+        "هوش مصنوعی",
+        "یادگیری ماشین",
+        "آزمون هوش",
+        "توسعه AI",
+        "پازل"
       ]
     }
   ]
