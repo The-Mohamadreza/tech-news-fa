@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-09-03",
+    "last_updated": "2026-09-04",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 883
+    "total_articles": 895
   },
   "articles": [
     {
@@ -14975,6 +14975,210 @@
         "آزمون هوش",
         "توسعه AI",
         "پازل"
+      ]
+    },
+    {
+      "id": "5190d2a1dccd48dc",
+      "date": "2026-09-03",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/daybreak-for-frontline-defenders",
+      "category": "امنیت سایبری",
+      "title_fa": "طرح Daybreak اوپن‌ای‌آی: ۱ میلیارد دلار برای حفاظت سایبری از خدمات ضروری",
+      "title_en": "Daybreak for Frontline Defenders: $1B to protect essential services",
+      "summary_fa": "OpenAI طرح جدیدی به نام Daybreak for Frontline Defenders را معرفی کرده است. این طرح با تعهد یک میلیارد دلاری، دسترسی به هوش مصنوعی پیشرفته سایبری، آموزش و پشتیبانی را برای محافظت از خدمات ضروری گسترش می‌دهد. هدف، تقویت دفاع سایبری در برابر تهدیدات روزافزون است.",
+      "tags": [
+        "OpenAI",
+        "Daybreak",
+        "امنیت سایبری",
+        "هوش مصنوعی سایبری",
+        "خدمات ضروری"
+      ]
+    },
+    {
+      "id": "be4a3c5426264d71",
+      "date": "2026-09-03",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/legora-financial-statement-review-with-astra",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "Legora با GPT-6 Astra: بررسی ۴۱ سند در چند دقیقه و جهش ۴۰ درصدی بهره‌وری",
+      "title_en": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "summary_fa": "شرکت Legora با استفاده از مدل هوش مصنوعی پیشرفته GPT-6 Astra، توانست ۴۱ سند را در عرض چند دقیقه با دقت بالا بررسی کند. این سیستم هوشمند نه تنها تمامی چهار خطای تعبیه‌شده در اسناد را شناسایی کرد، بلکه بهره‌وری کلی جریان کار بررسی مالی را تا نزدیک به ۴۰ درصد بهبود بخشید. این موفقیت نشان‌دهنده‌ی پتانسیل چشمگیر هوش مصنوعی در تسریع و افزایش دقت فرایندهای سازمانی است.",
+      "tags": [
+        "Legora",
+        "GPT-6 Astra",
+        "AI",
+        "بررسی اسناد",
+        "بهره‌وری"
+      ]
+    },
+    {
+      "id": "7a45b185cff53085",
+      "date": "2026-09-03",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/playco-game-prototyping-with-astra",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "Playco نمونه‌سازی بازی را با GPT-6 Astra متحول کرد: کاهش ۵۰ درصدی نیاز به اصلاحات دستی",
+      "title_en": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+      "summary_fa": "شرکت Playco با بهره‌گیری از مدل هوش مصنوعی GPT-6 Astra، توانسته است سه نمونه اولیه بازی با تم‌های مختلف را از یک پایه اولیه واحد (grey box) توسعه دهد. این شرکت گزارش داده است که در مقایسه با مدل‌های قبلی، نیاز به اصلاحات دستی در فرآیند نمونه‌سازی تا ۵۰ درصد کاهش یافته است. این پیشرفت چشمگیر، کارایی و سرعت توسعه بازی را به طور قابل توجهی بهبود می‌بخشد.",
+      "tags": [
+        "Playco",
+        "GPT-6 Astra",
+        "هوش مصنوعی",
+        "بازی‌سازی",
+        "نمونه‌سازی"
+      ]
+    },
+    {
+      "id": "9f2f745e33d60b2d",
+      "date": "2026-01-07",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/tolan",
+      "category": "هوش مصنوعی مکالمه‌ای و دستیارهای صوتی",
+      "title_fa": "تولان با GPT-5.1، نسل جدید هوش مصنوعی مکالمه‌ای صوتی را معرفی می‌کند",
+      "title_en": "How Tolan builds voice-first AI with GPT-5.1",
+      "summary_fa": "شرکت تولان یک دستیار هوش مصنوعی صوتی توسعه داده که تعاملات آن عمدتاً از طریق صدا انجام می‌شود. این دستیار که بر پایه مدل GPT-5.1 ساخته شده، با ترکیب پاسخ‌های با تأخیر کم، بازسازی لحظه‌ای زمینه مکالمه و شخصیت‌های مبتنی بر حافظه، تجربه گفتگوهای طبیعی‌تری را ارائه می‌دهد.",
+      "tags": [
+        "Tolan",
+        "GPT-5.1",
+        "هوش مصنوعی مکالمه‌ای",
+        "دستیار صوتی",
+        "فناوری صوتی"
+      ]
+    },
+    {
+      "id": "73d7f7bb41fa015c",
+      "date": "2026-09-04",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+      "category": "کاربردهای تجاری و چالش‌های هوش مصنوعی",
+      "title_fa": "منوهای بی‌روح هوش مصنوعی: معضل یکنواختی که اشتهای مشتریان را از بین می‌برد",
+      "title_en": "The sameness problem behind those unappetizing AI-generated menus",
+      "summary_fa": "صاحبان رستوران‌ها ممکن است هوش مصنوعی مولد را راه میانبری برای جذاب‌تر کردن منوهای خود بدانند، اما مشتریان به طور غریزی حس می‌کنند که در غذاهای ارائه‌شده مشکلی وجود دارد. این معضل ریشه در یکنواختی و عدم خلاقیت منوهای تولیدشده توسط هوش مصنوعی دارد که آن‌ها را بی‌روح و تکراری جلوه می‌دهد. در نهایت، این رویکرد به جای بهبود تجربه مشتری، موجب دلسردی و عدم رضایت می‌شود.",
+      "tags": [
+        "AI",
+        "Generative AI",
+        "Restaurant",
+        "منوی غذا",
+        "خلاقیت"
+      ]
+    },
+    {
+      "id": "49b35d8af934e58a",
+      "date": "2026-09-04",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "Crusoe با جذب ۳ میلیارد دلار سرمایه، به ارزش ۳۰ میلیارد دلار رسید",
+      "title_en": "Crusoe reportedly raises $3B at a $30B valuation",
+      "summary_fa": "شرکت Crusoe، فعال در زمینه توسعه مراکز داده، گزارشاً موفق به جذب ۳ میلیارد دلار سرمایه جدید شده است. این سرمایه‌گذاری عظیم، ارزش‌گذاری شرکت را به ۳۰ میلیارد دلار رسانده و آن را در جمع استارتاپ‌های با ارزش بالا قرار داده است. گفته می‌شود این دور از جذب سرمایه پس از امضای قراردادی ۱۳ میلیارد دلاری با شرکت Jane Street محقق شده است که پشتوانه مالی قابل توجهی برای رشد آتی Crusoe فراهم می‌کند.",
+      "tags": [
+        "Crusoe",
+        "Jane Street",
+        "سرمایه‌گذاری",
+        "ارزش‌گذاری",
+        "مراکز داده"
+      ]
+    },
+    {
+      "id": "46fa5743a6b10217",
+      "date": "2026-09-03",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "گمانه‌زنی‌ها از سرمایه‌گذاری ۱ میلیارد دلاری Accel در Thinking Machines با ارزش ۴۰ میلیارد دلار خبر می‌دهند",
+      "title_en": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
+      "summary_fa": "بر اساس گزارش‌ها، شرکت سرمایه‌گذاری Accel در حال مذاکره برای رهبری یک دور سرمایه‌گذاری ۱ میلیارد دلاری در استارتاپ برجسته Thinking Machines است. این اقدام می‌تواند ارزش‌گذاری Thinking Machines را به ۴۰ میلیارد دلار برساند. گفتنی است، نرخ درآمد سالانه این شرکت در حال حاضر بیش از ۱۰۰ میلیون دلار برآورد می‌شود.",
+      "tags": [
+        "Accel",
+        "Thinking Machines",
+        "سرمایه گذاری",
+        "استارتاپ",
+        "ارزش گذاری"
+      ]
+    },
+    {
+      "id": "91a2b0e866297cd0",
+      "date": "2026-09-03",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "متا برای نظارت بر استفاده از مدل جدید هوش مصنوعی خود، به کاربران تخفیف می‌دهد",
+      "title_en": "Meta is paying to peek at how you use their latest AI model",
+      "summary_fa": "متا برای مدل جدید هوش مصنوعی خود به نام Muse Spark که برای توسعه ابزارهای کدنویسی و عوامل هوشمند (agents) طراحی شده، تخفیف قابل توجهی تا ۹۵ درصد ارائه می‌کند. این تخفیف به کاربرانی تعلق می‌گیرد که با به اشتراک گذاشتن ورودی‌ها (prompts) و خروجی‌های مدل، به توسعه مدل‌های آتی این شرکت کمک کنند. هدف متا از این طرح، جمع‌آوری داده‌های ارزشمند برای بهبود و پیشبرد سیستم‌های هوش مصنوعی خود است.",
+      "tags": [
+        "Meta",
+        "Muse Spark",
+        "هوش مصنوعی",
+        "جمع‌آوری داده",
+        "توسعه مدل هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "341a230bd977b97a",
+      "date": "2026-09-03",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "رونمایی OpenAI از «آسترا»، مدل قدرتمند و جنجالی جدید خود",
+      "title_en": "OpenAI launches Astra, its powerful (and controversial) new model",
+      "summary_fa": "OpenAI ادعا می‌کند که مدل جدید آسترا «مرزی نوین در استفاده از کامپیوتر و مرورگر» را تعریف می‌کند. این شرکت مدعی است که آسترا قادر است وظایف مختلف را با «سرعت، دقت و ایمنی بی‌سابقه» انجام دهد و تجربه‌ای متفاوت را برای کاربران رقم بزند.",
+      "tags": [
+        "OpenAI",
+        "Astra",
+        "هوش مصنوعی",
+        "مدل هوش مصنوعی",
+        "AI Model"
+      ]
+    },
+    {
+      "id": "dddab9ebe854ad35",
+      "date": "2026-09-03",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/",
+      "category": "حریم خصوصی و رفاه دیجیتال",
+      "title_fa": "بازاندیشی در امنیت دیجیتال کودکان و چالش‌های اپلیکیشن‌های پایش محتوا",
+      "title_en": "The Download: rethinking child safety and fossil-fueled farming",
+      "summary_fa": "نگرانی روزافزون والدین آمریکایی از آسیب‌های دیجیتال، آن‌ها را به استفاده گسترده از اپلیکیشن‌های پایش محتوا سوق داده است. این برنامه‌ها امکان رصد پیام‌ها، عکس‌ها و ایمیل‌های کودکان را فراهم می‌کنند. اما اکنون بحث بازنگری جدی در کارایی و رویکرد این ابزارها برای تضمین اثربخش ایمنی کودکان در فضای دیجیتال مطرح شده است.",
+      "tags": [
+        "ایمنی کودکان",
+        "اپلیکیشن نظارت",
+        "حریم خصوصی",
+        "والدین",
+        "سلامت دیجیتال"
+      ]
+    },
+    {
+      "id": "7789285eeb96c44c",
+      "date": "2026-09-03",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/09/03/1143320/fertilizer-prices-fossil-fuels/",
+      "category": "اقتصاد و انرژی",
+      "title_fa": "هزینه‌های پنهان وابستگی کشاورزی به سوخت فسیلی: از بنزین تا کود",
+      "title_en": "Agriculture relies on fossil fuels. It’s costing us.",
+      "summary_fa": "افزایش اخیر قیمت سوخت‌های فسیلی، از هزینه سوخت خودرو تا بلیط هواپیما، بر زندگی روزمره بسیاری تأثیر گذاشته است. با این حال، کشاورزان به دلیل وابستگی شدید بخش کشاورزی به سوخت و تأثیر آن بر بهای کود، بیشترین فشار را متحمل می‌شوند. پیامدهای ناشی از درگیری در ایران به شدت بر قیمت کود شیمیایی اثر گذاشته و هزینه‌های تولید محصولات کشاورزی را به طرز چشمگیری افزایش داده است.",
+      "tags": [
+        "کشاورزی",
+        "سوخت فسیلی",
+        "کود شیمیایی",
+        "قیمت انرژی",
+        "اقتصاد جهانی"
+      ]
+    },
+    {
+      "id": "f16d17e35fb2de22",
+      "date": "2026-09-03",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "چالش گسترش هوش مصنوعی عاملیت‌محور در سازمان‌ها: از آزمایش تا استقرار فراگیر",
+      "title_en": "Scaling agentic AI pilots across the enterprise",
+      "summary_fa": "با گذر هوش مصنوعی عاملیت‌محور از فاز آزمایشگاهی به سوی استقرار در مقیاس سازمانی، چالش‌های مهمی پدیدار شده است. مسائل اصلی شامل نحوه همکاری عامل‌های هوش مصنوعی با یکدیگر، اتصال آن‌ها به سیستم‌ها و داده‌های موجود، و عملکرد ایمن در فرآیندهای کسب‌وکار است. با وجود اینکه حدود ۸۰ درصد از شرکت‌های Fortune 500 این فناوری را به‌صورت پایلوت پذیرفته‌اند، دستیابی به مقیاس‌دهی معنادار و گسترده همچنان یک مانع اساسی محسوب می‌شود.",
+      "tags": [
+        "Agentic AI",
+        "هوش مصنوعی سازمانی",
+        "مقیاس‌گذاری",
+        "استقرار AI",
+        "Fortune 500"
       ]
     }
   ]
