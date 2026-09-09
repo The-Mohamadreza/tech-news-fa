@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-09-08",
+    "last_updated": "2026-09-09",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 938
+    "total_articles": 956
   },
   "articles": [
     {
@@ -15906,6 +15906,311 @@
         "انرژی تجدیدپذیر",
         "OpenAI",
         "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "167bce5d47e71e47",
+      "date": "2026-09-08",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/codex-quantum-computing-experiments",
+      "category": "کاربرد هوش مصنوعی در علم و پزشکی",
+      "title_fa": "GPT-5.6 Sol: هوش مصنوعی پیشگام در خودکارسازی آزمایش‌های محاسبات کوانتومی",
+      "title_en": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "summary_fa": "یک پژوهشگر در MIT با بهره‌گیری از مدل هوش مصنوعی GPT-5.6 Sol و ابزار Codex، موفق به خودکارسازی کامل فرآیند اجرای آزمایش‌های محاسبات کوانتومی شده است. این سیستم نه تنها قادر به انجام خودکار آزمایش‌هاست، بلکه می‌تواند نتایج را تحلیل کرده و کیوبیت‌ها را نیز کالیبره کند و گامی مهم در پیشرفت این حوزه برداشته است.",
+      "tags": [
+        "GPT-5.6 Sol",
+        "محاسبات کوانتومی",
+        "MIT",
+        "هوش مصنوعی",
+        "خودکارسازی"
+      ]
+    },
+    {
+      "id": "aaada63e998e3254",
+      "date": "2026-09-08",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/the-work-now-within-reach",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "هوش مصنوعی: دروازه‌ای نو به کار و رشد اقتصادی مقرون‌به‌صرفه",
+      "title_en": "The Work Now Within Reach",
+      "summary_fa": "با پیشرفت هوش مصنوعی و افزایش قابلیت‌های آن در کنار کاهش هزینه‌ها، فرصت‌های بی‌سابقه‌ای برای افراد و کسب‌وکارها فراهم شده است. این فناوری نه تنها توانمندی‌ها را برای انجام وظایف گوناگون گسترش می‌دهد، بلکه به رشد اقتصادی نیز شکلی کارآمدتر و مقرون‌به‌صرفه‌تر می‌بخشد.",
+      "tags": [
+        "AI",
+        "رشد اقتصادی",
+        "کاربرد کسب‌وکار",
+        "بهره‌وری",
+        "دسترسی‌پذیری"
+      ]
+    },
+    {
+      "id": "305f03a4aa6aa16d",
+      "date": "2026-09-08",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "رونمایی از ChatGPT Images 2.5: خلق تصاویری دقیق‌تر و شخصی‌سازی‌شده از ایده‌های شما",
+      "title_en": "Introducing ChatGPT Images 2.5",
+      "summary_fa": "OpenAI جدیدترین نسخه از ابزار تولید تصویر خود را با نام ChatGPT Images 2.5 معرفی کرد. این پلتفرم پیشرفته به کاربران امکان می‌دهد تا ایده‌ها، طرح‌های اولیه و حتی عکس‌های مرجع خود را به تصاویری بسیار شخصی‌سازی‌شده و حرفه‌ای تبدیل کنند. هدف اصلی این به‌روزرسانی، کمک به کاربران برای خلق خروجی‌هایی است که به شکل دقیق‌تری بازتاب‌دهنده دیدگاه و تصورات ذهنی آن‌ها باشد.",
+      "tags": [
+        "ChatGPT Images 2.5",
+        "OpenAI",
+        "AI image generation",
+        "Generative AI",
+        "تولید تصویر با هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "fbb79928f7d9c051",
+      "date": "2026-09-08",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/navier-stokes-solution",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "هوش مصنوعی گره از معمای جایزه هزاره ناویه-استوکس گشود",
+      "title_en": "On the Navier–Stokes Millennium Prize Problem",
+      "summary_fa": "یک راه‌حل جدید و نوآورانه برای مسئله جایزه هزاره ناویه-استوکس توسط هوش مصنوعی تولید و ارائه شده است. این کشف مهم، شامل یک گزارش تشریحی کامل و همچنین اثباتی رسمی است که با استفاده از دستیار اثبات Lean انجام شده است. این گام می‌تواند دریچه‌ای تازه به درک پیچیدگی‌های مکانیک سیالات و پیشبرد تحقیقات ریاضی بگشاید.",
+      "tags": [
+        "Navier-Stokes",
+        "Millennium Prize Problem",
+        "AI",
+        "Lean",
+        "ریاضیات"
+      ]
+    },
+    {
+      "id": "99c22bc85dd5ff7a",
+      "date": "2026-09-08",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/teen-development-research-grants",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "فراخوان اوپن‌ای‌آی: کمک‌های ۵ میلیون دلاری برای پژوهش در مورد تاثیر هوش مصنوعی بر نوجوانان",
+      "title_en": "Funding grants for new research into AI and teen development",
+      "summary_fa": "شرکت اوپن‌ای‌آی یک برنامه کمک‌هزینه ۵ میلیون دلاری راه‌اندازی کرده است. هدف این برنامه حمایت از تحقیقات مستقل درباره تأثیرات هوش مصنوعی مولد بر رشد، رفاه و ایمنی نوجوانان است. از پژوهشگران دعوت می‌شود تا برای دریافت این کمک‌هزینه‌ها درخواست خود را ارسال کنند.",
+      "tags": [
+        "OpenAI",
+        "Generative AI",
+        "نوجوانان",
+        "پژوهش",
+        "ایمنی هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "671a9fed35e21548",
+      "date": "2026-09-08",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "OpenAI برنامه‌های حمایت از روزنامه‌نگاری را گسترش می‌دهد: از آموزش تا اتاق خبر",
+      "title_en": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+      "summary_fa": "شرکت OpenAI از گسترش برنامه‌های خود برای حمایت از حوزه روزنامه‌نگاری خبر داده است. این حمایت شامل ارائه ابزارها، آموزش‌های تخصصی و ایجاد شراکت‌هایی جدید با هدف توانمندسازی دانشجویان، مربیان، روزنامه‌نگاران و سازمان‌های خبری برای استفاده مؤثرتر از هوش مصنوعی در کارشان است.",
+      "tags": [
+        "OpenAI",
+        "Journalism",
+        "هوش مصنوعی",
+        "رسانه",
+        "آموزش"
+      ]
+    },
+    {
+      "id": "8910eda6fce4fbe2",
+      "date": "2026-09-08",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+      "category": "امنیت سایبری",
+      "title_fa": "سرقت توکن‌های هوش مصنوعی Claude توسط هکرها؛ هشدار Anthropic به کاربران",
+      "title_en": "Hackers are stealing Claude tokens from subscribers",
+      "summary_fa": "ماه گذشته، یک کاربر هوش مصنوعی Claude متوجه مصرف غیرعادی توکن از حساب خود شد، در حالی که هیچ فعالیتی انجام نمی‌داد. در پی این رویداد، شرکت Anthropic به مشترکان خود درباره سرقت توکن‌ها توسط هکرها هشدار داده است.",
+      "tags": [
+        "Claude",
+        "Anthropic",
+        "امنیت سایبری",
+        "هک",
+        "توکن هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "c445cd5328fcea70",
+      "date": "2026-09-08",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "ارزش‌گذاری شگفت‌انگیز Cognition به ۴۸ میلیارد دلار؛ سیگنالی برای آینده رقابتی کدنویسی با هوش مصنوعی",
+      "title_en": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+      "summary_fa": "شرکت Cognition، فعال در حوزه ابزارهای کدنویسی مبتنی بر هوش مصنوعی، به ارزش ۴۸ میلیارد دلار دست یافت. این ارزش‌گذاری بالا نشان‌دهنده‌ی باور سرمایه‌گذاران به رقابتی بودن و عدم انحصار در بازار کدنویسی با هوش مصنوعی است. جالب توجه اینکه ضریب ارزش‌گذاری Cognition حتی از شرکت Cursor، پیش از فروش آن به SpaceX، نیز فراتر رفته است.",
+      "tags": [
+        "Cognition",
+        "AI coding",
+        "Valuation",
+        "Market Competition",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "6f347d89dbd82176",
+      "date": "2026-09-08",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+      "category": "حریم خصوصی و پذیرش عمومی هوش مصنوعی",
+      "title_fa": "متا از دستیار هوش مصنوعی Muse رونمایی کرد: آیا کاربران به حریم خصوصی خود اطمینان خواهند کرد؟",
+      "title_en": "Meta debuts its Muse AI agent. Will consumers trust it?",
+      "summary_fa": "شرکت متا به تازگی دستیار هوش مصنوعی شخصی جدید خود، Muse را معرفی کرده است. این عامل هوش مصنوعی برای ارائه خدمات گسترده، نیازمند دسترسی به اطلاعات حساسی مانند ایمیل، تقویم، پرداخت‌ها و حتی سوابق سلامت کاربران است. معرفی Muse بزرگترین گام متا در حوزه هوش مصنوعی مصرف‌کننده محسوب می‌شود و آزمونی جدی برای سنجش میزان اعتماد کاربران به این شرکت در زمینه حفاظت از داده‌های شخصی‌شان خواهد بود.",
+      "tags": [
+        "Meta",
+        "Muse AI",
+        "AI",
+        "Consumer AI",
+        "حریم خصوصی"
+      ]
+    },
+    {
+      "id": "30fef87af6a84ff8",
+      "date": "2026-09-08",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+      "category": "اخلاق و مسئولیت‌پذیری هوش مصنوعی",
+      "title_fa": "اتهام «رقابت ناجوانمردانه» به OpenAI در مسئله ریاضی میلیون دلاری از سوی ریاضی‌دان NYU",
+      "title_en": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+      "summary_fa": "یک ریاضی‌دان از دانشگاه نیویورک، شرکت OpenAI را متهم کرده است که در تلاش برای حل یک مسئله مهم ریاضی، رفتاری «ناجوانمردانه» از خود نشان داده است. این مسئله که به نام «مسئله وجود و همواری ناویه-استوکس» شناخته می‌شود، جایزه‌ای ۱ میلیون دلاری برای اولین کسی که آن را حل کند، در نظر گرفته است. این اتهام به حواشی پیرامون رویکردهای رقابتی در حل چالش‌های علمی با ارزش بالا می‌افزاید.",
+      "tags": [
+        "OpenAI",
+        "Navier-Stokes",
+        "اخلاق هوش مصنوعی",
+        "رقابت علمی",
+        "ریاضیات"
+      ]
+    },
+    {
+      "id": "befa855d43dff530",
+      "date": "2026-09-08",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "رقابت گوگل کلود در استقرار هوش مصنوعی: همکاری با اکسنچر برای جهش سازمانی",
+      "title_en": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+      "summary_fa": "گوگل کلود برای تقویت حضور خود در بازار هوش مصنوعی سازمانی، با شرکت مشاوره اکسنچر وارد همکاری استراتژیک شده است. این مشارکت بر اعزام مهندسان متخصص به سازمان‌ها تمرکز دارد تا فرآیند پیاده‌سازی هوش مصنوعی را تسریع کرده و موانع موجود در استقرار آن را برطرف سازد. هدف نهایی، افزایش پذیرش و کارایی راه‌حل‌های هوش مصنوعی گوگل کلود در محیط‌های شرکتی است.",
+      "tags": [
+        "Google Cloud",
+        "Accenture",
+        "هوش مصنوعی سازمانی",
+        "استقرار هوش مصنوعی",
+        "خدمات ابری"
+      ]
+    },
+    {
+      "id": "10701593ca9e6c48",
+      "date": "2026-09-08",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
+      "category": "امنیت سایبری",
+      "title_fa": "کروم هر دو هفته به‌روزرسانی می‌شود؛ گوگل سرعت را در پاسخ به چالش‌های امنیتی هوش مصنوعی بالا می‌برد",
+      "title_en": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
+      "summary_fa": "گوگل اعلام کرده است که چرخه‌ی انتشار به‌روزرسانی‌های مرورگر کروم را تسریع می‌کند. از این پس، کاربران هر دو هفته یکبار شاهد به‌روزرسانی‌های جدیدی خواهند بود. این اقدام با هدف ارائه‌ی سریع‌تر وصله‌های امنیتی حیاتی و قابلیت‌های جدید صورت می‌گیرد تا کروم بتواند بهتر با چشم‌انداز امنیتی در حال تحول، به‌ویژه با ظهور هوش مصنوعی، مقابله کند.",
+      "tags": [
+        "Google",
+        "Chrome",
+        "AI",
+        "امنیت سایبری",
+        "به‌روزرسانی"
+      ]
+    },
+    {
+      "id": "2392282ee14f7c3c",
+      "date": "2026-09-09",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "جنجال تازه OpenAI: آیا هوش مصنوعی یکی از مسائل جایزه هزاره را حل کرده است؟",
+      "title_en": "What OpenAI’s latest controversy tells us about the future of math",
+      "summary_fa": "شرکت OpenAI اخیراً اعلام کرده است که عوامل هوش مصنوعی آن موفق به حل یکی از مسائل جایزه هزاره شده‌اند، دستاوردی بزرگ در حوزه ریاضیات. این خبر می‌توانست یک موفقیت چشمگیر برای OpenAI باشد و افق‌های جدیدی را برای آینده ریاضیات بگشاید. اما متأسفانه، این دستاورد به سرعت درگیر جنجال و اتهاماتی شده که اعتبار آن را زیر سؤال می‌برد.",
+      "tags": [
+        "OpenAI",
+        "هوش مصنوعی",
+        "ریاضیات",
+        "Millennium Prize Problems",
+        "تحقیقات هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "c8a50d81e696bbd2",
+      "date": "2026-09-08",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/",
+      "category": "نوآوری و آینده فناوری",
+      "title_fa": "معرفی ۳۵ نوآور برتر زیر ۳۵ سال: نگاهی به آینده علم و فناوری",
+      "title_en": "The Download: our 35 Innovators Under 35 this year",
+      "summary_fa": "فهرست سالانه «۳۵ نوآور برتر زیر ۳۵ سال» از سوی نشریه «The Download» منتشر شد. این لیست که نگاهی به استعدادهای درخشان و پیشگامان جوان در سال ۲۰۲۶ دارد، دیدگاهی منحصر به فرد از نسل بعدی علم و فناوری ارائه می‌دهد و آینده را از دریچه نوآوری‌های جوانان پیشرو ترسیم می‌کند.",
+      "tags": [
+        "Innovators Under 35",
+        "نوآوری",
+        "آینده فناوری",
+        "علم"
+      ]
+    },
+    {
+      "id": "d4a2b0f5fe87b62e",
+      "date": "2026-09-08",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/",
+      "category": "سخت‌افزار و تراشه",
+      "title_fa": "نوآوری در تراشه‌ها: استارتاپی که اتلاف انرژی را به بازیافت تبدیل می‌کند",
+      "title_en": "This founder is teaching chips how to recycle (their energy)",
+      "summary_fa": "در طول تاریخ طراحی تراشه‌های کامپیوتری، گرمای هدررفته همواره هزینه‌ای اجتناب‌ناپذیر برای محاسبات در نظر گرفته می‌شد. اما هانا ارلی، هم‌بنیان‌گذار و مدیر ارشد فناوری استارتاپ Vaire Computing، این موضوع را یک انتخاب در طراحی می‌داند. شرکت او تراشه‌هایی تولید می‌کند که انرژی معمولاً هدررفته به صورت گرما را بازیافت می‌کنند. این رویکرد نوآورانه که به «محاسبات بازگشت‌پذیر» معروف است، می‌تواند انقلابی در بهره‌وری انرژی نیمه‌هادی‌ها ایجاد کند.",
+      "tags": [
+        "Vaire Computing",
+        "Hannah Earley",
+        "محاسبات بازگشت‌پذیر",
+        "بهره‌وری انرژی",
+        "تراشه"
+      ]
+    },
+    {
+      "id": "52c4de3e96659e97",
+      "date": "2026-09-08",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "کارآفرین هوش مصنوعی: توسعه عامل‌هایی برای برنامه‌ریزی در برابر غافلگیری‌ها",
+      "title_en": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
+      "summary_fa": "دانجار هفنر، کارآفرین هوش مصنوعی، در حال راه‌اندازی یک استارتاپ جدید در سان‌فرانسیسکو است که هنوز در حالت پنهان (stealth mode) قرار دارد و نامی ندارد. این شرکت بر توسعه عامل‌های هوش مصنوعی تمرکز دارد که می‌توانند برای رویدادهای پیش‌بینی‌نشده برنامه‌ریزی کنند و آماده باشند.",
+      "tags": [
+        "Danijar Hafner",
+        "AI agents",
+        "Stealth startup",
+        "برنامه‌ریزی هوشمند",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "392af124a3878e5e",
+      "date": "2026-09-08",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/09/08/1142094/laureen-meroueh-makes-cheaper-cleaner-steel/",
+      "category": "فناوری‌های سبز و نوآوری صنعتی",
+      "title_fa": "انقلاب سبز در صنعت فولاد: نوآوری یک بنیان‌گذار برای تولید پاک‌تر و ارزان‌تر",
+      "title_en": "This founder is making cheaper, cleaner steel",
+      "summary_fa": "صنعت فولاد از زمان ابداع فرآیند تصفیه سنگ آهن در دهه ۱۸۵۰، تغییرات و نوآوری چندانی را تجربه نکرده است. روش غالب همچنان شامل ذوب سنگ آهن در کوره‌های بلند با دمای بسیار بالا و استفاده از واکنش‌های گازی برای حذف اکسیژن است. با این حال، یک بنیان‌گذار در حال توسعه روشی نوین برای تولید فولاد است که آن را هم ارزان‌تر و هم دوستدار محیط زیست می‌کند. این ابتکار می‌تواند راه را برای صنعتی پایدارتر و کارآمدتر هموار کند.",
+      "tags": [
+        "فولاد",
+        "فناوری سبز",
+        "نوآوری صنعتی",
+        "تولید پایدار",
+        "استارتاپ"
+      ]
+    },
+    {
+      "id": "13b6214aeffb7690",
+      "date": "2026-09-08",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/09/08/1142074/yuancheng-ryan-lu-age-reversal-tech-restores-sight/",
+      "category": "پژوهش‌های زیست‌فناوری و پزشکی",
+      "title_fa": "فناوری پیشگام یک ژنتیک‌دان: معکوس‌سازی پیری برای بازگرداندن بینایی",
+      "title_en": "This geneticist’s age-reversal tech could help restore sight",
+      "summary_fa": "یوانچنگ (رایان) لو، یک ژنتیک‌دان برجسته، در حال توسعه فناوری جدیدی برای معکوس‌سازی فرآیند پیری است که امید می‌رود بتواند بینایی از دست رفته را بازگرداند. او با انگیزه‌ای شخصی عمیق، ناشی از تاریخچه‌ی نابینایی مرتبط با سن در خانواده‌اش، به این پژوهش‌ها روی آورده است. هدف اصلی این فناوری، مقابله با عارضه‌هایی مانند نابینایی ناشی از افزایش سن است.",
+      "tags": [
+        "ژنتیک",
+        "معکوس‌سازی پیری",
+        "درمان بینایی",
+        "علوم پزشکی",
+        "Ryan Lu"
       ]
     }
   ]
