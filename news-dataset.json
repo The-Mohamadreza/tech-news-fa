@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-09-09",
+    "last_updated": "2026-09-10",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 956
+    "total_articles": 963
   },
   "articles": [
     {
@@ -16211,6 +16211,124 @@
         "درمان بینایی",
         "علوم پزشکی",
         "Ryan Lu"
+      ]
+    },
+    {
+      "id": "9786c92a289dc0ec",
+      "date": "2026-09-09",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/ai-policy-window",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "پنجره سیاست‌گذاری هوش مصنوعی باز است؛ زمان اقدام فرارسیده",
+      "title_en": "The AI policy window is open. We need to act.",
+      "summary_fa": "کریستوفر لِهین (Chris Lehane) معتقد است که با پیشرفت روزافزون توانمندی‌های هوش مصنوعی، نیاز به شواهد ایمنی قوی‌تر، استانداردهای مشترک و اقدامات سیاست‌گذاری پایدار بیش از پیش احساس می‌شود. وی تأکید می‌کند که این اقدامات ضروری باید در فرصت کنونی که پنجره سیاست‌گذاری هوش مصنوعی باز است، به سرعت صورت گیرد.",
+      "tags": [
+        "AI policy",
+        "سیاست‌گذاری هوش مصنوعی",
+        "ایمنی هوش مصنوعی",
+        "استانداردها",
+        "Chris Lehane"
+      ]
+    },
+    {
+      "id": "587a70348a735f61",
+      "date": "2026-09-09",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+      "category": "مدل‌های هوش مصنوعی و کاربرد تجاری",
+      "title_fa": "GPT-6 Astra: نسل آتی هوش مصنوعی OpenAI برای تحول در کسب‌وکارها",
+      "title_en": "GPT-6 Astra: The next generation in intelligence for work",
+      "summary_fa": "OpenAI جدیدترین و توانمندترین مدل هوش مصنوعی خود را با نام GPT-6 Astra معرفی کرد. این مدل که برای کاربردهای تجاری طراحی شده، دارای قابلیت‌های استدلال پیشرفته، استفاده از کامپیوتر و قضاوت بهبودیافته در زمینه نوشتار و طراحی است. GPT-6 Astra نویدبخش جهشی بزرگ در هوش مصنوعی سازمانی و تحول در نحوه انجام کارهاست.",
+      "tags": [
+        "GPT-6 Astra",
+        "OpenAI",
+        "هوش مصنوعی",
+        "مدل زبان بزرگ",
+        "AI for Business"
+      ]
+    },
+    {
+      "id": "534907e0d31e4171",
+      "date": "2026-09-09",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "پال کریستیانو، متخصص برجسته ایمنی هوش مصنوعی، به هیئت مدیره بنیاد OpenAI پیوست",
+      "title_en": "Paul Christiano joins OpenAI Foundation Board",
+      "summary_fa": "پال کریستیانو، از چهره‌های شناخته شده در زمینه هم‌ترازی و ایمنی هوش مصنوعی، به هیئت مدیره بنیاد OpenAI پیوست. او همچنین به عضویت کمیته ایمنی و امنیت این بنیاد درآمده است. تجربه او در تراز هوش مصنوعی، اصول ایمنی و استانداردهای مربوطه، به تقویت رویکرد OpenAI در زمینه توسعه مسئولانه هوش مصنوعی کمک خواهد کرد.",
+      "tags": [
+        "Paul Christiano",
+        "OpenAI",
+        "ایمنی هوش مصنوعی",
+        "هم‌ترازی هوش مصنوعی",
+        "هیئت مدیره"
+      ]
+    },
+    {
+      "id": "b219e69539472b90",
+      "date": "2025-12-11",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/gpt-5-2-for-science-and-math",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "GPT-5.2: جهشی بی‌سابقه در حل مسائل علمی و ریاضی، از نظریه‌های باز تا اثبات‌های دقیق",
+      "title_en": "Advancing science and math with GPT-5.2",
+      "summary_fa": "جدیدترین مدل هوش مصنوعی OpenAI، یعنی GPT-5.2، قوی‌ترین ابزار این شرکت برای پیشبرد علم و ریاضیات شناخته شده است. این مدل با ثبت نتایج پیشرفته و بی‌سابقه در بنچمارک‌هایی نظیر GPQA Diamond و FrontierMath، توانایی‌های خود را به اثبات رسانده است. پیشرفت‌های حاصل از GPT-5.2 فراتر از نمرات بنچمارک بوده و شامل گام‌های واقعی در پژوهش، مانند حل یک مسئله نظری باز و تولید اثبات‌های ریاضی قابل اعتماد می‌شود.",
+      "tags": [
+        "GPT-5.2",
+        "OpenAI",
+        "هوش مصنوعی",
+        "مدل‌های هوش مصنوعی",
+        "علم و ریاضیات"
+      ]
+    },
+    {
+      "id": "679dc40aaefa6691",
+      "date": "2026-09-09",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
+      "category": "حریم خصوصی",
+      "title_fa": "اپل واچ و هوش مصنوعی جدید: عادی‌سازی ایده شنود دائمی تکنولوژی",
+      "title_en": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
+      "summary_fa": "اپل اعلام کرده که ساعت‌های هوشمند جدیدش فایل صوتی خام را ذخیره نمی‌کنند. با این حال، قابلیت‌هایی مانند رونویسی گفتار اخیر و خلاصه‌سازی مکالمات محیطی، پرسش‌های جدیدی را درباره رضایت کاربران، حریم خصوصی و نحوه رفتار افراد در شرایطی که می‌دانند ممکن است همیشه صدایشان ضبط شود، ایجاد می‌کند.",
+      "tags": [
+        "Apple Watch",
+        "AI",
+        "Privacy",
+        "Smartwatch"
+      ]
+    },
+    {
+      "id": "28b798c31b503de5",
+      "date": "2026-09-09",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
+      "category": "سخت‌افزار و تراشه",
+      "title_fa": "رونمایی اپل از آیفون تاشو «دئو» و اپل واچ جدید در رویداد پاییزی",
+      "title_en": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
+      "summary_fa": "در رویداد پاییزی اپل، غول تکنولوژی از محصولات جدید خود رونمایی کرد. مهم‌ترین بخش این رویداد، معرفی اولین گوشی تاشو و بسیار مورد انتظار این شرکت به نام آیفون دئو (iPhone Duo) بود که توجهات بسیاری را به خود جلب کرد.",
+      "tags": [
+        "Apple",
+        "iPhone Duo",
+        "Apple Watch",
+        "گوشی تاشو",
+        "رویداد تکنولوژی"
+      ]
+    },
+    {
+      "id": "7522d1a44966b49c",
+      "date": "2026-09-09",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "ساخت لولای گوشی تاشو اپل با هوش مصنوعی و چاپ سه‌بعدی",
+      "title_en": "The hinge for Apple’s new foldable phone was built with AI",
+      "summary_fa": "شرکت اپل اعلام کرده است که در فرآیند تولید گوشی تاشو مورد انتظار خود، از فناوری‌های هوش مصنوعی و چاپ سه‌بعدی بهره برده است. این رویکرد نوآورانه به طور خاص در ساخت لولای حساس این دستگاه به کار رفته است. استفاده از این فناوری‌های پیشرفته، نشان‌دهنده‌ی تلاش اپل برای غلبه بر چالش‌های مهندسی محصولات تاشو است.",
+      "tags": [
+        "Apple",
+        "هوش مصنوعی",
+        "چاپ سه‌بعدی",
+        "گوشی تاشو",
+        "تولید"
       ]
     }
   ]
