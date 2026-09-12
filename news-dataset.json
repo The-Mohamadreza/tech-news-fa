@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-09-11",
+    "last_updated": "2026-09-12",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 978
+    "total_articles": 994
   },
   "articles": [
     {
@@ -16583,6 +16583,277 @@
         "ادغام فناوری",
         "سلامت دیجیتال",
         "مدل‌های هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "12e9dd6851803557",
+      "date": "2026-09-14",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "Perplexity سیستم‌های اصلی خود را به GPT-6 Astra می‌سپارد",
+      "title_en": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "summary_fa": "شرکت Perplexity، سرویس جستجوی مبتنی بر هوش مصنوعی، مدل پیشرفته GPT-6 Astra را برای مدیریت عملیات اصلی و حیاتی خود به کار گرفته است. این مدل هوش مصنوعی اکنون مسئولیت‌هایی چون نگارش ارتباطات، اعمال تغییرات در نرم‌افزارها و نظارت بر سیستم‌های تولید را بر عهده دارد. با اتکا به قابلیت‌های Astra، پرپلکسیتی نیاز به نظارت انسانی را به طور قابل توجهی نسبت به مدل‌های قبلی کاهش داده و به استقلال بیشتری دست یافته است.",
+      "tags": [
+        "Perplexity",
+        "GPT-6 Astra",
+        "AI integration",
+        "Automation",
+        "AIOps"
+      ]
+    },
+    {
+      "id": "c7d3c8aeae425678",
+      "date": "2026-09-11",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "اوپن‌ای‌آی و مقیاس‌بندی بی‌سابقه ذخیره‌سازی برای یک میلیارد کاربر ChatGPT",
+      "title_en": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "summary_fa": "اوپن‌ای‌آی موفق شده است پلتفرم ذخیره‌سازی داده‌های خود را به نام Habitat، از یک کتابخانه پایتون به یک سیستم جهانی توزیع‌شده و قدرتمند تبدیل کند. این تحول عظیم امکان خدمت‌رسانی به بیش از یک میلیارد کاربر ChatGPT و پردازش ۲۲ میلیون درخواست در ثانیه را فراهم آورده است.",
+      "tags": [
+        "OpenAI",
+        "ChatGPT",
+        "Habitat",
+        "ذخیره‌سازی",
+        "مقیاس‌بندی"
+      ]
+    },
+    {
+      "id": "c3aa33826442d0f0",
+      "date": "2026-09-11",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/cognition-devin-testing-with-astra",
+      "category": "کاربرد هوش مصنوعی در توسعه نرم‌افزار",
+      "title_fa": "Cognition با GPT-6 Astra، قابلیت خودآزمایی Devin را ارتقا می‌دهد",
+      "title_en": "Cognition helps Devin test its own work with GPT‑6 Astra",
+      "summary_fa": "مدل هوش مصنوعی GPT-6 Astra توانایی Devin، اولین مهندس نرم‌افزار مبتنی بر هوش مصنوعی جهان، را در آزمایش خودکار کدها و تایید صحت عملکرد آن‌ها به طور چشمگیری افزایش داده است. این ارتقا که توسط شرکت Cognition انجام شده، به Devin امکان می‌دهد تا به صورت مستقل کارهای خود را بررسی کند. هدف اصلی این نوآوری، کاهش بار بازبینی دستی کد بر دوش مهندسان انسانی و در نتیجه تسریع چرخه توسعه و عرضه نرم‌افزار به بازار است.",
+      "tags": [
+        "Cognition",
+        "Devin",
+        "GPT-6 Astra",
+        "تست خودکار نرم‌افزار",
+        "مهندسی نرم‌افزار مبتنی بر هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "9816f5beea82e263",
+      "date": "2026-09-08",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/1password",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "جهش ۲۱ درصدی بهره‌وری مهندسان 1Password با دستیار هوش مصنوعی Codex",
+      "title_en": "1Password increases engineering productivity 21% with Codex",
+      "summary_fa": "مهندسان شرکت 1Password، ارائه‌دهنده‌ی راهکارهای مدیریت رمز عبور، با استفاده از دستیار کدنویسی هوش مصنوعی Codex، شاهد افزایش قابل توجهی در بهره‌وری خود بوده‌اند. این ابزار به آن‌ها امکان داده است تا قابلیت‌های جدید و ابزارهای داخلی را با سرعت بیشتری توسعه دهند. با وجود این سرعت، این شرکت توانسته است آمادگی برای تولید را حفظ کرده و در عین حال به سخت‌گیرانه‌ترین سیاست‌های امنیتی خود پایبند بماند.",
+      "tags": [
+        "1Password",
+        "Codex",
+        "Artificial Intelligence",
+        "Software Development",
+        "Productivity"
+      ]
+    },
+    {
+      "id": "6009bfe89b232a65",
+      "date": "2025-12-12",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/shipping-sora-for-android-with-codex",
+      "category": "کاربرد هوش مصنوعی در توسعه نرم‌افزار",
+      "title_fa": "عرضه سریع سورا برای اندروید: نقش کلیدی هوش مصنوعی کُدکس در ۲۸ روز",
+      "title_en": "How We Used Codex to Ship Sora for Android in 28 Days",
+      "summary_fa": "شرکت OpenAI اعلام کرد که مدل تولید ویدیوی خود، سورا (Sora)، را تنها در ۲۸ روز برای پلتفرم اندروید عرضه کرده است. این دستاورد چشمگیر با بهره‌گیری از هوش مصنوعی کُدکس (Codex) محقق شد. فرایندهای برنامه‌ریزی، ترجمه و کدنویسی موازی، همگی با کمک هوش مصنوعی، به تیم چابک OpenAI امکان دادند تا توسعه‌ای سریع و در عین حال قابل اعتماد داشته باشند.",
+      "tags": [
+        "OpenAI",
+        "Sora",
+        "Codex",
+        "Android",
+        "AI-assisted development"
+      ]
+    },
+    {
+      "id": "d4a2d9acc1fe81bd",
+      "date": "2025-12-11",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/podium",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "Podium: جهش کسب‌وکارهای کوچک و متوسط با دستیار هوش مصنوعی «جری»",
+      "title_en": "How Podium is arming 10,000+ SMBs with AI agents",
+      "summary_fa": "شرکت Podium با بهره‌گیری از مدل GPT-5 شرکت OpenAI، دستیار هوش مصنوعی کارآمدی به نام «جری» را توسعه داده است. این همکار هوشمند، کسب‌وکارهای کوچک و متوسط را قادر ساخته تا ۳۰۰ درصد رشد را تجربه کنند. «جری» با ارتقاء چشمگیر نحوه‌ی ارائه‌ی خدمات به مشتریان، تحولی اساسی در عملکرد این کسب‌وکارها ایجاد کرده است.",
+      "tags": [
+        "Podium",
+        "OpenAI",
+        "GPT-5",
+        "دستیار هوش مصنوعی",
+        "SMBs"
+      ]
+    },
+    {
+      "id": "fad5f970d0508fcb",
+      "date": "2026-09-11",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "Mecka AI در آستانه ارزش‌گذاری ۵۰۰ میلیون دلاری: جذب سرمایه با رهبری Sequoia در بحبوحه رقابت برای داده‌های آموزش ربات",
+      "title_en": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+      "summary_fa": "شرکت نوپای Mecka AI، متخصص داده‌های آموزش ربات، در حال جذب سرمایه‌ای است که آن را به ارزش‌گذاری تقریبی ۵۰۰ میلیون دلار می‌رساند. این دور سرمایه‌گذاری توسط شرکت معتبر Sequoia Capital رهبری می‌شود. این جذب سرمایه تنها چند ماه پس از اعلام سری A این استارتاپ دو ساله صورت می‌گیرد و نشان‌دهنده تقاضای بالای بازار برای فناوری‌های مرتبط با داده‌های رباتیک است.",
+      "tags": [
+        "Mecka AI",
+        "Sequoia",
+        "robot training data",
+        "سرمایه‌گذاری",
+        "استارتاپ"
+      ]
+    },
+    {
+      "id": "c9bc20e4988dc9cd",
+      "date": "2026-09-11",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
+      "category": "رویدادهای فناوری",
+      "title_fa": "TechCrunch Disrupt 2026: تنها یک هفته تا پایان مهلت رزرو غرفه‌های نمایشگاهی",
+      "title_en": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
+      "summary_fa": "با نزدیک شدن به تاریخ نهایی ۱۸ سپتامبر، تنها یک هفته فرصت برای رزرو غرفه‌های نمایشگاهی در رویداد معتبر TechCrunch Disrupt 2026 باقی مانده است. برگزارکنندگان هشدار داده‌اند که با توجه به محدودیت فضا، غرفه‌ها ممکن است حتی پیش از اتمام مهلت مقرر، به طور کامل رزرو شوند و از این رو، علاقه‌مندان باید هرچه سریع‌تر اقدام کنند.",
+      "tags": [
+        "TechCrunch Disrupt 2026",
+        "TechCrunch",
+        "رویداد فناوری",
+        "نمایشگاه",
+        "استارتاپ"
+      ]
+    },
+    {
+      "id": "54bc95a279e46472",
+      "date": "2026-09-11",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
+      "category": "رویدادهای فناوری",
+      "title_fa": "ضرب‌الاجل نهایی میزبانی رویدادهای جانبی TechCrunch Disrupt 2026",
+      "title_en": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
+      "summary_fa": "علاقه‌مندان به میزبانی رویدادهای جانبی در کنفرانس TechCrunch Disrupt 2026 تنها تا امشب، ۱۱ سپتامبر، ساعت ۱۱:۵۹ شب به وقت اقیانوس آرام فرصت دارند تا درخواست خود را ارسال کنند. این آخرین مهلت مطلق برای ثبت‌نام در این رویدادها است و پس از آن فرصتی دیگر وجود نخواهد داشت.",
+      "tags": [
+        "TechCrunch Disrupt",
+        "رویدادهای جانبی",
+        "مهلت ثبت‌نام",
+        "کنفرانس فناوری"
+      ]
+    },
+    {
+      "id": "83e605502ca51c89",
+      "date": "2026-09-11",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "شرکت Moonshot AI، خالق مدل Kimi، درآمد سالانه ۲ میلیارد دلاری را هدف قرار داده است",
+      "title_en": "Kimi-maker Moonshot AI targets $2B in annual revenue",
+      "summary_fa": "شرکت Moonshot AI، سازنده مدل هوش مصنوعی Kimi، هدف جاه‌طلبانه‌ای برای کسب ۲ میلیارد دلار درآمد سالانه تعیین کرده است. این در حالی است که با وجود کاهش جزئی در آمار استفاده از مدل K3 در ماه‌های اخیر، داده‌های OpenRouter نشان می‌دهد که روزانه تا ۳۰۰ میلیارد توکن توسط مدل‌های K3 در سیستم این شرکت پردازش می‌شود، که نشان‌دهنده استفاده گسترده از آن است.",
+      "tags": [
+        "Moonshot AI",
+        "Kimi",
+        "K3",
+        "AI revenue",
+        "Generative AI"
+      ]
+    },
+    {
+      "id": "bc7fdc500a76f0bc",
+      "date": "2026-09-11",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "بحران انقراض بشریت توسط هوش مصنوعی: واقعیت یا هایپ؟",
+      "title_en": "Roundtables: AI’s apocalypse crisis",
+      "summary_fa": "کارکنان آزمایشگاه‌های پیشرو هوش مصنوعی در جهان هشدار می‌دهند که این فناوری پیشرفته می‌تواند بشریت را نابود کند. این ادعا سوالات جدی را مطرح می‌کند: آیا این نگرانی‌ها واقعی هستند یا صرفاً بزرگ‌نمایی و ایجاد ترس؟ مجله MIT Technology Review در نشستی تخصصی با حضور ویراستاران خود، به بررسی دقیق خطر انقراض بشریت توسط هوش مصنوعی می‌پردازد.",
+      "tags": [
+        "هوش مصنوعی",
+        "ایمنی هوش مصنوعی",
+        "خطرات هوش مصنوعی",
+        "انقراض",
+        "MIT Technology Review"
+      ]
+    },
+    {
+      "id": "7c828a9290f72e52",
+      "date": "2026-09-11",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/",
+      "category": "زیست‌فناوری و نوآوری",
+      "title_fa": "زیست‌فناوری در دستان جوانان: ۳۵ نوآور برتر MIT آینده صنعت را شکل می‌دهند",
+      "title_en": "The Download: biotech’s future and cheaper, cleaner steel",
+      "summary_fa": "شماره امروز خبرنامه «The Download» مجله MIT Technology Review به معرفی ۳۵ نوآور برتر زیر ۳۵ سال در حوزه زیست‌فناوری می‌پردازد. این افراد که از درخشان‌ترین و بااستعدادترین ذهن‌های جوان محسوب می‌شوند، نقش مهمی در شکل‌دهی به آینده این صنعت ایفا می‌کنند و در خط مقدم پیشرفت‌های تکنولوژیکی قرار دارند.",
+      "tags": [
+        "biotech",
+        "MIT Technology Review",
+        "Innovators Under 35",
+        "نوآوری",
+        "زیست‌فناوری"
+      ]
+    },
+    {
+      "id": "71eef5b2d806562d",
+      "date": "2026-09-11",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/",
+      "category": "پژوهش و نوآوری علمی",
+      "title_fa": "آینده بیوتکنولوژی در دستان پیشگامان جوان: معرفی نوآوران زیر ۳۵ سال",
+      "title_en": "Meet the under-35s shaping the future of biotech",
+      "summary_fa": "نشریه MIT Technology Review هر سال لیستی از ۳۵ نوآور برتر زیر ۳۵ سال در حوزه‌های علم و فناوری منتشر می‌کند. این افراد با پژوهش‌ها و فعالیت‌های فنی خود، آینده رشته‌های مربوطه را شکل می‌دهند. فهرست امسال، ۹ نفر از پیشگامان جوان را معرفی می‌کند که در زمینه بیوتکنولوژی تاثیرگذار هستند و آینده این حوزه را رقم می‌زنند.",
+      "tags": [
+        "MIT Technology Review",
+        "Innovators Under 35",
+        "بیوتکنولوژی",
+        "نوآوری",
+        "جوانان پیشگام"
+      ]
+    },
+    {
+      "id": "0bcd09d8e2617e90",
+      "date": "2026-09-10",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "رمز ارز «خدادادی» سرمایه‌گذاران را به خاک سیاه نشاند",
+      "title_en": "The Download: a “God-driven” cryptocurrency and a solar engineering roadmap",
+      "summary_fa": "این خبر به پرونده‌ای از کلاهبرداری در حوزه رمزارزها می‌پردازد که توسط «الی رگالادو» و همسرش رقم خورده است. آن‌ها با ادعای دریافت الهام الهی، یک ارز دیجیتال را به سرمایه‌گذاران فروختند. در نهایت، سرمایه‌گذاران این طرح تمام دارایی خود را از دست دادند و متحمل ضرر سنگینی شدند.",
+      "tags": [
+        "cryptocurrency",
+        "کلاهبرداری",
+        "رمزارز",
+        "Eli Regalado",
+        "سرمایه‌گذاری"
+      ]
+    },
+    {
+      "id": "f7a7b851305ff8cc",
+      "date": "2026-09-10",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/09/10/1143791/us-china-batteries/",
+      "category": "اقتصاد و بازار تکنولوژی",
+      "title_fa": "معضل باتری‌های چینی: آیا آمریکا می‌تواند از وابستگی رها شود؟",
+      "title_en": "Can the US battery market untangle from China?",
+      "summary_fa": "بازار ذخیره‌سازی انرژی در آمریکا رشدی بی‌سابقه را تجربه می‌کند که برای تقویت شبکه برق، افزایش پایداری و کاهش آلایندگی‌ها از طریق ذخیره انرژی‌های تجدیدپذیر حیاتی است. با این حال، تحقق این اهداف تا حد زیادی به استفاده از باتری‌های ارزان‌قیمت چینی وابسته است. این وابستگی چالش مهمی را پیش روی آمریکا قرار داده که در تلاش برای رهایی از آن است.",
+      "tags": [
+        "US",
+        "China",
+        "Battery",
+        "Energy Storage",
+        "Supply Chain"
+      ]
+    },
+    {
+      "id": "54df1353bf73cc3f",
+      "date": "2026-09-09",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "نقطه عطف OpenAI در ریاضیات: ادعای حل مسائل کلیدی و جنجال‌های آن",
+      "title_en": "The Download: OpenAI’s turning point for math and a battery record",
+      "summary_fa": "شرکت OpenAI ادعا کرده است که عامل‌های هوش مصنوعی آن موفق به حل یکی از مهم‌ترین مسائل حل‌نشده در ریاضیات شده‌اند. این خبر به عنوان نقطه‌عطفی مهم در آینده ریاضیات تلقی می‌شود و پتانسیل هوش مصنوعی را در این حوزه به نمایش می‌گذارد. با این حال، این ادعا بحث‌ها و حواشی جدیدی را نیز در پی داشته است.",
+      "tags": [
+        "OpenAI",
+        "هوش مصنوعی",
+        "ریاضیات",
+        "AI research",
+        "Controversy"
       ]
     }
   ]
