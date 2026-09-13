@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-09-12",
+    "last_updated": "2026-09-13",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 994
+    "total_articles": 1006
   },
   "articles": [
     {
@@ -16854,6 +16854,210 @@
         "ریاضیات",
         "AI research",
         "Controversy"
+      ]
+    },
+    {
+      "id": "02eec89574a854f6",
+      "date": "2025-12-11",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/gpt-5-system-card-update-gpt-5-2",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "رونمایی از GPT-5.2: تازه‌ترین مدل در سری پیشرفته OpenAI",
+      "title_en": "Update to GPT-5 System Card: GPT-5.2",
+      "summary_fa": "GPT-5.2 جدیدترین خانواده مدل‌های زبانی در سری GPT-5 است. رویکرد جامع کاهش خطرات و ایمنی برای این مدل‌ها، مشابه آنچه در کارت‌های سیستم GPT-5 و GPT-5.1 توضیح داده شده، حفظ شده است. این مدل‌ها نیز مانند سایر مدل‌های OpenAI، با استفاده از مجموعه داده‌های متنوع شامل اطلاعات عمومی اینترنت، داده‌های حاصل از همکاری با اشخاص ثالث و محتوای ارائه شده توسط کاربران یا محققان آموزش دیده‌اند.",
+      "tags": [
+        "OpenAI",
+        "GPT-5.2",
+        "مدل‌های هوش مصنوعی",
+        "مدل زبان بزرگ",
+        "ایمنی هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "cad609eeb5014c4c",
+      "date": "2025-12-11",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/ten-years",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "ده سالگی OpenAI: مروری بر دستاوردها و چشم‌انداز ساخت AGI برای بشریت",
+      "title_en": "Ten years",
+      "summary_fa": "شرکت OpenAI، پیشرو در توسعه هوش مصنوعی، به مناسبت دهمین سالگرد تاسیس خود به بازتابی از مسیر پیموده شده پرداخت. این شرکت از پیشرفت‌های تحقیقاتی اولیه تا توسعه سیستم‌های هوش مصنوعی پرکاربرد که قابلیت‌های جدیدی را در جهان رقم زدند، سخن گفت. OpenAI با درس‌گرفتن از یک دهه گذشته، همچنان به چشم‌انداز ساخت هوش مصنوعی عمومی (AGI) که به نفع تمام بشریت باشد، خوش‌بین است.",
+      "tags": [
+        "OpenAI",
+        "AGI",
+        "هوش مصنوعی",
+        "تاریخچه AI",
+        "چشم‌انداز AI"
+      ]
+    },
+    {
+      "id": "17fe1c1675c8a1a7",
+      "date": "2025-12-11",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/disney-sora-agreement",
+      "category": "کاربرد هوش مصنوعی در سرگرمی",
+      "title_fa": "همکاری تاریخی دیزنی و OpenAI: کاراکترهای محبوب در هوش مصنوعی سورا جان می‌گیرند",
+      "title_en": "The Walt Disney Company and OpenAI reach landmark agreement to bring beloved characters to Sora",
+      "summary_fa": "شرکت والت دیزنی و OpenAI به توافق مهمی دست یافته‌اند که بر اساس آن بیش از ۲۰۰ کاراکتر محبوب از دنیای دیزنی، مارول، پیکسار و جنگ ستارگان در مدل تولید ویدیوی هوش مصنوعی Sora حضور خواهند یافت. این همکاری به منظور ساخت ویدیوهای کوتاه با الهام از طرفداران طراحی شده و بر استفاده مسئولانه از هوش مصنوعی در صنعت سرگرمی تأکید دارد. همچنین، این توافق شامل استفاده شرکت دیزنی از ابزارهای ChatGPT Enterprise و API هوش مصنوعی OpenAI در سطح سازمان می‌شود.",
+      "tags": [
+        "OpenAI",
+        "Disney",
+        "Sora",
+        "هوش مصنوعی",
+        "سرگرمی"
+      ]
+    },
+    {
+      "id": "646b28649285a4b3",
+      "date": "2025-12-11",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/introducing-gpt-5-2",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "OpenAI از GPT-5.2 رونمایی کرد: جهشی نوین برای کارهای حرفه‌ای",
+      "title_en": "Introducing GPT-5.2",
+      "summary_fa": "OpenAI جدیدترین و پیشرفته‌ترین مدل مرزی خود، GPT-5.2، را معرفی کرده است. این مدل که برای کاربردهای حرفه‌ای روزمره طراحی شده، قابلیت‌های بی‌نظیری در استدلال، درک متون طولانی، کدنویسی و بینایی ارائه می‌دهد. کاربران می‌توانند از GPT-5.2 در ChatGPT و API اوپن‌ای‌آی برای توسعه گردش‌کارهای هوشمند و قابل اعتمادتر بهره ببرند.",
+      "tags": [
+        "GPT-5.2",
+        "OpenAI",
+        "مدل هوش مصنوعی",
+        "هوش مصنوعی",
+        "ChatGPT"
+      ]
+    },
+    {
+      "id": "b129d60f25bb8ac4",
+      "date": "2025-12-10",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/strengthening-cyber-resilience",
+      "category": "امنیت سایبری",
+      "title_fa": "تلاش اوپن‌ای‌آی برای تقویت تاب‌آوری سایبری هم‌گام با پیشرفت هوش مصنوعی",
+      "title_en": "Strengthening cyber resilience as AI capabilities advance",
+      "summary_fa": "اوپن‌ای‌آی (OpenAI) در حال سرمایه‌گذاری قابل توجهی برای تقویت زیرساخت‌ها و قابلیت‌های دفاعی خود در حوزه امنیت سایبری است. این اقدام در پی افزایش توانمندی مدل‌های هوش مصنوعی در این حوزه صورت می‌گیرد و هدف آن افزایش تاب‌آوری سایبری است. این شرکت توضیح می‌دهد که چگونه ریسک‌ها را ارزیابی، سوءاستفاده‌ها را محدود و با جامعه امنیتی برای ارتقای امنیت همکاری می‌کند.",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "امنیت سایبری",
+        "تاب‌آوری سایبری",
+        "ایمنی هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "6f02985cfa1d64d1",
+      "date": "2025-12-09",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/scout24",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "Scout24 جستجوی املاک را با دستیار هوش مصنوعی متحول می‌کند",
+      "title_en": "How Scout24 is building the next generation of real-estate search with AI",
+      "summary_fa": "شرکت Scout24 یک دستیار مکالمه‌ای مبتنی بر GPT-5 توسعه داده است که رویکرد جستجوی املاک را بازتعریف می‌کند. این دستیار با پرسش‌های شفاف‌ساز، خلاصه‌سازی اطلاعات و ارائه پیشنهادهای شخصی‌سازی‌شده، کاربران را در فرآیند یافتن ملک راهنمایی می‌کند و تجربه‌ای نوین را ارائه می‌دهد.",
+      "tags": [
+        "Scout24",
+        "هوش مصنوعی",
+        "املاک",
+        "GPT-5",
+        "دستیار مکالمه‌ای"
+      ]
+    },
+    {
+      "id": "e82b8a9af4fda703",
+      "date": "2026-09-12",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "سم آلتمن: عرضه عمومی سهام OpenAI در سال ۲۰۲۶ \"غیرعاقلانه\" خواهد بود",
+      "title_en": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+      "summary_fa": "سم آلتمن، مدیرعامل OpenAI، اعلام کرد که عرضه عمومی سهام این شرکت (IPO) در سال ۲۰۲۶ \"عاقلانه\" نخواهد بود. او با اشاره به اینکه این شرکت محرمانه برای IPO اقدام کرده است، تاکید کرد که در سال جاری (۲۰۲۴) نیز خبری از ورود به بورس نخواهد بود. این اظهارنظر نشان می‌دهد که OpenAI فعلاً برنامه‌ای برای ورود به بازار سرمایه ندارد و ترجیح می‌دهد زمان بیشتری را صرف رشد داخلی کند.",
+      "tags": [
+        "OpenAI",
+        "Sam Altman",
+        "IPO",
+        "هوش مصنوعی",
+        "عرضه عمومی سهام"
+      ]
+    },
+    {
+      "id": "7658eb64cf663b96",
+      "date": "2026-09-12",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "درخواست مشترک مدیران عامل Anthropic و OpenAI: زمان کُند کردن سرعت توسعه هوش مصنوعی فرا رسیده است",
+      "title_en": "Anthropic CEO outlines plan to slow AI development",
+      "summary_fa": "داریو آمودی، مدیرعامل Anthropic، و سم آلتمن، مدیرعامل OpenAI، هر دو بر این باورند که زمان «کُند کردن سرعت پیشرفت هوش مصنوعی» فرا رسیده است. در همین راستا، مدیرعامل Anthropic طرحی را برای کاهش سرعت توسعه هوش مصنوعی ارائه کرده است. این طرح که با هدف کنترل پیشرفت‌های سریع در این حوزه مطرح شده، سوالاتی را درباره چگونگی پیاده‌سازی عملی آن ایجاد می‌کند.",
+      "tags": [
+        "Anthropic",
+        "OpenAI",
+        "Dario Amodei",
+        "Sam Altman",
+        "توسعه هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "2619d8ade240d7f3",
+      "date": "2026-09-11",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "پیشنهاد رئیس Y Combinator: برای رقابت با چین، آمریکا مدل‌های هوش مصنوعی پیشرفته را «تقطیر» کند",
+      "title_en": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+      "summary_fa": "گری تان، رئیس Y Combinator، از آزمایشگاه‌های هوش مصنوعی متن‌باز کوچک‌تر آمریکایی خواسته است تا با استفاده از تکنیک‌های آموزشی مشابه، مدل‌های پیشرفته هوش مصنوعی را «تقطیر» کنند. هدف این رویکرد، ایجاد مجموعه‌ای قوی‌تر از گزینه‌های هوش مصنوعی متن‌باز برای ایالات متحده است. این اقدام استراتژیک به منظور رقابت با چین و کاهش وابستگی به مدل‌های چینی در فضای متن‌باز صورت می‌گیرد.",
+      "tags": [
+        "Y Combinator",
+        "Garry Tan",
+        "هوش مصنوعی متن‌باز",
+        "تقطیر هوش مصنوعی",
+        "رقابت آمریکا و چین"
+      ]
+    },
+    {
+      "id": "b3b4818aa362f288",
+      "date": "2026-09-11",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "جدال OpenAI و ریاضیدانان بالا گرفت: هشدار درباره تهدید کار فکری",
+      "title_en": "OpenAI’s feud with mathematicians is only escalating",
+      "summary_fa": "بیست و پنج ریاضیدان برجسته با امضای نامه‌ای سرگشاده، نگرانی شدید خود را از تأثیر آزمایشگاه‌های هوش مصنوعی بر کار فکری خود ابراز کردند. آن‌ها معتقدند فعالیت‌های این شرکت‌ها، از جمله OpenAI، دستاوردهای فکری ریاضیدانان را به خطر می‌اندازد و چالش‌های جدی برای آینده پژوهش‌های ریاضی ایجاد می‌کند.",
+      "tags": [
+        "OpenAI",
+        "ریاضیدانان",
+        "کار فکری",
+        "اخلاق هوش مصنوعی",
+        "مناقشه علمی"
+      ]
+    },
+    {
+      "id": "0c8057bddc5c0b87",
+      "date": "2026-09-11",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "هشدار تکان‌دهنده محقق Anthropic در آستانه عرضه اولیه سهام: «به سوی هوش مصنوعی ابرهوشمند می‌تازیم»",
+      "title_en": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
+      "summary_fa": "یک محقق برجسته شرکت Anthropic این هفته با انتشار پستی در شبکه X از سمت خود استعفا داد و هشدار داد که این شرکت «مستقیماً به سوی هوش مصنوعی ابرهوشمند خودبهبود‌یابنده می‌تازد و با جان ما قمار می‌کند.» نکته قابل توجه اینجاست که حتی مدیر ارشد بخش «هم‌راستایی» (alignment) خود شرکت نیز این پیام را تایید کرده است. هرچند این نوع هشدارهای «آخرالزمانی» در صنعت هوش مصنوعی تازگی ندارد، اما همزمانی آن با آماده‌سازی Anthropic برای عرضه اولیه سهام (IPO)، به آن ابعاد و معنای ویژه‌ای بخشیده است.",
+      "tags": [
+        "Anthropic",
+        "AI safety",
+        "Superintelligence",
+        "IPO",
+        "خطرات هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "b8f06fc0f83627df",
+      "date": "2026-09-11",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "Nscale پیش از عرضه اولیه سهام، مدیر ارشد سابق OpenAI را به هیئت مدیره خود افزود",
+      "title_en": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+      "summary_fa": "Fidji Simo، که پیش‌تر مدیر اجرایی ارشد OpenAI بود و Instacart را نیز در مسیر عرضه اولیه سهامش در سال ۲۰۲۳ هدایت کرده بود، به هیئت مدیره Nscale پیوست. این اقدام Nscale گامی استراتژیک برای تقویت رهبری خود در آستانه عرضه عمومی احتمالی سهام این شرکت محسوب می‌شود.",
+      "tags": [
+        "Nscale",
+        "OpenAI",
+        "Fidji Simo",
+        "IPO",
+        "Instacart"
       ]
     }
   ]
