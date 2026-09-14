@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-09-13",
+    "last_updated": "2026-09-14",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 1006
+    "total_articles": 1014
   },
   "articles": [
     {
@@ -17058,6 +17058,142 @@
         "Fidji Simo",
         "IPO",
         "Instacart"
+      ]
+    },
+    {
+      "id": "16821e032fa033b4",
+      "date": "2025-12-09",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/agentic-ai-foundation",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "اوپن‌ای‌آی و بنیاد لینوکس، «بنیاد هوش مصنوعی عامل» را برای استانداردسازی ایمن راه‌اندازی کردند",
+      "title_en": "OpenAI co-founds Agentic AI Foundation, donates AGENTS.md",
+      "summary_fa": "شرکت اوپن‌ای‌آی (OpenAI) با مشارکت بنیاد لینوکس (Linux Foundation)، اقدام به تأسیس «بنیاد هوش مصنوعی عامل» (Agentic AI Foundation) کرده است. هدف اصلی این بنیاد، حمایت از توسعه و ترویج استانداردهای باز، قابل تعامل و ایمن برای سیستم‌های هوش مصنوعی خودکار یا عامل (Agentic AI) است. اوپن‌ای‌آی همچنین سند AGENTS.md را به این بنیاد اهدا نموده تا به پیشبرد اهداف آن در زمینه استانداردهای هوش مصنوعی عامل کمک کند.",
+      "tags": [
+        "OpenAI",
+        "Linux Foundation",
+        "Agentic AI",
+        "AI Standards",
+        "AGENTS.md"
+      ]
+    },
+    {
+      "id": "e8c744380d8b61e9",
+      "date": "2025-12-09",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/deutsche-telekom-collaboration",
+      "category": "پذیرش و گسترش هوش مصنوعی",
+      "title_fa": "دویچه تلکام و OpenAI: هوش مصنوعی پیشرفته برای میلیون‌ها اروپایی",
+      "title_en": "Bringing powerful AI to millions across Europe with Deutsche Telekom",
+      "summary_fa": "شرکت OpenAI با همکاری دویچه تلکام، ارائه‌ی تجربه‌های پیشرفته و چندزبانه هوش مصنوعی را برای میلیون‌ها کاربر در سراسر اروپا آغاز کرده است. این همکاری همچنین شامل استقرار ChatGPT Enterprise در میان کارکنان دویچه تلکام می‌شود تا به بهبود فرآیندهای کاری و تسریع نوآوری کمک کند.",
+      "tags": [
+        "OpenAI",
+        "Deutsche Telekom",
+        "ChatGPT Enterprise",
+        "هوش مصنوعی",
+        "اروپا"
+      ]
+    },
+    {
+      "id": "9983b0e62490135f",
+      "date": "2025-12-09",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/commonwealth-bank-of-australia",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "بانک کامن‌ولث استرالیا با ChatGPT Enterprise، سواد هوش مصنوعی را در ۵۰ هزار کارمند خود تقویت می‌کند",
+      "title_en": "Commonwealth Bank of Australia builds AI fluency at scale",
+      "summary_fa": "بانک کامن‌ولث استرالیا (CBA) با همکاری OpenAI، نسخه سازمانی ChatGPT (ChatGPT Enterprise) را برای ۵۰ هزار نفر از کارکنان خود عرضه کرده است. هدف از این اقدام، ارتقاء سواد هوش مصنوعی در مقیاس گسترده درون سازمان است. انتظار می‌رود این فناوری به بهبود خدمات مشتری و تسریع در واکنش به موارد کلاهبرداری کمک شایانی کند.",
+      "tags": [
+        "Commonwealth Bank of Australia",
+        "OpenAI",
+        "ChatGPT Enterprise",
+        "پذیرش سازمانی هوش مصنوعی",
+        "خدمات مشتری"
+      ]
+    },
+    {
+      "id": "dd8b3c77e471ce37",
+      "date": "2025-12-09",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/openai-appoints-denise-dresser",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "دنیز درسر به عنوان مدیر ارشد درآمد جدید OpenAI منصوب شد",
+      "title_en": "OpenAI appoints Denise Dresser as Chief Revenue Officer",
+      "summary_fa": "دنیز درسر به عنوان مدیر ارشد درآمد به OpenAI می‌پیوندد تا استراتژی جهانی درآمد شرکت را در بخش سازمانی و موفقیت مشتریان مدیریت کند. نقش او کمک به کسب‌وکارها برای به‌کارگیری هوش مصنوعی در عملیات روزمره و گسترش مقیاس OpenAI خواهد بود.",
+      "tags": [
+        "OpenAI",
+        "Denise Dresser",
+        "Chief Revenue Officer",
+        "هوش مصنوعی سازمانی",
+        "استراتژی کسب و کار"
+      ]
+    },
+    {
+      "id": "89769e5f1d2df580",
+      "date": "2026-09-13",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "صنعت هوش مصنوعی و موج تازه هشدارها: آیا بشریت در معرض تهدید وجودی است؟",
+      "title_en": "What’s behind the AI industry’s latest warnings of doom?",
+      "summary_fa": "صنعت هوش مصنوعی اخیراً شاهد بحث‌های داغی پیرامون خطرات احتمالی این فناوری است. این مباحث عمدتاً بر روی این پرسش متمرکز است که آیا هوش مصنوعی می‌تواند تهدیدی وجودی برای بشریت باشد یا خیر. این گفت‌وگوها نشان‌دهنده نگرانی فزاینده در میان متخصصان این حوزه درباره آینده و پیامدهای بلندمدت توسعه هوش مصنوعی است.",
+      "tags": [
+        "هوش مصنوعی",
+        "AI Safety",
+        "تهدید وجودی",
+        "خطرات هوش مصنوعی",
+        "صنعت تکنولوژی"
+      ]
+    },
+    {
+      "id": "7e363c87d8ff72b8",
+      "date": "2026-09-13",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "فراخوان اوباما به دموکرات‌ها: طرحی شفاف برای حفاظت از هوش مصنوعی تدوین کنید",
+      "title_en": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+      "summary_fa": "باراک اوباما اخیراً از حزب دموکرات خواسته است که هوش مصنوعی را به یکی از دستور کارهای اصلی خود تبدیل کرده و برنامه‌ای بسیار روشن برای آن داشته باشند. وی بر لزوم رسیدگی به نگرانی‌های پیرامون تأثیرات اقتصادی و مسائل ایمنی این فناوری نوظهور تاکید کرده است.",
+      "tags": [
+        "Obama",
+        "Democrats",
+        "AI policy",
+        "هوش مصنوعی",
+        "تنظیم‌گری هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "8e2bb477609df7c2",
+      "date": "2026-09-10",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "آنتروپیک، شرکت‌های هوش مصنوعی چینی را به «تقطیر» و سوءاستفاده از مدل‌ها متهم کرد",
+      "title_en": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+      "summary_fa": "شرکت آنتروپیک در گزارشی جدید، شرکت‌های هوش مصنوعی چینی را به انجام حملات «تقطیر» (distillation) پایدار علیه مدل‌های خود متهم کرده است. بر اساس این گزارش، شرکت‌هایی نظیر علی‌بابا، مون‌شات هوش مصنوعی و دیپ‌سیک در ماه‌های اخیر و همزمان با تشدید رقابت در این حوزه، به این فعالیت‌ها شدت بخشیده‌اند.",
+      "tags": [
+        "Anthropic",
+        "Alibaba",
+        "رقابت هوش مصنوعی",
+        "تقطیر مدل",
+        "China AI"
+      ]
+    },
+    {
+      "id": "bb541ac986c02dc8",
+      "date": "2026-09-10",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "هوش مصنوعی، درآمد Pocket FM را به نیم میلیارد دلار رساند: رشد چشمگیر پلتفرم صوتی هندی",
+      "title_en": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
+      "summary_fa": "پلتفرم صوتی هندی Pocket FM با اتکا به هوش مصنوعی، نرخ درآمد سالانه خود را دو برابر کرده و به ۵۰۰ میلیون دلار رسانده است. این شرکت اعلام کرده که ۹۹ درصد از محتوای جدید خود را با کمک هوش مصنوعی تولید می‌کند که این امر منجر به کاهش ۸۰ برابری هزینه‌های تولید محتوا شده است. در حال حاضر، ۹۳ درصد از کل محتوای صوتی این پلتفرم توسط هوش مصنوعی تولید می‌شود.",
+      "tags": [
+        "Pocket FM",
+        "هوش مصنوعی",
+        "محتوای صوتی",
+        "هند",
+        "استارتاپ"
       ]
     }
   ]
