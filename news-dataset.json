@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-09-14",
+    "last_updated": "2026-09-15",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 1014
+    "total_articles": 1018
   },
   "articles": [
     {
@@ -17194,6 +17194,74 @@
         "محتوای صوتی",
         "هند",
         "استارتاپ"
+      ]
+    },
+    {
+      "id": "296d33defd03a1b2",
+      "date": "2026-09-14",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/fyxer",
+      "category": "کاربرد هوش مصنوعی در کسب‌وکار",
+      "title_fa": "Fyxer: دستیار هوشمند مدیران که اعتماد کاربران را جلب کرده است",
+      "title_en": "How Fyxer built an AI executive assistant people trust",
+      "summary_fa": "Fyxer یک دستیار هوش مصنوعی برای مدیران اجرایی است که با بهره‌گیری از مدل‌های OpenAI توسعه یافته است. این دستیار با استفاده از تکنیک‌های تنظیم دقیق (fine-tuning)، قابلیت حافظه و بازخورد واقعی کاربران، صندوق ورودی ایمیل‌ها را سازماندهی می‌کند. همچنین، Fyxer قادر است پیش‌نویس ایمیل‌ها را با لحن و سبک نگارش هر کاربر تهیه کند و به این ترتیب اعتماد آن‌ها را جلب نماید.",
+      "tags": [
+        "Fyxer",
+        "OpenAI",
+        "دستیار هوش مصنوعی",
+        "بهره‌وری",
+        "Fine-tuning"
+      ]
+    },
+    {
+      "id": "0bbc00badf858bb0",
+      "date": "2025-12-04",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/global-affairs/openai-for-australia",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "OpenAI در استرالیا: برنامه‌ای برای زیرساخت بومی و توانمندسازی نیروی کار",
+      "title_en": "Introducing OpenAI for Australia",
+      "summary_fa": "شرکت OpenAI با راه‌اندازی طرح «OpenAI for Australia» به طور رسمی فعالیت خود را در این کشور آغاز می‌کند. این ابتکار با هدف توسعه زیرساخت‌های هوش مصنوعی بومی، ارتقاء مهارت بیش از ۱.۵ میلیون نیروی کار و تسریع نوآوری در اکوسیستم رو به رشد هوش مصنوعی استرالیا انجام می‌شود.",
+      "tags": [
+        "OpenAI",
+        "Australia",
+        "AI",
+        "هوش مصنوعی",
+        "زیرساخت هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "2b3aa79e42444827",
+      "date": "2026-09-14",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "مدیرعامل انویدیا، جنسن هوانگ، به ترامپ: «اجازه کندی هوش مصنوعی را نمی‌دهیم»",
+      "title_en": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+      "summary_fa": "در حالی که چهره‌های شاخصی چون ایلان ماسک و سم آلتمن از درخواست داریو آمودی برای کاهش سرعت توسعه هوش مصنوعی حمایت می‌کنند، جنسن هوانگ، مدیرعامل انویدیا، موضعی کاملاً متفاوت اتخاذ کرده است. هوانگ با رد هرگونه کندی در این مسیر، بر لزوم ادامه پیشرفت سریع در حوزه هوش مصنوعی تأکید کرده است.",
+      "tags": [
+        "Nvidia",
+        "Jensen Huang",
+        "AI",
+        "توسعه هوش مصنوعی",
+        "Elon Musk"
+      ]
+    },
+    {
+      "id": "8fa040b2b2e269dc",
+      "date": "2026-09-14",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+      "category": "هوش مصنوعی و سخت‌افزار",
+      "title_fa": "خیز OpenAI برای حوزه بینایی کامپیوتری: خرید ۳۰۰ میلیون دلاری Glass Imaging، شرکت متخصص دوربین‌های هوشمند",
+      "title_en": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+      "summary_fa": "بر اساس گزارش‌ها، شرکت OpenAI در حال خرید Glass Imaging، یک استارتاپ تولیدکننده دوربین گوشی هوشمند، به مبلغ ۳۰۰ میلیون دلار است. این شرکت توسط دو مهندس سابق اپل تاسیس شده که پیش از این تیم توسعه‌دهنده قابلیت Portrait Mode اپل را رهبری می‌کردند و این اقدام می‌تواند نشان‌دهنده ورود جدی‌تر OpenAI به حوزه بینایی ماشینی و کاربردهای هوش مصنوعی در دستگاه‌های موبایل باشد.",
+      "tags": [
+        "OpenAI",
+        "Glass Imaging",
+        "Apple",
+        "بینایی ماشینی",
+        "عکاسی محاسباتی"
       ]
     }
   ]
