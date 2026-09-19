@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-09-18",
+    "last_updated": "2026-09-19",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 1060
+    "total_articles": 1073
   },
   "articles": [
     {
@@ -17973,6 +17973,226 @@
         "مدل‌های حیوانی",
         "Human Brain Cells",
         "The Download"
+      ]
+    },
+    {
+      "id": "559b0cf1119746d2",
+      "date": "2026-09-18",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/australian-youth-safety-blueprint",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "OpenAI از «نقشه راه ایمنی جوانان استرالیا» رونمایی کرد",
+      "title_en": "Introducing the Australian Youth Safety Blueprint",
+      "summary_fa": "شرکت OpenAI «نقشه راه ایمنی جوانان استرالیا» را معرفی کرده است. این طرح که یک راهبرد شش‌پایه به شمار می‌رود، با هدف ارائه تجربه‌های امن‌تر هوش مصنوعی برای محافظت و توانمندسازی جوانان طراحی شده است.",
+      "tags": [
+        "OpenAI",
+        "Australia",
+        "AI Safety",
+        "جوانان",
+        "اخلاق هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "a018ae9534a7624b",
+      "date": "2026-04-10",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/academy/prompting",
+      "category": "راهنمای استفاده از هوش مصنوعی",
+      "title_fa": "راهنمای اساسی پرامپت‌نویسی: چگونه بهترین پاسخ‌ها را از ChatGPT بگیرید؟",
+      "title_en": "Prompting fundamentals",
+      "summary_fa": "این خبر به اصول پایه‌ای پرامپت‌نویسی می‌پردازد. با یادگیری روش‌های نگارش پرامپت‌های واضح و مؤثر، کاربران می‌توانند پاسخ‌های دقیق‌تر و مفیدتری از ابزارهایی مانند ChatGPT دریافت کنند. هدف این آموزش، افزایش بهره‌وری و کیفیت تعامل با مدل‌های هوش مصنوعی است.",
+      "tags": [
+        "ChatGPT",
+        "Prompting",
+        "هوش مصنوعی",
+        "راهنمای کاربری"
+      ]
+    },
+    {
+      "id": "83963d7e8f25ca04",
+      "date": "2026-02-01",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/disrupting-malicious-uses-of-ai-fish-food",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "OpenAI حساب‌های مرتبط با عملیات نفوذ هوش مصنوعی «خوراک ماهی» روسیه را مسدود کرد",
+      "title_en": "Operation “Fish Food”: Russia-origin content farm activity",
+      "summary_fa": "شرکت OpenAI اخیراً حساب‌هایی را مسدود کرده است که به شبکه «Rybar» وابسته بوده و احتمالاً از روسیه منشأ گرفته‌اند. این حساب‌ها از هوش مصنوعی برای پیشبرد فعالیت‌های نفوذگرانه چندزبانه در وب‌سایت‌ها و پلتفرم‌های اجتماعی استفاده می‌کردند. این اقدام بخشی از عملیاتی تحت عنوان «خوراک ماهی» (Fish Food) است که به مزرعه‌های تولید محتوای هوش مصنوعی برای اهداف تأثیرگذاری مرتبط می‌شود.",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "Russia",
+        "عملیات نفوذ",
+        "Rybar"
+      ]
+    },
+    {
+      "id": "933c8171721165e1",
+      "date": "2026-02-01",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/disrupting-malicious-uses-of-ai-no-bell",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "OpenAI حساب‌های عملیات «No Bell» را مسدود کرد: استفاده از هوش مصنوعی برای انتقاد از آمریکا و متحدانش",
+      "title_en": "Operation “No Bell”: Coordinated criticism of the US and allies",
+      "summary_fa": "شرکت OpenAI اعلام کرد که حساب‌های کاربری مرتبط با عملیاتی با منشأ احتمالی روسیه به نام «No Bell» را مسدود کرده است. این عملیات از هوش مصنوعی برای تولید و انتشار محتوای انتقادی علیه ایالات متحده آمریکا و متحدانش استفاده می‌کرده است. هدف اصلی این پروپاگاندا، مخاطبان در سراسر قاره آفریقا بوده‌اند. اقدام OpenAI نشان‌دهنده تلاش برای مقابله با سوءاستفاده از هوش مصنوعی در جهت منافع سیاسی و انتشار اطلاعات نادرست است.",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "Russia",
+        "Propaganda",
+        "No Bell"
+      ]
+    },
+    {
+      "id": "a193c15e98fb712e",
+      "date": "2026-09-19",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "هند اپلیکیشن‌های Caller-ID را به اشتراک‌گذاری گزارش‌های اسپم با اپراتورها ملزم کرد",
+      "title_en": "India forces caller-ID apps to feed spam reports to telcos",
+      "summary_fa": "دولت هند با صدور دستوری، اپلیکیشن‌های شناسایی تماس (Caller-ID) مانند Truecaller را ملزم کرده است تا گزارش‌های مربوط به تماس‌های اسپم را به صورت یک‌طرفه در اختیار اپراتورهای مخابراتی قرار دهند. شرکت Truecaller در واکنش به این تصمیم اعلام کرده که این داده‌ها یک دارایی اختصاصی و از نظر تجاری بسیار ارزشمند محسوب می‌شوند. به گفته Truecaller، این الزام به معنای واگذاری یک مزیت رقابتی مهم به اپراتورهاست که می‌تواند پیامدهای تجاری قابل توجهی داشته باشد.",
+      "tags": [
+        "India",
+        "Truecaller",
+        "Data Sharing",
+        "Telecom",
+        "Regulation"
+      ]
+    },
+    {
+      "id": "f0cf279d8dbb2229",
+      "date": "2026-09-19",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "ماجرای تور مطبوعاتی یک هوش مصنوعی: «تیلی نوروود» و اشکال عجیبش در مصاحبه",
+      "title_en": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
+      "summary_fa": "هوش مصنوعی «تیلی نوروود» اخیراً در یک تور مطبوعاتی حضور یافته، اما این برنامه طبق انتظارات با حواشی و مشکلات همراه شده است. در یکی از مصاحبه‌های عجیب و غریب این تور، «نوروود» دچار نقص فنی آشکار شده و به طور ناگهانی شروع به صحبت کردن به زبان چینی کرده است. این رویداد، بحث‌ها را درباره عملکرد فعلی و پایداری هوش مصنوعی در موقعیت‌های عمومی و رسانه‌ای افزایش داده است.",
+      "tags": [
+        "Tilly Norwood",
+        "AI malfunction",
+        "هوش مصنوعی",
+        "چالش‌های هوش مصنوعی",
+        "Press tour"
+      ]
+    },
+    {
+      "id": "23d6e2a4a2bf4abc",
+      "date": "2026-09-18",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "Vantora با جذب ۱۰۰ میلیون دلار، تمام تمرکز خود را بر هوش مصنوعی فیزیکی می‌گذارد",
+      "title_en": "A startup that builds other startups raised $100M and is all-in on physical AI",
+      "summary_fa": "شرکت Vantora که پیش‌تر با نام UP.Labs فعالیت می‌کرد، یک استودیوی استارتاپ‌ساز است که برای شرکت‌های صنعتی بزرگ، کسب‌وکارهای نوپا ایجاد می‌کند. این شرکت اخیراً ۱۰۰ میلیون دلار سرمایه جذب کرده و اعلام کرده که تمرکز اصلی خود را بر توسعه نسل جدیدی از «هوش مصنوعی فیزیکی» قرار خواهد داد تا نیازهای صنایع را برطرف سازد.",
+      "tags": [
+        "Vantora",
+        "Physical AI",
+        "سرمایه‌گذاری",
+        "استارتاپ‌سازی",
+        "هوش مصنوعی صنعتی"
+      ]
+    },
+    {
+      "id": "7eae20442af37673",
+      "date": "2026-09-18",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+      "category": "کاربرد هوش مصنوعی در علم و پزشکی",
+      "title_fa": "Anthropic با راه‌اندازی آزمایشگاه زیست‌شناسی، هوش مصنوعی را به میدان درمان بیماری‌ها می‌آورد",
+      "title_en": "Anthropic is operating a lab that conducts biology experiments",
+      "summary_fa": "شرکت Anthropic، یکی از بازیگران اصلی در توسعه هوش مصنوعی، اعلام کرده است که یک آزمایشگاه زیست‌شناسی راه‌اندازی کرده تا با بهره‌گیری از هوش مصنوعی، به انجام آزمایش‌ها و کشف راهکارهایی برای درمان بیماری‌های انسانی بپردازد. این اقدام در راستای وعده‌های رهبران صنعت هوش مصنوعی مبنی بر توانایی این فناوری برای حل چالش‌های پزشکی صورت می‌گیرد. با این حال، جالب است که همین محققان Anthropic پیش‌تر نسبت به خطرات وجودی هوش مصنوعی و امکان نابودی بشریت توسط آن هشدار داده بودند، که تضاد معناداری بین امید و نگرانی برای آینده هوش مصنوعی را به تصویر می‌کشد.",
+      "tags": [
+        "Anthropic",
+        "AI",
+        "زیست‌شناسی",
+        "پزشکی",
+        "ایمنی هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "8503b185b661102d",
+      "date": "2026-09-18",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "انتخابی غیرمنتظره: اکسنتور، ارزیاب تعبیه‌شده هوش مصنوعی Anthropic",
+      "title_en": "Anthropic’s first embedded evaluator is … Accenture?",
+      "summary_fa": "شرکت مشاوره‌ی جهانی اکسنتور در حال ورود به یکی از پرمخاطره‌ترین پروژه‌های مشاوره خود است. این شرکت قرار است به عنوان نخستین ارزیاب تعبیه‌شده، مسئولیت ارزیابی مدل‌های هوش مصنوعی Anthropic را بر عهده بگیرد. این همکاری بی‌سابقه، نقش مهمی در تضمین ایمنی و کارایی فناوری‌های هوش مصنوعی Anthropic ایفا خواهد کرد.",
+      "tags": [
+        "Anthropic",
+        "Accenture",
+        "AI",
+        "AI Safety",
+        "مشاوره"
+      ]
+    },
+    {
+      "id": "1e8f65c176d746f5",
+      "date": "2026-09-18",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "میزگرد MIT: هوش مصنوعی و تهدید بقای بشریت، از انقراض تا جنگ‌افزارهای بیولوژیک",
+      "title_en": "The Download: AI’s extinction risk and bioweapons threat",
+      "summary_fa": "نشریه MIT Technology Review در یک رویداد زنده به بررسی این سوال پرداخته است که آیا هوش مصنوعی واقعاً می‌تواند به حیات بشریت پایان دهد. در این میزگرد، متخصصان به سوالات پیرامون خطرات وجودی ناشی از هوش مصنوعی و تهدیدات آن در زمینه ساخت تسلیحات بیولوژیک پاسخ دادند. این بحث نشان‌دهنده نگرانی‌های فزاینده درباره ایمنی و آینده هوش مصنوعی است.",
+      "tags": [
+        "هوش مصنوعی",
+        "خطر وجودی",
+        "تسلیحات بیولوژیک",
+        "MIT Technology Review",
+        "ایمنی هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "193c8bfab556e65b",
+      "date": "2026-09-18",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "آیا هوش مصنوعی واقعاً می‌تواند به بشریت پایان دهد؟ پاسخ متخصصان MIT به پرسش‌های شما",
+      "title_en": "Could AI really kill us all? Your questions, answered.",
+      "summary_fa": "نشریه «مرور تکنولوژی MIT» (MIT Technology Review) اخیراً میزبان یک رویداد پرسش و پاسخ برای مشترکان خود بود. محور اصلی این نشست، بررسی این سوال بحث‌برانگیز بود که آیا هوش مصنوعی واقعاً می‌تواند به نابودی انسان‌ها منجر شود. «ویل داگلاس هیون»، سردبیر ارشد بخش هوش مصنوعی نشریه، در این رویداد به انبوه پرسش‌های مطرح شده توسط حاضران درباره خطرات احتمالی هوش مصنوعی پاسخ داد.",
+      "tags": [
+        "هوش مصنوعی",
+        "خطرات هوش مصنوعی",
+        "ایمنی هوش مصنوعی",
+        "AI existential risk",
+        "MIT Technology Review"
+      ]
+    },
+    {
+      "id": "453c7f72cf234fac",
+      "date": "2026-09-18",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "هشدار درباره سلاح‌های بیولوژیک هوش مصنوعی‌محور: زنگ خطر برای صنعت بیوتکنولوژی",
+      "title_en": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
+      "summary_fa": "مدیران عامل شرکت‌های پیشرو هوش مصنوعی، از جمله داریو آمودی (Anthropic) و سم آلتمن (OpenAI)، به تازگی درباره خطرات جدی فناوری‌های در حال توسعه خود هشدار داده‌اند. این هشدارها به خصوص بر تهدید فزاینده سلاح‌های بیولوژیک با قابلیت هوش مصنوعی تأکید دارند که توجه صنعت بیوتکنولوژی را نیز به خود جلب کرده است. در پی این نگرانی‌ها، بحث بر سر لزوم کاهش سرعت پیشرفت هوش مصنوعی به دلیل این ریسک‌های امنیتی در جریان است.",
+      "tags": [
+        "هوش مصنوعی",
+        "سلاح بیولوژیک",
+        "Anthropic",
+        "OpenAI",
+        "بیوتکنولوژی"
+      ]
+    },
+    {
+      "id": "b525b0b8e06db8f8",
+      "date": "2026-09-17",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/09/17/1144251/innovators-shaping-climate-tech/",
+      "category": "فناوری اقلیم و نوآوری",
+      "title_fa": "آینده‌سازان زیر ۳۵ سال فناوری اقلیم: معرفی نوآوران تاثیرگذار",
+      "title_en": "Meet the innovators under 35 shaping climate tech",
+      "summary_fa": "مجله معتبر MIT Technology Review هر سال فهرستی از ۳۵ نوآور برتر زیر ۳۵ سال را که شامل محققان، مخترعان و ذهن‌های جوان پیشرو است، منتشر می‌کند. این افراد در حوزه‌های مختلف فناوری آینده را شکل می‌دهند. در جدیدترین ویرایش این فهرست که ماه‌ها برای تهیه آن تلاش شده، ۹ نفر از نوآوران منتخب از سراسر جهان در زمینه فناوری اقلیم فعالیت می‌کنند و پیشگام مقابله با تغییرات آب و هوایی هستند.",
+      "tags": [
+        "فناوری اقلیم",
+        "نوآوری",
+        "MIT Technology Review",
+        "جوانان تاثیرگذار",
+        "پایداری محیط زیست"
       ]
     }
   ]
