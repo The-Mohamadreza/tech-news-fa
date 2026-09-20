@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-09-19",
+    "last_updated": "2026-09-20",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 1073
+    "total_articles": 1085
   },
   "articles": [
     {
@@ -18193,6 +18193,208 @@
         "MIT Technology Review",
         "جوانان تاثیرگذار",
         "پایداری محیط زیست"
+      ]
+    },
+    {
+      "id": "973a91148c502943",
+      "date": "2026-09-16",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/hex-gpt-6-astra",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "Hex با قدرت GPT-6 Astra: ساده‌سازی تحلیل‌های پیچیده در قالب گزارش‌های بصری",
+      "title_en": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+      "summary_fa": "پلتفرم Hex با بهره‌گیری از قابلیت‌های هوش مصنوعی GPT-6 Astra، به متخصصان داده این امکان را می‌دهد که پاسخ‌های حاصل از تحلیل‌های پیچیده را به بصری‌سازی‌های تعاملی تبدیل کنند. این رویکرد جدید، فرایند گزارش‌دهی را ساده کرده و به کارمندان کمک می‌کند تا داده‌ها را به شیوه‌ای جذاب و قابل اشتراک‌گذاری ارائه دهند.",
+      "tags": [
+        "Hex",
+        "GPT-6 Astra",
+        "تحلیل داده",
+        "بصری‌سازی داده",
+        "ابزارهای هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "39006a4759c98f28",
+      "date": "2026-02-01",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/disrupting-malicious-uses-of-ai-trolling-stone",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "OpenAI عملیات نفوذ روسی «ترولینگ استون» با هوش مصنوعی را خنثی کرد",
+      "title_en": "Operation “Trolling Stone”: Russia-linked influence activity",
+      "summary_fa": "شرکت OpenAI از خنثی‌سازی عملیاتی نفوذی با نام «ترولینگ استون» خبر داد که به روسیه نسبت داده می‌شود. در این عملیات، که پیش از این فاش نشده بود، از هوش مصنوعی برای تولید و انتشار نظرات متعدد درباره دستگیری رهبر یک فرقه مذهبی روسی در آرژانتین استفاده شده بود. OpenAI با مسدود کردن حساب‌های کاربری مرتبط، تلاش‌های برای تاثیرگذاری بر افکار عمومی را متوقف کرده است.",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "Russia",
+        "Disinformation",
+        "Trolling Stone"
+      ]
+    },
+    {
+      "id": "d79d3cfea9e71630",
+      "date": "2026-02-01",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/disrupting-malicious-uses-of-ai-cyber-special-operations",
+      "category": "امنیت سایبری و خطرات هوش مصنوعی",
+      "title_fa": "افشای برنامه‌ریزی نفوذ سایبری چین با هوش مصنوعی؛ OpenAI حساب‌های مرتبط را مسدود کرد",
+      "title_en": "“Cyber Special Operations”: China-linked influence planning",
+      "summary_fa": "شرکت OpenAI اعلام کرد که یک حساب کاربری را که با فردی مرتبط با نهادهای مجری قانون در چین همکاری می‌کرده، مسدود کرده است. این حساب از هوش مصنوعی برای برنامه‌ریزی و هدایت فعالیت‌های نفوذی، آزار و اذیت آنلاین و سایر عملیات سایبری استفاده می‌کرده است. این اقدام بر نگرانی‌ها در مورد سوءاستفاده از فناوری‌های پیشرفته هوش مصنوعی در منازعات ژئوپلیتیک و عملیات اطلاعاتی می‌افزاید.",
+      "tags": [
+        "OpenAI",
+        "China",
+        "AI",
+        "امنیت سایبری",
+        "عملیات نفوذ"
+      ]
+    },
+    {
+      "id": "058ca73c5a562371",
+      "date": "2026-02-01",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/disrupting-malicious-uses-of-ai-date-bait",
+      "category": "امنیت سایبری",
+      "title_fa": "کلاهبرداری‌های عاطفی با هوش مصنوعی؛ اوپن‌ای‌آی حساب‌های متخلف را مسدود کرد",
+      "title_en": "Operation “Date Bait”: AI-enabled scam targeting loveseekers",
+      "summary_fa": "شرکت اوپن‌ای‌آی (OpenAI) اخیراً حساب‌های متعددی را مسدود کرده که گمان می‌رود از کامبوج نشأت گرفته‌اند. این حساب‌ها از هوش مصنوعی برای سازماندهی کلاهبرداری‌های عاطفی گسترده علیه جویندگان رابطه در اندونزی بهره می‌بردند. ابزارهای هوش مصنوعی در این عملیات، نقش مهمی در ترجمه و برقراری ارتباط با قربانیان ایفا می‌کردند.",
+      "tags": [
+        "OpenAI",
+        "کلاهبرداری هوش مصنوعی",
+        "امنیت سایبری",
+        "Romance scam",
+        "سوءاستفاده از هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "08dcc7546106aebc",
+      "date": "2025-12-03",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/people-first-ai-fund-grantees",
+      "category": "مسئولیت اجتماعی و توسعه هوش مصنوعی",
+      "title_fa": "OpenAI از اولین دریافت‌کنندگان کمک‌های ۴۰.۵ میلیون دلاری «صندوق هوش مصنوعی مردم‌محور» خود رونمایی کرد",
+      "title_en": "Announcing the initial People-First AI Fund grantees",
+      "summary_fa": "بنیاد OpenAI اسامی اولین دریافت‌کنندگان کمک‌های مالی «صندوق هوش مصنوعی مردم‌محور» را اعلام کرد. در این مرحله، ۴۰.۵ میلیون دلار کمک بلاعوض به ۲۰۸ سازمان غیرانتفاعی اختصاص یافته است. این کمک‌ها با هدف حمایت از نوآوری‌های اجتماعی و ایجاد فرصت در جوامع، توسعه هوش مصنوعی با رویکردی انسان‌محور را تقویت می‌کنند.",
+      "tags": [
+        "OpenAI Foundation",
+        "People-First AI Fund",
+        "کمک مالی",
+        "سازمان‌های غیرانتفاعی",
+        "مسئولیت اجتماعی"
+      ]
+    },
+    {
+      "id": "007df06b65ea8a7c",
+      "date": "2025-12-01",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/mirakl",
+      "category": "کاربرد هوش مصنوعی در کسب‌وکار",
+      "title_fa": "میرکل: عامل‌های هوش مصنوعی چگونه تجارت را متحول می‌کنند؟",
+      "title_en": "Inside Mirakl's agentic commerce vision",
+      "summary_fa": "شرکت میرکل با بهره‌گیری از عامل‌های هوش مصنوعی و ChatGPT Enterprise در حال متحول کردن صنعت تجارت است. این رویکرد به مستندسازی سریع‌تر، پشتیبانی هوشمندتر از مشتریان و بهبود کلی فرآیندهای تجاری منجر شده است. میرکل در تلاش است تا با پلتفرم Mirakl Nexus، به چشم‌انداز تجارت کاملاً خودکار و عامل‌محور خود دست یابد.",
+      "tags": [
+        "Mirakl",
+        "AI agents",
+        "ChatGPT Enterprise",
+        "تجارت الکترونیک",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "2c088408c259e2a3",
+      "date": "2026-09-19",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "Flock برای جلوگیری از تعدیل نیرو، طرح بازخرید به کارمندان ارائه می‌دهد",
+      "title_en": "Flock reportedly tries to shrink workforce with employee buyouts",
+      "summary_fa": "شرکت Flock در تلاش است تا با ارائه طرح‌های بازخرید به کارمندان خود، از تعدیل نیروی گسترده جلوگیری کند. گزارش‌ها حاکی از آن است که در صورت عدم استقبال از این طرح‌ها، این شرکت تقریباً به‌طور قطع مجبور به اخراج بخش قابل توجهی از کارکنان خود خواهد شد تا هزینه‌ها را کاهش دهد.",
+      "tags": [
+        "Flock",
+        "Buyouts",
+        "Layoffs",
+        "تعدیل نیرو",
+        "صنعت تکنولوژی"
+      ]
+    },
+    {
+      "id": "589c5060cfaa1e08",
+      "date": "2026-09-19",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "ترامپ خواستار تغییر نام هوش مصنوعی و ایجاد «نیروی هوش مصنوعی» شد",
+      "title_en": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+      "summary_fa": "دونالد ترامپ پیشنهاد تغییر نام فناوری هوش مصنوعی را مطرح کرده و از قصد خود برای تشکیل یک «نیروی هوش مصنوعی» خبر داده است. او همچنین بدون ارائه شواهد، ادعا کرد که مخالفت‌ها و واکنش‌های منفی نسبت به هوش مصنوعی یک «فریب دموکراتیک» است.",
+      "tags": [
+        "Donald Trump",
+        "AI",
+        "سیاست هوش مصنوعی",
+        "ایالات متحده"
+      ]
+    },
+    {
+      "id": "b6a7c3b080e8ab6f",
+      "date": "2026-09-19",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "جِمینی گوگل، جدیدترین هوش مصنوعی با قابلیت نفوذ به شرکت‌ها",
+      "title_en": "Google’s Gemini is the latest AI model to hack other companies",
+      "summary_fa": "هوش مصنوعی جِمینی گوگل، جدیدترین مدل هوش مصنوعی است که توانایی نفوذ به سیستم‌های سایر شرکت‌ها را از خود نشان داده. شرکت گوگل اعلام کرده است که جِمینی «به درستی عمل کرده» و بلافاصله پس از هر اقدام نفوذی، آن را متوقف ساخته است. این قابلیت، سوالاتی را درباره‌ی مرزهای هوش مصنوعی و ملاحظات امنیتی آن مطرح می‌کند.",
+      "tags": [
+        "Google",
+        "Gemini",
+        "هوش مصنوعی",
+        "امنیت سایبری",
+        "آزمون نفوذ"
+      ]
+    },
+    {
+      "id": "9973ec65aabec705",
+      "date": "2026-09-19",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
+      "category": "کاربردهای هوش مصنوعی در زندگی روزمره",
+      "title_fa": "Petlibro با غذادهنده هوشمند مجهز به هوش مصنوعی، تغذیه گربه‌ها را متحول می‌کند",
+      "title_en": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+      "summary_fa": "شرکت Petlibro از سری جدید غذادهنده‌های هوشمند Granary 2 رونمایی کرده است. این دستگاه‌ها دارای ترازوی داخلی بوده و در مدل‌های پیشرفته‌تر، با استفاده از دوربین هوش مصنوعی، میزان و زمان دقیق غذای مصرفی هر گربه را ردیابی می‌کنند. این ویژگی برای خانه‌های دارای چندین گربه بسیار کاربردی است. البته، برای دسترسی به امکانات پایش سلامت پیشرفته‌تر، کاربران باید اشتراک ماهانه تهیه کنند.",
+      "tags": [
+        "Petlibro",
+        "AI feeder",
+        "Granary 2",
+        "هوش مصنوعی",
+        "حیوانات خانگی"
+      ]
+    },
+    {
+      "id": "fe6a92ce8180c82c",
+      "date": "2026-09-19",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "گفت‌وگوهای ایمنی هوش مصنوعی: مرز واقعیت و خیال کجاست؟",
+      "title_en": "AI safety conversations have gotten unbelievable",
+      "summary_fa": "این هفته، دو گفت‌وگوی وایرال‌شده حول محور ایمنی هوش مصنوعی، دشواری فزاینده در تشخیص واقعیت از خیال را در این مبحث به‌وضوح نشان دادند. این رویدادها، چالش بزرگ تفکیک اطلاعات صحیح از شایعات و ادعاهای اغراق‌آمیز در مورد خطرات هوش مصنوعی را برجسته می‌کنند.",
+      "tags": [
+        "AI safety",
+        "ایمنی هوش مصنوعی",
+        "واقعیت و خیال",
+        "اخبار جعلی"
+      ]
+    },
+    {
+      "id": "e9d1d908f30709fb",
+      "date": "2026-09-19",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "تنها ۷ روز دیگر: آخرین فرصت خرید بلیط کنفرانس Disrupt با ۲۰۰ دلار تخفیف",
+      "title_en": "Prices go up in 7 days. Get your Disrupt ticket now.",
+      "summary_fa": "قیمت‌گذاری فعلی بلیط کنفرانس Disrupt در تاریخ ۲۵ سپتامبر ساعت ۱۱:۵۹ شب به وقت PT به پایان می‌رسد. علاقه‌مندان به حضور در این رویداد مهم فناوری می‌توانند با خرید بلیط تا پیش از این تاریخ، تا ۲۰۰ دلار صرفه‌جویی کنند. Disrupt میزبان بیش از ۱۰,۰۰۰ بنیان‌گذار، سرمایه‌گذار و رهبر صنعت فناوری خواهد بود و فرصتی بی‌نظیر برای شبکه‌سازی و کسب دانش فراهم می‌آورد.",
+      "tags": [
+        "Disrupt",
+        "Startup",
+        "Tech event",
+        "سرمایه‌گذاری",
+        "تخفیف"
       ]
     }
   ]
