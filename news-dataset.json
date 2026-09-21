@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-09-20",
+    "last_updated": "2026-09-21",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 1085
+    "total_articles": 1097
   },
   "articles": [
     {
@@ -18395,6 +18395,208 @@
         "Tech event",
         "سرمایه‌گذاری",
         "تخفیف"
+      ]
+    },
+    {
+      "id": "1e0105875961cdfe",
+      "date": "2025-12-01",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/ai-mental-health-research-grants",
+      "category": "کاربرد هوش مصنوعی در علم و پزشکی",
+      "title_fa": "OpenAI: اختصاص ۲ میلیون دلار کمک‌هزینه به پژوهش‌های هوش مصنوعی و سلامت روان",
+      "title_en": "Funding grants for new research into AI and mental health",
+      "summary_fa": "OpenAI تا سقف ۲ میلیون دلار کمک‌هزینه برای پژوهش‌هایی که در تقاطع هوش مصنوعی و سلامت روان قرار دارند، اختصاص داده است. این برنامه از پروژه‌هایی حمایت می‌کند که به بررسی خطرات، مزایا و کاربردهای واقعی هوش مصنوعی در این حوزه می‌پردازند. هدف نهایی آن بهبود ایمنی و ارتقاء سلامت روان از طریق نوآوری‌های هوش مصنوعی است.",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "Mental Health",
+        "پژوهش",
+        "کمک‌هزینه"
+      ]
+    },
+    {
+      "id": "2e16efff67ee1326",
+      "date": "2025-12-01",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/norad-holiday-collaboration",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "NORAD و OpenAI: هوش مصنوعی، ردیابی بابانوئل را هیجان‌انگیزتر می‌کند",
+      "title_en": "OpenAI and NORAD team up to bring new magic to “NORAD Tracks Santa”",
+      "summary_fa": "سازمان دفاع هوافضای آمریکای شمالی (NORAD) با همکاری OpenAI، هوش مصنوعی را به برنامه محبوب «ردیابی بابانوئل NORAD» اضافه کرده است. این مشارکت، سه ابزار جدید مبتنی بر ChatGPT را معرفی می‌کند که به خانواده‌ها امکان می‌دهد الف‌های جشن، صفحات رنگ‌آمیزی اسباب‌بازی و داستان‌های کریسمس سفارشی خلق کنند. هدف از این ابتکار، افزودن بُعدی نو و خلاقانه به سنت ردیابی بابانوئل در ایام تعطیلات است.",
+      "tags": [
+        "OpenAI",
+        "NORAD",
+        "ChatGPT",
+        "هوش مصنوعی",
+        "NORAD Tracks Santa"
+      ]
+    },
+    {
+      "id": "2ccaba4cac6c3c2a",
+      "date": "2025-12-01",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/accenture-partnership",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "شراکت استراتژیک اکسنتور و OpenAI برای تسریع پذیرش هوش مصنوعی در کسب‌وکارها",
+      "title_en": "Accenture and OpenAI accelerate enterprise AI success",
+      "summary_fa": "شرکت مشاوره تکنولوژی اکسنتور و OpenAI، پیشرو در توسعه هوش مصنوعی، برای تسریع موفقیت هوش مصنوعی در سازمان‌ها با یکدیگر همکاری می‌کنند. این شراکت به کسب‌وکارها کمک می‌کند تا قابلیت‌های هوش مصنوعی عاملیت‌محور (Agentic AI) را به هسته عملیات خود وارد کرده و از این طریق، سطوح جدیدی از رشد و بهره‌وری را رقم بزنند.",
+      "tags": [
+        "Accenture",
+        "OpenAI",
+        "هوش مصنوعی سازمانی",
+        "Agentic AI",
+        "همکاری"
+      ]
+    },
+    {
+      "id": "d40028f6468c263b",
+      "date": "2025-12-01",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/thrive-holdings",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "OpenAI با خرید سهام Thrive Holdings، پذیرش هوش مصنوعی در سازمان‌ها را تسریع می‌کند",
+      "title_en": "OpenAI takes an ownership stake in Thrive Holdings to accelerate enterprise AI adoption",
+      "summary_fa": "شرکت OpenAI با خرید سهام Thrive Holdings، گام مهمی در جهت تسریع پذیرش هوش مصنوعی در سازمان‌ها برداشته است. هدف از این اقدام، ادغام مستقیم تحقیقات و مهندسی پیشرفته هوش مصنوعی در خدمات حسابداری و فناوری اطلاعات است. این همکاری به افزایش سرعت، دقت و کارایی کمک کرده و مدلی مقیاس‌پذیر برای تحول گسترده در صنایع مختلف ایجاد خواهد کرد.",
+      "tags": [
+        "OpenAI",
+        "Thrive Holdings",
+        "هوش مصنوعی سازمانی",
+        "سرمایه‌گذاری",
+        "AI adoption"
+      ]
+    },
+    {
+      "id": "92c787efe61cb10f",
+      "date": "2025-11-26",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/mixpanel-incident",
+      "category": "امنیت سایبری",
+      "title_fa": "حادثه امنیتی Mixpanel: افشای محدود داده‌های تحلیلی API اوپن‌ای‌آی",
+      "title_en": "Mixpanel security incident: what OpenAI users need to know",
+      "summary_fa": "اوپن‌ای‌آی جزئیاتی از یک حادثه امنیتی مربوط به پلتفرم Mixpanel را منتشر کرده است. این حادثه منجر به افشای محدود برخی داده‌های تحلیلی API شده است، اما اوپن‌ای‌آی تاکید کرده که محتوای API، اطلاعات احراز هویت یا جزئیات پرداخت کاربران به خطر نیفتاده‌اند. اوپن‌ای‌آی اعلام کرده که برای محافظت از کاربران، اقدامات لازم را انجام داده است.",
+      "tags": [
+        "OpenAI",
+        "Mixpanel",
+        "امنیت سایبری",
+        "افشای داده",
+        "API"
+      ]
+    },
+    {
+      "id": "bd488ee6e84b082e",
+      "date": "2025-11-25",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/expanding-data-residency-access-to-business-customers-worldwide",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "اوپن‌ای‌آی اقامت داده را برای مشتریان سازمانی و آموزشی در سراسر جهان گسترش می‌دهد",
+      "title_en": "Expanding data residency access to business customers worldwide",
+      "summary_fa": "شرکت اوپن‌ای‌آی اعلام کرده که امکان اقامت داده (Data Residency) را برای کاربران تجاری و آموزشی خود در سراسر جهان گسترش می‌دهد. این قابلیت به مشتریان واجد شرایط پلتفرم‌های ChatGPT Enterprise، ChatGPT Edu و API اجازه می‌دهد تا اطلاعات خود را در منطقه‌ی جغرافیایی مورد نظرشان ذخیره کنند. این اقدام با هدف افزایش کنترل مشتریان بر داده‌ها و رعایت الزامات حریم خصوصی و مقررات منطقه‌ای صورت گرفته است.",
+      "tags": [
+        "OpenAI",
+        "data residency",
+        "ChatGPT Enterprise",
+        "حریم خصوصی",
+        "پذیرش سازمانی"
+      ]
+    },
+    {
+      "id": "c7ec387f956db3fd",
+      "date": "2026-09-20",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "فرصت محدود: تخفیف تا ۲۰۰ دلاری برای بلیط کنفرانس TechCrunch Disrupt 2026",
+      "title_en": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
+      "summary_fa": "فرصت خرید بلیط کنفرانس TechCrunch Disrupt 2026 با تخفیف ویژه، تنها ۶ روز دیگر تا تاریخ ۲۵ سپتامبر (۱۱:۵۹ شب به وقت PT) ادامه دارد. علاقه‌مندان به این رویداد مهم می‌توانند با استفاده از این پیشنهاد، تا ۲۰۰ دلار در هزینه بلیط خود صرفه‌جویی کنند. این کنفرانس میزبان بیش از ۱۰,۰۰۰ کارآفرین، سرمایه‌گذار و رهبران حوزه فناوری خواهد بود.",
+      "tags": [
+        "TechCrunch Disrupt",
+        "کنفرانس فناوری",
+        "استارتاپ",
+        "سرمایه گذاری",
+        "تخفیف"
+      ]
+    },
+    {
+      "id": "7bd628cf38985063",
+      "date": "2026-09-20",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "پنهان‌کاری گسترده در شرکت‌های هوش مصنوعی «مدل‌های جهانی»",
+      "title_en": "World model companies are keeping a lot of secrets",
+      "summary_fa": "شرکت‌های فعال در حوزه «مدل‌های جهانی» هوش مصنوعی، علی‌رغم جذب سرمایه‌های چشمگیر و ایجاد هیاهوی فراوان، در مورد ماهیت دقیق پروژه‌های خود پنهان‌کاری شدیدی دارند. هیچ‌کس، از بنیان‌گذاران گرفته تا تامین‌کنندگان داده‌هایشان، حاضر به افشای آنچه واقعاً در حال ساخت است، نیست. این سکوت پرسش‌برانگیز، ابهامات زیادی را پیرامون اهداف و مسیر آینده این شرکت‌ها ایجاد کرده است.",
+      "tags": [
+        "هوش مصنوعی",
+        "مدل‌های جهانی",
+        "پنهان‌کاری",
+        "صنعت هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "9515eed3cd4bd0a8",
+      "date": "2026-09-20",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "کند شدن صنعت هوش مصنوعی: آیا مدیران واقعاً در این خواسته جدی هستند؟",
+      "title_en": "Is the AI industry really ready to slow down?",
+      "summary_fa": "در برنامه‌ی Equity، بحث و مناقشه‌ای درباره‌ی تمایل مدیران ارشد شرکت‌های هوش مصنوعی به کاهش سرعت توسعه شکل گرفت. پرسش اصلی این بود که آیا این افراد در خواست خود برای کند کردن روند پیشرفت هوش مصنوعی جدی هستند یا خیر.",
+      "tags": [
+        "هوش مصنوعی",
+        "صنعت هوش مصنوعی",
+        "توسعه هوش مصنوعی",
+        "مدیران ارشد"
+      ]
+    },
+    {
+      "id": "71efe47bc53fd9a7",
+      "date": "2026-09-20",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
+      "category": "سخت‌افزار و تراشه",
+      "title_fa": "انگشتر هوشمند Vocci: انقلابی جدید در یادداشت‌برداری از جلسات",
+      "title_en": "Vocci’s ring adds a new form factor to meeting note-taking",
+      "summary_fa": "شرکت Vocci با معرفی یک انگشتر هوشمند سبک‌وزن ۲۴۹ دلاری، رویکردی نوین برای ثبت یادداشت‌ها در طول جلسات ارائه کرده است. این گجت پوشیدنی که به منظور تسهیل فرایند یادداشت‌برداری طراحی شده، همزمان نگرانی‌هایی را نیز در مورد حفظ حریم خصوصی کاربران برانگیخته است.",
+      "tags": [
+        "Vocci",
+        "ring",
+        "یادداشت‌برداری",
+        "حریم خصوصی",
+        "wearable"
+      ]
+    },
+    {
+      "id": "c1355961d61896d8",
+      "date": "2026-09-20",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
+      "category": "فناوری در آموزش",
+      "title_fa": "ScrollEd: تحول کتاب‌های درسی به سبک تیک‌تاک و اینستاگرام",
+      "title_en": "ScrollEd wants to turn textbooks into TikTok",
+      "summary_fa": "استارتاپ ScrollEd پلتفرمی را معرفی کرده که کتاب‌های درسی را به فیدهای قابل اسکرول، شبیه به اینستاگرام و تیک‌تاک تبدیل می‌کند. این تجربه آموزشی تعاملی شامل ویدئو، صوت و آزمون‌های کوتاه است و هدف آن جذاب‌تر کردن یادگیری است. ScrollEd که توسط اوتساو گوپتا و ربکا نف، زوج دانشجو، در پالو آلتو تاسیس شده، اخیراً در رویداد TechCrunch Disrupt ارائه شد.",
+      "tags": [
+        "ScrollEd",
+        "EdTech",
+        "TechCrunch Disrupt",
+        "استارتاپ",
+        "آموزش دیجیتال"
+      ]
+    },
+    {
+      "id": "17c3769d360897b4",
+      "date": "2026-09-19",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "Vals با پشتیبانی Andreessen Horowitz، به دنبال تعریف استاندارد طلایی برای ارزیابی هوش مصنوعی",
+      "title_en": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+      "summary_fa": "شرکت Vals AI قصد دارد با ارائه یک رویکرد بی‌طرفانه و قابل اعتماد، بنچمارکینگ هوش مصنوعی را متحول کند. در دنیایی که روز به روز با مدل‌های متنوع هوش مصنوعی پر می‌شود، هدف این شرکت ایجاد یک منبع استاندارد و مورد اعتماد برای ارزیابی و مقایسه این مدل‌هاست.",
+      "tags": [
+        "Vals AI",
+        "Andreessen Horowitz",
+        "AI benchmarking",
+        "هوش مصنوعی",
+        "ارزیابی مدل‌های هوش مصنوعی"
       ]
     }
   ]
