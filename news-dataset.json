@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-09-21",
+    "last_updated": "2026-09-22",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 1097
+    "total_articles": 1114
   },
   "articles": [
     {
@@ -18597,6 +18597,294 @@
         "AI benchmarking",
         "هوش مصنوعی",
         "ارزیابی مدل‌های هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "a7ca59844a94ccd6",
+      "date": "2026-09-21",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "OpenAI: تشکیل گروه مشورتی مستقل برای ارزیابی نتایج هوش مصنوعی و ریاضیات",
+      "title_en": "Advisory Group on Mathematics and Artificial Intelligence",
+      "summary_fa": "شرکت OpenAI همکاری خود را با یک گروه مشورتی مستقل در زمینه ریاضیات و هوش مصنوعی آغاز کرده است. این گروه وظیفه دارد تا فرآیند بررسی و نحوه اطلاع‌رسانی درباره نتایج و پیشرفت‌های نوظهور در حوزه هوش مصنوعی را راهبری کند.",
+      "tags": [
+        "OpenAI",
+        "هوش مصنوعی",
+        "ریاضیات",
+        "گروه مشورتی",
+        "AI Research"
+      ]
+    },
+    {
+      "id": "d37f5b2c59270d01",
+      "date": "2026-09-21",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+      "category": "کاربرد هوش مصنوعی در تولید محتوا و کسب‌وکار",
+      "title_fa": "Higgsfield AI با GPT-6 Astra: عرضه قابلیت‌های ویدیویی جدید در یک روز",
+      "title_en": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "summary_fa": "شرکت Higgsfield AI با بهره‌گیری از مدل پیشرفته GPT-6 Astra، فرآیند ساخت تبلیغات ویدیویی را برای کسب‌وکارهای کوچک به شکل چشمگیری تسهیل کرده است. این همکاری همچنین به Higgsfield AI امکان می‌دهد تا ابزارهای خلاقانه ویدیویی جدید را با سرعتی بی‌سابقه به بازار عرضه کند و به نیازهای روزافزون در این حوزه پاسخ دهد.",
+      "tags": [
+        "Higgsfield AI",
+        "GPT-6 Astra",
+        "هوش مصنوعی",
+        "تولید ویدیو",
+        "تبلیغات ویدیویی"
+      ]
+    },
+    {
+      "id": "2c9792fbb14ae5db",
+      "date": "2026-09-21",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/building-standards-next-phase-ai",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "OpenAI خواستار تدوین استانداردهای جهانی برای آینده ایمن هوش مصنوعی شد",
+      "title_en": "Building standards for the next phase of AI",
+      "summary_fa": "شرکت OpenAI طرحی را برای ایجاد استانداردهای جهانی مشترک در زمینه هوش مصنوعی ارائه کرده است. این طرح بر ارزیابی، گزارش‌دهی و حاکمیت هماهنگ تأکید دارد. هدف نهایی این استانداردها، بهبود ایمنی و اطمینان از توسعه مسئولانه هوش مصنوعی در مراحل آتی است.",
+      "tags": [
+        "OpenAI",
+        "استانداردهای هوش مصنوعی",
+        "ایمنی هوش مصنوعی",
+        "حکمرانی هوش مصنوعی",
+        "تنظیم‌گری"
+      ]
+    },
+    {
+      "id": "530db518a73a5717",
+      "date": "2026-09-21",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+      "category": "آموزش و توسعه هوش مصنوعی",
+      "title_fa": "آکادمی OpenAI: معرفی مسیرهای یادگیری جدید برای توسعه مهارت‌های هوش مصنوعی",
+      "title_en": "Expanding OpenAI Academy with new learning paths",
+      "summary_fa": "آکادمی OpenAI مسیرهای یادگیری جدیدی را برای گروه‌های متنوعی از جمله کارمندان، توسعه‌دهندگان، رهبران، مربیان و دانشجویان معرفی کرده است. هدف از این دوره‌های آموزشی، توانمندسازی کاربران برای کسب و نمایش مهارت‌های عملی و کاربردی در زمینه هوش مصنوعی است تا بتوانند از قابلیت‌های آن بهره‌برداری کنند.",
+      "tags": [
+        "OpenAI",
+        "AI skills",
+        "آموزش هوش مصنوعی",
+        "Learning Paths",
+        "توسعه‌دهندگان"
+      ]
+    },
+    {
+      "id": "d1749ba76a98e7a5",
+      "date": "2026-09-21",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/v7",
+      "category": "کاربرد هوش مصنوعی در سازمان‌ها",
+      "title_fa": "V7: راهکاری برای تجهیز عامل‌های هوش مصنوعی به حافظه سازمانی",
+      "title_en": "How V7 gives AI agents institutional memory",
+      "summary_fa": "شرکت V7 با استفاده از مدل زبانی GPT-5.6، سیستم نوینی را توسعه داده که فایل‌ها و داده‌های پراکنده سازمانی را به بستری از دانش منسجم تبدیل می‌کند. این رویکرد به عامل‌های هوش مصنوعی این امکان را می‌دهد تا با بهره‌گیری از حافظه سازمانی کامل، کارهای پیچیده‌ای را انجام دهند که نیاز به ارجاع دقیق به منابع و اطلاعات داخلی شرکت دارند. هدف اصلی، افزایش کارایی و دقت هوش مصنوعی در محیط‌های کاری پیچیده است.",
+      "tags": [
+        "V7",
+        "AI Agents",
+        "GPT-5.6",
+        "Knowledge Management",
+        "Enterprise AI"
+      ]
+    },
+    {
+      "id": "b0c37808a985d1c4",
+      "date": "2025-11-25",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/jetbrains-2025",
+      "category": "کاربرد هوش مصنوعی در توسعه نرم‌افزار",
+      "title_fa": "JetBrains با ادغام GPT-5، آینده کدنویسی را بازتعریف می‌کند",
+      "title_en": "Inside JetBrains—the company reshaping how the world writes code",
+      "summary_fa": "شرکت JetBrains، پیشرو در زمینه ابزارهای توسعه نرم‌افزار، در حال ادغام مدل زبانی پیشرفته GPT-5 در سراسر ابزارهای کدنویسی خود است. این اقدام با هدف کمک به میلیون‌ها توسعه‌دهنده برای طراحی، استدلال و ساخت نرم‌افزار با سرعت و کارایی بی‌سابقه صورت می‌گیرد.",
+      "tags": [
+        "JetBrains",
+        "GPT-5",
+        "هوش مصنوعی",
+        "ابزارهای کدنویسی",
+        "توسعه نرم‌افزار"
+      ]
+    },
+    {
+      "id": "6495b18d60eed517",
+      "date": "2026-09-21",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+      "category": "کاربرد هوش مصنوعی در کسب و کار و خرده‌فروشی",
+      "title_fa": "معمار فروشگاه‌های اپل: آینده خرید نه در هوش مصنوعی که در نیروی انسانی است",
+      "title_en": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+      "summary_fa": "رون جانسون، معمار برجسته فروشگاه‌های موفق اپل، نسبت به رویکرد غالب سیلیکون‌ولی در سرمایه‌گذاری گسترده بر هوش مصنوعی برای متحول کردن تجربه خرید، ابراز تردید کرده است. او معتقد است که جوهره اصلی و راز موفقیت اپل همواره در «مردم» آن، یعنی کارکنان و تعامل انسانی در فروشگاه‌ها بوده است. از نظر جانسون، ارتباطات انسانی و تجربه شخصی مشتری، ارزشی فراتر از آن چیزی دارد که هوش مصنوعی بتواند ارائه دهد و جایگزین آن شود.",
+      "tags": [
+        "Ron Johnson",
+        "Apple Store",
+        "AI shopping",
+        "خرده‌فروشی",
+        "تجربه مشتری"
+      ]
+    },
+    {
+      "id": "5310781f5f6fb68b",
+      "date": "2026-09-21",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "موفقیت هوش مصنوعی OpenAI در حل بیش از ۱۰۰ مسئله باز ریاضی؛ تشکیل گروه مشورتی جدید",
+      "title_en": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+      "summary_fa": "شرکت OpenAI با توجه به موفقیت چشمگیر هوش مصنوعی خود در حل بیش از ۱۰۰ مسئله باز ریاضی، یک گروه مشورتی تخصصی در این حوزه تشکیل داده است. این اقدام پس از توانایی سیستم‌های هوش مصنوعی OpenAI در ارائه راه‌حل‌های نوآورانه برای چالش‌های ریاضی صورت می‌گیرد. با این حال، وظیفه این گروه صرفاً مشورتی بوده و هیچ اختیاری برای کند کردن یا تغییر جهت تحقیقات ریاضی فعلی OpenAI نخواهد داشت.",
+      "tags": [
+        "OpenAI",
+        "هوش مصنوعی",
+        "ریاضیات",
+        "پژوهش"
+      ]
+    },
+    {
+      "id": "66ce002dbe90ee1c",
+      "date": "2026-09-21",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
+      "category": "رویدادها و کنفرانس‌های تکنولوژی",
+      "title_fa": "TechCrunch Disrupt 2026: تنها ۵ روز تا پایان تخفیف ۲۰۰ دلاری بلیط",
+      "title_en": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
+      "summary_fa": "تنها پنج روز تا پایان فرصت استفاده از تخفیف ۲۰۰ دلاری برای بلیط کنفرانس TechCrunch Disrupt 2026 باقی مانده است. این رویداد که بیش از ۱۰,۰۰۰ بنیان‌گذار، سرمایه‌گذار و فعال حوزه تکنولوژی را در تاریخ ۱۳ تا ۱۵ اکتبر در Moscone West سان‌فرانسیسکو گرد هم می‌آورد، همچنین شامل ۵۰ درصد تخفیف برای بلیط دوم نیز می‌شود. علاقه‌مندان باید قبل از ۲۵ سپتامبر برای تهیه بلیط با قیمت تخفیف‌خورده اقدام کنند.",
+      "tags": [
+        "TechCrunch Disrupt 2026",
+        "TechCrunch",
+        "کنفرانس تکنولوژی",
+        "استارتاپ",
+        "سان فرانسیسکو"
+      ]
+    },
+    {
+      "id": "7ea029b83ac3f4e8",
+      "date": "2026-09-21",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+      "category": "پذیرش و بازار هوش مصنوعی",
+      "title_fa": "شروع قدرتمند میوز متا در موبایل؛ پیشی‌گرفتن از چت‌جی‌پی‌تی",
+      "title_en": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+      "summary_fa": "بر اساس برآوردهای جدید شرکت Appfigures، هوش مصنوعی جدید متا به نام \"میوز\" (Muse) در جذب کاربران موبایلی موفقیت چشمگیری داشته است. این دستیار هوش مصنوعی در ایالات متحده و کانادا، در دوره زمانی مشابه پس از راه‌اندازی نسخه موبایلی‌اش، تعداد دانلود و کاربران فعال روزانه بیشتری نسبت به چت‌جی‌پی‌تی کسب کرده است. این آمار نشان‌دهنده شروعی قدرتمند برای میوز در رقابت با هوش مصنوعی‌های پیشرو است.",
+      "tags": [
+        "Meta",
+        "Muse",
+        "ChatGPT",
+        "AI Assistants",
+        "Mobile Apps"
+      ]
+    },
+    {
+      "id": "c476924b2eb2bb2a",
+      "date": "2026-09-21",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "آمازون دسترسی عامل هوش مصنوعی متا را به پلتفرم خود مسدود کرد",
+      "title_en": "Meta’s AI agent has been blocked from using Amazon.com",
+      "summary_fa": "آمازون دسترسی عامل هوش مصنوعی متا (احتمالاً Muse) را به وب‌سایت خود مسدود کرده است. این اقدام در حالی صورت می‌گیرد که آمازون خود مجموعه‌ای از مدل‌های بنیادی هوش مصنوعی و یکی از محبوب‌ترین پلتفرم‌های استنتاج در اینترنت را در اختیار دارد. از آنجا که آمازون هیچ تعهد قانونی برای باز کردن درها به روی رقبا ندارد، دلیلی هم برای اجازه فعالیت هوش مصنوعی متا در پلتفرم خود نمی‌بیند.",
+      "tags": [
+        "Meta",
+        "Amazon",
+        "هوش مصنوعی",
+        "رقابت پلتفرم‌ها",
+        "Muse"
+      ]
+    },
+    {
+      "id": "af70c43bf114b4ac",
+      "date": "2026-09-21",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
+      "category": "کاربرد هوش مصنوعی در حسابداری و خدمات مالی",
+      "title_fa": "Tabby: هوش مصنوعی یک حسابدار سابق، شغل حسابداری را به چالش می‌کشد",
+      "title_en": "With Tabby, a former accountant is using AI to make accountants obsolete",
+      "summary_fa": "Tabby، ابزار هوش مصنوعی است که توسط یک حسابدار سابق توسعه یافته و به عنوان یک رابط حسابداری بلادرنگ طراحی شده است. این پلتفرم تمامی امور دفتری مشتریان را مدیریت می‌کند و اطلاعات لحظه‌ای درباره سود و زیان کسب‌وکارشان را در اختیار آن‌ها قرار می‌دهد. هدف Tabby، خودکارسازی کامل فرآیند حسابداری و کاهش وابستگی به حسابداران سنتی است.",
+      "tags": [
+        "Tabby",
+        "هوش مصنوعی",
+        "حسابداری",
+        "اتوماسیون",
+        "Fintech"
+      ]
+    },
+    {
+      "id": "cc15858c0ce4a1d6",
+      "date": "2026-09-21",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/09/21/1144834/the-download-investigating-deaths-at-the-us-borders-virtual-wall/",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "مرگ‌ومیر در سایه «دیوار مجازی» مرز آمریکا: چرا سیستم‌های نظارتی میلیارد دلاری ناکارآمدند؟",
+      "title_en": "The Download: investigating deaths at the US border’s “virtual wall”",
+      "summary_fa": "ایالات متحده میلیاردها دلار صرف فناوری‌های نظارتی در مرزهای خود کرده و آنچه را که «دیوار مجازی» می‌نامد، ایجاد کرده است. با این وجود، این سرمایه‌گذاری هنگفت نتوانسته از مرگ‌ومیر مهاجران جلوگیری کند و سوالات جدی درباره اثربخشی و اخلاقی بودن این سیستم‌ها مطرح می‌کند. این خبر به بررسی این تناقض می‌پردازد که چرا علی‌رغم پیشرفت‌های تکنولوژیک، همچنان شاهد از دست رفتن جان انسان‌ها در این مناطق هستیم.",
+      "tags": [
+        "نظارت مرزی",
+        "فناوری دولتی",
+        "اخلاق تکنولوژی",
+        "US Border",
+        "مهاجرت"
+      ]
+    },
+    {
+      "id": "f8c4e8d06db87e3a",
+      "date": "2026-09-21",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "پرده‌برداری از اولین نقشه‌ی جامع مرگ‌ومیر در «دیوار مجازی» مرز آمریکا",
+      "title_en": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
+      "summary_fa": "یک تحقیق ۱۵ ماهه توسط MIT Technology Review و Times of San Diego، اولین نقشه‌ی جامع از مرگ‌ومیرها در امتداد «دیوار مجازی» مرز آمریکا را تهیه کرده است. این پروژه با پرسشی کلیدی آغاز شد: چرا با وجود برج‌های نظارتی دولتی که برای ردیابی و دستگیری افراد طراحی شده‌اند، مرگ‌ومیرهای بسیاری در نزدیکی آن‌ها رخ می‌دهد؟ این گزارش که بخشی از مجموعه‌ی «Dying on Camera» است، به بررسی این تناقض و تاثیر فناوری نظارتی بر سرنوشت مهاجران می‌پردازد.",
+      "tags": [
+        "MIT Technology Review",
+        "US-Mexico border",
+        "Surveillance",
+        "Virtual Wall",
+        "مرگ‌ومیر"
+      ]
+    },
+    {
+      "id": "d3127432d7639c48",
+      "date": "2026-09-21",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "ناکامی «دیوار مجازی» مرز آمریکا: مهاجرانی که در سایه نظارت هوش مصنوعی جان باختند",
+      "title_en": "4 ways to address the failures we found along the US border’s “virtual wall”",
+      "summary_fa": "تحقیق مجله فناوری MIT نشان می‌دهد که چگونه «دیوار مجازی» متشکل از برج‌های نظارتی هوشمند در مرز آمریکا و مکزیک در انجام وظایف خود ناکام مانده است. این گزارش مواردی را مستند کرده که افراد با عبور از مناطق تحت پوشش این برج‌های مجهز به هوش مصنوعی، شناسایی نشده و سپس در همان نزدیکی جان باخته‌اند، در حالی که اجسادشان برای مدت طولانی کشف نشده باقی مانده است. این یافته‌ها سوالات جدی درباره اثربخشی و تبعات انسانی این فناوری مطرح می‌کند.",
+      "tags": [
+        "US-Mexico border",
+        "AI surveillance",
+        "Virtual wall",
+        "خطرات هوش مصنوعی",
+        "MIT Technology Review"
+      ]
+    },
+    {
+      "id": "cd25620efbb87a2e",
+      "date": "2026-09-21",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
+      "category": "فناوری و امنیت مرزی",
+      "title_fa": "نظارت مرزی آمریکا: میلیاردها دلار هزینه، ناکامی در نجات جان",
+      "title_en": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
+      "summary_fa": "با وجود سرمایه‌گذاری میلیاردی ایالات متحده در فناوری‌های پیشرفته نظارت مرزی، کارایی این سیستم‌ها در جلوگیری از مرگ مهاجران زیر سوال رفته است. نمونه آن، مرگ «خوزه مورالس برنال» در ۸ آوریل ۲۰۲۴ است که با وجود قرار گرفتن در محدوده پوشش سه برج نظارتی در صحرای نیومکزیکو، جان خود را از دست داد. این رویداد، بحث‌ها را پیرامون ناتوانی فناوری پرهزینه مرزی در نجات جان انسان‌ها در شرایط بحرانی تشدید کرده است.",
+      "tags": [
+        "US border",
+        "Border surveillance",
+        "فناوری نظارتی",
+        "مهاجرت",
+        "Technology effectiveness"
+      ]
+    },
+    {
+      "id": "cddec4e64586d086",
+      "date": "2026-09-21",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
+      "category": "کاربرد هوش مصنوعی در نظارت و امنیت",
+      "title_fa": "مرگ دلخراش یک مهاجر در مرز سن‌دیگو: دوربین‌های نظارتی چه نقشی داشتند؟",
+      "title_en": "She died at the San Diego border. A surveillance camera was in plain sight",
+      "summary_fa": "گریسلا گومز هرناندز، ۳۰ ساله، در تاریخ ۱۴ سپتامبر ۲۰۲۵ از تیخوانا مکزیک وارد کالیفرنیای جنوبی شد. او پس از تنها چند ساعت پیاده‌روی مسیر را گم کرده و پیام‌های صوتی برای خانواده‌اش فرستاده بود. این زن در نهایت در نزدیکی مرز سن‌دیگو جان باخت، در حالی که یک دوربین نظارتی به وضوح در محل حادثه قرار داشت و این سوال را مطرح می‌کند که آیا فناوری می‌توانست نقشی در پیشگیری از این تراژدی داشته باشد.",
+      "tags": [
+        "دوربین نظارتی",
+        "نظارت مرزی",
+        "مهاجرت",
+        "San Diego",
+        "فناوری امنیتی"
       ]
     }
   ]
