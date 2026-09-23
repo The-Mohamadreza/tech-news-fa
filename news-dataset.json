@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-09-22",
+    "last_updated": "2026-09-23",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 1114
+    "total_articles": 1129
   },
   "articles": [
     {
@@ -18885,6 +18885,261 @@
         "مهاجرت",
         "San Diego",
         "فناوری امنیتی"
+      ]
+    },
+    {
+      "id": "b6b1e4118cdbb529",
+      "date": "2026-09-22",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "GPT-6 با کش پرامپت پیشرفته: جهشی در سرعت و کارایی مدل‌های هوش مصنوعی",
+      "title_en": "Better prompt caching for GPT-6",
+      "summary_fa": "نسل جدید مدل زبانی GPT-6 با معرفی پیشرفت‌های چشمگیر در زمینه کش‌کردن (caching) پرامپت‌ها، بهینه‌سازی قابل توجهی را به ارمغان آورده است. این ارتقا شامل نرخ موفقیت بالاتر کش، ابزارهای تشخیصی جدید و کنترل‌های دقیق‌تر برای مدیریت پرامپت‌هاست که به توسعه‌دهندگان امکان می‌دهد تا با کارایی بیشتری کار کنند. در نتیجه، این ویژگی‌ها به کاهش قابل توجه زمان تأخیر (latency) در پاسخگویی و همچنین صرفه‌جویی در هزینه‌های عملیاتی برای کاربران و سازمان‌ها منجر خواهد شد.",
+      "tags": [
+        "GPT-6",
+        "Prompt caching",
+        "هوش مصنوعی",
+        "بهینه‌سازی عملکرد",
+        "کاهش هزینه"
+      ]
+    },
+    {
+      "id": "3d48e529ad7a20b1",
+      "date": "2026-09-22",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "OpenAI از مدل‌های هوش مصنوعی پیشرفته GPT-6 Sol و Luna رونمایی کرد",
+      "title_en": "Introducing GPT-6 Sol and Luna",
+      "summary_fa": "OpenAI نسل جدید مدل‌های هوش مصنوعی خود را با نام‌های GPT-6 Sol و Luna معرفی کرد. این دو مدل، با هدف ارائه هوش پیشرفته برای کاربردهای روزمره طراحی شده‌اند. Sol و Luna توازن‌های متفاوتی از قابلیت‌ها و هزینه‌ها را ارائه می‌دهند تا کاربران بتوانند بهترین گزینه را متناسب با نیاز خود انتخاب کنند.",
+      "tags": [
+        "GPT-6",
+        "OpenAI",
+        "هوش مصنوعی",
+        "مدل زبان بزرگ",
+        "AI models"
+      ]
+    },
+    {
+      "id": "ce45d8dc0f6c9cea",
+      "date": "2026-09-22",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "GPT-6 Astra: کاهش ۵۰ درصدی زمان و هزینه تحقیقات Parallel",
+      "title_en": "Parallel cut research time and cost in half with GPT‑6 Astra",
+      "summary_fa": "مدل هوش مصنوعی GPT-6 Astra شرکت Parallel را قادر ساخته تا زمان و هزینه لازم برای تحقیقات خود را به نصف کاهش دهد. با بهره‌گیری از این ابزار قدرتمند، محققان Parallel می‌توانند داده‌های بازار کار را با کارایی به مراتب بیشتری نسبت به مدل‌های پیشین، جمع‌آوری و تحلیل کنند.",
+      "tags": [
+        "GPT-6 Astra",
+        "Parallel",
+        "هوش مصنوعی",
+        "بهره‌وری",
+        "تحلیل داده"
+      ]
+    },
+    {
+      "id": "b4fb82cc1313a309",
+      "date": "2026-09-22",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/priorities-principles-third-party-assessments",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "OpenAI چارچوب ارزیابی‌های مستقل ایمنی هوش مصنوعی را تبیین کرد",
+      "title_en": "Priorities and principles for effective third party assessments",
+      "summary_fa": "شرکت OpenAI، پیشرو در حوزه هوش مصنوعی، اخیراً اولویت‌ها و اصول خود را برای انجام ارزیابی‌های ایمنی مدل‌های هوش مصنوعی توسط اشخاص ثالث منتشر کرده است. این راهنما بر ضرورت ارزیابی‌هایی دقیق، امن و مستقل تأکید دارد تا از محافظت‌های لازم و ایمنی مدل‌های پیشرفته (frontier models) اطمینان حاصل شود.",
+      "tags": [
+        "OpenAI",
+        "AI Safety",
+        "Third-party assessment",
+        "Frontier Models",
+        "AI Governance"
+      ]
+    },
+    {
+      "id": "165ac4cbc8a7530c",
+      "date": "2025-11-24",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/chatgpt-shopping-research",
+      "category": "خدمات و محصولات هوش مصنوعی",
+      "title_fa": "ChatGPT: دستیار هوشمند شما برای جستجو و مقایسه محصولات معرفی شد",
+      "title_en": "Introducing shopping research in ChatGPT",
+      "summary_fa": "قابلیت جدید جستجوی خرید در ChatGPT به کاربران امکان می‌دهد تا محصولات مختلف را کاوش، مقایسه و کشف کنند. این ویژگی با ارائه راهنماهای خرید شخصی‌سازی‌شده، فرآیند تصمیم‌گیری برای انتخاب محصول را به طور قابل توجهی ساده‌تر می‌کند و به مصرف‌کنندگان در یافتن بهترین گزینه کمک می‌کند.",
+      "tags": [
+        "ChatGPT",
+        "OpenAI",
+        "خرید هوشمند",
+        "هوش مصنوعی",
+        "راهنمای خرید"
+      ]
+    },
+    {
+      "id": "6a6843d45760838d",
+      "date": "2025-11-24",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/gpt-5-mathematical-discovery",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "GPT-5 و کشف‌های ریاضی: حل یک معمای کلیدی در بهینه‌سازی",
+      "title_en": "GPT-5 and the future of mathematical discovery",
+      "summary_fa": "پروفسور ارنست ریو از دانشگاه UCLA و مدل هوش مصنوعی GPT-5 با همکاری یکدیگر، یک مسئله کلیدی را در نظریه بهینه‌سازی حل کردند. این دستاورد چشمگیر، پتانسیل هوش مصنوعی را در شتاب بخشیدن به فرایند کشف‌های ریاضی به وضوح نشان می‌دهد.",
+      "tags": [
+        "GPT-5",
+        "AI",
+        "ریاضیات",
+        "نظریه بهینه‌سازی",
+        "پژوهش علمی"
+      ]
+    },
+    {
+      "id": "233cf3705a5a02e9",
+      "date": "2026-09-23",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "اعتراف صریح نخست‌وزیر یونان درباره هوش مصنوعی: دولت‌ها از نبرد واقعی عقب مانده‌اند",
+      "title_en": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
+      "summary_fa": "نخست‌وزیر یونان، کریاکوس میتسوتاکیس، در جریان یک مأموریت تجاری، برخلاف انتظار که رهبران معمولاً به طرح‌های اقتصادی می‌پردازند، اعتراف صریحی درباره هوش مصنوعی مطرح کرد. او اذعان داشت که هیچ دولتی آمادگی لازم را برای مواجهه با تحولات عظیمی که هوش مصنوعی در پیش دارد، ندارد. این اظهارات، نگرانی فزاینده‌ای را درباره عدم آمادگی جهانی برای چالش‌های آینده هوش مصنوعی برجسته می‌کند.",
+      "tags": [
+        "AI",
+        "یونان",
+        "Kyriakos Mitsotakis",
+        "سیاست‌گذاری هوش مصنوعی",
+        "آمادگی دولت‌ها"
+      ]
+    },
+    {
+      "id": "d93240d4c3f73720",
+      "date": "2026-09-22",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "سامیت بنیان‌گذاران تک‌کرانچ: راهنمای موفقیت در جذب سرمایه، استخدام و هوش مصنوعی",
+      "title_en": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+      "summary_fa": "رویداد «سامیت بنیان‌گذاران تک‌کرانچ» که در تاریخ ۴ نوامبر در بوستون برگزار می‌شود، با هدف تسهیل مسیر راه‌اندازی و رشد کسب‌وکارها برای بنیان‌گذاران طراحی شده است. این سامیت با تمرکز بر موضوعات حیاتی مانند جذب سرمایه، فرآیند استخدام مؤثر و ارائه بینش‌های کلیدی در زمینه هوش مصنوعی، به کارآفرینان کمک می‌کند تا چالش‌ها را به شکلی کارآمدتر پشت سر بگذارند. هدف نهایی، دستیابی به موفقیت‌های بزرگ‌تر با دشواری‌های کمتر است تا بنیان‌گذاران مجبور نباشند سخت‌ترین درس‌ها را به دشوارترین شیوه بیاموزند.",
+      "tags": [
+        "TechCrunch",
+        "استارتاپ",
+        "جذب سرمایه",
+        "هوش مصنوعی",
+        "بنیان‌گذاران"
+      ]
+    },
+    {
+      "id": "7e5d39ad04c052e9",
+      "date": "2026-09-22",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "رونق بی‌سابقه داده‌های آموزشی هوش مصنوعی، ارزش Snorkel AI را به ۳.۵ میلیارد دلار رساند",
+      "title_en": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+      "summary_fa": "استارتاپ Snorkel AI که هفت سال از عمرش می‌گذرد، با جذب سرمایه ۳۵۰ میلیون دلاری در سری E، موفق شد ارزش‌گذاری خود را سه برابر کرده و به ۳.۵ میلیارد دلار برساند. این تامین مالی عظیم، رویکرد «داده به‌عنوان سرویس» (Data-as-a-service) این شرکت را تقویت می‌کند. این موفقیت نشان‌دهنده تقاضای فزاینده بازار برای داده‌های باکیفیت جهت آموزش مدل‌های پیشرفته هوش مصنوعی است.",
+      "tags": [
+        "Snorkel AI",
+        "AI training data",
+        "سرمایه‌گذاری",
+        "استارتاپ",
+        "Data-as-a-service"
+      ]
+    },
+    {
+      "id": "948ab460c8b3929a",
+      "date": "2026-09-22",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+      "category": "سخت‌افزار و تراشه",
+      "title_fa": "کوالکام با تراشه‌های جدید، هوش مصنوعی را به قلب گوشی‌های هوشمند آورد",
+      "title_en": "Qualcomm launches two new smartphone chips with emphasis on AI",
+      "summary_fa": "کوالکام از دو تراشه جدید برای گوشی‌های هوشمند رونمایی کرده که قابلیت‌های هوش مصنوعی محور اصلی آن‌هاست. تراشه پرچمدار جدید این شرکت قادر است مدل‌های پیچیده هوش مصنوعی، از جمله مدل‌های ۳۰ میلیارد پارامتر «mixture-of-expert» را به صورت محلی و بدون نیاز به فضای ابری اجرا کند. این پیشرفت، پردازش هوش مصنوعی روی دستگاه را به طور چشمگیری تقویت کرده و به کاربران امکان می‌دهد از قابلیت‌های پیشرفته‌تر AI مستقیماً روی گوشی خود بهره‌مند شوند.",
+      "tags": [
+        "Qualcomm",
+        "تراشه",
+        "هوش مصنوعی",
+        "گوشی هوشمند",
+        "On-device AI"
+      ]
+    },
+    {
+      "id": "047d6bbad93c2200",
+      "date": "2026-09-22",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "متا می‌پذیرد: شباهت‌های دستیار هوش مصنوعی Muse به OpenClaw تصادفی نیست",
+      "title_en": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
+      "summary_fa": "شرکت متا پیش‌تر اعلام کرده بود که دستیار هوش مصنوعی Muse خود را از پایه و به‌طور مستقل توسعه داده است. اما اکنون این شرکت اذعان دارد که Muse، به‌شدت از هوش مصنوعی OpenClaw الهام گرفته است. این الهام‌گیری عمیق تا حدی بوده که حتی برخی از نام‌های فایل فضای کاری و محتوای دستیار Muse نیز از OpenClaw الگوبرداری شده‌اند.",
+      "tags": [
+        "Meta",
+        "Muse",
+        "OpenClaw",
+        "AI",
+        "توسعه هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "11b524309fbdd29a",
+      "date": "2026-09-22",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "OpenAI از مدل‌های جدید GPT-6 Sol و Luna با وعده دقت بالاتر و هزینه کمتر رونمایی کرد",
+      "title_en": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+      "summary_fa": "شرکت OpenAI از دو مدل هوش مصنوعی جدید خود با نام‌های GPT-6 Sol و GPT-6 Luna رونمایی کرده است. این شرکت ادعا می‌کند که این مدل‌ها بر پایه فناوری مشابه مدل پیشین Astra توسعه یافته‌اند. ویژگی‌های کلیدی Sol و Luna شامل افزایش دقت در عملکرد و کاهش قابل توجه هزینه‌های استفاده است که می‌تواند دسترسی به هوش مصنوعی پیشرفته را برای کاربران و توسعه‌دهندگان آسان‌تر کند.",
+      "tags": [
+        "OpenAI",
+        "GPT-6",
+        "Astra",
+        "مدل‌های هوش مصنوعی",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "5f3b2680ef21aea3",
+      "date": "2026-09-22",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+      "category": "فناوری و امنیت مرزی",
+      "title_fa": "افشاگری: ناکامی‌های مرگبار دیوار مجازی مرزی آمریکا با وجود هزینه‌های میلیاردی",
+      "title_en": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+      "summary_fa": "ایالات متحده طی ۲۵ سال گذشته میلیاردها دلار صرف ساخت «دیوار مجازی» متشکل از برج‌های نظارتی در مرز جنوبی خود کرده است. این پروژه با وعده‌ی شناسایی و دستگیری عبورکنندگان از مرز و نجات جان آن‌ها همراه بود. اما یک تحقیق گسترده توسط MIT Technology Review مستند کرده است که بیش از هزار نفر از مناطقی که تحت نظارت همین برج‌ها بوده‌اند، عبور کرده‌اند. این یافته‌ها، شکست‌های مرگبار این سامانه تکنولوژیک را در تحقق اهداف خود، به‌ویژه در زمینه نجات جان انسان‌ها، برجسته می‌کند.",
+      "tags": [
+        "دیوار مجازی",
+        "مرز آمریکا",
+        "نظارت تکنولوژیک",
+        "MIT Technology Review",
+        "Failure"
+      ]
+    },
+    {
+      "id": "3761f8f41ab00208",
+      "date": "2026-09-22",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "هوش مصنوعی: آیا پیشرفت‌ها و نگرانی‌های اخیر بیشتر از واقعیت هیاهو هستند؟",
+      "title_en": "The Download: why AI’s latest breakthroughs and fears may be more hype than reality",
+      "summary_fa": "جدیدترین گزارش خبرنامه «The Download» به این موضوع می‌پردازد که چگونه پیشرفت‌ها و ترس‌های اخیر در حوزه هوش مصنوعی ممکن است بیش از واقعیت، صرفاً هیاهو باشند. این گزارش با اشاره به دیدگاه‌های کارشناسانی چون تیمنیت گبرو، مدیر اجرایی موسسه DAIR، و امیلی ام. بندر، استاد زبان‌شناسی، هشدار می‌دهد که نباید فریب موج هیجان‌انگیز کنونی هوش مصنوعی را خورد و به ارزیابی واقع‌بینانه نیاز است.",
+      "tags": [
+        "AI",
+        "Hype",
+        "Timnit Gebru",
+        "Emily M. Bender",
+        "DAIR"
+      ]
+    },
+    {
+      "id": "51d4ae7b470f70ec",
+      "date": "2026-09-22",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "هیاهوی تابستانی هوش مصنوعی: اغراق یا واقعیت؟",
+      "title_en": "Don’t be fooled by this summer of AI hype",
+      "summary_fa": "در ماه‌های اخیر، ادعاهای بزرگی درباره توانایی‌های هوش مصنوعی، به‌ویژه در زمینه کشف آسیب‌پذیری‌های نرم‌افزاری، مطرح شده است. مواردی چون ادعای Anthropic برای مدل Claude Mythos و همچنین حوادث امنیتی مربوط به OpenAI-Hugging Face و افشای موارد مشابه توسط Anthropic و Meta، فضای پرهیاهویی ایجاد کرده است. این رویدادها، نیاز به نگاهی نقادانه به پیشرفت‌های هوش مصنوعی و تفکیک واقعیت از اغراق را برجسته می‌کند.",
+      "tags": [
+        "AI hype",
+        "امنیت سایبری",
+        "آسیب‌پذیری نرم‌افزاری",
+        "Anthropic",
+        "OpenAI"
       ]
     }
   ]
