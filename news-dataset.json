@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-09-24",
+    "last_updated": "2026-09-25",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 1145
+    "total_articles": 1149
   },
   "articles": [
     {
@@ -19412,6 +19412,74 @@
         "هند",
         "اعتراضات",
         "نقض حریم خصوصی"
+      ]
+    },
+    {
+      "id": "1d5a9cc2d9509da8",
+      "date": "2026-09-23",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/introducing-mentalhealthbench",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "معیار MentalHealthBench: ارزیابی ایمنی و کارایی هوش مصنوعی در حوزه سلامت روان",
+      "title_en": "Introducing MentalHealthBench",
+      "summary_fa": "MentalHealthBench یک معیار جدید است که با مشورت متخصصان توسعه یافته است. هدف آن ارزیابی پاسخ‌های مفید و ایمن هوش مصنوعی در گفتگوهای واقعی مربوط به سلامت روان است. این ابزار به محققان و توسعه‌دهندگان کمک می‌کند تا مدل‌های هوش مصنوعی را با دقت بیشتری سنجیده و از ارائه راهنمایی‌های مسئولانه اطمینان حاصل کنند.",
+      "tags": [
+        "MentalHealthBench",
+        "AI safety",
+        "سلامت روان",
+        "ارزیابی هوش مصنوعی",
+        "هوش مصنوعی مسئولانه"
+      ]
+    },
+    {
+      "id": "09a0c6dbf1c6c00d",
+      "date": "2026-09-23",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "Grab و OpenAI: آموزش هوش مصنوعی کاربردی برای ۳۰ هزار نفر در جنوب شرق آسیا",
+      "title_en": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+      "summary_fa": "OpenAI و Grab با راه‌اندازی برنامه مشترک «GO Forward with AI»، گام بلندی برای توسعه مهارت‌های عملی هوش مصنوعی برداشته‌اند. هدف این ابتکار منطقه‌ای، تجهیز ۳۰ هزار شریک تجاری در سراسر جنوب شرق آسیا به ابزارهای کاربردی هوش مصنوعی است. این برنامه به منظور توانمندسازی افراد و کسب‌وکارها در استفاده از پتانسیل هوش مصنوعی طراحی شده است.",
+      "tags": [
+        "OpenAI",
+        "Grab",
+        "Southeast Asia",
+        "مهارت‌های هوش مصنوعی",
+        "آموزش"
+      ]
+    },
+    {
+      "id": "af0822c9154187c7",
+      "date": "2025-11-20",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/openai-and-foxconn-collaborate",
+      "category": "سخت‌افزار و تراشه",
+      "title_fa": "همکاری OpenAI و فاکس‌کان: تولید زیرساخت‌های هوش مصنوعی نسل جدید در آمریکا",
+      "title_en": "OpenAI and Foxconn collaborate to strengthen U.S. manufacturing across the AI supply chain",
+      "summary_fa": "شرکت‌های OpenAI و Foxconn در یک همکاری استراتژیک، قصد دارند به طراحی و تولید سخت‌افزارهای زیرساختی نسل بعدی هوش مصنوعی در ایالات متحده بپردازند. هدف این شراکت، توسعه چندین نسل از سیستم‌های مراکز داده، تقویت زنجیره تأمین هوش مصنوعی در آمریکا و ساخت قطعات کلیدی در داخل کشور برای تسریع توسعه زیرساخت‌های پیشرفته هوش مصنوعی است.",
+      "tags": [
+        "OpenAI",
+        "Foxconn",
+        "زیرساخت هوش مصنوعی",
+        "سخت‌افزار هوش مصنوعی",
+        "زنجیره تامین"
+      ]
+    },
+    {
+      "id": "100e175c23a33c7b",
+      "date": "2025-11-20",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/small-business-ai-jam",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "OpenAI: هوش مصنوعی برای توانمندسازی ۱۰۰۰ کسب‌وکار کوچک",
+      "title_en": "Helping 1,000 small businesses build with AI",
+      "summary_fa": "OpenAI با همکاری DoorDash، SCORE و سازمان‌های محلی، برنامه‌ای را برای کمک به ۱۰۰۰ کسب‌وکار کوچک در جهت پیاده‌سازی هوش مصنوعی آغاز کرده است. این برنامه که با نام «Small Business AI Jam» شناخته می‌شود، ابزارها و آموزش‌های عملی را برای صاحبان کسب‌وکارهای محلی فراهم می‌کند. هدف از این ابتکار، توانمندسازی آن‌ها برای رقابت و رشد در بازار کنونی با بهره‌گیری از قابلیت‌های هوش مصنوعی است.",
+      "tags": [
+        "OpenAI",
+        "Small Business AI Jam",
+        "کسب‌وکارهای کوچک",
+        "پذیرش هوش مصنوعی",
+        "DoorDash"
       ]
     }
   ]
