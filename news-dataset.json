@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-09-25",
+    "last_updated": "2026-09-26",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 1149
+    "total_articles": 1163
   },
   "articles": [
     {
@@ -19480,6 +19480,243 @@
         "کسب‌وکارهای کوچک",
         "پذیرش هوش مصنوعی",
         "DoorDash"
+      ]
+    },
+    {
+      "id": "d2d497e5eee41848",
+      "date": "2026-09-25",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/proaction",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "موفقیت Proaction با هوش مصنوعی: ۶۰ درصد رشد فروش و صرفه‌جویی در زمان با Codex",
+      "title_en": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+      "summary_fa": "شرکت Proaction با بهره‌گیری از ابزارهای هوش مصنوعی مانند Codex، GPT-Live-1 و GPT-6 Astra توانسته است فرآیندهای ساخت، عملیات و فروش سامانه‌های مدیریت ناوگان خود را به طور چشمگیری سرعت بخشد. این رویکرد منجر به افزایش ۶۰ درصدی فروش و صرفه‌جویی بیش از ۷۵ ساعت در زمان شده است.",
+      "tags": [
+        "Proaction",
+        "Codex",
+        "GPT-Live-1",
+        "هوش مصنوعی",
+        "مدیریت ناوگان"
+      ]
+    },
+    {
+      "id": "1dd9ce125c6e0e60",
+      "date": "2026-09-23",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
+      "category": "بازار و کسب‌وکار هوش مصنوعی",
+      "title_fa": "گسترش پلتفرم تبلیغاتی ChatGPT Ads به بازارهای جنوب شرق آسیا و تایوان",
+      "title_en": "ChatGPT Ads expands to Southeast Asia and Taiwan",
+      "summary_fa": "پلتفرم تبلیغاتی ChatGPT Ads دامنه فعالیت خود را به منطقه جنوب شرق آسیا و تایوان گسترش داده است. این توسعه به کسب‌وکارهای واجد شرایط این فرصت را می‌دهد که با استفاده از ابزارهای جدید، به مخاطبان خود در بیش از ۶۰ کشور جهان دسترسی پیدا کنند و ارتباطات بازاریابی خود را تقویت بخشند.",
+      "tags": [
+        "ChatGPT Ads",
+        "بازاریابی دیجیتال",
+        "Southeast Asia",
+        "Taiwan",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "73fafdf6f45f6a41",
+      "date": "2026-09-23",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/airbnb-gpt-6-astra",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "Airbnb دسترسی به GPT-6 آسترا را برای مهندسانش گسترش می‌دهد: شتاب در حل مشکلات و توسعه",
+      "title_en": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
+      "summary_fa": "شرکت Airbnb در حال گسترش دسترسی تیم‌های مهندسی خود به مدل‌های پیشرفته هوش مصنوعی OpenAI، از جمله GPT-6 آسترا و سایر مدل‌های پیشگام است. این اقدام با هدف افزایش بهره‌وری مهندسان انجام می‌شود. با استفاده از این ابزارها، تیم‌ها قادر خواهند بود مشکلات نرم‌افزاری را سریع‌تر حل کنند، سیستم‌های پیچیده‌تری را طراحی کنند و محصولات را با سرعت بیشتری به بازار عرضه نمایند.",
+      "tags": [
+        "Airbnb",
+        "OpenAI",
+        "GPT-6 Astra",
+        "هوش مصنوعی",
+        "بهره‌وری مهندسی"
+      ]
+    },
+    {
+      "id": "fab147c72d8e978f",
+      "date": "2025-11-20",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/accelerating-science-gpt-5",
+      "category": "کاربرد هوش مصنوعی در علم و پزشکی",
+      "title_fa": "آزمایش‌های پیشگامانه: GPT-5 در خدمت شتاب‌دهی به کشفیات علمی",
+      "title_en": "Early experiments in accelerating science with GPT-5",
+      "summary_fa": "OpenAI اولین نمونه‌های تحقیقاتی را معرفی کرده که نشان می‌دهد GPT-5 چگونه به پیشرفت‌های علمی در ریاضیات، فیزیک، زیست‌شناسی و علوم کامپیوتر سرعت می‌بخشد. این آزمایش‌ها چگونگی همکاری هوش مصنوعی با محققان را برای تولید اثبات‌ها، کشف بینش‌های جدید و تغییر سرعت اکتشافات علمی به تصویر می‌کشند.",
+      "tags": [
+        "GPT-5",
+        "OpenAI",
+        "تحقیقات علمی",
+        "هوش مصنوعی",
+        "شتاب‌دهی علمی"
+      ]
+    },
+    {
+      "id": "622e7b650fdd2137",
+      "date": "2025-11-19",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/strengthening-safety-with-external-testing",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "OpenAI: افزایش ایمنی هوش مصنوعی با ارزیابی‌های مستقل",
+      "title_en": "Strengthening our safety ecosystem with external testing",
+      "summary_fa": "OpenAI برای تقویت اکوسیستم ایمنی خود، با کارشناسان مستقل همکاری می‌کند تا سیستم‌های هوش مصنوعی پیشرفته را مورد ارزیابی قرار دهد. این آزمایش‌های شخص ثالث، ایمنی را تقویت کرده، مکانیسم‌های محافظتی را تأیید می‌کنند و شفافیت را در فرایند ارزیابی قابلیت‌ها و خطرات مدل‌ها افزایش می‌دهند.",
+      "tags": [
+        "OpenAI",
+        "ایمنی هوش مصنوعی",
+        "ارزیابی مدل‌های هوش مصنوعی",
+        "شفافیت"
+      ]
+    },
+    {
+      "id": "1fe1b6ab723e89e7",
+      "date": "2026-09-26",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
+      "category": "فناوری‌های پوشیدنی و تعاملات دیجیتال",
+      "title_fa": "عینک‌های هوشمند متا، محور اصلی رویداد Meta Connect",
+      "title_en": "At Meta Connect, the company’s smart glasses were everywhere",
+      "summary_fa": "شرکت متا، خالق فیس‌بوک و اینستاگرام، در کنفرانس Meta Connect امسال تمرکز ویژه‌ای بر عینک‌های هوشمند خود داشت. این شرکت به دنبال آن است که با توسعه و گسترش خط تولید عینک‌های هوشمند خود، کاربران را به شیوه‌ای عمیق‌تر و پیوسته‌تر به دنیای دیجیتال متصل نگه دارد.",
+      "tags": [
+        "Meta",
+        "Smart glasses",
+        "Meta Connect",
+        "فناوری پوشیدنی",
+        "واقعیت افزوده"
+      ]
+    },
+    {
+      "id": "303ad555831b21db",
+      "date": "2026-09-25",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "Crusoe از برنامه ۱.۲۵ میلیارد دلاری تامین انرژی مراکز داده هوش مصنوعی با توربین‌های Boom منصرف شد",
+      "title_en": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+      "summary_fa": "شرکت Crusoe اعلام کرد که از برنامه ۱.۲۵ میلیارد دلاری خود برای استفاده از نیروگاه‌های ثابت شرکت Boom Supersonic در مراکز داده هوش مصنوعی منصرف شده است. بلیک شول، مدیرعامل Boom Supersonic، تایید کرد که این نیروگاه‌ها دیگر در برنامه‌های کوتاه‌مدت Crusoe جایی ندارند و این شرکت مسیر متفاوتی را در پیش گرفته است.",
+      "tags": [
+        "Crusoe",
+        "Boom Supersonic",
+        "AI data centers",
+        "انرژی",
+        "سرمایه‌گذاری"
+      ]
+    },
+    {
+      "id": "28eff29135c5cfc5",
+      "date": "2026-09-25",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
+      "category": "کاربردها و ابزارهای هوش مصنوعی",
+      "title_fa": "متا دسترسی زودهنگام به قابلیت‌های جدید ابزار هوش مصنوعی Muse را فراهم کرد",
+      "title_en": "Meta opens early access program for new Muse features",
+      "summary_fa": "شرکت متا برنامه دسترسی زودهنگام برای قابلیت‌های جدید ابزار هوش مصنوعی خود به نام Muse را راه‌اندازی کرده است. افراد علاقه‌مند می‌توانند با ثبت درخواست از طریق Muse، به فهرست انتظار بپیوندند تا جزو اولین کسانی باشند که این ویژگی‌های نوین را تجربه می‌کنند.",
+      "tags": [
+        "Meta",
+        "Muse",
+        "هوش مصنوعی",
+        "دسترسی زودهنگام",
+        "AI Tools"
+      ]
+    },
+    {
+      "id": "e64ca276161246bc",
+      "date": "2026-09-25",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "قرارداد ۱۱.۶ میلیارد دلاری آنتروپیک با آکامای: تامین زیرساخت ابری و سهام متقابل",
+      "title_en": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+      "summary_fa": "شرکت هوش مصنوعی آنتروپیک طی یک توافق هفت‌ساله، متعهد شده است که ۱۱.۶ میلیارد دلار به آکامای برای استفاده از زیرساخت ابری این شرکت بپردازد. این سرمایه‌گذاری عظیم، که می‌تواند تا ۲۰ میلیارد دلار نیز افزایش یابد، بر پردازنده‌های مرکزی (CPU) تمرکز دارد. در یک ترتیب غیرمعمول، آکامای نیز سهمی بالقوه تا ۵ درصد از سهام خود را به آنتروپیک واگذار خواهد کرد که متناسب با میزان هزینه‌کرد آنتروپیک افزایش می‌یابد.",
+      "tags": [
+        "Anthropic",
+        "Akamai",
+        "Cloud",
+        "زیرساخت هوش مصنوعی",
+        "CPU"
+      ]
+    },
+    {
+      "id": "b97518582a39afcd",
+      "date": "2026-09-25",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "مارک والبرگ در TechCrunch Disrupt 2026: نه بازیگر، که سرمایه‌گذار و کارآفرین",
+      "title_en": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+      "summary_fa": "مارک والبرگ، بازیگر و چهره شناخته‌شده، در کنفرانس معتبر TechCrunch Disrupt 2026 حضور خواهد یافت. او در کنار بروس کی. لی، نه برای گفتگو درباره حرفه بازیگری‌اش، بلکه با هدف بحث و تبادل نظر پیرامون سرمایه‌گذاری، کارآفرینی و ساخت کسب‌وکارهای جدید به این رویداد می‌آید. این حضور بر حوزه‌هایی چون سلامت و تندرستی نیز متمرکز خواهد بود و فرصتی برای شنیدن از کار دیگران فراهم می‌کند.",
+      "tags": [
+        "Mark Wahlberg",
+        "TechCrunch Disrupt",
+        "سرمایه‌گذاری",
+        "کارآفرینی",
+        "سلامت و تندرستی"
+      ]
+    },
+    {
+      "id": "f65d03898c69c595",
+      "date": "2026-09-25",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/",
+      "category": "کاربرد هوش مصنوعی در دفاع و امنیت",
+      "title_fa": "سرمایه‌گذاری ۳۰ میلیون دلاری پنتاگون برای توسعه دروغ‌سنج هوش مصنوعی",
+      "title_en": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
+      "summary_fa": "دولت ایالات متحده، از طریق پنتاگون، در نظر دارد طی پنج سال آینده مبلغ ۳۰.۳ میلیون دلار را به ساخت و توسعه یک دروغ‌سنج پیشرفته مبتنی بر هوش مصنوعی اختصاص دهد. این پروژه با هدف ارتقاء قابلیت‌های شناسایی حقیقت و دروغ، گامی نوین در به‌کارگیری فناوری‌های هوشمند در نهادهای دفاعی آمریکاست. این سرمایه‌گذاری نشان‌دهنده علاقه رو به رشد ارگان‌های نظامی به استفاده از AI برای کاربردهای حساس امنیتی است.",
+      "tags": [
+        "Pentagon",
+        "AI",
+        "دروغ‌سنج هوش مصنوعی",
+        "فناوری دفاعی",
+        "سرمایه‌گذاری دولتی"
+      ]
+    },
+    {
+      "id": "8ad8b65737693a4c",
+      "date": "2026-09-25",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/",
+      "category": "بیوتکنولوژی و پزشکی",
+      "title_fa": "تردیدها درباره «چشمه جوانی» با اعضای پیوندی: رؤیای عمر ابدی در گفتگوهای بلندپایه",
+      "title_en": "Young organs may not be a fountain of youth for recipients",
+      "summary_fa": "پژوهش‌های اخیر نشان می‌دهند که پیوند اعضای جوان ممکن است لزوماً به «چشمه جوانی» برای دریافت‌کنندگان تبدیل نشود و عمر آن‌ها را به شکل چشمگیری افزایش ندهد. با این حال، در سطوح بالای سیاسی، رؤیای طول عمر ابدی با استفاده از پیشرفت‌های بیوتکنولوژی و قابلیت‌های توسعه اندام‌های انسانی، همچنان در کانون بحث و گفت‌وگو قرار دارد. این موضوع پس از انتشار خبر مکالمه فاش‌شده سران روسیه و چین درباره امکان جاودانگی، اهمیت بیشتری یافته است.",
+      "tags": [
+        "بیوتکنولوژی",
+        "طول عمر",
+        "پیوند عضو",
+        "Russia",
+        "China"
+      ]
+    },
+    {
+      "id": "6c593700a3c147d1",
+      "date": "2026-09-24",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "طرح جدید در کنگره آمریکا: تلاش برای برچیدن «دیوار مجازی» و توقف برنامه نظارت مرزی با هوش مصنوعی",
+      "title_en": "The Download: a bid to scrap the virtual wall and AI hits Climate Week",
+      "summary_fa": "دلیا رامیرز، نماینده دموکرات ایالت ایلینوی در کنگره آمریکا، قصد دارد طرحی قانونی را برای توقف برنامه برج‌های نظارتی در مرزهای این کشور ارائه کند. این برنامه که به نوعی «دیوار مجازی» شناخته می‌شود، شامل سیستم‌های پایش هوشمند است که با هدف کنترل مرزها به کار گرفته می‌شوند. هدف از این پیشنهاد، برچیدن زیرساخت‌های نظارتی مبتنی بر هوش مصنوعی است که در حال حاضر در مرزهای ایالات متحده فعال هستند.",
+      "tags": [
+        "AI",
+        "نظارت مرزی",
+        "کنگره آمریکا",
+        "Delia Ramirez",
+        "دیوار مجازی"
+      ]
+    },
+    {
+      "id": "411c6636b84e21a0",
+      "date": "2026-09-24",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/",
+      "category": "هوش مصنوعی و تغییرات اقلیمی",
+      "title_fa": "هوش مصنوعی، محور اصلی گفت‌وگوها در هفته اقلیم نیویورک",
+      "title_en": "AI is dominating the conversation at Climate Week",
+      "summary_fa": "در حالی که رهبران جهان برای مجمع عمومی سازمان ملل در منهتن گرد آمده‌اند، هفته اقلیم نیویورک نیز میزبان سرمایه‌گذاران، سیاستمداران و فعالان محیط زیست است. در میان انبوه بحث‌ها و سخنرانی‌های مربوط به اقلیم، موضوع هوش مصنوعی به محور اصلی گفت‌وگوها تبدیل شده است. این امر نشان‌دهنده اهمیت فزاینده AI در مواجهه با چالش‌های اقلیمی و محیط زیستی است.",
+      "tags": [
+        "AI",
+        "Climate Week",
+        "تغییر اقلیم",
+        "سازمان ملل",
+        "پایداری"
       ]
     }
   ]
