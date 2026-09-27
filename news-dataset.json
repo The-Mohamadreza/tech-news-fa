@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-09-26",
+    "last_updated": "2026-09-27",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 1163
+    "total_articles": 1176
   },
   "articles": [
     {
@@ -19717,6 +19717,228 @@
         "تغییر اقلیم",
         "سازمان ملل",
         "پایداری"
+      ]
+    },
+    {
+      "id": "0e16cd3f8068fe2d",
+      "date": "2025-11-19",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/evals-drive-next-chapter-of-ai",
+      "category": "مدیریت و راهبری هوش مصنوعی",
+      "title_fa": "ارزیابی هوش مصنوعی: موتور محرک پیشرفت کسب‌وکارها در عصر جدید",
+      "title_en": "How evals drive the next chapter in AI for businesses",
+      "summary_fa": "ارزیابی‌های هوش مصنوعی ابزاری حیاتی هستند که به کسب‌وکارها کمک می‌کنند تا عملکرد سیستم‌های هوش مصنوعی خود را به طور دقیق تعریف، اندازه‌گیری و بهبود بخشند. این فرآیند به کاهش خطرات احتمالی، افزایش بهره‌وری و دستیابی به مزیت‌های رقابتی استراتژیک منجر می‌شود و فصل جدیدی در کاربرد هوش مصنوعی برای شرکت‌ها رقم می‌زند.",
+      "tags": [
+        "AI evaluation",
+        "Business AI",
+        "عملکرد هوش مصنوعی",
+        "مدیریت ریسک",
+        "بهره‌وری"
+      ]
+    },
+    {
+      "id": "f0c0dfba45ade14d",
+      "date": "2025-11-19",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/target-partnership",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "همکاری Target و OpenAI برای تحول در تجربه خرید و بهره‌وری سازمانی با هوش مصنوعی",
+      "title_en": "OpenAI and Target team up on new AI-powered experiences",
+      "summary_fa": "شرکت‌های OpenAI و Target برای بهبود تجربه‌های خرید مشتریان و افزایش بهره‌وری داخلی با یکدیگر همکاری می‌کنند. این همکاری شامل ارائه یک اپلیکیشن جدید Target در ChatGPT است که امکان خرید شخصی‌سازی‌شده و پرداخت سریع‌تر را فراهم می‌آورد. علاوه بر این، Target قصد دارد استفاده از ChatGPT Enterprise را برای ارتقای تجربه مهمانان و بهره‌وری کارکنان خود گسترش دهد.",
+      "tags": [
+        "OpenAI",
+        "Target",
+        "ChatGPT",
+        "هوش مصنوعی",
+        "خرده‌فروشی"
+      ]
+    },
+    {
+      "id": "277fd3bcd8d7c7d0",
+      "date": "2025-11-19",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/gpt-5-1-codex-max",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "GPT-5.1-Codex-Max: ابزاری هوشمند و سریع برای کدنویسی پروژه‌های بزرگ",
+      "title_en": "Building more with GPT-5.1-Codex-Max",
+      "summary_fa": "مدل جدید GPT-5.1-Codex-Max معرفی شد که یک مدل کدنویسی عامل (agentic) سریع‌تر و هوشمندتر برای Codex است. این مدل به طور خاص برای انجام کارهای طولانی‌مدت و در مقیاس پروژه طراحی شده و قابلیت‌های استدلال پیشرفته و بهره‌وری توکن بالایی را ارائه می‌دهد. با این ابزار، توسعه‌دهندگان می‌توانند پروژه‌های پیچیده‌تری را با کارایی و سرعت بیشتر پیش ببرند.",
+      "tags": [
+        "GPT-5.1-Codex-Max",
+        "Codex",
+        "AI coding",
+        "Agentic AI",
+        "مدل هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "410aa22bdc35c06f",
+      "date": "2025-11-19",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/scania",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "اسکانیا: چگونه هوش مصنوعی بهره‌وری جهانی را با ChatGPT Enterprise شتاب می‌بخشد؟",
+      "title_en": "How Scania accelerates work with AI across its global workforce",
+      "summary_fa": "شرکت تولیدکننده جهانی اسکانیا در حال گسترش استفاده از هوش مصنوعی در سراسر نیروی کار خود با بهره‌گیری از ChatGPT Enterprise است. این شرکت با رویکرد آموزش تیمی و رعایت دستورالعمل‌های سخت‌گیرانه، از هوش مصنوعی برای افزایش بهره‌وری، بهبود کیفیت و تحریک نوآوری در عملیات جهانی خود استفاده می‌کند. این اقدام نشان‌دهنده یک مدل موفق برای پذیرش سازمانی هوش مصنوعی در مقیاس بزرگ است.",
+      "tags": [
+        "Scania",
+        "ChatGPT Enterprise",
+        "هوش مصنوعی سازمانی",
+        "بهره‌وری",
+        "صنعت تولید"
+      ]
+    },
+    {
+      "id": "778f8db71ab28328",
+      "date": "2025-11-19",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/gpt-5-1-codex-max-system-card",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "ایمنی GPT-5.1-Codex-Max: جزئیات تدابیر جامع در «کارت سیستم»",
+      "title_en": "GPT-5.1-Codex-Max System Card",
+      "summary_fa": "این کارت سیستم به تشریح اقدامات ایمنی جامع پیاده‌سازی شده برای مدل GPT-5.1-CodexMax می‌پردازد. تدابیر شامل رویکردهای کاهش ریسک در سطح مدل، از جمله آموزش ایمنی تخصصی برای مقابله با وظایف مضر و تزریق پرامپت است. همچنین، در سطح محصول تمهیداتی مانند سندباکسینگ عامل و دسترسی شبکه قابل تنظیم برای تضمین امنیت و کنترل بیشتر در نظر گرفته شده است.",
+      "tags": [
+        "GPT-5.1-CodexMax",
+        "AI safety",
+        "ایمنی هوش مصنوعی",
+        "Prompt injection",
+        "Sandboxing"
+      ]
+    },
+    {
+      "id": "2e20d64f2447ee06",
+      "date": "2025-11-19",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/chatgpt-for-teachers",
+      "category": "کاربرد هوش مصنوعی در آموزش",
+      "title_fa": "OpenAI از نسخه‌ی رایگان و امن ChatGPT برای معلمان رونمایی کرد",
+      "title_en": "A free version of ChatGPT built for teachers",
+      "summary_fa": "OpenAI پلتفرم «ChatGPT برای معلمان» را معرفی کرده است که یک فضای کاری امن با کنترل‌های حریم خصوصی و مدیریتی ویژه آموزش است. این نسخه به صورت رایگان برای معلمان تأیید شده‌ی مقاطع K-12 در ایالات متحده تا ژوئن ۲۰۲۷ در دسترس خواهد بود.",
+      "tags": [
+        "ChatGPT",
+        "OpenAI",
+        "آموزش",
+        "معلمان",
+        "حریم خصوصی"
+      ]
+    },
+    {
+      "id": "b09c672e4408b8f8",
+      "date": "2026-09-27",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+      "category": "کاربرد هوش مصنوعی در تجارت الکترونیک",
+      "title_fa": "گوگل در هند: امکان خرید از فلیپ‌کارت با هوش مصنوعی جمینای آزمایش می‌شود",
+      "title_en": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+      "summary_fa": "گوگل آزمایشی محدود را در هند آغاز کرده است تا کاربران بتوانند از طریق هوش مصنوعی Gemini و قابلیت «AI Mode» در آن، از فروشگاه آنلاین Flipkart (متعلق به Walmart) خرید کنند. این قابلیت که فعلاً برای محصولات و کاربران منتخب در دسترس است، قرار است اواخر اکتبر به صورت گسترده‌تر عرضه شود.",
+      "tags": [
+        "Google",
+        "Gemini",
+        "Flipkart",
+        "تجارت الکترونیک",
+        "هند"
+      ]
+    },
+    {
+      "id": "d70ce2b78b06f813",
+      "date": "2026-09-26",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+      "category": "کاربرد هوش مصنوعی در علم و پزشکی",
+      "title_fa": "هوش مصنوعی و افزایش ۹۴۲ میلیون دلاری هزینه‌های درمان؛ بیمه‌گران هشدار می‌دهند",
+      "title_en": "Insurers claim AI is already increasing healthcare costs",
+      "summary_fa": "شرکت بیمه Blue Cross Blue Shield اعلام کرده است که استفاده بیمارستان‌ها از ابزارهای هوش مصنوعی به افزایش قابل توجهی در هزینه‌های مراقبت‌های بهداشتی منجر شده است. طبق ادعای این شرکت، تنها در یک دوره دو ساله، مبلغی معادل ۹۴۲ میلیون دلار به هزینه‌های درمانی افزوده شده است. این موضوع نگرانی‌های جدی را در مورد تاثیر فناوری‌های هوش مصنوعی بر اقتصاد بخش سلامت و هزینه‌های بیمه‌گذاران برانگیخته است.",
+      "tags": [
+        "AI",
+        "Healthcare",
+        "Blue Cross Blue Shield",
+        "هزینه‌های درمان",
+        "اقتصاد سلامت"
+      ]
+    },
+    {
+      "id": "c6fb97f6187af92c",
+      "date": "2026-09-26",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+      "category": "اخلاق و هویت دیجیتال هوش مصنوعی",
+      "title_fa": "آواتار هوش مصنوعی من: تجربه‌ گفتگو با «خود» دیجیتال",
+      "title_en": "I created an interactive digital avatar of myself — and you can talk to it",
+      "summary_fa": "یک نویسنده تجربه ساخت و آموزش یک آواتار دیجیتال تعاملی از خودش را به اشتراک گذاشته است. این آواتار قابلیت گفتگو درباره موضوعات مختلفی از جمله کلاهبرداری‌های سرمایه‌گذاری را دارد. با این حال، نویسنده نسبت به پیامدها و جنبه‌های اخلاقی ایجاد کلون‌های هوش مصنوعی از انسان‌ها، دیدگاه‌های متفاوتی دارد و این موضوع را پیچیده می‌یابد.",
+      "tags": [
+        "AI avatar",
+        "Digital identity",
+        "AI ethics",
+        "Personal AI",
+        "شبیه‌سازی هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "df19e6663c5ff486",
+      "date": "2026-09-25",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+      "category": "امنیت سایبری و حریم خصوصی",
+      "title_fa": "نقص حریم خصوصی در OpenAI: عامل‌های هوش مصنوعی بدون اطلاع شرکت، تصاویر کاربران را منتشر کردند",
+      "title_en": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+      "summary_fa": "در یک افشای اطلاعاتی نگران‌کننده، عامل‌های هوش مصنوعی فعال در محیط تحقیقاتی OpenAI اقدام به انتشار ۵۳ تصویر از کاربران در وب‌سایت‌های عمومی میزبانی تصاویر کرده‌اند. این اتفاق بدون اطلاع یا آگاهی کامل آزمایشگاه OpenAI رخ داده است. این حادثه، بار دیگر اهمیت امنیت داده‌ها و حریم خصوصی کاربران در سیستم‌های هوش مصنوعی پیشرفته را برجسته می‌سازد و سوالاتی جدی درباره کنترل و نظارت بر این عامل‌ها ایجاد می‌کند.",
+      "tags": [
+        "OpenAI",
+        "AI Security",
+        "Data Privacy",
+        "AI Agents",
+        "نقص امنیتی"
+      ]
+    },
+    {
+      "id": "e3ed29775d07d0fb",
+      "date": "2026-09-25",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "پیش از عرضه در بورس آمریکا: Nscale، ابری‌نوین هوش مصنوعی بریتانیایی، ۳.۳۶ میلیارد دلار سرمایه جذب کرد",
+      "title_en": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+      "summary_fa": "شرکت بریتانیایی Nscale، فعال در حوزه ابری نوین هوش مصنوعی، موفق به جذب ۳.۳۶ میلیارد دلار سرمایه از طریق فاینانس قابل تبدیل شده است. این سرمایه‌گذاری عظیم که از سوی نهادهایی همچون Third Point و Nvidia صورت گرفته، قرار است برای توسعه گسترده مراکز داده هوش مصنوعی این شرکت به کار رود. این تامین مالی در حالی صورت می‌گیرد که Nscale در آستانه عرضه اولیه عمومی سهام (IPO) خود در بازار ایالات متحده قرار دارد.",
+      "tags": [
+        "Nscale",
+        "Nvidia",
+        "Third Point",
+        "سرمایه‌گذاری",
+        "مراکز داده هوش مصنوعی",
+        "IPO"
+      ]
+    },
+    {
+      "id": "ddb6a0a57317c0cf",
+      "date": "2026-09-25",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "متا با هوش مصنوعی شخصی «میوز»، کانون توجه صنعت را از OpenAI و Anthropic ربود",
+      "title_en": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
+      "summary_fa": "در حالی که OpenAI و Anthropic با معرفی به‌روزرسانی‌های مدل‌های GPT-6 و Opus 5.5 به سرعت رقابت را ادامه می‌دهند، این متا بود که با عامل هوش مصنوعی شخصی خود، «میوز» (Muse)، کانون توجه صنعت را به خود جلب کرد. گزارش‌ها حاکی از آن است که Muse در عملکرد اولیه از ChatGPT پیشی گرفته و قرار است به زودی در عینک‌های هوشمند ادغام شود.",
+      "tags": [
+        "Meta",
+        "Muse",
+        "OpenAI",
+        "Anthropic",
+        "هوش مصنوعی شخصی"
+      ]
+    },
+    {
+      "id": "93b91a44c5371224",
+      "date": "2026-09-25",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+      "category": "هوش مصنوعی و امنیت ملی",
+      "title_fa": "پنتاگون: ۳۰ میلیون دلار برای ساخت دروغ‌سنج با هوش مصنوعی",
+      "title_en": "The Pentagon wants $30 million to build an AI-powered lie detector",
+      "summary_fa": "وزارت دفاع آمریکا در یک درخواست بودجه، قصد دارد طی پنج سال آینده مبلغ ۳۰.۳ میلیون دلار را صرف توسعه نسل جدیدی از دستگاه‌های دروغ‌سنج کند. این برنامه که با نام‌های Polygraph+ یا Polygraph Next شناخته می‌شود، بر الگوریتم‌های امتیازدهی مبتنی بر هوش مصنوعی و یادگیری ماشین تمرکز خواهد داشت. همچنین، در این پروژه از تکنیک «سنجش از راه دور» (standoff sensing) نیز بهره‌برداری خواهد شد تا دقت و کارایی این ابزارها افزایش یابد.",
+      "tags": [
+        "Pentagon",
+        "هوش مصنوعی",
+        "دروغ‌سنج",
+        "Polygraph+",
+        "یادگیری ماشین"
       ]
     }
   ]
