@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-09-27",
+    "last_updated": "2026-09-28",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 1176
+    "total_articles": 1189
   },
   "articles": [
     {
@@ -19939,6 +19939,227 @@
         "دروغ‌سنج",
         "Polygraph+",
         "یادگیری ماشین"
+      ]
+    },
+    {
+      "id": "814d82eb231bd317",
+      "date": "2025-11-18",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/intuit-partnership",
+      "category": "کاربرد هوش مصنوعی در امور مالی",
+      "title_fa": "Intuit و OpenAI: شراکت ۱۰۰ میلیون دلاری برای هوشمندسازی ابزارهای مالی",
+      "title_en": "Intuit and OpenAI join forces on new AI-powered experiences",
+      "summary_fa": "Intuit و OpenAI یک شراکت چندساله با سرمایه‌ای بالغ بر ۱۰۰ میلیون دلار را آغاز کرده‌اند. این همکاری با هدف ادغام قابلیت‌های اپلیکیشن‌های Intuit در پلتفرم ChatGPT صورت می‌گیرد. همچنین، Intuit قصد دارد با استفاده از مدل‌های پیشرفته هوش مصنوعی OpenAI، ابزارهای مالی شخصی‌سازی‌شده و کارآمدتری را توسعه دهد.",
+      "tags": [
+        "Intuit",
+        "OpenAI",
+        "ChatGPT",
+        "هوش مصنوعی",
+        "امور مالی"
+      ]
+    },
+    {
+      "id": "862429ef7fc559ed",
+      "date": "2025-11-17",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/gartner-2025-emerging-leader",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "گارنر: اوپن‌ای‌آی، پیشتاز نوظهور در عرصه هوش مصنوعی مولد",
+      "title_en": "OpenAI named Emerging Leader in Generative AI",
+      "summary_fa": "شرکت OpenAI در جدیدترین راهنمای نوآوری گارنر برای ارائه‌دهندگان مدل‌های هوش مصنوعی مولد، به عنوان یک «پیشتاز نوظهور» معرفی شده است. این شناسایی، بیانگر حرکت رو به جلوی اوپن‌ای‌آی در بازار سازمانی است. در حال حاضر، بیش از یک میلیون شرکت از ChatGPT برای ساخت و توسعه محصولات خود استفاده می‌کنند که نفوذ گسترده این فناوری را نشان می‌دهد.",
+      "tags": [
+        "OpenAI",
+        "Gartner",
+        "Generative AI",
+        "ChatGPT",
+        "صنعت هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "451501fb6faa80c4",
+      "date": "2025-11-14",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/openai-for-ireland",
+      "category": "توسعه اکوسیستم هوش مصنوعی",
+      "title_fa": "OpenAI برای ایرلند: ابتکاری برای توانمندسازی کسب‌وکارهای کوچک و استارتاپ‌ها",
+      "title_en": "Introducing OpenAI for Ireland",
+      "summary_fa": "OpenAI برنامه جدید «OpenAI برای ایرلند» را با هدف تقویت اکوسیستم فناوری این کشور راه‌اندازی کرد. این ابتکار با همکاری دولت ایرلند، Dogpatch Labs و Patch اجرا می‌شود. هدف آن کمک به کسب‌وکارهای کوچک و متوسط، کارآفرینان و توسعه‌دهندگان جوان ایرلندی است تا با به‌کارگیری هوش مصنوعی، به نوآوری بپردازند، بهره‌وری خود را افزایش دهند و نسل آینده استارتاپ‌های فناورانه را بنا نهند.",
+      "tags": [
+        "OpenAI",
+        "Ireland",
+        "SMEs",
+        "استارتاپ‌ها",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "8dfbb146fdc5662c",
+      "date": "2025-11-13",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/understanding-neural-networks-through-sparse-circuits",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "رازگشایی از جعبه سیاه هوش مصنوعی: رویکرد نوین OpenAI برای فهم شبکه‌های عصبی",
+      "title_en": "Understanding neural networks through sparse circuits",
+      "summary_fa": "OpenAI در حال بررسی رویکردی نوین به نام \"قابلیت تفسیر مکانیکی\" است تا شیوه استدلال و تصمیم‌گیری شبکه‌های عصبی را درک کند. این شرکت با استفاده از یک مدل جدید مبتنی بر \"مدارهای تنک\" (sparse circuits)، به دنبال کشف سازوکارهای داخلی این شبکه‌هاست. هدف نهایی، افزایش شفافیت سیستم‌های هوش مصنوعی و در نتیجه اطمینان از عملکرد امن‌تر و قابل اتکاتر آنهاست.",
+      "tags": [
+        "OpenAI",
+        "Neural Networks",
+        "تفسیرپذیری هوش مصنوعی",
+        "Sparse Circuits",
+        "AI Safety"
+      ]
+    },
+    {
+      "id": "eae8fc7429288466",
+      "date": "2025-11-13",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/philips",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "فیلیپس سواد هوش مصنوعی را در ۷۰ هزار کارمند خود گسترش می‌دهد",
+      "title_en": "How Philips is scaling AI literacy across 70,000 employees",
+      "summary_fa": "شرکت فیلیپس در حال افزایش چشمگیر سواد هوش مصنوعی در میان ۷۰ هزار کارمند خود است. این برنامه آموزشی با بهره‌گیری از ChatGPT Enterprise، کارکنان را برای استفاده مسئولانه از هوش مصنوعی آماده می‌کند. هدف نهایی این ابتکار، بهبود نتایج مراقبت‌های بهداشتی در سطح جهانی از طریق به‌کارگیری اثربخش تکنولوژی‌های هوشمند است.",
+      "tags": [
+        "Philips",
+        "AI literacy",
+        "ChatGPT Enterprise",
+        "هوش مصنوعی",
+        "آموزش کارکنان"
+      ]
+    },
+    {
+      "id": "ea99386f70d1d6a2",
+      "date": "2025-11-13",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/group-chats-in-chatgpt",
+      "category": "قابلیت‌های جدید هوش مصنوعی",
+      "title_fa": "ChatGPT میزبان مکالمات گروهی شد: عصر جدید همکاری با هوش مصنوعی",
+      "title_en": "Introducing group chats in ChatGPT",
+      "summary_fa": "ChatGPT قابلیت جدیدی را برای مکالمات گروهی معرفی کرده است. با این ویژگی، کاربران می‌توانند همراه با دیگران و خود ChatGPT در یک مکالمه مشترک مشارکت کنند. این امکان همکاری و تعامل را در پلتفرم هوش مصنوعی به سطح جدیدی می‌رساند و کاربران می‌توانند به صورت جمعی از توانایی‌های هوش مصنوعی بهره‌مند شوند.",
+      "tags": [
+        "ChatGPT",
+        "OpenAI",
+        "مکالمه گروهی",
+        "همکاری",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "79b213b7598aad14",
+      "date": "2026-09-27",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "دیدار شام مدیرعامل Anthropic با دونالد ترامپ: اولین گفت‌وگوی خصوصی در سطح بالا",
+      "title_en": "Anthropic’s CEO is about to have dinner with President Trump",
+      "summary_fa": "دریو آمودی، مدیرعامل شرکت پیشرو هوش مصنوعی Anthropic، برای یک دیدار شام خصوصی با دونالد ترامپ، رئیس‌جمهور پیشین ایالات متحده، آماده می‌شود. این ملاقات قرار است اولین گفت‌وگوی یک‌به‌یک بین آمودی و ترامپ باشد، که نشان‌دهنده اهمیت فزاینده تعامل میان رهبران صنعت تکنولوژی و چهره‌های سیاسی است.",
+      "tags": [
+        "Anthropic",
+        "Dario Amodei",
+        "Donald Trump",
+        "سیاست هوش مصنوعی",
+        "تنظیم‌گری"
+      ]
+    },
+    {
+      "id": "eaa520eb586c5ae8",
+      "date": "2026-09-27",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "چالش بزرگ متا: آیا هوش مصنوعی «موز» می‌تواند بر بی‌اعتمادی‌ها غلبه کند؟",
+      "title_en": "Can Muse overcome Meta’s trust issues?",
+      "summary_fa": "اخیراً در پلتفرم Equity، بحثی حول محور اعلامیه هوش مصنوعی متا شکل گرفت که چگونه توانست توجهات را از شرکت‌های پیشرویی چون OpenAI و Anthropic به خود جلب کند. با این حال، پرسش اصلی این است که آیا محصول یا ابتکار جدید هوش مصنوعی متا، موسوم به «موز» (Muse)، قادر خواهد بود بر سابقه طولانی‌مدت مشکلات اعتماد عمومی به این شرکت غلبه کند.",
+      "tags": [
+        "Meta",
+        "AI",
+        "Muse",
+        "OpenAI",
+        "Anthropic"
+      ]
+    },
+    {
+      "id": "8884274c1b64da53",
+      "date": "2026-09-27",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "داریو آمودی، مدیرعامل Anthropic، سوژه طنز SNL شد",
+      "title_en": "Anthropic’s Dario Amodei gets the SNL treatment",
+      "summary_fa": "داریو آمودی، مدیرعامل شرکت پیشرو در حوزه‌ی هوش مصنوعی Anthropic، اخیراً سوژه‌ی یک آیتم کمدی در برنامه‌ی مشهور Saturday Night Live (SNL) شده است. این آیتم طنزآمیز با بیانی اغراق‌آمیز به دغدغه‌های پیرامون خطرات هوش مصنوعی پرداخت. یکی از جملات برجسته‌ی این برنامه که نشان‌دهنده‌ی رویکرد طنزآلود آن بود، این جمله است: «هوش مصنوعی شیطان است و من خالق آن». این رویکرد طنزآلود، نگرانی‌های موجود پیرامون قدرت و تأثیرات آتی هوش مصنوعی را به شکلی کمدی و عمومی به تصویر کشید.",
+      "tags": [
+        "Anthropic",
+        "Dario Amodei",
+        "SNL",
+        "هوش مصنوعی",
+        "ایمنی هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "b043d9d03d29d7a8",
+      "date": "2026-09-25",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
+      "category": "امنیت سایبری",
+      "title_fa": "افشای عمومی حجم وسیعی از اطلاعات کاربران توسط مشتریان Supabase",
+      "title_en": "Some Supabase customers are publicly exposing reams of people’s data to the web",
+      "summary_fa": "این یافته‌ها نشان می‌دهند که چگونه اپلیکیشن‌های تولید شده با هوش مصنوعی یا توسعه‌یافته به روش \"vibe-coded\"، در صورت عدم پیکربندی یا تامین امنیت مناسب، می‌توانند منجر به نشت و افشای اطلاعات کاربران شوند. مشکل فعلی حاکی از آن است که برخی مشتریان Supabase، حجم وسیعی از داده‌های شخصی را به صورت عمومی در وب در دسترس قرار داده‌اند.",
+      "tags": [
+        "Supabase",
+        "افشای داده",
+        "AI Apps",
+        "امنیت سایبری",
+        "حریم خصوصی"
+      ]
+    },
+    {
+      "id": "68c0d1315425c4de",
+      "date": "2026-09-25",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "آسترا و اوپوس از آزمون رمزگشایی تورینگ سربلند بیرون آمدند",
+      "title_en": "Astra and Opus just passed Turing’s other test",
+      "summary_fa": "مدل‌های پیشرفته هوش مصنوعی مانند آسترا (از گوگل) و اوپوس (از Anthropic) به تازگی توانایی‌هایی خیره‌کننده در حل مسائل پیچیده و تحلیل داده نشان داده‌اند. این دستاوردها یادآور کارهای آلن تورینگ در رمزگشایی کدهای جنگ جهانی دوم است که اغلب به عنوان 'آزمون دیگر تورینگ' از آن یاد می‌شود. این پیشرفت نشان‌دهنده گام بلندی در بلوغ هوش مصنوعی برای انجام وظایف تحلیلی و منطقی در سطح بالا است و افق‌های جدیدی را در کاربرد این فناوری می‌گشاید.",
+      "tags": [
+        "AI",
+        "Astra",
+        "Opus",
+        "Alan Turing",
+        "مدل‌های پیشرفته هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "794c162566b6335b",
+      "date": "2026-09-25",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "حمایت تمام‌قد متا از اپلیکیشن هوش مصنوعی Muse در اوج محبوبیت",
+      "title_en": "Meta is putting its muscle behind Muse as the AI app takes off",
+      "summary_fa": "اپلیکیشن هوش مصنوعی Muse به سرعت در حال صعود در جداول اپ استورها و جذب کاربران جدید است. همزمان، متا نیز با تمام توان به ترویج و تبلیغ این عامل هوشمند شخصی در سراسر اپلیکیشن‌های خود و فراتر از آن می‌پردازد تا رشد چشمگیر این محصول را دوچندان کند.",
+      "tags": [
+        "Meta",
+        "Muse",
+        "هوش مصنوعی",
+        "اپلیکیشن موبایل",
+        "رشد بازار"
+      ]
+    },
+    {
+      "id": "5b67311c7107439c",
+      "date": "2026-09-28",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "مسئولیت حقوقی هوش مصنوعی سرکش: چه کسی پاسخگوست؟",
+      "title_en": "Who’s liable when AI agents go rogue?",
+      "summary_fa": "حملات سایبری اخیر که توسط عوامل هوش مصنوعی انجام شده‌اند، جامعه جهانی را شوکه کرده و پرسشی بنیادین را مطرح ساخته است: در صورت بروز رفتارهای مخرب یا خروج از کنترل عامل‌های هوش مصنوعی، چه کسی مسئول پیامدهای آن است؟ این معضل حقوقی و اخلاقی، چالش‌های جدیدی را برای توسعه‌دهندگان، شرکت‌ها و نهادهای قانون‌گذار به وجود آورده است. نشریه MIT Technology Review در گزارشی به بررسی ابعاد این موضوع پیچیده می‌پردازد.",
+      "tags": [
+        "AI agents",
+        "مسئولیت حقوقی",
+        "امنیت سایبری",
+        "تنظیم‌گری هوش مصنوعی",
+        "OpenAI"
       ]
     }
   ]
