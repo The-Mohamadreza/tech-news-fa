@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-09-28",
+    "last_updated": "2026-09-29",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 1189
+    "total_articles": 1204
   },
   "articles": [
     {
@@ -20160,6 +20160,261 @@
         "امنیت سایبری",
         "تنظیم‌گری هوش مصنوعی",
         "OpenAI"
+      ]
+    },
+    {
+      "id": "cfe8e900401f31bb",
+      "date": "2026-09-28",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "OpenAI از استرالیا عذرخواهی کرد و برنامه‌های تقویت امنیت سایبری را ارائه داد",
+      "title_en": "How we will do better for Australia",
+      "summary_fa": "شرکت OpenAI به دلیل حوادث اخیر مرتبط با وب‌سایت‌های دولتی استرالیا، از این کشور عذرخواهی کرده است. این شرکت متعهد شد تا با ارائه تمهیدات حفاظتی قوی‌تر و پشتیبانی فنی، به تقویت دفاع سایبری استرالیا کمک کند. این اقدام در راستای بهبود روابط و تضمین استفاده مسئولانه از فناوری‌های هوش مصنوعی صورت می‌گیرد.",
+      "tags": [
+        "OpenAI",
+        "Australia",
+        "امنیت سایبری",
+        "ایمنی هوش مصنوعی",
+        "حاکمیت هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "cf468ec39dd67f09",
+      "date": "2026-09-28",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "اولین راهنمای ایمنی برای آموزش هوش مصنوعی پیشرفته منتشر شد",
+      "title_en": "Towards safety cases for frontier AI training",
+      "summary_fa": "مجموعه‌ای از دستورالعمل‌های اولیه برای تضمین ایمنی در فرآیند آموزش هوش مصنوعی پیشرفته (Frontier AI) منتشر شده است. این راهنماها بر سه محور اصلی استوارند: حفاظت‌های فنی، رویه‌های عملیاتی، و بررسی دقیق حوادث ناشی از عدم هم‌ترازی و رفتار ناخواسته مدل‌ها.",
+      "tags": [
+        "هوش مصنوعی",
+        "ایمنی هوش مصنوعی",
+        "Frontier AI",
+        "Misalignment",
+        "دستورالعمل‌ها"
+      ]
+    },
+    {
+      "id": "216d56bba26ca458",
+      "date": "2026-09-28",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "حمایت ۱۰ میلیون دلاری OpenAI از برنامه هوش مصنوعی بنیاد لنفست",
+      "title_en": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+      "summary_fa": "OpenAI با اختصاص ۵ میلیون دلار سرمایه نقدی و تا سقف ۵ میلیون دلار اعتبار نرم‌افزاری و پشتیبانی مهندسی، برنامه \"Lenfest AI Collaborative and Fellowship\" را توسعه می‌دهد. این پشتیبانی گسترده به بنیاد لنفست امکان می‌دهد تا ابتکارات خود را در زمینه هوش مصنوعی بسط دهد و کاربردهای آن را در حوزه روزنامه‌نگاری محلی گسترش دهد.",
+      "tags": [
+        "OpenAI",
+        "Lenfest Institute",
+        "هوش مصنوعی",
+        "سرمایه‌گذاری",
+        "روزنامه‌نگاری"
+      ]
+    },
+    {
+      "id": "914f14710638400c",
+      "date": "2026-09-28",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/form/codex-originals",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "آیا شما یک 'Codex Original' هستید؟ فراخوان OpenAI برای سازندگان خلاق",
+      "title_en": "Are you a Codex Original?",
+      "summary_fa": "OpenAI در حال جمع‌آوری داستان‌های واقعی از توسعه‌دهندگان، محققان و خالقانی است که با استفاده از ابزار Codex دستاوردهای شگفت‌انگیزی داشته‌اند. این ابتکار با هدف شناسایی و معرفی نوآوران در قالب برنامه \"Codex Originals\" صورت می‌گیرد. از علاقه‌مندان دعوت می‌شود تا با به اشتراک گذاشتن داستان‌ها و پروژه‌های خود، به بخش بعدی این برنامه بپیوندند و الهام‌بخش دیگران شوند.",
+      "tags": [
+        "Codex",
+        "OpenAI",
+        "هوش مصنوعی",
+        "توسعه‌دهندگان",
+        "نوآوری"
+      ]
+    },
+    {
+      "id": "bf0fe8cc388a3447",
+      "date": "2026-09-28",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/basis-tax-workbook-with-astra",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "GPT-6 Astra سرعت تکمیل اسناد مالیاتی Basis را دو برابر کرد",
+      "title_en": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+      "summary_fa": "مدل هوش مصنوعی GPT-6 Astra توانست یک دفترچه کار مالیاتی ۵۰ برگه را دو برابر سریع‌تر از نسل قبلی خود، GPT-5.6 Sol، تکمیل کند. این سرعت بی‌سابقه به همراه درک قوی‌تر آن از نیت کاربر، اعتماد شرکت Basis را برای استفاده گسترده‌تر از این مدل در کاربردهای واقعی به شدت افزایش داده است.",
+      "tags": [
+        "GPT-6 Astra",
+        "Basis",
+        "هوش مصنوعی",
+        "کاربرد سازمانی",
+        "اتوماسیون"
+      ]
+    },
+    {
+      "id": "ab82e746093945a1",
+      "date": "2025-11-13",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/gpt-5-1-for-developers",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "GPT-5.1 برای توسعه‌دهندگان معرفی شد: سرعت بیشتر و ابزارهای جدید",
+      "title_en": "Introducing GPT-5.1 for developers",
+      "summary_fa": "نسخه جدید مدل زبانی GPT-5.1 اکنون از طریق API در دسترس توسعه‌دهندگان قرار گرفته است. این به‌روزرسانی شامل بهبودهایی نظیر استدلال انطباقی سریع‌تر، حافظه‌سازی طولانی‌تر دستورات (prompt caching) و عملکرد ارتقایافته در کدنویسی است. همچنین، ابزارهای کاربردی جدیدی مانند apply_patch و shell به این نسخه اضافه شده‌اند تا امکانات بیشتری را برای توسعه‌دهندگان فراهم آورند.",
+      "tags": [
+        "GPT-5.1",
+        "API",
+        "OpenAI",
+        "توسعه‌دهندگان",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "a54b0644eac77f89",
+      "date": "2026-09-29",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "Anthropic: زیان میلیاردی، رشد انفجاری و هشدار نابودی بشریت توسط هوش مصنوعی خود",
+      "title_en": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+      "summary_fa": "شرکت Anthropic در مستندات پیشنهادی خود به سرمایه‌گذاران، ضمن اعلام زیان ده‌ها میلیارد دلاری در سال، از رشد فوق‌العاده سریع خود نیز خبر داد. نکته قابل توجه این است که این شرکت همزمان هشدار داده که هوش مصنوعی توسعه‌یافته توسط خودش ممکن است خطری جدی برای بقای بشریت به شمار آید.",
+      "tags": [
+        "Anthropic",
+        "AI Safety",
+        "هوش مصنوعی",
+        "خطر وجودی",
+        "سرمایه‌گذاری"
+      ]
+    },
+    {
+      "id": "b9ef252a9e2dfa56",
+      "date": "2026-09-29",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "Peak XV سقف سرمایه‌گذاری برنامه شتابدهی Surge را به ۵ میلیون دلار افزایش داد؛ ۱۸ استارتاپ جدید معرفی شدند",
+      "title_en": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+      "summary_fa": "شرکت سرمایه‌گذاری Peak XV، که سابقاً با نام Sequoia India/SEA شناخته می‌شد، سقف سرمایه‌گذاری اولیه خود را در برنامه شتابدهی Surge به ۵ میلیون دلار افزایش داده است. این شرکت همچنین از گروه جدید ۱۸ استارتاپ در برنامه Surge رونمایی کرد. از این تعداد، سیزده شرکت بازارهای جهانی را هدف قرار داده‌اند و بیش از نیمی از آن‌ها نیز در هند مستقر هستند.",
+      "tags": [
+        "Peak XV",
+        "Surge",
+        "استارتاپ",
+        "سرمایه‌گذاری اولیه",
+        "Venture Capital"
+      ]
+    },
+    {
+      "id": "220dea2c55f48506",
+      "date": "2026-09-28",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "اوپن‌ای‌آی به دلیل نگرانی‌های ایمنی یک مدل هوش مصنوعی را کنار گذاشت",
+      "title_en": "OpenAI reportedly ditches model over safety concerns",
+      "summary_fa": "یک مدیر ارشد در آزمایشگاه هوش مصنوعی OpenAI به وال استریت ژورنال گفته است که این شرکت توسعه یک مدل هوش مصنوعی را متوقف کرده است. دلیل این اقدام، نگرانی‌های ایمنی بوده، چرا که مدل مذکور در پیروی از دستورالعمل‌ها و فرامین، ضعف قابل توجهی از خود نشان داده بود. این موضوع به نگرانی‌ها درباره‌ی کنترل‌پذیری و قابل اعتماد بودن مدل دامن زده است.",
+      "tags": [
+        "OpenAI",
+        "AI safety",
+        "ایمنی هوش مصنوعی",
+        "کنترل‌پذیری",
+        "مدل هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "a84e841eac253bfe",
+      "date": "2026-09-28",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "جهش خیره‌کننده Modal Labs: ارزش‌گذاری استارتاپ زیرساخت هوش مصنوعی سه برابر شد",
+      "title_en": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+      "summary_fa": "استارتاپ Modal Labs، ارائه‌دهنده زیرساخت‌های پردازش هوش مصنوعی (AI inference)، در آستانه نهایی کردن یک دور جذب سرمایه ۷۵۰ میلیون دلاری قرار دارد. این تامین مالی جدید، ارزش‌گذاری شرکت را به ۱۵.۷۵ میلیارد دلار می‌رساند که بیش از سه برابر ارزش آن تنها چهار ماه پیش است. این رشد سریع، نشان‌دهنده افزایش تقاضا و ارزش در بازار زیرساخت‌های هوش مصنوعی است.",
+      "tags": [
+        "Modal Labs",
+        "AI infrastructure",
+        "Startup Funding",
+        "Valuation",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "2f5ef06215656984",
+      "date": "2026-09-28",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "خرید ۸.۲ میلیارد دلاری World Labs توسط AMD: فی‌فی لی به AMD می‌پیوندد",
+      "title_en": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
+      "summary_fa": "شرکت AMD در یک قرارداد بزرگ، آزمایشگاه‌های جهانی (World Labs) بنیان‌گذاری شده توسط فی‌فی لی، چهره برجسته هوش مصنوعی، را به ارزش ۸.۲ میلیارد دلار خریداری خواهد کرد. بر اساس جزئیات این توافق، خود فی‌فی لی نیز به عنوان معاون اجرایی و دانشمند ارشد به تیم رهبری AMD ملحق می‌شود.",
+      "tags": [
+        "AMD",
+        "Fei-Fei Li",
+        "World Labs",
+        "Acquisition",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "07c0d45eeffaeb7f",
+      "date": "2026-09-28",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
+      "category": "کاربرد هوش مصنوعی در تجارت الکترونیک",
+      "title_fa": "شاپیفای فرآیند پرداخت خود را به عامل‌های هوش مصنوعی مرورگرمحور گشود",
+      "title_en": "Shopify opens checkout to browser-based AI agents",
+      "summary_fa": "شرکت شاپیفای (Shopify) پشتیبانی از استاندارد WebMCP را به بخش پرداخت وب‌سایت‌های خود گسترش داده است. این اقدام به عامل‌های هوش مصنوعی مبتنی بر مرورگر این امکان را می‌دهد که با تأیید و مجوز خریدار، جزئیات سفارش را به‌روزرسانی کرده و مراحل تکمیل خرید را به‌طور خودکار انجام دهند. این قابلیت گامی مهم در جهت خودکارسازی و تسهیل تجربه خرید آنلاین کاربران محسوب می‌شود.",
+      "tags": [
+        "Shopify",
+        "AI agents",
+        "تجارت الکترونیک",
+        "پرداخت آنلاین",
+        "WebMCP"
+      ]
+    },
+    {
+      "id": "43cfd2e61fc0c201",
+      "date": "2026-09-28",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "شکست‌های مرگبار دیوار مجازی مرزی آمریکا: میلیاردها دلار هزینه، هزاران قربانی",
+      "title_en": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+      "summary_fa": "ایالات متحده طی ۲۵ سال گذشته میلیاردها دلار صرف ساخت «دیوار مجازی» متشکل از برج‌های نظارتی در مرز جنوبی خود کرده است. این پروژه با وعده‌ی شناسایی و دستگیری مهاجران غیرقانونی و نجات جان آن‌ها آغاز شد. با این حال، تحقیقات پیشگامانه MIT Technology Review نشان می‌دهد که این فناوری نه تنها به وعده‌های خود عمل نکرده، بلکه منجر به مرگ بیش از هزار نفر شده است.",
+      "tags": [
+        "US Border",
+        "Surveillance Technology",
+        "Virtual Wall",
+        "MIT Technology Review",
+        "Border Control"
+      ]
+    },
+    {
+      "id": "d19a7dc330909fc2",
+      "date": "2026-09-28",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
+      "category": "کاربرد هوش مصنوعی در علم و پزشکی",
+      "title_fa": "هوش مصنوعی در راه کشف علمی: نقش کلود Anthropic در زیست‌شناسی مولکولی",
+      "title_en": "When can we say AI made a scientific discovery?",
+      "summary_fa": "شرکت Anthropic اخیراً از راه‌اندازی آزمایشگاه زیست‌شناسی مولکولی خود خبر داده است. در این مرکز، عوامل هوش مصنوعی Claude به مطالعه و طرح فرضیات درباره مسائل پیچیده زیست‌شناسی می‌پردازند. سپس دانشمندان انسانی این فرضیات را از طریق آزمایش‌های عملی بررسی می‌کنند. این رویکرد ترکیبی، گامی نوین در استفاده از هوش مصنوعی برای دستیابی به کشفیات علمی محسوب می‌شود.",
+      "tags": [
+        "Anthropic",
+        "Claude",
+        "زیست‌شناسی مولکولی",
+        "کشف علمی",
+        "پژوهش هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "ae45f4f1999592db",
+      "date": "2026-09-28",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "عوامل هوش مصنوعی سرکش: معمای مسئولیت‌پذیری در حملات سایبری",
+      "title_en": "The Download: rogue agent liability and the AI Hype Index",
+      "summary_fa": "با افزایش حملات سایبری که توسط عوامل خودکار هوش مصنوعی انجام می‌شود، پرسش‌های جدی درباره مسئولیت‌پذیری این سیستم‌ها مطرح شده است. این حوادث، که برخی از آن‌ها توسط شرکت‌هایی مانند OpenAI نیز افشا شده‌اند، جهان را متحیر کرده و نیاز به چارچوب‌های جدید برای پاسخگویی در قبال عملکرد خارج از کنترل هوش مصنوعی را برجسته می‌سازد.",
+      "tags": [
+        "AI agents",
+        "مسئولیت‌پذیری",
+        "حملات سایبری",
+        "OpenAI",
+        "تنظیم‌گری هوش مصنوعی"
       ]
     }
   ]
