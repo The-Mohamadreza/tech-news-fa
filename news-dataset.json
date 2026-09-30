@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-09-29",
+    "last_updated": "2026-09-30",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 1204
+    "total_articles": 1217
   },
   "articles": [
     {
@@ -20415,6 +20415,227 @@
         "حملات سایبری",
         "OpenAI",
         "تنظیم‌گری هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "dd66acaed2a04b44",
+      "date": "2026-09-29",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "رونمایی از GPT-6.1 Sol: هوش مصنوعی هم‌سطح آسترا با یک‌پنجم هزینه",
+      "title_en": "Introducing GPT-6.1 Sol",
+      "summary_fa": "مدل هوش مصنوعی جدید GPT-6.1 Sol معرفی شد که هوشی نزدیک به قابلیت‌های «آسترا» ارائه می‌دهد. این مدل برای وظایفی مانند کدنویسی، استفاده از کامپیوتر و کارهای حرفه‌ای بهینه‌سازی شده است. نقطه قوت کلیدی آن، قیمت‌گذاری رقابتی است، به طوری که هزینه توکن‌های ورودی و خروجی API آن تنها یک‌پنجم قیمت استاندارد آسترا است.",
+      "tags": [
+        "GPT-6.1 Sol",
+        "هوش مصنوعی",
+        "AI model",
+        "coding",
+        "Astra"
+      ]
+    },
+    {
+      "id": "19db7cc5ca5cc5ea",
+      "date": "2026-09-29",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/devday-2026-recap",
+      "category": "محصولات و توسعه هوش مصنوعی",
+      "title_fa": "مروری بر DevDay 2026 اوپن‌ای‌آی: رونمایی از GPT-6 Astra و بیش از ۲۰ نوآوری کلیدی",
+      "title_en": "DevDay 2026 Recap",
+      "summary_fa": "در رویداد DevDay 2026 اوپن‌ای‌آی، بیش از ۲۰ نوآوری و به‌روزرسانی مهم معرفی شد. این رونمایی‌ها شامل مدل جدید GPT-6 Astra، بهبودهایی در ChatGPT و Codex، توسعه APIها و ابزارهای امنیتی برای توسعه‌دهندگان بود. این رویداد مسیر آینده محصولات و خدمات اوپن‌ای‌آی را برای سازندگان مشخص کرد.",
+      "tags": [
+        "OpenAI",
+        "DevDay 2026",
+        "GPT-6 Astra",
+        "ChatGPT",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "884977ecb8004cb3",
+      "date": "2026-09-29",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/introducing-dots",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "معرفی «داتس»؛ دستیاران پیشگیرانه هوش مصنوعی OpenAI برای مدیریت کارها",
+      "title_en": "Introducing dots",
+      "summary_fa": "OpenAI محصول جدید خود با نام «داتس» (Dots) را معرفی کرده است. این دستیاران هوشمند با رویکردی پیشگیرانه طراحی شده‌اند تا بتوانند به طور مداوم روی پروژه‌های پیچیده و وظایف روزمره فعالیت کنند. هدف اصلی داتس این است که به کاربران کمک کند در عین پیشرفت کارها، کنترل کامل بر فرآیندها و وظایف خود را حفظ کنند.",
+      "tags": [
+        "OpenAI",
+        "Dots",
+        "دستیار هوش مصنوعی",
+        "بهره‌وری",
+        "مدیریت پروژه"
+      ]
+    },
+    {
+      "id": "b63d5450177786c6",
+      "date": "2025-11-12",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/neurogum",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "Neuro: شتاب‌دهنده رشد خرده‌فروشی ملی با قدرت ChatGPT Business",
+      "title_en": "Neuro drives national retail wins with ChatGPT Business",
+      "summary_fa": "شرکت Neuro با بهره‌گیری از ChatGPT Business توانسته است عملیات خود را در سراسر کشور گسترش دهد، در حالی که تعداد کارمندانش کمتر از ۷۰ نفر باقی مانده است. این رویکرد هوشمندانه منجر به صرفه‌جویی قابل توجه در زمان و کاهش هزینه‌ها شده است. در نتیجه، Neuro با تسریع در فرایندهای فروش و عملیات، به رشد چشمگیری دست یافته است.",
+      "tags": [
+        "Neuro",
+        "ChatGPT Business",
+        "خرده‌فروشی",
+        "هوش مصنوعی سازمانی",
+        "بهره‌وری"
+      ]
+    },
+    {
+      "id": "1fd45a6403697e66",
+      "date": "2025-11-12",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/fighting-nyt-user-privacy-invasion",
+      "category": "حریم خصوصی",
+      "title_fa": "نبرد OpenAI برای حفظ حریم خصوصی کاربران: جدال با نیویورک تایمز بر سر داده‌های ChatGPT",
+      "title_en": "Fighting the New York Times’ invasion of user privacy",
+      "summary_fa": "شرکت OpenAI در حال مقابله با درخواست روزنامه نیویورک تایمز است که خواهان دسترسی به ۲۰ میلیون مکالمه خصوصی کاربران ChatGPT شده است. OpenAI این اقدام را تلاشی برای نقض حریم خصوصی کاربران می‌داند و اعلام کرده است که در برابر آن مقاومت می‌کند. در همین راستا، این شرکت روند توسعه و پیاده‌سازی محافظت‌های امنیتی و حریم خصوصی جدید را تسریع بخشیده تا داده‌های کاربران خود را ایمن نگه دارد.",
+      "tags": [
+        "OpenAI",
+        "New York Times",
+        "ChatGPT",
+        "حریم خصوصی",
+        "داده‌های کاربر"
+      ]
+    },
+    {
+      "id": "454c479882297cd1",
+      "date": "2025-11-12",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/gpt-5-system-card-addendum-gpt-5-1",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "به‌روزرسانی ایمنی GPT-5.1: ارزیابی‌های جدید برای سلامت روان و وابستگی عاطفی",
+      "title_en": "GPT-5.1 Instant and GPT-5.1 Thinking System Card Addendum",
+      "summary_fa": "یک الحاقیه جدید به کارت سیستمی GPT-5 منتشر شده که معیارهای ایمنی به‌روز شده‌ای را برای مدل‌های GPT-5.1 Instant و GPT-5.1 Thinking ارائه می‌دهد. این به‌روزرسانی شامل ارزیابی‌های تازه‌ای در زمینه سلامت روان کاربران و میزان وابستگی عاطفی آن‌ها به این مدل‌هاست. هدف از این اقدامات، تقویت چارچوب ایمنی و مسئولیت‌پذیری در توسعه هوش مصنوعی پیشرفته است.",
+      "tags": [
+        "GPT-5.1",
+        "AI safety",
+        "سلامت روان",
+        "وابستگی عاطفی",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "1b1d0d455584ee23",
+      "date": "2026-09-29",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "شیطنت دیجیتال xAI: ایلان ماسک پیش از رونمایی 'Dots' توسط OpenAI، دامنه \"dot.com\" را تصاحب کرد",
+      "title_en": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+      "summary_fa": "در اقدامی که در فضای مجازی به عنوان یک شیطنت از سوی ایلان ماسک و شرکت xAI او تلقی می‌شود، این شرکت پیش از رونمایی عامل هوش مصنوعی جدید OpenAI با نام \"Dots\"، دامنه اینترنتی \"dot.com\" را به تملک خود درآورد. در حال حاضر، این دامنه به صفحه دانلود چت‌بات Grok متعلق به xAI هدایت می‌شود. این اتفاق باعث گمانه‌زنی‌هایی درباره تلاش xAI برای ایجاد حاشیه برای محصول جدید OpenAI شده است.",
+      "tags": [
+        "Elon Musk",
+        "xAI",
+        "OpenAI",
+        "Grok",
+        "رقابت هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "6421ca855574f79a",
+      "date": "2026-09-29",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "OpenAI مدل اپ استور را نشانه می‌گیرد: ChatGPT، پلتفرم جدید کشف نرم‌افزارها",
+      "title_en": "OpenAI’s latest features take direct aim at the app store model",
+      "summary_fa": "OpenAI با معرفی قابلیت‌های جدید، در حال ساخت جایگزینی برای مدل‌های سنتی اپ استور است. هدف این شرکت تبدیل ChatGPT به پلتفرمی است که هم کاربران انسانی و هم عوامل هوش مصنوعی بتوانند نرم‌افزارهای مختلف را در آن کشف کرده و به کار ببرند.",
+      "tags": [
+        "OpenAI",
+        "ChatGPT",
+        "App Store",
+        "پلتفرم",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "447bf1aab0079f2b",
+      "date": "2026-09-29",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "همکاری پشت پرده OpenAI و انویدیا برای ایمنی عامل‌های هوش مصنوعی، علی‌رغم عدم حمایت عمومی",
+      "title_en": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+      "summary_fa": "برخلاف انتظار، شرکت OpenAI به صورت عمومی از پلتفرم ایمنی عامل‌های باز (Open Agent Safety Platform) انویدیا که با هدف مهار عامل‌های هوش مصنوعی سرکش راه‌اندازی شده، حمایت نمی‌کند. با این حال، منابع مطلع به تک‌کرانچ گفته‌اند که OpenAI در خفا و پشت پرده، مشغول همکاری نزدیک با انویدیا در این زمینه است. این همکاری خصوصی نشان می‌دهد که علیرغم عدم حضور در جبهه عمومی، نگرانی‌ها و تلاش‌های مشترک برای ایمنی هوش مصنوعی بین دو غول تکنولوژی وجود دارد.",
+      "tags": [
+        "OpenAI",
+        "Nvidia",
+        "AI Safety Platform",
+        "ایمنی هوش مصنوعی",
+        "عامل‌های هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "b6f078daefc5deb8",
+      "date": "2026-09-29",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "OpenAI مایکروسافت را به چالش می‌کشد: مجموعه‌ای اداری به سبک ChatGPT معرفی شد",
+      "title_en": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+      "summary_fa": "OpenAI به تازگی از مجموعه‌ای از قابلیت‌های جدید اداری رونمایی کرده است. این قابلیت‌ها به شکل قابل توجهی شبیه به یک پکیج نرم‌افزاری اداری سنتی عمل می‌کنند. با این اقدام، OpenAI وارد رقابت مستقیم با شرکت‌های نرم‌افزاری سنتی، به ویژه مایکروسافت، می‌شود و حوزه فعالیت خود را گسترش می‌دهد.",
+      "tags": [
+        "OpenAI",
+        "Microsoft",
+        "ChatGPT",
+        "ابزارهای اداری",
+        "رقابت تکنولوژی"
+      ]
+    },
+    {
+      "id": "a26523262b5b8dcc",
+      "date": "2026-09-29",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "فناوری اقلیم در کانون توجه؛ نگاهی به چالش‌های کشف هوش مصنوعی",
+      "title_en": "The Download: climate tech companies to watch and AI’s discovery problem",
+      "summary_fa": "در آستانه انتشار فهرست سال ۲۰۲۶ از شرکت‌های پیشرو فناوری اقلیم، این گزارش به وضعیت بحرانی سیاره زمین می‌پردازد. با نزدیک شدن دمای جهانی به مرز ۱.۵ درجه سانتی‌گراد افزایش، لغو برخی سیاست‌های اقلیمی و کاهش جاه‌طلبی‌های شرکت‌های بزرگ تکنولوژی در این زمینه، نقش این استارتاپ‌ها بیش از پیش پررنگ می‌شود.",
+      "tags": [
+        "Climate Tech",
+        "هوش مصنوعی",
+        "استارتاپ",
+        "پایداری",
+        "تغییر اقلیم"
+      ]
+    },
+    {
+      "id": "408d5358c7670138",
+      "date": "2026-09-29",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/09/29/1145183/2026-climate-tech-companies-to-watch-preview/",
+      "category": "فناوری و پایداری",
+      "title_fa": "به زودی: معرفی فهرست ۲۰۲۶ شرکت‌های پیشرو در فناوری اقلیمی",
+      "title_en": "Coming soon: Our 2026 list of Climate Tech Companies to Watch",
+      "summary_fa": "در پی هشدارهای اخیر سازمان ملل مبنی بر عبور قریب‌الوقوع دمای زمین از ۱.۵ درجه سانتی‌گراد و ناکامی کشورها در دستیابی به اهداف توافق اقلیمی پاریس، نیاز به راه‌حل‌های فناورانه برای مقابله با بحران اقلیمی بیش از پیش حیاتی شده است. در این راستا و با وجود چالش‌هایی نظیر انکار تغییرات اقلیمی توسط برخی رهبران، توجه به شرکت‌های فعال در حوزه فناوری اقلیمی که پتانسیل تحول‌آفرینی دارند، اهمیتی دوچندان می‌یابد.",
+      "tags": [
+        "Climate Tech",
+        "تغییر اقلیم",
+        "فناوری پایدار",
+        "سازمان ملل",
+        "توافق پاریس"
+      ]
+    },
+    {
+      "id": "09364ac11ad4c820",
+      "date": "2026-09-29",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "هوش مصنوعی: چگونه از یک هزینه به یک دارایی استراتژیک تبدیل شود؟",
+      "title_en": "Making AI an asset, not an expense",
+      "summary_fa": "بحث هزینه‌های هوش مصنوعی غالباً با قیمت توکن‌ها و تمایل به استفاده از جدیدترین و قدرتمندترین مدل‌های ابری آغاز می‌شود. اما این سوال مطرح است که آیا سازمان‌ها همیشه به چنین سطحی از قابلیت‌ها نیاز دارند؟ این گزارش به بررسی چگونگی حرکت هوش مصنوعی از مرحله آزمایش به تولید می‌پردازد و تاکید می‌کند که انتخاب مدل مناسب برای تبدیل هوش مصنوعی از یک هزینه صرف به یک دارایی ارزشمند و سودآور در کسب‌وکارها حیاتی است.",
+      "tags": [
+        "هزینه‌های هوش مصنوعی",
+        "استراتژی هوش مصنوعی",
+        "پذیرش سازمانی",
+        "مدل‌های هوش مصنوعی",
+        "Cloud AI"
       ]
     }
   ]
