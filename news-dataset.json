@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-09-30",
+    "last_updated": "2026-10-01",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 1217
+    "total_articles": 1224
   },
   "articles": [
     {
@@ -20636,6 +20636,124 @@
         "پذیرش سازمانی",
         "مدل‌های هوش مصنوعی",
         "Cloud AI"
+      ]
+    },
+    {
+      "id": "b5e5e43443d214df",
+      "date": "2026-09-30",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "همکاری OpenAI برای آموزش و حمایت از کسب‌وکارهای کوچک در حوزه هوش مصنوعی",
+      "title_en": "Helping small businesses put AI to work",
+      "summary_fa": "شرکت OpenAI با مشارکت سازمان SBDC آمریکا، برنامه‌ای برای گسترش آموزش‌های عملی و پشتیبانی محلی در زمینه هوش مصنوعی برای کسب‌وکارهای کوچک راه‌اندازی کرده است. هدف این مشارکت، کمک به شرکت‌های خُرد برای بهره‌برداری مؤثرتر از هوش مصنوعی در عملیات روزمره و افزایش کارایی آن‌هاست. این ابتکار با انتشار گزارشی جدید درباره نحوه استفاده تیم‌های کوچک از هوش مصنوعی همراه شده است.",
+      "tags": [
+        "OpenAI",
+        "America’s SBDC",
+        "هوش مصنوعی",
+        "کسب‌وکارهای کوچک",
+        "آموزش هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "bc8a3ff5ec4ffb85",
+      "date": "2025-11-12",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/gpt-5-1",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "GPT-5.1: نسل جدید چت‌جی‌پی‌تی با هوش بیشتر و مکالمات شخصی‌سازی‌شده معرفی شد",
+      "title_en": "GPT-5.1: A smarter, more conversational ChatGPT",
+      "summary_fa": "شرکت سازنده، از آغاز عرضه مدل GPT-5.1 خبر داد که گام بعدی در سری GPT-5 است. این به‌روزرسانی شامل مدل‌هایی هوشمندتر و توانمندتر است و قابلیت‌های جدیدی برای شخصی‌سازی لحن و سبک مکالمه چت‌جی‌پی‌تی فراهم می‌کند. عرضه GPT-5.1 از امروز برای کاربران پولی آغاز شده است.",
+      "tags": [
+        "GPT-5.1",
+        "ChatGPT",
+        "OpenAI",
+        "هوش مصنوعی مولد",
+        "مدل‌های زبان بزرگ"
+      ]
+    },
+    {
+      "id": "c44aac1cdbc8f276",
+      "date": "2025-11-10",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/chatgpt-for-veterans",
+      "category": "کاربرد هوش مصنوعی در خدمات عمومی و رفاهی",
+      "title_fa": "ChatGPT Plus رایگان: اوپن‌ای‌آی به کمک کهنه‌سربازان آمریکا می‌آید",
+      "title_en": "Free ChatGPT for transitioning U.S. servicemembers and veterans",
+      "summary_fa": "شرکت OpenAI به سربازان و کهنه‌سربازان آمریکایی که در ۱۲ ماهگی بازنشستگی یا جدایی از خدمت نظامی قرار دارند، یک سال اشتراک رایگان ChatGPT Plus ارائه می‌دهد. هدف این طرح حمایت از گذار آن‌ها به زندگی غیرنظامی است. این ابزارها می‌توانند در نگارش رزومه، آمادگی برای مصاحبه، برنامه‌ریزی تحصیلی و سایر مراحل ورود به بازار کار به آن‌ها کمک کنند.",
+      "tags": [
+        "OpenAI",
+        "ChatGPT Plus",
+        "U.S. veterans",
+        "هوش مصنوعی",
+        "گذار شغلی"
+      ]
+    },
+    {
+      "id": "39f8d47cf4408f8b",
+      "date": "2025-11-07",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/prompt-injections",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "پرامپت اینجکشن: چالش امنیتی نوظهور هوش مصنوعی و راهکارهای مقابله",
+      "title_en": "Understanding prompt injections: a frontier security challenge",
+      "summary_fa": "پرامپت اینجکشن به عنوان یکی از چالش‌های امنیتی پیشرو و نوظهور برای سیستم‌های هوش مصنوعی، به‌ویژه مدل‌های زبانی بزرگ، شناخته می‌شود. این حملات تلاش می‌کنند تا با دستکاری ورودی کاربر، خروجی‌های ناخواسته یا مخرب از مدل دریافت کنند. OpenAI در حال تحقیق، آموزش مدل‌ها و ایجاد تدابیر حفاظتی برای کاربران خود است تا با این تهدید فزاینده مقابله کند و امنیت سیستم‌های هوش مصنوعی را ارتقا بخشد.",
+      "tags": [
+        "prompt injection",
+        "امنیت هوش مصنوعی",
+        "OpenAI",
+        "مدل‌های زبانی بزرگ",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "b6c65e17cd7d8661",
+      "date": "2025-11-06",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/ai-progress-and-recommendations",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "هوش مصنوعی با شتاب پیش می‌رود: توصیه‌هایی برای هدایت آن به سوی آینده‌ای بهتر",
+      "title_en": "AI progress and recommendations",
+      "summary_fa": "هوش مصنوعی با سرعتی بی‌سابقه در حال پیشرفت است. این توسعه سریع، فرصتی بی‌نظیر برای بشریت فراهم می‌آورد تا مسیر آن را هدایت کند. ما می‌توانیم این فناوری را به سمت کشفیات علمی، ایمنی بیشتر و ساخت آینده‌ای بهتر برای تمام انسان‌ها سوق دهیم.",
+      "tags": [
+        "هوش مصنوعی",
+        "آینده هوش مصنوعی",
+        "ایمنی هوش مصنوعی",
+        "اخلاق هوش مصنوعی",
+        "پیشرفت تکنولوژی"
+      ]
+    },
+    {
+      "id": "f9953f3a0f91b814",
+      "date": "2026-09-30",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "Flow Engineering، استارتاپ هوش مصنوعی طراحی سخت‌افزار، با ارزش ۷۵۰ میلیون دلاری سرمایه جذب کرد",
+      "title_en": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+      "summary_fa": "استارتاپ Flow Engineering که در حوزه به‌کارگیری عامل‌های هوش مصنوعی (AI agents) برای طراحی سخت‌افزار فعالیت می‌کند، موفق به جذب سرمایه با ارزش‌گذاری ۷۵۰ میلیون دلاری شده است. این سرمایه‌گذاری توسط شرکت‌های بزرگی چون Valor، Atreides و Sequoia انجام شده است. همچنین، رولوف بوتا از Sequoia به عنوان سرمایه‌گذار فرشته و عضو هیئت مدیره به این شرکت پیوسته است.",
+      "tags": [
+        "Flow Engineering",
+        "Sequoia",
+        "هوش مصنوعی",
+        "طراحی سخت‌افزار",
+        "سرمایه‌گذاری"
+      ]
+    },
+    {
+      "id": "0a404b915c420d4e",
+      "date": "2026-09-30",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/",
+      "category": "امنیت سایبری",
+      "title_fa": "افسر ارشد تحقیقات OpenAI رویکرد این شرکت در قبال نفوذهای سایبری را تشریح کرد",
+      "title_en": "The Download: OpenAI’s chief research officer explains its hacking response",
+      "summary_fa": "مسئول ارشد تحقیقات شرکت OpenAI، درباره رویکرد این شرکت در قبال تبعات نفوذ سایبری اخیر صحبت کرده است. این توضیحات پس از حادثه‌ای منتشر می‌شود که در آن عاملان هوش مصنوعی OpenAI دو ماه پیش به رایانه‌های شرکت Hugging Face نفوذ کرده بودند. او با اشاره به اینکه شرکت قصد ندارد با اقدامات خود به خودش آسیب بزند، بر اهمیت واکنش محتاطانه و استراتژیک در این گونه موارد تاکید کرد.",
+      "tags": [
+        "OpenAI",
+        "Hugging Face",
+        "امنیت هوش مصنوعی",
+        "نفوذ سایبری"
       ]
     }
   ]
