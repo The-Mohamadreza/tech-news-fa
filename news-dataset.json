@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-10-01",
+    "last_updated": "2026-10-02",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 1224
+    "total_articles": 1240
   },
   "articles": [
     {
@@ -20754,6 +20754,277 @@
         "Hugging Face",
         "امنیت هوش مصنوعی",
         "نفوذ سایبری"
+      ]
+    },
+    {
+      "id": "7e67b43cf9d0e609",
+      "date": "2026-10-01",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/the-eternal-complement",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "هوش مصنوعی: مکمل ابدی در نوآوری؛ نیروی محرک اجرای ایده‌های پیشرو",
+      "title_en": "The eternal complement",
+      "summary_fa": "هوش مصنوعی پیشرفته ممکن است بیشترین تأثیر خود را نه در خلق ایده‌های بکر، بلکه در انجام کارهای روتین و عملیاتی پشت پرده نوآوری‌ها نشان دهد. این فناوری با بهبود فرآیند اجرا، نقش کلیدی در شکل‌دهی به اقتصاد آینده و سرعت بخشیدن به روند پیشرفت جهانی ایفا خواهد کرد.",
+      "tags": [
+        "هوش مصنوعی",
+        "نوآوری",
+        "اتوماسیون",
+        "اقتصاد آینده",
+        "AI"
+      ]
+    },
+    {
+      "id": "a80484c2d5849bdb",
+      "date": "2026-10-01",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/albertsons-reimagining-retail",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "تحول در خرده‌فروشی: آلبرتسونز با هوش مصنوعی OpenAI کارایی و تجربه مشتری را ارتقا می‌دهد",
+      "title_en": "How Albertsons Companies is reimagining retail from the inside out",
+      "summary_fa": "شرکت آلبرتسونز، یکی از بزرگ‌ترین فروشگاه‌های زنجیره‌ای مواد غذایی، برای ارتقای کارایی عملیاتی و بهبود تجربه خرید مشتریان خود، به سراغ هوش مصنوعی رفته است. این خرده‌فروش مطرح، از ابزارهایی مانند ChatGPT Enterprise و API شرکت OpenAI بهره می‌برد تا هم سرعت کار تیم‌های داخلی را افزایش دهد و هم فرآیند خرید را برای میلیون‌ها مشتری آسان‌تر کند.",
+      "tags": [
+        "Albertsons",
+        "OpenAI",
+        "ChatGPT Enterprise",
+        "Retail",
+        "AI"
+      ]
+    },
+    {
+      "id": "3bba527585738108",
+      "date": "2026-10-01",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/the-den-family-social",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "باشگاه The Den: صرفه‌جویی ۱۵ ساعته در هفته با کمک ChatGPT برای توسعه",
+      "title_en": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+      "summary_fa": "باشگاه اجتماعی The Den با بهره‌گیری از هوش مصنوعی ChatGPT، موفق شده است زمان لازم برای انجام کارهای اداری خود را به شکل چشمگیری کاهش دهد. این باشگاه، آماده‌سازی درخواست‌های کمک‌هزینه را از سه روز به تنها دو ساعت و مدارک مجوز مشروبات الکلی را از چهار روز به سه ساعت رسانده است. این افزایش کارایی، به The Den کمک می‌کند تا با آزاد کردن ۱۰ تا ۱۵ ساعت کاری در هفته، بر روی رشد و افتتاح شعبه جدید خود تمرکز بیشتری داشته باشد.",
+      "tags": [
+        "ChatGPT",
+        "The Den",
+        "بهره‌وری",
+        "صرفه‌جویی در زمان",
+        "توسعه کسب‌وکار"
+      ]
+    },
+    {
+      "id": "6a91381a429232e7",
+      "date": "2026-09-30",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "اوپن‌ای‌آی: خنثی‌سازی کمپین سرقت دانش از مدل‌های هوش مصنوعی",
+      "title_en": "Disrupting a coordinated model-distillation campaign",
+      "summary_fa": "اوپن‌ای‌آی فاش کرد که یک کمپین هماهنگ برای استخراج دانش و منطق داخلی مدل‌های هوش مصنوعی محافظت‌شده خود را خنثی کرده است. این عملیات با هدف سرقت قابلیت‌های مدل‌ها از طریق فرآیند «تقطیر خصمانه» صورت می‌گرفت. این شرکت اعلام کرده که در حال تقویت اقدامات دفاعی خود برای مقابله با چنین حملاتی است تا از امنیت و مالکیت فکری مدل‌هایش محافظت کند.",
+      "tags": [
+        "OpenAI",
+        "امنیت هوش مصنوعی",
+        "استخراج مدل",
+        "حملات خصمانه",
+        "مالکیت فکری"
+      ]
+    },
+    {
+      "id": "50849b864b1b764e",
+      "date": "2025-11-06",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/introducing-the-teen-safety-blueprint",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "رونمایی OpenAI از «نقشه‌راه ایمنی نوجوانان» برای توسعه مسئولانه هوش مصنوعی",
+      "title_en": "Introducing the Teen Safety Blueprint",
+      "summary_fa": "OpenAI از «نقشه‌راه ایمنی نوجوانان» خود رونمایی کرده است. این طرح یک چارچوب جامع برای توسعه مسئولانه هوش مصنوعی با در نظر گرفتن حفاظت از کاربران جوان ارائه می‌دهد. هدف آن ایجاد مکانیزم‌های محافظتی، طراحی‌های متناسب با سن و همکاری با نهادهای مختلف برای توانمندسازی و افزایش امنیت آنلاین نوجوانان است.",
+      "tags": [
+        "OpenAI",
+        "Teen Safety",
+        "AI safety",
+        "هوش مصنوعی مسئولانه",
+        "ایمنی آنلاین نوجوانان"
+      ]
+    },
+    {
+      "id": "3f392d240af10ea1",
+      "date": "2025-11-05",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/cred-swamy-seetharaman",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "CRED: تحول در تجربه مشتریان لوکس با قدرت هوش مصنوعی",
+      "title_en": "How CRED is tapping AI to deliver premium customer experiences",
+      "summary_fa": "شرکت CRED در هند با بهره‌گیری از هوش مصنوعی OpenAI، در حال بهبود تجربه مشتریان رده بالا است. این شرکت با استفاده از ابزارهای مبتنی بر GPT، توانسته دقت پشتیبانی را افزایش دهد، زمان پاسخگویی را به شکل چشمگیری کاهش دهد و در نهایت، رضایت مشتریان خود را به اوج برساند.",
+      "tags": [
+        "CRED",
+        "OpenAI",
+        "GPT",
+        "هوش مصنوعی",
+        "تجربه مشتری"
+      ]
+    },
+    {
+      "id": "17bfcacf3c393321",
+      "date": "2026-10-01",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "گزارش‌ها از توصیه Grok ماسک به ترامپ برای دستگیری رئیس‌جمهور ونزوئلا",
+      "title_en": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
+      "summary_fa": "گزارش‌ها حاکی از آن است که دونالد ترامپ، رئیس‌جمهور سابق آمریکا، پیش از بررسی حمله به ونزوئلا و دستگیری نیکولاس مادورو، از چت‌بات Grok متعلق به xAI مشاوره خواسته است. این ادعاها ابهامات جدیدی را درباره پتانسیل و خطرات هوش مصنوعی در مسائل حساس بین‌المللی مطرح می‌کند.",
+      "tags": [
+        "Grok",
+        "Elon Musk",
+        "Donald Trump",
+        "Venezuela",
+        "xAI"
+      ]
+    },
+    {
+      "id": "280d0a9a74fa163f",
+      "date": "2026-10-01",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+      "category": "کاربردهای هوش مصنوعی در خرید و مد",
+      "title_fa": "ChatGPT وارد دنیای مد و خرید شد: پرو لباس مجازی با هوش مصنوعی",
+      "title_en": "ChatGPT can now virtually try on clothes for you",
+      "summary_fa": "OpenAI قابلیت‌های خرید جدیدی را برای ChatGPT معرفی کرده است. این قابلیت‌ها به کاربران امکان می‌دهد تا با استفاده از عکس‌های خودشان، لباس‌ها و لوازم جانبی را به صورت مجازی پرو کنند. همچنین، کاربران می‌توانند محصولات مورد علاقه خود را در یک کتابخانه (لیست) علاقه‌مندی‌ها ذخیره کنند.",
+      "tags": [
+        "ChatGPT",
+        "OpenAI",
+        "پرو لباس مجازی",
+        "تجارت الکترونیک",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "0f3d660d2157acea",
+      "date": "2026-10-01",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
+      "category": "زیرساخت‌های داده و فناوری فضایی",
+      "title_fa": "گوگل با پرتاب اولین تراشه فضایی، گامی بلند به سوی دیتاسنترهای مداری برداشت",
+      "title_en": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
+      "summary_fa": "گوگل اولین تراشه پیشرفته خود را با موفقیت به مدار زمین فرستاد. این اقدام، گام اولیه و مهمی در راستای تحقق بلندپروازی این شرکت برای ایجاد دیتاسنترهای پردازش داده در فضا محسوب می‌شود. هدف نهایی گوگل، امکان‌پذیر ساختن پردازش‌های سنگین داده در خارج از جو زمین است، هرچند که چالش‌های بزرگی نظیر نیاز به پرتاب‌های متعدد Starship برای عملیاتی شدن کامل آن وجود دارد.",
+      "tags": [
+        "Google",
+        "Starship",
+        "دیتاسنتر فضایی",
+        "تراشه فضایی",
+        "فناوری فضایی"
+      ]
+    },
+    {
+      "id": "2badf9642d906ac6",
+      "date": "2026-10-01",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+      "category": "امنیت سایبری",
+      "title_fa": "OpenAI سه محقق ایمنی خود را به دلیل سوءمدیریت اطلاعات حساس اخراج کرد",
+      "title_en": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+      "summary_fa": "طبق گزارش وال استریت ژورنال، OpenAI همکاری خود را با سه محقق برجسته در حوزه ایمنی هوش مصنوعی قطع کرده است. این تصمیم پس از یک تحقیقات داخلی اتخاذ شد که نشان داد این افراد اطلاعات حساس شرکت را به درستی مدیریت نکرده‌اند. جزئیات بیشتری درباره ماهیت اطلاعات و چگونگی سوءمدیریت آن‌ها منتشر نشده است.",
+      "tags": [
+        "OpenAI",
+        "AI safety",
+        "Information security",
+        "Internal investigation"
+      ]
+    },
+    {
+      "id": "1b019ab53f254357",
+      "date": "2026-10-01",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "رازهای نگارشی Opus 5.5: کلماتی که هویت هوش مصنوعی را برملا می‌کنند",
+      "title_en": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
+      "summary_fa": "بررسی‌ها نشان می‌دهد که مدل هوش مصنوعی Opus 5.5 دارای الگوهای نگارشی خاصی است. بارزترین نشانه، تکرار چشمگیر کلمه «قابل اعتماد» است که در متون تولیدی این مدل، ۲۳ برابر بیشتر از نمونه‌های انسانی به کار رفته است. این ویژگی می‌تواند به عنوان یک شناسه کلیدی برای تشخیص محتوای تولیدشده توسط Opus 5.5 عمل کند.",
+      "tags": [
+        "Opus 5.5",
+        "AI writing",
+        "شناسایی هوش مصنوعی",
+        "مدل زبانی",
+        "الگوهای نگارشی"
+      ]
+    },
+    {
+      "id": "f85c4d066c1ce9bd",
+      "date": "2026-10-01",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "آمازون با Strands Decider 2B وارد بازار مدل‌های تصمیم‌گیری شد",
+      "title_en": "Amazon releases its own Jev clone as decision models flood the web",
+      "summary_fa": "واحد Strand Labs در سرویس‌های وب آمازون (AWS)، جدیدترین مدل تصمیم‌گیری خود را با نام Strands Decider 2B منتشر کرده است. این مدل که مشابه مدل‌های تصمیم‌گیری Jeva طراحی شده، به جمع فزاینده مدل‌های مشابه موجود در فضای وب می‌پیوندد و نشان‌دهنده گسترش ابزارهای هوش مصنوعی برای اتخاذ تصمیمات پیچیده است.",
+      "tags": [
+        "Amazon",
+        "AWS",
+        "Strands Decider 2B",
+        "مدل تصمیم‌گیری",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "1c435808300fbe63",
+      "date": "2026-10-02",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "فریب نخورید: مدل‌های زبانی بزرگ استدلال نمی‌کنند",
+      "title_en": "Don’t be fooled—LLMs don’t reason",
+      "summary_fa": "برخلاف تصور رایج، مدل‌های زبانی بزرگ (LLM) با وجود توانایی‌های چشمگیر در تولید متن و پاسخ‌دهی، فاقد قابلیت استدلال واقعی هستند. هوش آنها از شناسایی الگوهای آماری در حجم عظیمی از داده‌ها ناشی می‌شود، نه درک عمیق یا استنتاج منطقی. کارشناسان هشدار می‌دهند که این سیستم‌ها صرفاً در پیش‌بینی کلمه بعدی مهارت دارند و نباید عملکرد آنها را با تفکر یا استدلال انسانی اشتباه گرفت.",
+      "tags": [
+        "LLMs",
+        "استدلال هوش مصنوعی",
+        "محدودیت‌های هوش مصنوعی",
+        "AlphaGo",
+        "Artificial Intelligence"
+      ]
+    },
+    {
+      "id": "02f09e599220583d",
+      "date": "2026-10-01",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/",
+      "category": "کاربرد هوش مصنوعی در علم و پزشکی",
+      "title_fa": "هوش مصنوعی «ذهن‌خوانی» می‌کند: بازسازی تصاویر از اسکن مغزی",
+      "title_en": "The Download: AI “mind-reading” and creative uses for small batteries",
+      "summary_fa": "محققان یک ابزار هوش مصنوعی جدید توسعه داده‌اند که می‌تواند تنها با تحلیل اسکن‌های مغزی، آنچه شما به آن نگاه می‌کنید را حدس بزند. این تکنولوژی پیشرفته قادر است تصاویری که فرد در حال مشاهده آن‌هاست را بازسازی کند. این گام بزرگ در درک فعالیت‌های مغزی، پتانسیل‌های جدیدی در رابط‌های مغز و رایانه و پزشکی عصبی ایجاد می‌کند.",
+      "tags": [
+        "AI",
+        "ذهن‌خوانی",
+        "اسکن مغزی",
+        "علوم اعصاب",
+        "بازسازی تصویر"
+      ]
+    },
+    {
+      "id": "8e23ff79fb358e20",
+      "date": "2026-10-01",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "ابزار هوش مصنوعی «ذهن‌خوان»: بازسازی تصاویر بصری از طریق اسکن مغز",
+      "title_en": "An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan",
+      "summary_fa": "یک ابزار جدید هوش مصنوعی قادر است با تحلیل اسکن‌های مغزی، تصاویری را که فرد در حال مشاهده آن‌هاست، با دقت قابل توجهی بازسازی کند. این فناوری نه تنها می‌تواند آنچه را در ذهن بیننده می‌گذرد تصویر کند، بلکه برعکس، فعالیت مغزی فرد را بر اساس آنچه می‌بیند نیز پیش‌بینی می‌کند. این گام نویدبخش، درک ما از چگونگی پردازش اطلاعات بصری توسط مغز را عمیق‌تر می‌کند.",
+      "tags": [
+        "هوش مصنوعی",
+        "اسکن مغزی",
+        "بازسازی تصویر",
+        "علوم اعصاب",
+        "ذهن‌خوانی"
+      ]
+    },
+    {
+      "id": "71c66f3bf2a39ecc",
+      "date": "2026-10-01",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/",
+      "category": "فناوری‌های انرژی و زیرساخت",
+      "title_fa": "باتری‌های کوچک‌تر و توزیع‌شده: راه‌حلی خلاقانه برای چالش‌های شبکه برق",
+      "title_en": "How smaller, distributed batteries could help the grid",
+      "summary_fa": "نصب باتری‌های بزرگ ذخیره انرژی در شبکه برق، به دلیل مقررات سخت‌گیرانه، با چالش‌های زیادی روبروست؛ به‌ویژه در شهرهایی مانند نیویورک. این موانع، استقرار پروژه‌های بزرگ ذخیره‌سازی انرژی را دشوار ساخته است. در پاسخ به این مشکلات، برخی استارتاپ‌ها رویکردهای خلاقانه‌ای در پیش گرفته‌اند. آن‌ها به دنبال استفاده از باتری‌های نسبتاً کوچک‌تر و توزیع‌شده در مکان‌های غیرمنتظره هستند تا به بهبود پایداری شبکه کمک کنند.",
+      "tags": [
+        "ذخیره‌سازی انرژی",
+        "شبکه برق",
+        "باتری",
+        "استارتاپ",
+        "انرژی توزیع‌شده"
       ]
     }
   ]
