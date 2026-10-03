@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-10-02",
+    "last_updated": "2026-10-03",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 1240
+    "total_articles": 1256
   },
   "articles": [
     {
@@ -21025,6 +21025,277 @@
         "باتری",
         "استارتاپ",
         "انرژی توزیع‌شده"
+      ]
+    },
+    {
+      "id": "8e206c4d9ed6ea5b",
+      "date": "2026-10-02",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/practical-guide-building-gpt-6",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "رازهای بهره‌وری با خانواده مدل‌های GPT-6: راهنمای استارتاپ‌ها",
+      "title_en": "A model guide for the GPT-6 family",
+      "summary_fa": "این مطلب، راهنمایی عملی برای استارتاپ‌هاست تا بتوانند به بهترین شکل از مدل‌های GPT-6 بهره‌برداری کنند. محتوای آن شامل انتخاب مدل مناسب، بهینه‌سازی فرآیندهای استدلال، ارتقای پرامپت‌ها و مهارت‌ها، هماهنگی ابزارهای مختلف و آماده‌سازی جریان‌های کاری برای مرحله تولید می‌شود.",
+      "tags": [
+        "GPT-6",
+        "استارتاپ",
+        "مدل‌های هوش مصنوعی",
+        "مهندسی پرامپت",
+        "کاربرد هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "a97398f76ee518bf",
+      "date": "2026-10-02",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/chatham-financial",
+      "category": "کاربرد هوش مصنوعی در صنعت مالی",
+      "title_fa": "Chatham Financial: از ۳۰ دقیقه به کمتر از ۴ دقیقه با هوش مصنوعی OpenAI",
+      "title_en": "Chatham scales its capital markets expertise with OpenAI",
+      "summary_fa": "شرکت Chatham Financial، فعال در بازارهای سرمایه، با بهره‌گیری از مدل‌های هوش مصنوعی Codex و GPT-5.6 شرکت OpenAI، گام مهمی در بهبود و بازطراحی فرایندهای کاری خود برداشته است. این اقدام منجر به کاهش چشمگیر زمان تأیید معاملات از ۳۰ دقیقه به کمتر از ۴ دقیقه شده و کارایی عملیاتی شرکت را به طرز بی‌سابقه‌ای افزایش داده است.",
+      "tags": [
+        "Chatham Financial",
+        "OpenAI",
+        "بازار سرمایه",
+        "GPT-5.6",
+        "بهره‌وری"
+      ]
+    },
+    {
+      "id": "9e4244bc3b0f357a",
+      "date": "2025-11-05",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/chime-vineet-mehra",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "تحول بازاریابی در Chime: رویکردی نوین با هوش مصنوعی",
+      "title_en": "How Chime is redefining marketing through AI",
+      "summary_fa": "وینیت مهرا، مدیر ارشد بازاریابی Chime، توضیح می‌دهد که چگونه هوش مصنوعی در حال تغییر مدل‌های بازاریابی به رویکردی عامل‌محور است. او تاکید می‌کند که رهبرانی که سواد هوش مصنوعی و به‌کارگیری هوشمندانه آن را در اولویت قرار دهند، موتور رشد آینده کسب‌وکارها خواهند بود.",
+      "tags": [
+        "Chime",
+        "هوش مصنوعی",
+        "بازاریابی",
+        "پذیرش سازمانی هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "6f9bafaa17ff11ac",
+      "date": "2025-11-05",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/1-million-businesses-putting-ai-to-work",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "یک میلیون کسب‌وکار در سراسر جهان از هوش مصنوعی OpenAI استفاده می‌کنند",
+      "title_en": "1 million business customers putting AI to work",
+      "summary_fa": "بیش از یک میلیون مشتری تجاری در سراسر جهان اکنون از محصولات و فناوری‌های OpenAI بهره می‌برند. این شرکت اعلام کرده است که از طریق ChatGPT و APIهایش، صنایع مختلفی از جمله مراقبت‌های بهداشتی، علوم زیستی و خدمات مالی در حال ورود به عصر جدیدی از کار هوشمند و مبتنی بر هوش مصنوعی هستند. این پذیرش گسترده نشان‌دهنده تغییر پارادایم در عملیات کسب‌وکارها با کمک AI است.",
+      "tags": [
+        "OpenAI",
+        "ChatGPT",
+        "هوش مصنوعی",
+        "کاربرد تجاری هوش مصنوعی",
+        "سازمان‌ها"
+      ]
+    },
+    {
+      "id": "639f15e3c81d5b7f",
+      "date": "2025-11-03",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/introducing-indqa",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "OpenAI از IndQA رونمایی کرد: معیار جدیدی برای ارزیابی هوش مصنوعی در زبان‌های هندی",
+      "title_en": "Introducing IndQA",
+      "summary_fa": "OpenAI به تازگی ابزار IndQA را معرفی کرده است، یک معیار جدید برای ارزیابی سیستم‌های هوش مصنوعی در زبان‌های هندی. این معیار با همکاری کارشناسان بومی توسعه یافته و درک فرهنگی و استدلال مدل‌ها را در ۱۲ زبان و ۱۰ حوزه دانشی مختلف می‌سنجد. هدف آن بهبود توانایی هوش مصنوعی در تعامل با پیچیدگی‌های زبانی و فرهنگی هند است.",
+      "tags": [
+        "OpenAI",
+        "IndQA",
+        "هوش مصنوعی",
+        "ارزیابی هوش مصنوعی",
+        "زبان‌های هندی"
+      ]
+    },
+    {
+      "id": "a9f97454d62e09aa",
+      "date": "2025-11-03",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/aws-and-openai-partnership",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "مشارکت استراتژیک ۳۸ میلیارد دلاری AWS و OpenAI برای پیشبرد هوش مصنوعی",
+      "title_en": "AWS and OpenAI announce multi-year strategic partnership",
+      "summary_fa": "OpenAI و AWS یک مشارکت استراتژیک چند ساله به ارزش ۳۸ میلیارد دلار را برای مقیاس‌دهی به حجم کاری پیشرفته هوش مصنوعی اعلام کرده‌اند. در چارچوب این همکاری، AWS زیرساخت و ظرفیت محاسباتی در سطح جهانی را برای توانمندسازی مدل‌های نسل آینده OpenAI فراهم خواهد کرد.",
+      "tags": [
+        "AWS",
+        "OpenAI",
+        "هوش مصنوعی",
+        "رایانش ابری",
+        "زیرساخت"
+      ]
+    },
+    {
+      "id": "83485a4ee257ce39",
+      "date": "2026-10-03",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+      "category": "کاربردها و اکوسیستم هوش مصنوعی",
+      "title_fa": "متا هوش مصنوعی Muse را به گجت‌های شما می‌آورد؛ کد آن رایگان شد",
+      "title_en": "Meta wants your next gadget to be Muse-infused",
+      "summary_fa": "شرکت متا قصد دارد هوش مصنوعی Muse خود را به طیف وسیعی از گجت‌ها و لوازم خانگی هوشمند، از تلویزیون گرفته تا توستر، بیاورد. برای تسریع این فرایند و ترغیب توسعه‌دهندگان به استفاده از آن، متا کد این هوش مصنوعی را به صورت رایگان منتشر کرده است.",
+      "tags": [
+        "Meta",
+        "Muse",
+        "AI",
+        "Open Source",
+        "IoT"
+      ]
+    },
+    {
+      "id": "3cc6542c47eb9be7",
+      "date": "2026-10-02",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+      "category": "کاربرد هوش مصنوعی در هنر و رسانه",
+      "title_fa": "شان پارکر: Stability AI با تمرکز بر هوش مصنوعی موسیقی بازسازی می‌شود",
+      "title_en": "Sean Parker is rebuilding Stability AI around music",
+      "summary_fa": "شان پارکر، شخصیت بحث‌برانگیز سابق صنعت موسیقی که پیش‌تر مدل \"اول انجام بده، بعد عذرخواهی کن\" را به این صنعت آموخته بود، این بار با حمایت و سرمایه‌گذاری شرکت‌های بزرگ حوزه موسیقی بازگشته است. او قصد دارد شرکت Stability AI را با تمرکز ویژه‌ای بر تولید و ابزارهای هوش مصنوعی در زمینه موسیقی بازسازی کند.",
+      "tags": [
+        "Sean Parker",
+        "Stability AI",
+        "Music AI",
+        "هوش مصنوعی مولد",
+        "صنعت موسیقی"
+      ]
+    },
+    {
+      "id": "c73e8583724730e3",
+      "date": "2026-10-02",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+      "category": "رویدادها و همایش‌های فناوری",
+      "title_fa": "تخفیف ویژه TechCrunch Disrupt 2026 برای متخصصان متأثر از تعدیل نیرو",
+      "title_en": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+      "summary_fa": "اگر از تعدیل نیرو در صنعت فناوری آسیب دیده‌اید و به دنبال فرصت‌های جدید هستید، رویداد TechCrunch Disrupt 2026 یک پیشنهاد ویژه برای شما دارد. این کنفرانس برای ۱۰۰ نفر اول واجد شرایط، ورودی Expo+ را تنها با ۷۵ دلار ارائه می‌دهد. این تخفیف فرصتی طلایی برای شبکه‌سازی و کشف موقعیت‌های شغلی آتی در اکوسیستم استارتاپی و فناوری است.",
+      "tags": [
+        "TechCrunch Disrupt 2026",
+        "تعدیل نیرو",
+        "شبکه‌سازی",
+        "فرصت‌های شغلی",
+        "استارتاپ"
+      ]
+    },
+    {
+      "id": "8931b830d8ddf5c9",
+      "date": "2026-10-02",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+      "category": "امنیت سایبری",
+      "title_fa": "اپل: عوامل هوش مصنوعی، کنترل‌های دسترسی دیسک در macOS را تشدید می‌کنند",
+      "title_en": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+      "summary_fa": "شرکت اپل اعلام کرده است که به دلیل افزایش توانایی عامل‌های هوش مصنوعی (AI agents)، کنترل‌های جدیدی را برای مجوز «دسترسی کامل دیسک» (Full Disk Access) در سیستم‌عامل macOS اضافه خواهد کرد. این شرکت هشدار داده است که دسترسی گسترده به فایل‌ها، پیام‌ها، ایمیل‌ها و تاریخچه مرورگر کاربران، به واسطه این عامل‌های هوش مصنوعی، ریسک‌های امنیتی جدی‌تری ایجاد می‌کند و حفاظت از داده‌های شخصی را ضروری‌تر می‌سازد.",
+      "tags": [
+        "Apple",
+        "macOS",
+        "Full Disk Access",
+        "AI agents",
+        "امنیت سایبری"
+      ]
+    },
+    {
+      "id": "5c5d251d2d2f20d8",
+      "date": "2026-10-02",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "تعهدنامه ایمنی هوش مصنوعی در کاخ سفید و نام‌گذاری \"فراهوش\"؛ تنها ۲ درصد از مصرف‌کنندگان متقاعد شده‌اند",
+      "title_en": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
+      "summary_fa": "این هفته، کاخ سفید میزبان مدیران ارشد شرکت‌های بزرگ تکنولوژی از جمله زاکربرگ، بزوس، ماسک و داریو آمودی از Anthropic بود تا تعهدنامه‌ای را در خصوص ایمنی هوش مصنوعی امضا کنند. پرزیدنت دونالد ترامپ، این تعهدنامه را «اخلاقا الزام‌آور» خواند و با صدور یک فرمان اجرایی، رسماً هوش مصنوعی را به «فراهوش» (Super Intelligence) تغییر نام داد. در حالی که شرکت‌هایی مانند متا و OpenAI در تلاشند تا محصولات هوش مصنوعی خود را کاربرپسندتر جلوه دهند، گزارش‌ها حاکی از آن است که تنها حدود ۲ درصد از مصرف‌کنندگان به این فناوری‌ها روی آورده‌اند.",
+      "tags": [
+        "سیاست‌گذاری هوش مصنوعی",
+        "ایمنی هوش مصنوعی",
+        "Super Intelligence",
+        "پذیرش مصرف‌کننده",
+        "White House"
+      ]
+    },
+    {
+      "id": "fcd1b322a9ec5b0c",
+      "date": "2026-10-02",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "کاخ سفید: هوش مصنوعی رسماً به «هوش فوق‌العاده» تغییر نام داد",
+      "title_en": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
+      "summary_fa": "این هفته، کاخ سفید میزبان مدیران ارشد شرکت‌های بزرگ فناوری از جمله زاکربرگ، بزوس، ماسک و داریو آمودی از Anthropic بود تا آنها پیمان‌نامه ایمنی هوش مصنوعی را امضا کنند. پرزیدنت دونالد ترامپ این پیمان را «اخلاقاً لازم‌الاجرا» خواند و همچنین با امضای یک دستور اجرایی، هوش مصنوعی را رسماً «هوش فوق‌العاده» نامید. در همین حال، شرکت‌هایی مانند Meta و OpenAI نیز در حال بهبود ظاهر محصولات هوش مصنوعی خود هستند.",
+      "tags": [
+        "کاخ سفید",
+        "تنظیم‌گری AI",
+        "ایمنی هوش مصنوعی",
+        "Super Intelligence",
+        "Donald Trump"
+      ]
+    },
+    {
+      "id": "063821072894f928",
+      "date": "2026-10-02",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "هوش مصنوعی خودران: بازتعریف هوش سازمانی و شتاب‌دهی به تحول کسب‌وکارها",
+      "title_en": "Redefining enterprise intelligence with autonomous AI",
+      "summary_fa": "هوش مصنوعی در سازمان‌ها دیگر یک آرزوی دور نیست؛ بلکه به طور کامل عملیاتی شده است. توانمندی مدل‌های هوش مصنوعی با سرعت بالایی در حال پیشرفت است، در حالی که هزینه‌های اجرایی آن رو به کاهش است. سرمایه‌گذاری جهانی در این حوزه نیز چشمگیر است و پیش‌بینی می‌شود تا سال ۲۰۲۶ به ۲.۵ تریلیون دلار برسد که ۴۴ درصد رشد نسبت به سال قبل را نشان می‌دهد.",
+      "tags": [
+        "هوش مصنوعی سازمانی",
+        "Autonomous AI",
+        "AI investment",
+        "پذیرش هوش مصنوعی",
+        "تحول دیجیتال"
+      ]
+    },
+    {
+      "id": "77cfea6d70bb959e",
+      "date": "2026-10-02",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/",
+      "category": "نوآوری‌های علمی و فناوری زیستی",
+      "title_fa": "مسابقه جدید برای معکوس کردن پیری بیولوژیکی آغاز شد",
+      "title_en": "The Download: a biological de-aging contest and why LLMs don’t reason",
+      "summary_fa": "یک رقابت جدید با هدف معکوس کردن فرایند پیری بیولوژیکی و دستیابی به جوانی زیستی آغاز شده است. در این مسابقه، شرکت‌کنندگان برای کاهش سن بیولوژیکی خود و نمایش روش‌های مؤثر جوان‌سازی به رقابت می‌پردازند. هدف این چالش کشف و ترویج نوآوری‌ها در زمینه معکوس کردن پیری در سطح بیولوژیکی است.",
+      "tags": [
+        "جوان‌سازی بیولوژیکی",
+        "معکوس کردن پیری",
+        "Biotechnology",
+        "پژوهش زیستی",
+        "مسابقه علمی"
+      ]
+    },
+    {
+      "id": "de82e9f2528da79b",
+      "date": "2026-10-02",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/02/1145610/younger-contest-race-to-biological-youth/",
+      "category": "زیست‌فناوری و سلامت",
+      "title_fa": "مسابقه 'جوان‌سازی بیولوژیک' آغاز شد: رقابتی نوین برای عقب بردن ساعت زیستی",
+      "title_en": "A new contest pits competitors against each other in a race to biological youth",
+      "summary_fa": "یک رقابت غیرمعمول جدید آغاز شده است که در آن شرکت‌کنندگان بر اساس کاهش سن بیولوژیک خود پاداش می‌گیرند. در این مسابقه، برخلاف سن تقویمی که تنها به جلو می‌رود، هدف، جوان‌تر شدن از نظر زیستی است. سن بیولوژیک معیاری دقیق‌تر برای اندازه‌گیری روند پیری ارائه می‌دهد و این رقابت به دنبال بررسی قابلیت‌های جوان‌سازی است.",
+      "tags": [
+        "سن بیولوژیک",
+        "جوان‌سازی",
+        "طول عمر",
+        "سلامت",
+        "بیوتکنولوژی"
+      ]
+    },
+    {
+      "id": "8ce994a17c5b35d2",
+      "date": "2026-09-30",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
+      "category": "امنیت سایبری",
+      "title_fa": "مدیر تحقیقات اوپن‌ای‌آی: حوادث هک به خودمان ضربه نخواهد زد",
+      "title_en": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
+      "summary_fa": "دو ماه پس از افشای خبر هک شدن کامپیوترهای شرکت Hugging Face توسط عوامل هوش مصنوعی OpenAI، این شرکت همچنان با پیامدهای این حادثه دست و پنجه نرم می‌کند. افشای مداوم جزئیات حملات هکری دیگر در هفته‌های اخیر، OpenAI را در کانون توجه قرار داده و پرسش‌های جدی را برانگیخته است. در این راستا، مدیر ارشد تحقیقات OpenAI تأکید کرده که این شرکت اجازه نخواهد داد پیامدهای این حوادث امنیتی به اعتبار یا عملکرد آن لطمه بزند.",
+      "tags": [
+        "OpenAI",
+        "Hugging Face",
+        "هک",
+        "امنیت هوش مصنوعی",
+        "هوش مصنوعی"
       ]
     }
   ]
