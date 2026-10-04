@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-10-03",
+    "last_updated": "2026-10-04",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 1256
+    "total_articles": 1264
   },
   "articles": [
     {
@@ -21296,6 +21296,140 @@
         "هک",
         "امنیت هوش مصنوعی",
         "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "4dc8c1bc29aac821",
+      "date": "2025-10-30",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/expanding-stargate-to-michigan",
+      "category": "زیرساخت و سرمایه‌گذاری هوش مصنوعی",
+      "title_fa": "اوپن‌ای‌آی پروژه عظیم «استارگیت» را به میشیگان می‌برد: تقویت زیرساخت هوش مصنوعی آمریکا با پردیس یک گیگاواتی",
+      "title_en": "Expanding Stargate to Michigan",
+      "summary_fa": "اوپن‌ای‌آی با توسعه پروژه «استارگیت» (Stargate) به ایالت میشیگان، قصد دارد یک پردیس جدید با ظرفیت یک گیگاوات برق احداث کند. این اقدام استراتژیک به طور چشمگیری زیرساخت هوش مصنوعی آمریکا را تقویت خواهد کرد. انتظار می‌رود این پروژه فرصت‌های شغلی جدیدی ایجاد کرده، سرمایه‌گذاری‌ها را جذب کند و رشد اقتصادی منطقه غرب میانه را تحریک نماید.",
+      "tags": [
+        "OpenAI",
+        "Stargate",
+        "Michigan",
+        "AI Infrastructure",
+        "Investment"
+      ]
+    },
+    {
+      "id": "aa20070d4f3c7951",
+      "date": "2025-10-30",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/introducing-aardvark",
+      "category": "کاربرد هوش مصنوعی در امنیت سایبری",
+      "title_fa": "OpenAI از «آردوارک»، عامل هوش مصنوعی خود برای پژوهش امنیتی رونمایی کرد",
+      "title_en": "Introducing Aardvark: OpenAI’s agentic security researcher",
+      "summary_fa": "OpenAI از Aardvark، یک پژوهشگر امنیتی مبتنی بر هوش مصنوعی، رونمایی کرده است. این سیستم قادر است به صورت مستقل، آسیب‌پذیری‌های نرم‌افزاری را در مقیاس وسیع پیدا کند، صحت‌سنجی کند و به رفع آن‌ها کمک نماید. Aardvark که در حال حاضر در فاز بتای خصوصی قرار دارد، با هدف افزایش امنیت نرم‌افزارها توسعه یافته و کاربران علاقه‌مند می‌توانند برای آزمایش اولیه ثبت‌نام کنند.",
+      "tags": [
+        "OpenAI",
+        "Aardvark",
+        "AI",
+        "Cybersecurity",
+        "Software Vulnerability"
+      ]
+    },
+    {
+      "id": "b5d0db5c03e72f8c",
+      "date": "2025-10-30",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/building-chatgpt-atlas",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "OWL: معماری نوین در پشت پرده مرورگر اطلس مبتنی بر ChatGPT",
+      "title_en": "How we built OWL, the new architecture behind our ChatGPT-based browser, Atlas",
+      "summary_fa": "معماری OWL، ستون فقرات مرورگر جدید اطلس مبتنی بر ChatGPT است که در این خبر به جزئیات آن پرداخته می‌شود. این معماری با جداسازی Chromium، امکان راه‌اندازی سریع، رابط کاربری غنی و مرورگری هوشمند (agentic browsing) را با بهره‌گیری از قابلیت‌های ChatGPT فراهم می‌آورد. هدف آن ارائه تجربه‌ای نوین و پیشرفته در جستجو و تعامل با وب است.",
+      "tags": [
+        "OWL",
+        "Atlas",
+        "ChatGPT",
+        "مرورگر",
+        "معماری نرم‌افزار"
+      ]
+    },
+    {
+      "id": "18a7c3ac918155b0",
+      "date": "2025-10-29",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/introducing-gpt-oss-safeguard",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "OpenAI از «gpt-oss-safeguard» برای سفارشی‌سازی و طبقه‌بندی ایمنی هوش مصنوعی رونمایی کرد",
+      "title_en": "Introducing gpt-oss-safeguard",
+      "summary_fa": "شرکت OpenAI ابزار جدیدی به نام «gpt-oss-safeguard» را معرفی کرده است. این ابزار شامل مدل‌های استدلالی با وزن‌های باز است که به منظور طبقه‌بندی ایمنی محتوا و خروجی مدل‌های هوش مصنوعی طراحی شده‌اند. هدف اصلی آن توانمندسازی توسعه‌دهندگان است تا بتوانند سیاست‌های ایمنی سفارشی خود را اعمال کرده و آن‌ها را به طور مداوم بهبود بخشند.",
+      "tags": [
+        "OpenAI",
+        "gpt-oss-safeguard",
+        "AI Safety",
+        "Open-weight models",
+        "توسعه‌دهندگان"
+      ]
+    },
+    {
+      "id": "990af187793cbc71",
+      "date": "2025-10-29",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/gpt-oss-safeguard-technical-report",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "گزارش فنی GPT-OSS-Safeguard: مدل‌های جدید هوش مصنوعی برای برچسب‌گذاری و انطباق محتوا",
+      "title_en": "gpt-oss-safeguard technical report",
+      "summary_fa": "دو مدل جدید هوش مصنوعی با وزن باز به نام‌های gpt-oss-safeguard-120b و gpt-oss-safeguard-20b معرفی شده‌اند. این مدل‌ها که از نسخه‌های gpt-oss پس‌آموزش دیده‌اند، قادرند با استدلال بر اساس سیاست‌های مشخص، محتوا را برچسب‌گذاری کنند. گزارش فنی منتشر شده، قابلیت‌های این مدل‌ها را شرح می‌دهد و نتایج ارزیابی‌های اولیه ایمنی آن‌ها را با مقایسه با مدل‌های اصلی gpt-oss ارائه می‌کند. برای جزئیات بیشتر در مورد توسعه و معماری مدل‌های پایه gpt-oss، می‌توان به سند اصلی مدل gpt-oss مراجعه کرد.",
+      "tags": [
+        "gpt-oss-safeguard",
+        "مدل‌های هوش مصنوعی",
+        "اعتدال محتوا",
+        "ایمنی هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "f8ba7ef564870c95",
+      "date": "2026-10-03",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+      "category": "زیرساخت ابری و مراکز داده",
+      "title_fa": "پاسخ آمازون به نگرانی‌ها درباره مراکز داده: پایان استفاده از قراردادهای عدم افشا (NDA)",
+      "title_en": "Amazon responds to data center backlash, says it no longer uses NDAs",
+      "summary_fa": "مدیرعامل Amazon Web Services در واکنش به سوءظن‌ها و نگرانی‌های فزاینده درباره مراکز داده، تلاش کرده تا از این تاسیسات دفاع کند. وی با هدف افزایش شفافیت و اعتمادسازی، اعلام کرد که این شرکت دیگر از قراردادهای عدم افشا (NDA) در ارتباط با مراکز داده خود استفاده نمی‌کند. این اقدام پاسخی مستقیم به انتقادات اخیر در این حوزه تلقی می‌شود.",
+      "tags": [
+        "Amazon",
+        "AWS",
+        "Data Centers",
+        "NDA",
+        "شفافیت"
+      ]
+    },
+    {
+      "id": "a17db24aed38baa7",
+      "date": "2026-10-03",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "کارمند ارشد ایمنی OpenAI استعفا داد: «فرهنگ شرکت ما مشکل دارد»",
+      "title_en": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+      "summary_fa": "یک کارمند ارشد در حوزه ایمنی هوش مصنوعی از شرکت OpenAI استعفا داد. این کارمند، دیوید رابینسون، همزمان با کناره‌گیری خود هشدار جدی درباره وضعیت داخلی شرکت صادر کرده است. او ادعا می‌کند که فرهنگ سازمانی OpenAI، به ویژه در ارتباط با رویکردهای ایمنی، «از هم پاشیده» است و نیازمند توجه فوری است.",
+      "tags": [
+        "OpenAI",
+        "ایمنی هوش مصنوعی",
+        "استعفا",
+        "فرهنگ سازمانی"
+      ]
+    },
+    {
+      "id": "41a7e440548d1d8c",
+      "date": "2026-10-03",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "category": "کاربردهای هوش مصنوعی در زندگی روزمره",
+      "title_fa": "عوامل هوش مصنوعی در پیامک‌ها: دستیارانی برای هر نیاز در جیب شما",
+      "title_en": "All the AI agents that can live in your text messages",
+      "summary_fa": "این گزارش به معرفی مجموعه‌ای از برجسته‌ترین عوامل هوش مصنوعی می‌پردازد که قابلیت فعالیت و تعامل از طریق پیام‌های متنی را دارند. این دستیاران هوشمند، طیف گسترده‌ای از نیازها را پوشش می‌دهند؛ از یاری‌رسانی در امور عمومی گرفته تا کاربردهای تخصصی‌تر برای خانواده، برنامه‌ریزی سفر و وظایف کاری.",
+      "tags": [
+        "AI Agents",
+        "پیامک",
+        "دستیار هوشمند",
+        "کاربردهای هوش مصنوعی",
+        "بهره‌وری"
       ]
     }
   ]
