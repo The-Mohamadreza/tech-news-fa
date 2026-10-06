@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-10-05",
+    "last_updated": "2026-10-06",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 1272
+    "total_articles": 1287
   },
   "articles": [
     {
@@ -21566,6 +21566,261 @@
         "AI",
         "کاربردهای هوش مصنوعی",
         "EmTech Future"
+      ]
+    },
+    {
+      "id": "78ad53815846c15c",
+      "date": "2026-10-05",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/eu-text-provenance",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "رویکرد OpenAI به نشان‌گذاری متون هوش مصنوعی تحت قوانین اصالت اتحادیه اروپا",
+      "title_en": "Our approach to EU text provenance rules",
+      "summary_fa": "OpenAI در حال تشریح رویکرد خود به نشان‌گذاری متون (واترمارکینگ) تولیدشده توسط هوش مصنوعی، مطابق با قوانین جدید اصالت محتوا در اتحادیه اروپا است. این شرکت توضیح می‌دهد که واترمارک‌ها در کدام بخش‌ها اعمال می‌شوند، سازوکار تشخیص آن‌ها چگونه است و چرا دسترسی اولیه به این فناوری تنها برای محققان فراهم شده است.",
+      "tags": [
+        "OpenAI",
+        "EU",
+        "Watermarking",
+        "تنظیم‌گری هوش مصنوعی",
+        "اصالت متن"
+      ]
+    },
+    {
+      "id": "3cbec84de8bf6155",
+      "date": "2026-10-05",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "category": "هوش مصنوعی و بازاریابی",
+      "title_fa": "تبلیغات بصری جدید OpenAI در ChatGPT: گامی نو در بازاریابی هوش مصنوعی",
+      "title_en": "Building advertising for the way people use AI",
+      "summary_fa": "OpenAI با معرفی یک فرمت تبلیغاتی بصری جدید در ChatGPT، گامی تازه در حوزه‌ی بازاریابی مبتنی بر هوش مصنوعی برداشته است. این اقدام همچنین شامل توسعه ابزارهای سنجش، ایجاد همکاری‌های جدید برای ردیابی عملکرد، و بهبود قابلیت‌های تناسب برند برای تبلیغ‌کنندگان می‌شود تا با شیوه‌ی استفاده‌ی مردم از هوش مصنوعی هماهنگ شود.",
+      "tags": [
+        "OpenAI",
+        "ChatGPT",
+        "تبلیغات",
+        "هوش مصنوعی",
+        "بازاریابی دیجیتال"
+      ]
+    },
+    {
+      "id": "e3c64905aace8cf0",
+      "date": "2025-10-27",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/global-affairs/seizing-the-ai-opportunity",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "OpenAI: سرمایه‌گذاری استراتژیک، کلید رهبری آمریکا در عصر هوش مصنوعی",
+      "title_en": "Seizing the AI opportunity",
+      "summary_fa": "شرکت OpenAI در پیشنهادی به کاخ سفید اعلام کرد که برای پاسخگویی به نیازهای عصر هوش مصنوعی، سرمایه‌گذاری استراتژیک در انرژی و زیرساخت‌ها ضروری است. این شرکت تأکید کرده است که گسترش ظرفیت‌ها و آماده‌سازی نیروی کار می‌تواند رهبری ایالات متحده در هوش مصنوعی و رشد اقتصادی این کشور را تضمین کند.",
+      "tags": [
+        "OpenAI",
+        "White House",
+        "رهبری هوش مصنوعی",
+        "سرمایه‌گذاری",
+        "زیرساخت"
+      ]
+    },
+    {
+      "id": "20e407c370e6b8f5",
+      "date": "2025-10-27",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/strengthening-chatgpt-responses-in-sensitive-conversations",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "ChatGPT ایمن‌تر در مکالمات حساس: همکاری OpenAI با متخصصان سلامت روان",
+      "title_en": "Strengthening ChatGPT’s responses in sensitive conversations",
+      "summary_fa": "OpenAI با همکاری بیش از ۱۷۰ متخصص سلامت روان، قابلیت‌های ChatGPT را برای شناسایی پریشانی، پاسخ همدلانه و ارجاع کاربران به حمایت‌های واقعی بهبود بخشیده است. این همکاری منجر به کاهش ۸۰ درصدی پاسخ‌های ناامن شده است. هدف از این اقدام، ایمن‌تر و حمایتی‌تر کردن ChatGPT در مواجهه با مکالمات حساس است تا در لحظات دشوار پشتیبانی بهتری ارائه دهد.",
+      "tags": [
+        "OpenAI",
+        "ChatGPT",
+        "Mental Health",
+        "AI Safety",
+        "Responsible AI"
+      ]
+    },
+    {
+      "id": "3330bf30a082c333",
+      "date": "2025-10-27",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/steuerrecht",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "Steuerrecht.com: شتاب‌بخشی به تحلیل‌های حقوقی با ChatGPT",
+      "title_en": "Steuerrecht.com delivers client-ready legal analysis with ChatGPT",
+      "summary_fa": "شرکت Steuerrecht.com از نسخه تجاری ChatGPT برای بهینه‌سازی فرآیندهای کاری حقوقی خود استفاده می‌کند. این ابزار به آنها امکان می‌دهد تا تحقیقات مالیاتی را خودکار کرده و تحلیل‌های حقوقی آماده برای مشتریان را با سرعت و دقت بیشتری به شرکت‌های حقوقی ارائه دهند.",
+      "tags": [
+        "Steuerrecht.com",
+        "ChatGPT Business",
+        "هوش مصنوعی",
+        "فناوری حقوقی",
+        "اتوماسیون"
+      ]
+    },
+    {
+      "id": "1968096b3fc18df4",
+      "date": "2025-10-23",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/openai-acquires-software-applications-incorporated",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "OpenAI سازنده Sky را خرید: هوش مصنوعی چت‌جی‌پی‌تی در مک عمیق‌تر می‌شود",
+      "title_en": "OpenAI acquires Software Applications Incorporated, maker of Sky",
+      "summary_fa": "اوپن‌ای‌آی (OpenAI) شرکت Software Applications Incorporated، سازنده‌ی اپلیکیشن Sky را خریداری کرده است. Sky یک رابط کاربری زبان طبیعی برای مک است که هوش مصنوعی را مستقیماً به تجربه‌ی دسکتاپ کاربران می‌آورد. با این اقدام، قابلیت‌های عمیق Sky در سیستم‌عامل مک‌اواس (macOS) با چت‌جی‌پی‌تی (ChatGPT) ادغام خواهند شد. هدف از این ادغام، شهودی‌تر، زمینه‌محورتر و عمل‌گراتر کردن هوش مصنوعی برای کاربران است.",
+      "tags": [
+        "OpenAI",
+        "ChatGPT",
+        "Sky",
+        "macOS",
+        "Acquisition"
+      ]
+    },
+    {
+      "id": "549ccc4aeee79ea2",
+      "date": "2026-10-05",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "پاسخ OpenAI به قانون هوش مصنوعی اروپا: واترمارک برای متن‌های ChatGPT",
+      "title_en": "OpenAI will start watermarking ChatGPT’s text in the EU",
+      "summary_fa": "شرکت OpenAI اعلام کرده است که به منظور رعایت الزامات قانون هوش مصنوعی اتحادیه اروپا (EU AI Act)، از این پس متن‌های تولیدشده توسط مدل‌های ChatGPT و Codex خود را واترمارک خواهد کرد. این اقدام به شفافیت محتوای تولیدی هوش مصنوعی کمک می‌کند، اما OpenAI هشدار داده که ویرایش‌های بعدی ممکن است تشخیص این واترمارک‌های نامرئی را دشوار سازد.",
+      "tags": [
+        "OpenAI",
+        "ChatGPT",
+        "EU AI Act",
+        "واترمارک",
+        "تنظیم‌گری هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "82cd9e3ab19b0710",
+      "date": "2026-10-05",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "Reflection با مدل هوش مصنوعی «بیم»: رقیبی متن‌باز و مقرون‌به‌صرفه برای مدل‌های چینی",
+      "title_en": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+      "summary_fa": "شرکت Reflection مدل هوش مصنوعی جدید و «open-weight» خود، «بیم» (Beam) را معرفی کرده است. این مدل با هدف رقابت با مدل‌های چینی و کاهش چشمگیر هزینه‌های محاسباتی طراحی شده است. Reflection، مدل «بیم» و محصولات آتی خود را برای شرکت‌های بزرگ و دولت‌ها عرضه می‌کند و راهکاری با عنوان «کارخانه‌های هوش مصنوعی» ارائه می‌دهد. این راهکار به نهادها امکان می‌دهد تا با آموزش مدل‌های Reflection روی داده‌های اختصاصی خود، سیستم‌های هوش مصنوعی محلی و کاملاً سفارشی‌سازی شده ایجاد کنند.",
+      "tags": [
+        "Reflection",
+        "Beam",
+        "AI model",
+        "هوش مصنوعی سازمانی",
+        "Open-weight AI"
+      ]
+    },
+    {
+      "id": "ddc310eb36a6d0af",
+      "date": "2026-10-05",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
+      "category": "محصولات و پلتفرم‌های هوش مصنوعی",
+      "title_fa": "Instinct دستیار هوش مصنوعی خود را به چت‌های گروهی آورد: برنامه‌ریزی جمعی آسان‌تر، حتی برای غیرکاربران",
+      "title_en": "Instinct brings its AI agent to group chats, even for friends without an account",
+      "summary_fa": "شرکت Instinct قابلیت چت گروهی جدیدی را عرضه کرده است که به دوستان امکان می‌دهد تا از دستیار هوش مصنوعی آن به صورت مشترک برای برنامه‌ریزی‌هایی مانند سفرها، کارپول و رویدادها بهره ببرند. این ویژگی حتی به افرادی که حساب کاربری Instinct ندارند نیز اجازه همکاری می‌دهد. شرکت تصریح کرده است که حریم خصوصی حساب‌های شخصی حفظ می‌شود و هرگونه اشتراک‌گذاری اطلاعات یا اقدام توسط دستیار هوش مصنوعی نیازمند مجوز صریح کاربر است.",
+      "tags": [
+        "Instinct",
+        "AI agent",
+        "Group chat",
+        "برنامه‌ریزی",
+        "همکاری"
+      ]
+    },
+    {
+      "id": "e08f8e4c161b2715",
+      "date": "2026-10-05",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "تیک‌تاک از دستیار خرید هوش مصنوعی و قابلیت پرداخت سریع رونمایی کرد",
+      "title_en": "TikTok rolls out an AI shopping assistant and one-click checkout",
+      "summary_fa": "تیک‌تاک از دستیار خرید هوش مصنوعی جدید خود رونمایی کرده است. این دستیار، که یک عامل هوش مصنوعی مکالمه‌محور است، به کاربران کمک می‌کند تا محصولات را کشف کرده و به راحتی خریداری کنند. این قابلیت در کنار سیستم پرداخت یک‌کلیکی، تجربه خرید آنلاین در این پلتفرم را متحول خواهد کرد.",
+      "tags": [
+        "TikTok",
+        "AI",
+        "E-commerce",
+        "دستیار خرید",
+        "هوش مصنوعی مکالمه‌محور"
+      ]
+    },
+    {
+      "id": "92b884bb4da0ee95",
+      "date": "2026-10-05",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
+      "category": "کاربرد هوش مصنوعی در خدمات شخصی و اجتماعی",
+      "title_fa": "Hot Girl Hotline: مشاور هوش مصنوعی برای روابط عاطفی زنان جوان",
+      "title_en": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
+      "summary_fa": "استارتاپ Hot Girl Hotline که توسط دو خواهر راه‌اندازی شده، با بهره‌گیری از هوش مصنوعی به زنان جوان مشاوره شخصی در زمینه دوستیابی و روابط عاطفی ارائه می‌دهد. این سرویس بر ایمنی و جلوگیری از وابستگی عاطفی تاکید دارد و به مثابه 'میس اَبی' (Dear Abby) دوران هوش مصنوعی عمل می‌کند.",
+      "tags": [
+        "Hot Girl Hotline",
+        "AI",
+        "مشاوره روابط",
+        "استارتاپ",
+        "ایمنی در روابط"
+      ]
+    },
+    {
+      "id": "5253c2e75c44c31d",
+      "date": "2026-10-05",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "HackerRank با مصاحبه‌گر هوش مصنوعی خود، آینده استخدام را به نمایش می‌گذارد",
+      "title_en": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
+      "summary_fa": "شرکت HackerRank با معرفی مصاحبه‌گر مبتنی بر هوش مصنوعی خود، گامی بزرگ در تحول فرآیندهای استخدام برداشته است. این سیستم تاکنون بیش از ۵۰۰,۰۰۰ مصاحبه شغلی را انجام داده و نگاهی اجمالی به آینده مصاحبه‌های شغلی ارائه می‌دهد. شرکت‌های بزرگی چون Snowflake، Snorkel و Capgemini از اولین مشتریان و آزمایش‌کنندگان این فناوری بوده‌اند.",
+      "tags": [
+        "HackerRank",
+        "هوش مصنوعی",
+        "استخدام",
+        "AI interviewer",
+        "Snowflake"
+      ]
+    },
+    {
+      "id": "1ba99535ff8c264e",
+      "date": "2026-10-05",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "فراتر از داده: اتصال هوش مصنوعی سازمانی به دانش شرکت‌ها",
+      "title_en": "Connecting AI agents to enterprise knowledge",
+      "summary_fa": "با وجود حجم عظیمی از داده‌هایی که سیستم‌های هوش مصنوعی به طور مداوم جمع‌آوری و تحلیل می‌کنند، عامل‌های هوش مصنوعی سازمانی اغلب با کمبود دانش واقعی مواجه‌اند. دانش فراتر از داده‌های خام است و به معنای درک مفهوم داده‌ها در بستر یک سازمان خاص است. این درک برای عامل‌های هوش مصنوعی جهت استدلال، تصمیم‌گیری صحیح و انجام وظایفشان در محیط کسب‌وکار حیاتی است و اتصال آن‌ها به پایگاه‌های دانش سازمانی یک ضرورت محسوب می‌شود.",
+      "tags": [
+        "Enterprise AI",
+        "AI agents",
+        "Knowledge Management",
+        "دانش سازمانی",
+        "تصمیم‌گیری هوشمند"
+      ]
+    },
+    {
+      "id": "a166b7265245de8a",
+      "date": "2026-10-05",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
+      "category": "کاربرد هوش مصنوعی در کسب‌وکار",
+      "title_fa": "عصر هوش مصنوعی عامل‌محور: از پیش‌بینی تا تصمیم‌گیری خودگردان در سازمان‌ها",
+      "title_en": "Bringing predictive analytics to the agentic AI era",
+      "summary_fa": "تا سال ۲۰۲۶، برتری مدل‌های هوش مصنوعی پیش‌بینی‌کننده بر پیش‌بینی‌های آماری در دنیای کسب‌وکار امری اثبات‌شده خواهد بود. اکنون، چالش اصلی در هوش مصنوعی سازمانی، توانمندسازی این سیستم‌ها برای اجرای خودکار نتایج تحلیل‌هایشان است. این سیستم‌ها باید بتوانند بدون انحراف از اهداف تجاری سازمان، بر اساس پیش‌بینی‌های خود تصمیم‌گیری کرده و عمل کنند. به این ترتیب، مرز جدید توسعه هوش مصنوعی از صرف پیش‌بینی به سوی تصمیم‌گیری و اقدام خودگردان حرکت کرده است.",
+      "tags": [
+        "هوش مصنوعی خودگردان",
+        "تحلیل پیش‌بینی‌کننده",
+        "Enterprise AI",
+        "تصمیم‌گیری خودکار",
+        "کسب‌وکار"
+      ]
+    },
+    {
+      "id": "ed94fd8d6c65a4f9",
+      "date": "2026-10-05",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/05/1145711/the-download-ai-popularity-paradox-emtech-future-2026/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "پارادوکس هوش مصنوعی: چرا با وجود تنفر عمومی، نمی‌توانیم از آن دست بکشیم؟",
+      "title_en": "The Download: AI’s popularity paradox and EmTech Future 2026",
+      "summary_fa": "این نسخه از خبرنامه روزانه «The Download» به بررسی پارادوکس جالب محبوبیت هوش مصنوعی می‌پردازد. با وجود اینکه بسیاری از مردم نسبت به هوش مصنوعی دیدگاه منفی دارند و از آن «متنفرند»، اما به نظر می‌رسد که نمی‌توانند از استفاده و کاربردهای آن دست بکشند. این گزارش سوال می‌کند که چرا با وجود این تنفر، وابستگی به هوش مصنوعی روزبه‌روز بیشتر می‌شود و به استارتاپ‌هایی نظیر Springboards که در حال توسعه مدل‌های زبانی بزرگ هستند، اشاره می‌کند.",
+      "tags": [
+        "هوش مصنوعی",
+        "پارادوکس",
+        "پذیرش عمومی",
+        "LLM",
+        "EmTech Future 2026"
       ]
     }
   ]
