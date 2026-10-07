@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-10-06",
+    "last_updated": "2026-10-07",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 1287
+    "total_articles": 1303
   },
   "articles": [
     {
@@ -21821,6 +21821,278 @@
         "پذیرش عمومی",
         "LLM",
         "EmTech Future 2026"
+      ]
+    },
+    {
+      "id": "47b9255d8fa0f8e8",
+      "date": "2026-10-06",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "OpenAI با هوش مصنوعی، افق‌های جدیدی در حل مسائل ریاضی می‌گشاید",
+      "title_en": "Sharing AI progress in mathematics",
+      "summary_fa": "شرکت OpenAI نتایج جدید و چشمگیری را در زمینه حل مسائل باز ریاضیات منتشر کرده است. این دستاوردها با استفاده از یک مدل پیشرفته داخلی این شرکت به دست آمده‌اند. جزئیات مربوط به این پژوهش، شامل فرمالیزاسیون‌های اثبات Lean، برای توسعه‌دهندگان و محققان در گیت‌هاب در دسترس قرار گرفته است.",
+      "tags": [
+        "OpenAI",
+        "هوش مصنوعی",
+        "ریاضیات",
+        "Lean",
+        "GitHub"
+      ]
+    },
+    {
+      "id": "60ef2af305e795fe",
+      "date": "2026-10-06",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/atlassian-partnership",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "Atlassian و OpenAI همکاری را تعمیق می‌بخشند: هوش مصنوعی، دانش سازمانی را به عمل تبدیل می‌کند",
+      "title_en": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+      "summary_fa": "شرکت‌های Atlassian و OpenAI همکاری خود را گسترش داده‌اند. هدف این مشارکت، اتصال مدل‌های پیشرفته هوش مصنوعی به دانش سازمانی است. این اقدام به شرکت‌ها کمک می‌کند تا اطلاعات خود را به عمل تبدیل کرده و فرآیندهای برنامه‌ریزی، ساخت و ارائه کار را بهبود بخشند. این حرکت نشان‌دهنده گامی مهم در افزایش بهره‌وری تیم‌ها از طریق هوش مصنوعی است.",
+      "tags": [
+        "Atlassian",
+        "OpenAI",
+        "هوش مصنوعی سازمانی",
+        "بهره‌وری",
+        "مدل‌های زبانی بزرگ"
+      ]
+    },
+    {
+      "id": "a55a242b4910ba9c",
+      "date": "2025-10-23",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/consensus",
+      "category": "کاربرد هوش مصنوعی در علم",
+      "title_fa": "Consensus: شتاب‌دهنده‌ پژوهش‌های علمی با قدرت GPT-5 و API‌های OpenAI",
+      "title_en": "Consensus accelerates research with GPT-5 and Responses API",
+      "summary_fa": "شرکت Consensus با بهره‌گیری از مدل پیشرفته GPT-5 و Responses API شرکت OpenAI، یک دستیار پژوهشی هوشمند چندعامله را توسعه داده است. این دستیار قادر است مقالات و داده‌های علمی را در عرض چند دقیقه خوانده، تحلیل و خلاصه‌سازی کند. هدف این نوآوری، کمک به بیش از ۸ میلیون پژوهشگر برای سرعت بخشیدن به فرآیند کشف علمی است.",
+      "tags": [
+        "Consensus",
+        "GPT-5",
+        "OpenAI",
+        "دستیار پژوهشی",
+        "شتاب‌دهی به علم"
+      ]
+    },
+    {
+      "id": "f6641cd7f3f81f0f",
+      "date": "2025-10-23",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/south-korea-economic-blueprint",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "نقشه راه OpenAI برای شکوفایی اقتصادی کره‌جنوبی با هوش مصنوعی",
+      "title_en": "AI in South Korea—OpenAI’s Economic Blueprint",
+      "summary_fa": "شرکت OpenAI یک طرح راهبردی اقتصادی برای کره‌جنوبی ارائه داده است. این طرح نشان می‌دهد که چگونه کره‌جنوبی می‌تواند با تکیه بر قابلیت‌های بومی خود و ایجاد شراکت‌های استراتژیک، هوش مصنوعی قابل اعتماد را توسعه داده و از آن برای پیشبرد رشد اقتصادی بهره‌برداری کند.",
+      "tags": [
+        "OpenAI",
+        "South Korea",
+        "AI",
+        "Economic Blueprint",
+        "National Strategy"
+      ]
+    },
+    {
+      "id": "049bf6f5219d688a",
+      "date": "2026-10-06",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "تغییر استراتژی مهندسان سابق Ramp: ملیوس با ۲۰ میلیون دلار سرمایه برای هوش مصنوعی تبلیغاتی متولد شد",
+      "title_en": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+      "summary_fa": "مهندسان سابق شرکت Ramp موفق به جذب ۲۰ میلیون دلار سرمایه برای پلتفرم جدید خود، Melius، شده‌اند. این سرمایه‌گذاری پس از آن صورت می‌گیرد که تیم توسعه‌دهنده محصول اولیه خود را که بر بهینه‌سازی هزینه‌های تبلیغاتی بازاریابان متمرکز بود، کنار گذاشت. اکنون Melius بر ساخت ابزارهایی تمرکز دارد که قادر به تولید خودکار دارایی‌های خلاقانه و کمپین‌های تبلیغاتی هستند، که نشان‌دهنده تغییر جهت به سمت هوش مصنوعی در حوزه بازاریابی است.",
+      "tags": [
+        "Melius",
+        "Ramp",
+        "هوش مصنوعی",
+        "بازاریابی",
+        "سرمایه‌گذاری"
+      ]
+    },
+    {
+      "id": "c3d8360c1095ad0a",
+      "date": "2026-10-06",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+      "category": "کاربرد هوش مصنوعی",
+      "title_fa": "تحول در نظارت بر محتوا با مدل‌های تصمیم‌گیری هوش مصنوعی",
+      "title_en": "How AI decision models could change content moderation",
+      "summary_fa": "شرکت Musubi به تازگی از مدل تصمیم‌گیری سبک‌وزن جدید خود با نام PolicyLM-1.7B رونمایی کرده است. این مدل که برای تعدیل محتوای بلادرنگ طراحی شده، با وزن‌های آزاد (open weights) منتشر شده و می‌تواند رویکرد پلتفرم‌ها به مدیریت محتوا را متحول سازد.",
+      "tags": [
+        "Musubi",
+        "PolicyLM-1.7B",
+        "نظارت بر محتوا",
+        "مدل‌های هوش مصنوعی",
+        "Open Weights"
+      ]
+    },
+    {
+      "id": "4e425615ccb8ed09",
+      "date": "2026-10-06",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "جذب ۴ میلیارد دلار سرمایه توسط استارتاپ هوش مصنوعی لمبدا در آستانه عرضه اولیه سهام",
+      "title_en": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+      "summary_fa": "استارتاپ محاسبات هوش مصنوعی لمبدا (Lambda) که تحت حمایت انویدیا است، در حال جذب سرمایه‌ای بالغ بر ۴ میلیارد دلار است. این جذب سرمایه با ارزش‌گذاری ۱۴.۵ میلیارد دلاری (پیش از عرضه اولیه) و با رهبری شرکت‌های Coatue و Blackstone، پیش از عرضه عمومی سهام (IPO) برنامه‌ریزی شده برای سال ۲۰۲۷ انجام می‌شود.",
+      "tags": [
+        "Lambda",
+        "Nvidia",
+        "IPO",
+        "سرمایه‌گذاری",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "a9ee6e883253250c",
+      "date": "2026-10-06",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+      "category": "تنظیم‌گری و استانداردسازی هوش مصنوعی",
+      "title_fa": "چالش بزرگ بعدی برای عوامل هوش مصنوعی: سد وب‌سایت‌ها",
+      "title_en": "The next hurdle for AI agents: getting websites to let them in",
+      "summary_fa": "عوامل هوش مصنوعی شخصی وعده می‌دهند که کارهایی نظیر خرید، رزرو پرواز و هتل را برای کاربران انجام دهند. با این حال، موانع عمدی و مکانیزم‌های دفاعی ضد ربات وب‌سایت‌ها جلوی فعالیت آن‌ها را می‌گیرند و مصرف‌کنندگان را در میانه این کشمکش گرفتار کرده‌اند. اکنون تلاشی برای تعریف یک استاندارد جدید در جریان است تا به رفع این مشکل کمک کند.",
+      "tags": [
+        "AI agents",
+        "هوش مصنوعی شخصی",
+        "استانداردسازی",
+        "دسترسی وب",
+        "Anti-bot"
+      ]
+    },
+    {
+      "id": "e5d1b19822b0f77d",
+      "date": "2026-10-06",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
+      "category": "حریم خصوصی",
+      "title_fa": "Hark از دستیار شخصی هوش مصنوعی با اولویت حریم خصوصی رونمایی کرد",
+      "title_en": "Hark releases an AI personal assistant with a focus on privacy",
+      "summary_fa": "آزمایشگاه هوش مصنوعی Hark از دستیار شخصی جدید خود رونمایی کرد که با تمرکز ویژه بر حریم خصوصی کاربران طراحی شده است. این محصول، که به عنوان یک سیستم عامل آینده‌نگر توصیف می‌شود، قصد دارد با رقبای قدرتمندی چون Muse، Dots و Instinct در بازار رقابت کند.",
+      "tags": [
+        "Hark",
+        "AI personal assistant",
+        "حریم خصوصی",
+        "Smart OS",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "c0a0a7f4f30162f4",
+      "date": "2026-10-06",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
+      "category": "کاربرد هوش مصنوعی در بازاریابی و تحلیل رفتار",
+      "title_fa": "استارتاپ Mirror Particle و مدل جهانی نوین برای پیش‌بینی رفتار انسان",
+      "title_en": "Mirror Particle is building a ‘world model’ of human behavior",
+      "summary_fa": "استارتاپ Mirror Particle قرار است در رویداد Startup Battlefield 200 تک‌کرانچ دیسراپ رونمایی شود. این شرکت یک «مدل جهانی» را از پایه برای پیش‌بینی رفتار انسان توسعه داده است. Mirror Particle معتقد است که رویکردهای مبتنی بر نقش‌آفرینی مدل‌های زبان بزرگ (LLM) برای تحقیقات بازار و استراتژی برندینگ کارآمدی لازم را ندارند و مدل اختصاصی آن‌ها پاسخی بهتر ارائه می‌دهد.",
+      "tags": [
+        "Mirror Particle",
+        "مدل جهانی",
+        "رفتار انسان",
+        "تحقیقات بازار",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "4335792a94d08b2c",
+      "date": "2026-10-06",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/06/1145836/weight-loss-drugs-glp1-lilly-novo-aging-clocks/",
+      "category": "کاربرد هوش مصنوعی در علم و پزشکی",
+      "title_fa": "ادعای جدید شرکت‌های داروسازی: داروهای کاهش وزن، پیری بیولوژیکی را کُند می‌کنند",
+      "title_en": "Weight-loss drugs show signs of slowing biological aging, say drugmakers",
+      "summary_fa": "شرکت‌های داروسازی Eli Lilly و Novo Nordisk ادعا می‌کنند که داروهای محبوب کاهش وزن آن‌ها نه تنها به افراد در کم کردن وزن کمک می‌کنند، بلکه ممکن است روند پیری بیولوژیکی را نیز کُند سازند. بر اساس داده‌های حاصل از «ساعت‌های مولکولی پیری»، بیمارانی که این داروها را مصرف می‌کنند، با سرعت کمتری پیر می‌شوند. این ساعت‌ها سن بیولوژیکی فرد را با تحلیل تغییرات DNA ارزیابی می‌کنند و نشانه‌هایی از کاهش سرعت پیری در مصرف‌کنندگان داروها مشاهده شده است.",
+      "tags": [
+        "Eli Lilly",
+        "Novo Nordisk",
+        "داروهای کاهش وزن",
+        "پیری بیولوژیکی",
+        "Aging clocks"
+      ]
+    },
+    {
+      "id": "9582adddaeb044f9",
+      "date": "2026-10-06",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/06/1145796/the-download-10-climate-tech-companies-to-watch/",
+      "category": "فناوری و محیط زیست",
+      "title_fa": "فناوری اقلیمی: معرفی ۱۰ شرکت نویدبخش از سوی MIT Technology Review",
+      "title_en": "The Download: 10 climate tech companies to watch",
+      "summary_fa": "مجله MIT Technology Review طبق روال هر سال، لیستی از ۱۰ شرکت امیدوارکننده در حوزه فناوری اقلیمی را منتشر کرده است. این شرکت‌ها که در خبرنامه \"The Download\" معرفی شده‌اند، به دلیل اهمیت روزافزون تغییرات اقلیمی، در کانون توجه قرار دارند و نقش مهمی در آینده پایداری ایفا خواهند کرد.",
+      "tags": [
+        "climate tech",
+        "MIT Technology Review",
+        "فناوری اقلیمی",
+        "نوآوری",
+        "پایداری"
+      ]
+    },
+    {
+      "id": "c8de4a7a30262d23",
+      "date": "2026-10-06",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/06/1143800/2026-climate-tech-companies-to-watch/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "شرکت‌های پیشرو فناوری اقلیمی: ستاره‌های آینده تا سال ۲۰۲۶",
+      "title_en": "2026 Climate Tech Companies to Watch",
+      "summary_fa": "این خبر به معرفی شرکت‌های پیشرو در حوزه فناوری اقلیمی می‌پردازد که انتظار می‌رود تا سال ۲۰۲۶ نقش کلیدی در مقابله با تغییرات آب‌وهوایی ایفا کنند. این شرکت‌ها با نوآوری‌های خود در زمینه‌های مختلفی چون انرژی‌های تجدیدپذیر، کربن‌زدایی، کشاورزی پایدار و بازیافت، پتانسیل بالایی برای تحول در صنعت و جامعه دارند. تحلیلگران به سرمایه‌گذاران و علاقه‌مندان توصیه می‌کنند که فعالیت‌ها و پیشرفت‌های این مجموعه‌ها را در سال‌های آتی به‌دقت زیر نظر داشته باشند.",
+      "tags": [
+        "ClimateTech",
+        "فناوری اقلیمی",
+        "انرژی‌های تجدیدپذیر",
+        "استارتاپ",
+        "2026"
+      ]
+    },
+    {
+      "id": "2b9f2b3f79f349e1",
+      "date": "2026-10-06",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/06/1144978/2026-climate-tech-companies-to-watch-how-we-chose/",
+      "category": "تحلیل صنعت فناوری اقلیمی",
+      "title_fa": "فهرست سالانه MIT Technology Review: ۱۰ شرکت برتر فناوری اقلیمی که باید زیر نظر داشت",
+      "title_en": "Here’s how our climate team picked 10 promising companies to watch",
+      "summary_fa": "نشریه MIT Technology Review در جدیدترین ویرایش فهرست سالانه خود، ۱۰ شرکت نویدبخش در حوزه فناوری اقلیمی را معرفی کرده است. به گفته این نشریه، انتخاب شرکت‌های امسال برای «شرکت‌های فناوری اقلیمی که باید زیر نظر داشت»، چالش‌برشی‌تر از سال‌های گذشته بود. این دشواری با توجه به پیش‌بینی‌ها مبنی بر اینکه سال ۲۰۲۴ یکی از گرم‌ترین سال‌های تاریخ خواهد بود، برجسته‌تر می‌شود.",
+      "tags": [
+        "فناوری اقلیمی",
+        "MIT Technology Review",
+        "نوآوری",
+        "استارتاپ",
+        "تغییر اقلیم"
+      ]
+    },
+    {
+      "id": "c8ca3fc9df816db5",
+      "date": "2026-10-06",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/06/1144987/2026-climate-tech-companies-to-watch-welion-semi-solid-state-batteries/",
+      "category": "سخت‌افزار و تراشه",
+      "title_fa": "WeLion New Energy: پیشگام در باتری‌های نیمه‌جامد برای وسایل نقلیه الکتریکی",
+      "title_en": "WeLion New Energy and its semi-solid-state batteries",
+      "summary_fa": "شرکت WeLion New Energy در حال توسعه باتری‌های نیمه‌جامد است که نویدبخش ایمنی و کارایی بیشتر هستند. این سلول‌های باتری می‌توانند چگالی انرژی بالاتری نسبت به باتری‌های لیتیوم-یون رایج ارائه داده و خطر حوادث را کاهش دهند. هدف اصلی آن‌ها تامین نیروی محرکه برای طیف وسیعی از وسایل نقلیه الکتریکی از جمله خودروها، قایق‌ها و پهپادهاست.",
+      "tags": [
+        "WeLion New Energy",
+        "semi-solid-state battery",
+        "Electric Vehicles",
+        "باتری‌های نیمه‌جامد",
+        "انرژی پاک"
+      ]
+    },
+    {
+      "id": "49e80ffd57f7f991",
+      "date": "2026-10-06",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/06/1145020/2026-climate-tech-companies-to-watch-form-energy-iron-batteries/",
+      "category": "فناوری‌های نوین انرژی",
+      "title_fa": "باتری‌های آهنی Form Energy: ذخیره‌سازی چندروزه انرژی تجدیدپذیر",
+      "title_en": "Form Energy and its iron batteries",
+      "summary_fa": "شرکت Form Energy در حال توسعه باتری‌های مبتنی بر آهن است که قابلیت ذخیره‌سازی انرژی برای چندین روز را دارند. این شرکت ضمن افزایش تولید در کارخانه خود، قراردادهایی برای پروژه‌های تجاری منعقد کرده است. هدف اصلی این فناوری، حل مشکل نوسانات انرژی‌های تجدیدپذیر مانند خورشیدی و بادی است که با وجود هزینه کمتر نسبت به سوخت‌های فسیلی، خروجی متغیری دارند.",
+      "tags": [
+        "Form Energy",
+        "باتری آهن",
+        "ذخیره‌سازی انرژی",
+        "انرژی تجدیدپذیر",
+        "طولانی‌مدت"
       ]
     }
   ]
