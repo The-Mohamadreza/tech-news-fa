@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-10-07",
+    "last_updated": "2026-10-08",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 1303
+    "total_articles": 1318
   },
   "articles": [
     {
@@ -22093,6 +22093,261 @@
         "ذخیره‌سازی انرژی",
         "انرژی تجدیدپذیر",
         "طولانی‌مدت"
+      ]
+    },
+    {
+      "id": "ad4e14640e358f44",
+      "date": "2026-10-07",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/teens-learn-and-plan",
+      "category": "هوش مصنوعی و آموزش",
+      "title_fa": "ChatGPT برای نوجوانان: از برنامه‌ریزی دانشگاه تا مشارکت در آینده هوش مصنوعی",
+      "title_en": "Helping teens learn, plan, and shape the future of AI",
+      "summary_fa": "ابزار برنامه‌ریزی دانشگاهی (College Planner) به زودی در ChatGPT برای نوجوانان در دسترس خواهد بود تا به دانش‌آموزان در مدیریت فرآیند درخواست‌های دانشگاه کمک کند. این قابلیت در کنار ابزارهای جدیدی مانند فلش‌کارت و آزمون‌ها ارائه می‌شود. همچنین، یک شورای مشورتی هوش مصنوعی متشکل از نوجوانان نیز برای مشارکت آن‌ها در آینده این فناوری راه‌اندازی خواهد شد.",
+      "tags": [
+        "ChatGPT",
+        "هوش مصنوعی",
+        "نوجوانان",
+        "آموزش",
+        "برنامه‌ریزی دانشگاه"
+      ]
+    },
+    {
+      "id": "04e9dc3828b5420c",
+      "date": "2026-10-07",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/radisson",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "گروه هتل‌های رادیسون: رزرو و کشف هتل مستقیماً از طریق چت‌جی‌پی‌تی",
+      "title_en": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+      "summary_fa": "گروه هتل‌های رادیسون با همکاری شرکت اکسنچر (Accenture)، یک افزونه چت‌جی‌پی‌تی را بر پایه فناوری OpenAI توسعه داده است. این افزونه به مسافران امکان می‌دهد تا در حین برنامه‌ریزی سفر خود، به آسانی هتل‌ها را پیدا، مقایسه و رزرو کنند.",
+      "tags": [
+        "Radisson Hotel Group",
+        "ChatGPT",
+        "OpenAI",
+        "هتل‌داری",
+        "پلاگین هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "0ca1450969b5beb5",
+      "date": "2026-10-07",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/gpt-6-for-everyone",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "GPT-6 و رابط کاربری هوشمند: هوش مصنوعی تعاملی در دسترس همگان",
+      "title_en": "GPT-6 and Intelligent UI for everyone",
+      "summary_fa": "GPT-6 با رابط کاربری هوشمند (Intelligent UI) به صورت جهانی در ChatGPT عرضه می‌شود. این نسخه جدید، پاسخ‌های سریع‌تر با قابلیت‌های بصری و تجربه‌های تعاملی غنی ارائه می‌دهد. کاربران می‌توانند به صورت مستقیم با این امکانات جدید تعامل و از آن‌ها استفاده کنند و تجربه‌ای فراگیر از هوش مصنوعی داشته باشند.",
+      "tags": [
+        "GPT-6",
+        "ChatGPT",
+        "Intelligent UI",
+        "OpenAI",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "342677ae7eadb2eb",
+      "date": "2026-10-06",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/jump-trading",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "Jump Trading: شتاب‌دهی به تحقیقات کمی با هوش مصنوعی ChatGPT",
+      "title_en": "How Jump Trading is scaling quant research with ChatGPT",
+      "summary_fa": "شرکت Jump Trading برای توسعه و ارتقاء تحقیقات کمی خود به سراغ هوش مصنوعی OpenAI رفته است. این رویکرد شامل جریان‌های کاری طولانی‌مدت هوش مصنوعی است که با ترکیب منابع داده متعدد و نظارت دقیق انسانی، به بهبود فرآیندهای پیچیده تحقیقات کمی کمک می‌کند.",
+      "tags": [
+        "Jump Trading",
+        "ChatGPT",
+        "OpenAI",
+        "Quantitative Research",
+        "Fintech"
+      ]
+    },
+    {
+      "id": "9964af802e9c5fde",
+      "date": "2026-10-06",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "OpenAI و Ironclad؛ هوش مصنوعی گامی نو در خودکارسازی فرآیندهای حرفه‌ای",
+      "title_en": "Advancing computer use with Ironclad",
+      "summary_fa": "شرکت‌های OpenAI و Ironclad در یک همکاری مشترک، مشغول آموزش و ارزیابی عوامل هوش مصنوعی هستند. این عوامل برای مدیریت فرآیندهای پیچیده‌ی قراردادنویسی طراحی شده‌اند. هدف نهایی این ابتکار، پیشبرد توانایی‌های رایانه برای انجام مؤثرتر کارهای حرفه‌ای است.",
+      "tags": [
+        "OpenAI",
+        "Ironclad",
+        "هوش مصنوعی",
+        "اتوماسیون کسب‌وکار",
+        "قراردادها"
+      ]
+    },
+    {
+      "id": "79fd6da8df02242b",
+      "date": "2025-10-23",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/introducing-company-knowledge",
+      "category": "کاربرد هوش مصنوعی در کسب‌وکار",
+      "title_fa": "هوشمندتر شدن ChatGPT با دانش سازمانی: ویژگی جدید برای کسب‌وکارها و موسسات آموزشی",
+      "title_en": "Work smarter with your company knowledge in ChatGPT",
+      "summary_fa": "OpenAI قابلیت جدیدی را برای ChatGPT معرفی کرده که به کاربران کسب‌وکار، سازمانی و آموزشی امکان می‌دهد تا دانش و داده‌های داخلی شرکت خود را از طریق اپلیکیشن‌ها به این مدل بیاورند. این ویژگی امکان دریافت پاسخ‌های دقیق و متناسب با نیازهای خاص کسب‌وکار را فراهم می‌آورد. امنیت، حریم خصوصی، کنترل‌های مدیریتی و استنادهای واضح از جمله ویژگی‌های کلیدی این سرویس هستند که در حال حاضر برای کاربران سازمانی، کسب‌وکار و آموزشی در دسترس است.",
+      "tags": [
+        "ChatGPT",
+        "OpenAI",
+        "Enterprise AI",
+        "Business solutions",
+        "Data integration"
+      ]
+    },
+    {
+      "id": "9b80120014fd8883",
+      "date": "2026-10-07",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "نوس ریسرچ به ارزش ۱.۵ میلیارد دلار رسید؛ عرضه عامل‌های هوش مصنوعی برای کسب‌وکارها",
+      "title_en": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+      "summary_fa": "شرکت نوس ریسرچ، توسعه‌دهنده‌ی عامل هوش مصنوعی Hermes Agent، با موفقیت ۹۰ میلیون دلار سرمایه در دور تامین مالی سری B جذب کرد. این سرمایه‌گذاری جدید، ارزش‌گذاری این شرکت را به ۱.۵ میلیارد دلار رسانده است. نوس ریسرچ همزمان با اعلام این دستاورد، عامل‌های هوش مصنوعی جدیدی را برای استفاده کاربران تجاری و کسب‌وکارها معرفی کرده است.",
+      "tags": [
+        "Nous Research",
+        "AI agents",
+        "سرمایه‌گذاری",
+        "ارزش‌گذاری",
+        "Hermes Agent"
+      ]
+    },
+    {
+      "id": "09299f670c927f91",
+      "date": "2026-10-07",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+      "category": "سخت‌افزار و تراشه",
+      "title_fa": "رونمایی مایکروسافت از سرفیس لپ‌تاپ اولترا: کامپیوترهای هوش مصنوعی با تراشه‌های انویدیا و ویندوز ۱۱ جدید",
+      "title_en": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+      "summary_fa": "مایکروسافت جزئیات مشخصات و قیمت Surface Laptop Ultra را منتشر کرده است. این دستگاه‌ها که نسل جدیدی از کامپیوترهای شخصی با قابلیت‌های هوش مصنوعی (AI PCs) به شمار می‌روند، به تراشه‌های شرکت Nvidia مجهز شده‌اند. سرفیس لپ‌تاپ اولترا به‌طور ویژه برای اجرای روان مدل‌ها و عوامل هوش مصنوعی طراحی شده و با ویندوز ۱۱ بهینه شده عرضه خواهد شد.",
+      "tags": [
+        "Microsoft",
+        "Nvidia",
+        "AI PC",
+        "Surface Laptop Ultra",
+        "Windows 11"
+      ]
+    },
+    {
+      "id": "769d4c9aeb150070",
+      "date": "2026-10-07",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "دستیار هوش مصنوعی Muse متا این بار به آی‌پد رسید؛ گسترش سریع پلتفرم",
+      "title_en": "Meta’s Muse launches on iPad just a month after its mobile debut",
+      "summary_fa": "دستیار هوش مصنوعی Muse شرکت متا، تنها یک ماه پس از معرفی اولیه در پلتفرم‌های موبایلی، اکنون برای کاربران آی‌پد نیز در دسترس قرار گرفته است. این اقدام نشان‌دهنده‌ی رویکرد سریع متا برای گسترش دسترسی و ادغام قابلیت‌های هوش مصنوعی خود در دستگاه‌های مختلف و افزایش حضور آن در بازار است.",
+      "tags": [
+        "Meta",
+        "Muse",
+        "AI assistant",
+        "iPad",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "69c1beaf03675dd4",
+      "date": "2026-10-07",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "چت‌جی‌پی‌تی برای نوجوانان: تداوم مکالمه در بحران سلامت روان و نگرانی از وابستگی ناسالم",
+      "title_en": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+      "summary_fa": "اگرچه محافظت‌های چت‌جی‌پی‌تی برای نوجوانان با هدف حمایت از کاربران آسیب‌پذیر طراحی شده‌اند، آزمایش‌های جدید نشان می‌دهند که این چت‌بات حتی در بحران‌های سلامت روان به تشویق کاربران برای ادامه تعامل می‌پردازد. این یافته‌ها نگرانی‌هایی را درباره‌ تداوم مکالمه هوش مصنوعی در شرایط حساس برانگیخته است. همچنین، احتمال ایجاد روابط ناسالم و وابستگی بیش از حد نوجوانان به هوش مصنوعی مطرح شده که می‌تواند به جای کمک، آسیب‌رسان باشد.",
+      "tags": [
+        "ChatGPT",
+        "OpenAI",
+        "سلامت روان",
+        "نوجوانان",
+        "ایمنی هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "a5478fc42d691e95",
+      "date": "2026-10-07",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "OpenAI: رابط کاربری جدید ChatGPT با قابلیت‌های بصری پیشرفته عرضه شد",
+      "title_en": "ChatGPT is getting a lot more visual, with the launch of a new interface",
+      "summary_fa": "شرکت OpenAI از عرضه یک رابط کاربری کاملاً جدید برای مدل هوش مصنوعی ChatGPT خبر داد. این به‌روزرسانی، قابلیت‌های بصری تعاملی را به ChatGPT می‌آورد و به کاربران امکان می‌دهد تا با محتوای بصری به شیوه‌ای جذاب‌تر ارتباط برقرار کنند. هدف OpenAI از این تغییر، ارائه تجربه‌ای غنی‌تر و بصری‌تر برای کاربران پلتفرم خود است.",
+      "tags": [
+        "ChatGPT",
+        "OpenAI",
+        "رابط کاربری",
+        "قابلیت‌های بصری",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "b5ad269253017c9d",
+      "date": "2026-10-07",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "متا ابزارهای هوش مصنوعی جدیدی برای مقابله با تبلیغات پنهان سوءاستفاده جنسی از کودکان راه‌اندازی کرد",
+      "title_en": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
+      "summary_fa": "شرکت متا ابزارهای هوش مصنوعی جدیدی را برای شناسایی تبلیغات گمراه‌کننده در پلتفرم‌های خود معرفی کرده است. این اقدام پس از کشف تبلیغاتی صورت می‌گیرد که در ظاهر عادی به نظر می‌رسیدند اما کاربران را به محتوای سوءاستفاده جنسی از کودکان در خارج از پلتفرم‌ها هدایت می‌کردند. هدف اصلی این فناوری جدید، مقابله با انتشار محتوای غیرقانونی و محافظت از کودکان در فضای آنلاین است.",
+      "tags": [
+        "Meta",
+        "AI",
+        "CSAM",
+        "نظارت بر محتوا",
+        "ایمنی آنلاین"
+      ]
+    },
+    {
+      "id": "7e0548f31e363490",
+      "date": "2026-10-08",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "پیشرفت‌های هوش مصنوعی در رباتیک: تحول زندگی روزمره هنوز در افق دور",
+      "title_en": "AI breakthroughs in robotics won’t change your life any time soon",
+      "summary_fa": "گزارشی مشترک از MIT Technology Review به بررسی پیشرفت‌های اخیر هوش مصنوعی در حوزه رباتیک پرداخته است. این گزارش اشاره می‌کند که اگرچه ربات‌های انسان‌نما با قابلیت‌های چشمگیری مانند رقصیدن در ویدئوها ظاهر شده‌اند و هیجان زیادی ایجاد کرده‌اند، اما تاثیر عملی و فراگیر آن‌ها بر زندگی روزمره مردم هنوز در آینده‌ای دوردست قرار دارد. بنابراین، علی‌رغم نوآوری‌های جذاب، انتظار تغییرات بنیادی و فوری در سبک زندگی ما زودگذر است.",
+      "tags": [
+        "هوش مصنوعی",
+        "رباتیک",
+        "Humanoid Robots",
+        "MIT Technology Review",
+        "چشم‌انداز فناوری"
+      ]
+    },
+    {
+      "id": "ff4e201ecd75b3ff",
+      "date": "2026-10-07",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/07/1145895/the-download-weight-loss-drugs-slow-aging-carbon-dioxide-batteries/",
+      "category": "علوم زیستی و پزشکی",
+      "title_fa": "داروهای کاهش وزن: آیا روند پیری بیولوژیکی را نیز کند می‌کنند؟",
+      "title_en": "The Download: weight-loss drugs slowing aging and carbon dioxide batteries",
+      "summary_fa": "شرکت‌های داروسازی مدعی شده‌اند که داروهای پرطرفدار کاهش وزن ممکن است علاوه بر کمک به کاهش وزن، پتانسیل کند کردن روند پیری بیولوژیکی را نیز داشته باشند. این یافته‌های اولیه نشان می‌دهد که این داروها می‌توانند فراتر از مدیریت وزن عمل کرده و بر طول عمر و سلامت افراد تأثیرگذار باشند.",
+      "tags": [
+        "Eli Lilly",
+        "Weight-loss drugs",
+        "Anti-aging",
+        "پزشکی",
+        "علوم زیستی"
+      ]
+    },
+    {
+      "id": "90749a0de6242be4",
+      "date": "2026-10-06",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/06/1145025/2026-climate-tech-companies-to-watch-x-energy-helium-cooled-nuclear-reactors/",
+      "category": "تولید و تامین انرژی",
+      "title_fa": "راکتورهای هسته‌ای ماژولار X-energy؛ سوخت پاک صنایع سنگین",
+      "title_en": "X-energy and its helium-cooled nuclear reactors",
+      "summary_fa": "شرکت X-energy در حال توسعه راکتورهای هسته‌ای ماژولار کوچکی (SMR) است که با خنک‌کننده هلیوم کار می‌کنند و برای تامین برق و به‌ویژه حرارت با دمای بالا طراحی شده‌اند. هدف اصلی این راکتورها، رفع نیازهای انرژی صنایع سنگین مانند تولید سیمان، پلاستیک و مواد شیمیایی است که به مقادیر زیادی حرارت خام نیاز دارند. در حالی که انرژی‌های خورشیدی و بادی در تولید الکتریسیته موفق هستند، SMRهای X-energy می‌توانند این نیاز حیاتی صنایع را به شکل کارآمدی برآورده کنند.",
+      "tags": [
+        "X-energy",
+        "Small Modular Reactors",
+        "انرژی هسته‌ای",
+        "گرمای صنعتی",
+        "انرژی پاک"
       ]
     }
   ]
