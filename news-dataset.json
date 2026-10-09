@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-10-08",
+    "last_updated": "2026-10-09",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 1318
+    "total_articles": 1334
   },
   "articles": [
     {
@@ -22348,6 +22348,278 @@
         "انرژی هسته‌ای",
         "گرمای صنعتی",
         "انرژی پاک"
+      ]
+    },
+    {
+      "id": "edd58468d564448f",
+      "date": "2026-10-09",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/sophos",
+      "category": "امنیت سایبری",
+      "title_fa": "تحول در امنیت سایبری: سوفوس با هوش مصنوعی Daybreak اوپن‌ای‌آی، زمان بررسی تهدیدات را ۹۶ درصد کاهش داد",
+      "title_en": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "summary_fa": "شرکت امنیت سایبری سوفوس با به‌کارگیری پلتفرم Daybreak اوپن‌ای‌آی، موفق شده است زمان بررسی تهدیدات سایبری را تا ۹۶ درصد کاهش دهد. این پلتفرم پیشرفته همچنین ۵۲ درصد از پرونده‌های \"شناسایی و پاسخ مدیریت‌شده\" (MDR) را به صورت خودکار انجام می‌دهد. این دستاورد در حالی رخ داده که نظارت انسانی بر فرایندها همچنان حفظ شده و کارایی و دقت را به طور همزمان افزایش داده است.",
+      "tags": [
+        "Sophos",
+        "OpenAI",
+        "Daybreak",
+        "امنیت سایبری",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "112b5f00879d4fef",
+      "date": "2026-10-08",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/oracle",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "اوراکل با ChatGPT و Codex؛ کاهش زمان کار از روز به دقیقه در فرآیندهای سازمانی",
+      "title_en": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "summary_fa": "شرکت اوراکل برای افزایش بهره‌وری و سرعت بخشیدن به فرآیندهای کاری خود، از ابزارهای هوش مصنوعی ChatGPT Work و Codex بهره می‌گیرد. این فناوری‌ها به اوراکل کمک می‌کنند تا دانش تخصصی را به جریان‌های کاری سریع و قابل تکرار تبدیل کند. در نتیجه، زمان لازم برای انجام فعالیت‌ها از چند روز به تنها چند دقیقه کاهش یافته است. این رویکرد در بخش‌های مختلفی از جمله استخدام، مهندسی و عملیات شرکت پیاده‌سازی شده است.",
+      "tags": [
+        "Oracle",
+        "ChatGPT",
+        "Codex",
+        "بهره‌وری",
+        "اتوماسیون"
+      ]
+    },
+    {
+      "id": "ca1ec6c6a1a1314d",
+      "date": "2026-10-08",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/pollo-ai",
+      "category": "کاربرد هوش مصنوعی در بازاریابی و تولید محتوا",
+      "title_fa": "Pollo AI: خلق کمپین‌های تبلیغاتی از ایده‌های خلاق با کمک OpenAI",
+      "title_en": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "summary_fa": "Pollo AI پلتفرمی است که به خلاقان و بازاریابان کمک می‌کند تا ایده‌های جسورانه خود را به سرعت به کمپین‌های تبلیغاتی تبدیل کنند. این سرویس با بهره‌گیری از مدل‌های پیشرفته هوش مصنوعی OpenAI مانند GPT-5.6، GPT-6 Astra و GPT-Image-2.5، قابلیت تولید تصاویر دقیق و ویدئوهای تبلیغاتی سینمایی را فراهم می‌آورد.",
+      "tags": [
+        "Pollo AI",
+        "OpenAI",
+        "Generative AI",
+        "بازاریابی",
+        "تولید محتوا"
+      ]
+    },
+    {
+      "id": "f6d3626eb7c890d9",
+      "date": "2026-10-08",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/legalon-halves-codex-costs",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "LegalOn: کاهش چشمگیر هزینه‌های توسعه هوش مصنوعی با ابزارهای نوین، بدون افت سرعت",
+      "title_en": "LegalOn halves Codex costs while maintaining development speed",
+      "summary_fa": "شرکت LegalOn موفق شد هزینه‌های روزانه استفاده از ابزار هوش مصنوعی Codex را تا ۶۵ درصد کاهش دهد، در حالی که سرعت توسعه پروژه‌های خود را حفظ کرده است. این دستاورد با تخصیص استراتژیک مدل‌های Astra، Sol و Luna به وظایف مختلف و مدیریت هوشمندانه بودجه محقق شد.",
+      "tags": [
+        "LegalOn",
+        "Codex",
+        "هوش مصنوعی",
+        "بهینه‌سازی هزینه",
+        "توسعه نرم‌افزار"
+      ]
+    },
+    {
+      "id": "077dea1e8a7adb2e",
+      "date": "2026-10-08",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "مقابله OpenAI با عملیات نفوذ هوش مصنوعی و پوشش رسانه‌ای جعلی",
+      "title_en": "Disrupting AI-enabled “false front” operations",
+      "summary_fa": "شرکت OpenAI اعلام کرده که دو عملیات نفوذ فعال را که با کمک هوش مصنوعی هدایت می‌شدند، خنثی کرده است. این کارزارها از خبرنگاران و اندیشکده‌های جعلی به عنوان پوشش برای گسترش پیام‌های ژئوپلیتیکی استفاده می‌کردند.",
+      "tags": [
+        "OpenAI",
+        "هوش مصنوعی",
+        "عملیات نفوذ",
+        "اطلاعات نادرست",
+        "امنیت سایبری"
+      ]
+    },
+    {
+      "id": "b70266b486445c45",
+      "date": "2025-10-22",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/the-next-chapter-for-uk-sovereign-ai",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "همکاری کلیدی OpenAI با دولت بریتانیا: چت‌جی‌پی‌تی به وزارت دادگستری می‌رود و داده‌ها بومی می‌شوند",
+      "title_en": "The next chapter for UK sovereign AI",
+      "summary_fa": "شرکت OpenAI در راستای گسترش همکاری‌های خود با بریتانیا، توافق جدیدی با وزارت دادگستری این کشور امضا کرده است. بر اساس این توافق، هوش مصنوعی چت‌جی‌پی‌تی در دسترس کارمندان دولت قرار خواهد گرفت. همچنین، OpenAI امکان بومی‌سازی داده‌ها در انگلستان را برای نسخه‌های ChatGPT Enterprise، ChatGPT Edu و پلتفرم API معرفی کرده است. این اقدامات با هدف ترویج پذیرش مطمئن و امن هوش مصنوعی در بریتانیا و حمایت از مفهوم \"هوش مصنوعی حاکمیتی\" صورت می‌گیرد.",
+      "tags": [
+        "OpenAI",
+        "ChatGPT",
+        "UK",
+        "هوش مصنوعی حاکمیتی",
+        "بومی‌سازی داده"
+      ]
+    },
+    {
+      "id": "4f0829ed301a7767",
+      "date": "2026-10-08",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
+      "category": "پروژه‌های دیجیتال و تعاملی",
+      "title_fa": "پشت میز الیزابت هولمز: وب‌سایتی برای کاوش اسناد پرونده ترانوس",
+      "title_en": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
+      "summary_fa": "بو لاو، مهندس شرکت Extend، وب‌سایتی را طراحی کرده است که تجربه جستجو در میز کار الیزابت هولمز، بنیان‌گذار Theranos، را شبیه‌سازی می‌کند. این وب‌سایت شامل بیش از هزار سند از جمله ایمیل، اسلاید و پیام متنی است که همگی از پرونده قضایی \"ایالات متحده علیه الیزابت هولمز\" جمع‌آوری شده‌اند. هدف این پروژه، ارائه دیدگاهی منحصر به فرد از جزئیات محاکمه و فعالیت‌های این چهره جنجالی است.",
+      "tags": [
+        "Elizabeth Holmes",
+        "Theranos",
+        "Bo Lau",
+        "پروژه وب",
+        "اسناد قضایی"
+      ]
+    },
+    {
+      "id": "c9efa01bf0436b80",
+      "date": "2026-10-08",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "جنجال در OpenAI: محققان اخراجی ایمنی، اتهامات تخلف را رد و نسبت به تضعیف فرهنگ ایمنی هشدار می‌دهند",
+      "title_en": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+      "summary_fa": "سه تن از محققان اخراجی بخش ایمنی OpenAI، اتهامات مربوط به سوءمدیریت اطلاعات حساس را به شدت تکذیب کرده‌اند. آن‌ها در نامه‌ای سرگشاده هشدار دادند که اخراجشان، تأثیر منفی بر فرهنگ ایمنی هوش مصنوعی در این شرکت گذاشته است. به گفته این محققان، چنین اقداماتی می‌تواند محققان دیگر را از ابراز نگرانی‌های ایمنی خود منصرف کند و به تضعیف تلاش‌ها برای توسعه مسئولانه هوش مصنوعی منجر شود.",
+      "tags": [
+        "OpenAI",
+        "AI safety",
+        "اخلاق هوش مصنوعی",
+        "فرهنگ سازمانی",
+        "اخراج محققان"
+      ]
+    },
+    {
+      "id": "7dcbf8a5afe012f6",
+      "date": "2026-10-08",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "شگفتی کاربران از دانش عمیق هوش مصنوعی بن افلک: ستاره هالیوود که از AI سر درمی‌آورد",
+      "title_en": "Ben Affleck is an AI nerd, and the internet is impressed",
+      "summary_fa": "بن افلک، بازیگر سرشناس هالیوود، این روزها با نمایش دانش عمیق خود در زمینه هوش مصنوعی، از جمله شبکه‌های عصبی، ترنسفورمرها و وزن‌های باز، در فضای مجازی خبرساز شده است. او که پیش‌تر استارتاپ ساخت فیلم مبتنی بر هوش مصنوعی خود را به نتفلیکس فروخته بود، اثبات می‌کند که فراتر از یک ستاره سینما، در دنیای تکنولوژی نیز حرفی برای گفتن دارد و اینترنت را تحت تاثیر قرار داده است.",
+      "tags": [
+        "Ben Affleck",
+        "AI",
+        "Netflix",
+        "Startup",
+        "Hollywood"
+      ]
+    },
+    {
+      "id": "66a844307a25a338",
+      "date": "2026-10-08",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "جهش خیره‌کننده ارزش Arena: لیدربورد هوش مصنوعی در ۱۰ ماه به ۳.۱ میلیارد دلار رسید",
+      "title_en": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+      "summary_fa": "شرکتی که در پشت لیدربورد محبوب LMArena قرار دارد، موفق به جذب ۲۰۰ میلیون دلار سرمایه جدید شده است. این دور سرمایه‌گذاری که توسط Lightspeed و Khosla رهبری شد، ارزش شرکت را در کمتر از یک سال تقریباً دو برابر کرده و به ۳.۱ میلیارد دلار رسانده است. Arena اکنون علاوه بر ارزیابی عملکرد مدل‌های هوش مصنوعی، به اندازه‌گیری مسائل همسوسازی (alignment) نظیر دروغگویی در این مدل‌ها نیز می‌پردازد.",
+      "tags": [
+        "Arena",
+        "AI",
+        "سرمایه‌گذاری",
+        "ارزش‌گذاری",
+        "همسوسازی هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "8dce6b889a93aede",
+      "date": "2026-10-08",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "کسری ۲۰ میلیارد دلاری در درآمد OpenAI نسبت به پیش‌بینی‌ها",
+      "title_en": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
+      "summary_fa": "برخلاف گزارش‌های پیشین که از درآمد سالانه ۷۰ میلیارد دلاری برای آزمایشگاه هوش مصنوعی OpenAI حکایت داشتند، یک گزارش جدید نشان می‌دهد که درآمد این شرکت به میزان قابل توجهی کمتر از این رقم است. این کاهش حدود ۲۰ میلیارد دلاری نسبت به پیش‌بینی‌های قبلی، سوالاتی را درباره وضعیت مالی غول هوش مصنوعی مطرح می‌کند.",
+      "tags": [
+        "OpenAI",
+        "AI industry",
+        "revenue",
+        "financial",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "47672f48bba99761",
+      "date": "2026-10-08",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "جمنای گوگل با هوش مصنوعی عامل‌گرا، دستیار کسب‌وکارها می‌شود",
+      "title_en": "Google brings agentic AI to Gemini, starting with businesses",
+      "summary_fa": "گوگل در حال توسعه جمنای به یک عامل هوش مصنوعی است که قادر به برنامه‌ریزی، اجرای وظایف و فعالیت در سیستم‌ها و برنامه‌های مختلف کسب‌وکاری است. این عامل هوشمند می‌تواند کارها را به عوامل فرعی واگذار کند، از مدل‌های هوش مصنوعی متعدد بهره ببرد و حتی یک هویت کاری مستقل، شامل آدرس ایمیل، برای خود داشته باشد. این قابلیت جدید ابتدا برای شرکت‌ها ارائه خواهد شد.",
+      "tags": [
+        "Google",
+        "Gemini",
+        "AI Agent",
+        "Enterprise AI",
+        "Automation"
+      ]
+    },
+    {
+      "id": "577a3234004ba1bc",
+      "date": "2026-10-09",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "طراحی ویروس با هوش مصنوعی: گفت‌وگو با خالق این فناوری بحث‌برانگیز",
+      "title_en": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "summary_fa": "در سال ۲۰۲۵، ساموئل کینگ، دانشجوی دکتری دانشگاه استنفورد، با استفاده از یک مدل هوش مصنوعی مولد، طرح‌های ژنتیکی برای ویروس‌های میکروسکوپی ارائه داد. این اقدام، پاسخی اولیه به این سوال مهم است که آیا هوش مصنوعی می‌تواند اشکال جدید حیات را طراحی کند. اگرچه هنوز به معنای تولید حیات توسط هوش مصنوعی نیست، اما این توانایی گام بعدی محسوب می‌شود و پتانسیل‌های بحث‌برانگیز این فناوری را آشکار می‌سازد.",
+      "tags": [
+        "AI",
+        "ویروس",
+        "هوش مصنوعی مولد",
+        "Samuel King",
+        "Stanford University"
+      ]
+    },
+    {
+      "id": "573f022b95685358",
+      "date": "2026-10-08",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "ربات‌های انسان‌نما و موانع هوش مصنوعی: چرا هنوز نمی‌توانند زندگی ما را متحول کنند؟",
+      "title_en": "The Download: AI roadblocks for humanoids and portable rubber dams",
+      "summary_fa": "با وجود اوج‌گیری تب‌وتاب و هیجان پیرامون ربات‌های انسان‌نما، گزارش‌ها نشان می‌دهد که پیشرفت‌های فعلی هوش مصنوعی در این حوزه به این زودی‌ها زندگی ما را متحول نخواهد کرد. موانع قابل توجهی بر سر راه توسعه و کاربرد عملی هوش مصنوعی در رباتیک، به‌ویژه برای ربات‌های انسان‌نما، وجود دارد. این چالش‌ها مانع از آن می‌شود که رؤیای فراگیر شدن این ربات‌ها در آینده نزدیک به واقعیت بپیوندد.",
+      "tags": [
+        "ربات انسان‌نما",
+        "هوش مصنوعی",
+        "رباتیک",
+        "موانع تکنولوژی",
+        "AI"
+      ]
+    },
+    {
+      "id": "58dab2bf065fe4b7",
+      "date": "2026-10-08",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/08/1145920/climate-tech-companies-list/",
+      "category": "فناوری اقلیمی و انرژی",
+      "title_fa": "لیست ۲۰۲۶ MIT Technology Review: شرکت‌های پیشرو در فناوری اقلیمی",
+      "title_en": "Why we’re watching these climate tech companies",
+      "summary_fa": "مجله MIT Technology Review جدیدترین نسخه از فهرست سالانه «شرکت‌های فناوری اقلیمی که باید زیر نظر داشت» را برای سال ۲۰۲۶ منتشر کرد. این پروژه با هدف شناسایی و معرفی شرکت‌ها و پیشرفت‌های امیدوارکننده در حوزه فناوری‌های اقلیمی و انرژی انجام می‌شود که توجه به آن‌ها برای آینده ضروری است.",
+      "tags": [
+        "MIT Technology Review",
+        "Climate Tech",
+        "فناوری اقلیمی",
+        "انرژی",
+        "نوآوری"
+      ]
+    },
+    {
+      "id": "48f3042078ba6545",
+      "date": "2026-10-08",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "هوش مصنوعی صنعتی خودران: هموارسازی مسیری ایمن برای آینده",
+      "title_en": "Building a safer path to autonomous industrial AI",
+      "summary_fa": "هوش مصنوعی صنعتی وارد مرحله‌ای نوین شده و فراتر از تحلیل‌های پیش‌بینانه، با بهره‌گیری از مدل‌های بنیادی، هوش مصنوعی فیزیکی و عامل‌گرا، امکان خودکارسازی وظایف پیچیده‌تری را در محیط‌های صنعتی فراهم می‌کند. اما برخلاف هوش مصنوعی صرفاً دیجیتال، این فناوری توانایی تعامل مستقیم با سیستم‌های فیزیکی را دارد که بر اهمیت و ضرورت ایجاد مسیرهای ایمن برای توسعه و پیاده‌سازی آن می‌افزاید.",
+      "tags": [
+        "Industrial AI",
+        "هوش مصنوعی خودران",
+        "ایمنی هوش مصنوعی",
+        "Foundation Models",
+        "Physical AI"
       ]
     }
   ]
