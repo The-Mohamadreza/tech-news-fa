@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-10-11",
+    "last_updated": "2026-10-12",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 1359
+    "total_articles": 1371
   },
   "articles": [
     {
@@ -23043,6 +23043,210 @@
         "مدل درآمدی",
         "سرمایه‌گذاری خطرپذیر",
         "تحلیل بازار"
+      ]
+    },
+    {
+      "id": "ed84f4b6a776c3ee",
+      "date": "2025-11-18",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/business/learn/how-openai-uses-chatgpt-atlas-at-work",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "اوپن‌ای‌آی چگونه از ChatGPT Atlas در محیط کار خود استفاده می‌کند؟",
+      "title_en": "How OpenAI uses ChatGPT Atlas at work",
+      "summary_fa": "شرکت OpenAI قرار است در یک وبینار اختصاصی، چگونگی به‌کارگیری ابزار خود، ChatGPT Atlas، را در محیط کار داخلی به نمایش بگذارد. این برنامه فرصتی برای درک عمیق‌تر از شیوه‌های عملی استفاده اوپن‌ای‌آی از فناوری‌های هوش مصنوعی در فرایندهای کاری روزمره‌اش فراهم می‌کند.",
+      "tags": [
+        "OpenAI",
+        "ChatGPT Atlas",
+        "هوش مصنوعی",
+        "کاربرد سازمانی هوش مصنوعی",
+        "وبینار"
+      ]
+    },
+    {
+      "id": "ad3a57dd3e76e267",
+      "date": "2025-10-15",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/plex-coffee",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "Plex Coffee با ChatGPT: ارائه‌ی خدمات سریع و شخصی با چاشنی هوش مصنوعی",
+      "title_en": "Plex Coffee delivers fast, personal service with ChatGPT",
+      "summary_fa": "شرکت Plex Coffee با بهره‌گیری از ChatGPT Business، گامی نوین در ارائه‌ی خدمات مشتری برداشته است. این فناوری به آن‌ها امکان می‌دهد تا دانش سازمانی را متمرکز کرده، کارکنان جدید را با سرعت بیشتری آموزش دهند و در عین حال، با توسعه‌ی کسب‌وکار، ارتباطات شخصی خود با مشتریان را حفظ کنند.",
+      "tags": [
+        "Plex Coffee",
+        "ChatGPT",
+        "خدمات مشتری",
+        "آموزش کارکنان",
+        "هوش مصنوعی در کسب‌وکار"
+      ]
+    },
+    {
+      "id": "5b9bbae6d729a281",
+      "date": "2025-10-14",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/expert-council-on-well-being-and-ai",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "OpenAI: تشکیل شورای تخصصی برای ارتقای سلامت روان کاربران هوش مصنوعی و نوجوانان",
+      "title_en": "Expert Council on Well-Being and AI",
+      "summary_fa": "OpenAI به تازگی یک شورای تخصصی با تمرکز بر سلامت روان و هوش مصنوعی تشکیل داده است. این شورا متشکل از روانشناسان، پزشکان بالینی و محققان برجسته است و وظیفه راهنمایی ChatGPT را در زمینه حمایت از سلامت عاطفی کاربران، به ویژه نوجوانان، بر عهده دارد. هدف اصلی، شکل‌دهی تجربه‌های هوش مصنوعی امن‌تر و دلسوزانه‌تر است تا نگرانی‌ها در مورد تاثیر آن بر سلامت روان کاهش یابد.",
+      "tags": [
+        "OpenAI",
+        "ChatGPT",
+        "سلامت روان",
+        "نوجوانان",
+        "ایمنی هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "0b71e1c57cdb0af8",
+      "date": "2025-10-14",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/global-affairs/argentinas-ai-opportunity",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "پروژه Stargate: آرژانتین در مسیر رهبری هوش مصنوعی و انرژی پاک با همکاری OpenAI",
+      "title_en": "Argentina’s AI opportunity",
+      "summary_fa": "شرکت OpenAI و Sur Energy در حال بررسی راه‌اندازی اولین پروژه Stargate در آرژانتین هستند. این همکاری جاه‌طلبانه، هوش مصنوعی پیشرفته را با راهکارهای انرژی پاک ادغام می‌کند. هدف این پروژه، تبدیل آرژانتین به یک رهبر در آمریکای لاتین در حوزه‌های هوش مصنوعی، زیرساخت‌های پایدار و نوآوری دیجیتال است و فرصتی بی‌نظیر برای توسعه این کشور محسوب می‌شود.",
+      "tags": [
+        "OpenAI",
+        "Argentina",
+        "Stargate project",
+        "هوش مصنوعی",
+        "انرژی پاک"
+      ]
+    },
+    {
+      "id": "96f43ed00389e366",
+      "date": "2025-10-13",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/openai-and-broadcom-announce-strategic-collaboration",
+      "category": "سخت‌افزار و تراشه",
+      "title_fa": "همکاری استراتژیک OpenAI و Broadcom: استقرار شتاب‌دهنده‌های هوش مصنوعی با ظرفیت ۱۰ گیگاوات",
+      "title_en": "OpenAI and Broadcom announce strategic collaboration to deploy 10 gigawatts of OpenAI-designed AI accelerators",
+      "summary_fa": "OpenAI و Broadcom در یک همکاری استراتژیک چندساله، قصد دارند ۱۰ گیگاوات شتاب‌دهنده‌ هوش مصنوعی طراحی‌شده توسط OpenAI را مستقر کنند. این مشارکت شامل توسعه مشترک سیستم‌های نسل بعدی و راهکارهای اترنت است. هدف نهایی، ایجاد زیرساخت‌های هوش مصنوعی مقیاس‌پذیر و کم‌مصرف تا سال ۲۰۲۹ است.",
+      "tags": [
+        "OpenAI",
+        "Broadcom",
+        "شتاب‌دهنده‌های هوش مصنوعی",
+        "زیرساخت هوش مصنوعی",
+        "AI hardware"
+      ]
+    },
+    {
+      "id": "04dfaa97a0c16c1b",
+      "date": "2025-10-10",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/hygh",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "HYGH: شتاب‌دهی به توسعه و کمپین‌های بازاریابی با ChatGPT Business",
+      "title_en": "HYGH speeds development and campaigns with ChatGPT Business",
+      "summary_fa": "شرکت HYGH با بهره‌گیری از ChatGPT Business، فرآیندهای توسعه نرم‌افزار و اجرای کمپین‌های خود را به شکل چشمگیری تسریع کرده است. این اقدام منجر به کاهش زمان پاسخگویی، افزایش مقیاس‌پذیری خروجی‌ها و در نهایت رشد درآمد برای این شرکت شده است.",
+      "tags": [
+        "HYGH",
+        "ChatGPT Business",
+        "هوش مصنوعی",
+        "توسعه نرم‌افزار",
+        "بازاریابی دیجیتال"
+      ]
+    },
+    {
+      "id": "2a599db62b35d5c3",
+      "date": "2026-10-11",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+      "category": "فناوری خانه‌های هوشمند",
+      "title_fa": "HomeView: آیا اپل بالاخره در بازار خانه‌های هوشمند به موفقیت می‌رسد؟",
+      "title_en": "Will the HomeView be Apple’s first smart home success?",
+      "summary_fa": "طی سال‌های اخیر گزارش‌های متعددی درباره کار اپل روی یک محصول جدید برای خانه‌های هوشمند منتشر شده بود. اکنون به نظر می‌رسد این محصول نه تنها نام «HomeView» را به خود گرفته، بلکه تاریخ عرضه آن نیز مشخص شده است. این گمانه‌زنی‌ها درباره تلاش اپل برای کسب جایگاهی محکم در بازار رقابتی خانه هوشمند را تشدید می‌کند.",
+      "tags": [
+        "Apple",
+        "HomeView",
+        "Smart Home",
+        "خانه هوشمند",
+        "محصولات هوشمند"
+      ]
+    },
+    {
+      "id": "e380f02bc291d4d2",
+      "date": "2026-10-11",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
+      "category": "نوآوری و کارآفرینی",
+      "title_fa": "شمارش معکوس برای TechCrunch Disrupt 2026: دیدار با پیشگامان فناوری",
+      "title_en": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
+      "summary_fa": "تنها کمتر از ۴۸ ساعت دیگر تا آغاز رویداد بزرگ TechCrunch Disrupt 2026 در Moscone West سان‌فرانسیسکو باقی مانده است. این کنفرانس فرصتی بی‌نظیر برای آشنایی مستقیم با سازندگان و نوآوران تکنولوژی‌های آینده فراهم می‌کند. علاقه‌مندان می‌توانند با خرید زودهنگام بلیط، تا ۱۰۰ دلار تخفیف دریافت کرده و برای بلیط دوم نیز از ۵۰ درصد تخفیف ویژه بهره‌مند شوند.",
+      "tags": [
+        "TechCrunch Disrupt 2026",
+        "رویداد فناوری",
+        "استارتاپ",
+        "نوآوری",
+        "سان‌فرانسیسکو"
+      ]
+    },
+    {
+      "id": "70688ea0e7a560a0",
+      "date": "2026-10-11",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+      "category": "زیرساخت هوش مصنوعی",
+      "title_fa": "چالش دیتاسنترهای هوش مصنوعی: آیا صنعت با شفافیت می‌تواند مخالفان را راضی کند؟",
+      "title_en": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+      "summary_fa": "صنعت هوش مصنوعی با مخالفت‌های فزاینده‌ای برای احداث دیتاسنترهای جدید مواجه است که به اعمال ممنوعیت‌های موقت نیز منجر شده. این موضوع این سوال را پیش آورده که آیا این صنعت در توضیح نیازها و منافع خود به جوامع محلی دچار مشکل ارتباطی است. بحث بر سر این است که آیا حذف قراردادهای عدم افشا (NDA) و افزایش شفافیت می‌تواند به متقاعد کردن مخالفان و حل این بن‌بست کمک کند.",
+      "tags": [
+        "صنعت هوش مصنوعی",
+        "دیتاسنتر",
+        "زیرساخت",
+        "NDA",
+        "شفافیت"
+      ]
+    },
+    {
+      "id": "ba5db8106c64fb8b",
+      "date": "2026-10-11",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "مدیران معتقدند: هوش مصنوعی صوتی هنوز به «لحظه ChatGPT» خود دست نیافته است",
+      "title_en": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+      "summary_fa": "مدیران ارشد صنعت معتقدند که هوش مصنوعی صوتی هنوز به آن سطح از بلوغ و کارایی که ChatGPT به آن دست یافته، نرسیده است. یکی از چالش‌های اصلی این فناوری، عدم توانایی در درک دقیق لایه‌های معنایی و زمینه مکالمات است که منجر به شکست در کل فرآیند پردازش می‌شود.",
+      "tags": [
+        "هوش مصنوعی صوتی",
+        "ChatGPT",
+        "درک متنی",
+        "محدودیت‌های هوش مصنوعی",
+        "تحلیل صنعت"
+      ]
+    },
+    {
+      "id": "9fe15a12a7df7ad0",
+      "date": "2026-10-10",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "اپل در مسیر پادکست‌های هوش مصنوعی: جذب تیم و فناوری استارتاپ Huxe",
+      "title_en": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+      "summary_fa": "شرکت اپل تایید کرد که تیم و فناوری استارتاپ Huxe، فعال در حوزه پادکست‌های شخصی‌سازی‌شده، را جذب کرده است. این اقدام گمانه‌زنی‌ها را درباره ورود اپل به کسب‌وکار پادکست‌های تولید شده با هوش مصنوعی یا بهبود شخصی‌سازی محتوای صوتی خود افزایش داده است.",
+      "tags": [
+        "Apple",
+        "Huxe",
+        "AI",
+        "Podcast",
+        "استارتاپ"
+      ]
+    },
+    {
+      "id": "49458b5c6fd3dfb9",
+      "date": "2026-10-12",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/12/1145745/daisy-dent-ecologist-revealing-invisible-networks-revive-rainforests/",
+      "category": "کاربرد هوش مصنوعی در علم و پزشکی",
+      "title_fa": "بوم‌شناسی که از شبکه‌های نامرئی حیات در جنگل‌های بارانی پرده برمی‌دارد",
+      "title_en": "The ecologist revealing the invisible networks that revive rainforests",
+      "summary_fa": "در یک ایستگاه تحقیقاتی در مرکز پاناما، دکتر دیزی دنت، بوم‌شناس ارشد در ETH زوریخ، توالی رشد یک قرن جنگل را در بنای یادبود طبیعی بارو کلرادو بررسی می‌کند. این پژوهش بر آشکارسازی شبکه‌های پیچیده و نامرئی متمرکز است که نقش حیاتی در احیا و بقای جنگل‌های بارانی ایفا می‌کنند. یافته‌های این تحقیق بینش‌های جدیدی را در مورد فرآیندهای طبیعی و سیستم‌های خوداحیاگر اکوسیستم‌های جنگلی ارائه می‌دهد.",
+      "tags": [
+        "جنگل‌های بارانی",
+        "بوم‌شناسی",
+        "ETH Zurich",
+        "پاناما",
+        "شبکه‌های زیستی"
       ]
     }
   ]
