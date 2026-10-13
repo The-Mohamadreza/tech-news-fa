@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-10-12",
+    "last_updated": "2026-10-13",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 1371
+    "total_articles": 1386
   },
   "articles": [
     {
@@ -23247,6 +23247,259 @@
         "ETH Zurich",
         "پاناما",
         "شبکه‌های زیستی"
+      ]
+    },
+    {
+      "id": "2ca40ea42de9966b",
+      "date": "2025-10-09",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/defining-and-evaluating-political-bias-in-llms",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "روش‌های نوین اوپن‌ای‌آی برای سنجش و کاهش سوگیری سیاسی در ChatGPT",
+      "title_en": "Defining and evaluating political bias in LLMs",
+      "summary_fa": "شرکت اوپن‌ای‌آی در حال توسعه و به‌کارگیری روش‌های آزمایشی جدیدی برای ارزیابی سوگیری سیاسی در مدل هوش مصنوعی ChatGPT است. این رویکردهای نوین بر پایه‌ی سناریوهای واقعی بوده و با هدف بهبود عینیت و کاهش جانب‌داری سیاسی در خروجی‌های مدل طراحی شده‌اند. هدف نهایی، تضمین بی‌طرفی و اعتبار بیشتر در پاسخ‌های ارائه‌شده توسط ChatGPT است.",
+      "tags": [
+        "OpenAI",
+        "ChatGPT",
+        "LLMs",
+        "سوگیری سیاسی",
+        "اخلاق هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "236988a26963c7f4",
+      "date": "2025-10-08",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/hibob",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "HiBob: ۲۵۰۰ GPT، موتور محرکه رشد محصول و بهره‌وری سازمانی",
+      "title_en": "HiBob turns 2,500 GPTs into product and team growth",
+      "summary_fa": "شرکت HiBob با بهره‌گیری از پلتفرم ChatGPT Enterprise و مدل‌های GPT سفارشی خود، استراتژی نوآورانه‌ای را برای گسترش کاربرد هوش مصنوعی به کار گرفته است. این رویکرد به HiBob کمک کرده تا پذیرش هوش مصنوعی را در مقیاس وسیع افزایش دهد، درآمد خود را تقویت کند و فرآیندهای منابع انسانی را به شکل چشمگیری بهینه‌سازی نماید. نتیجه این اقدام، افزودن قابلیت‌های مبتنی بر هوش مصنوعی به پلتفرم Bob و دستیابی به رشد قابل توجه در محصول و کارایی تیم‌ها بوده است.",
+      "tags": [
+        "HiBob",
+        "ChatGPT Enterprise",
+        "GPTs",
+        "هوش مصنوعی سازمانی",
+        "منابع انسانی"
+      ]
+    },
+    {
+      "id": "934fa4b0881483c3",
+      "date": "2025-10-07",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/global-affairs/disrupting-malicious-uses-of-ai-october-2025",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "OpenAI: مقابله با کاربردهای مخرب هوش مصنوعی و حفظ امنیت کاربران",
+      "title_en": "Disrupting malicious uses of AI: October 2025",
+      "summary_fa": "گزارش اکتبر ۲۰۲۵ شرکت OpenAI به بررسی شیوه‌های شناسایی و خنثی‌سازی کاربردهای مخرب هوش مصنوعی می‌پردازد. این گزارش جزئیاتی را درباره‌ی راهکارهای OpenAI برای مقابله با سوءاستفاده‌ها، اجرای سیاست‌ها و حفاظت از کاربران در برابر آسیب‌های واقعی ارائه می‌دهد.",
+      "tags": [
+        "OpenAI",
+        "هوش مصنوعی",
+        "ایمنی هوش مصنوعی",
+        "سوءاستفاده از هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "fdc7cb0be231b60a",
+      "date": "2025-10-06",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/codex-now-generally-available",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "کدکس OpenAI به طور عمومی عرضه شد: ابزارهای جدید برای توسعه‌دهندگان",
+      "title_en": "Codex is now generally available",
+      "summary_fa": "مدل هوش مصنوعی کدکس (Codex) از OpenAI اکنون به طور عمومی در دسترس قرار گرفته است. این ابزار قدرتمند برای توسعه‌دهندگان، با ویژگی‌های جدیدی از جمله ادغام با Slack، کیت توسعه نرم‌افزار (SDK) اختصاصی و ابزارهای مدیریتی کارآمد مانند داشبوردهای مصرف و مدیریت فضای کاری همراه شده است. هدف از این به‌روزرسانی، تسهیل استفاده و مدیریت کدکس در مقیاس وسیع‌تر برای برنامه‌نویسان است.",
+      "tags": [
+        "OpenAI",
+        "Codex",
+        "AI",
+        "توسعه‌دهندگان",
+        "SDK",
+        "تولید کد"
+      ]
+    },
+    {
+      "id": "d42ac4b39a558513",
+      "date": "2025-10-06",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/introducing-apps-in-chatgpt",
+      "category": "پلتفرم‌های هوش مصنوعی و توسعه‌دهندگان",
+      "title_fa": "اپلیکیشن‌ها به ChatGPT راه یافتند؛ SDK جدید برای توسعه‌دهندگان",
+      "title_en": "Introducing apps in ChatGPT and the new Apps SDK",
+      "summary_fa": "OpenAI گام بلندی در توسعه پلتفرم ChatGPT برداشته و نسل جدیدی از اپلیکیشن‌ها را معرفی کرده است که کاربران می‌توانند مستقیماً درون این چت‌بات با آن‌ها تعامل کنند. این قابلیت به ChatGPT اجازه می‌دهد تا فراتر از یک دستیار متنی عمل کرده و به یک اکوسیستم جامع برای برنامه‌های کاربردی تبدیل شود. همزمان، شرکت یک کیت توسعه نرم‌افزار (SDK) جدید را در نسخه پیش‌نمایش در اختیار توسعه‌دهندگان قرار داده است تا بتوانند از امروز شروع به ساخت این اپلیکیشن‌های نوآورانه کنند.",
+      "tags": [
+        "ChatGPT",
+        "OpenAI",
+        "SDK",
+        "اپلیکیشن هوش مصنوعی",
+        "ابزار توسعه‌دهندگان"
+      ]
+    },
+    {
+      "id": "a90f41cc88c1aa5b",
+      "date": "2025-10-06",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/openai-amd-strategic-partnership",
+      "category": "سخت‌افزار و تراشه",
+      "title_fa": "شراکت استراتژیک AMD و OpenAI: استقرار ۶ گیگاوات پردازنده گرافیکی برای توسعه هوش مصنوعی",
+      "title_en": "AMD and OpenAI announce strategic partnership to deploy 6 gigawatts of AMD GPUs",
+      "summary_fa": "شرکت‌های AMD و OpenAI از یک همکاری چندساله استراتژیک برای تقویت زیرساخت‌های هوش مصنوعی نسل آینده خبر داده‌اند. بر اساس این توافق، قرار است ۶ گیگاوات پردازنده گرافیکی AMD Instinct به مرور زمان مستقر شود. این استقرار از سال ۲۰۲۶ با ۱ گیگاوات آغاز خواهد شد و هدف آن تسریع نوآوری جهانی در حوزه هوش مصنوعی است.",
+      "tags": [
+        "AMD",
+        "OpenAI",
+        "GPU",
+        "AMD Instinct",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "80d24e11891767c4",
+      "date": "2026-10-12",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "متا از اولین مدل هوش مصنوعی پیشرفته خود، Muse Wonder، پرده برداشت",
+      "title_en": "Meta releases its first frontier model, Muse Wonder",
+      "summary_fa": "شرکت متا به تازگی از Muse Wonder، اولین مدل هوش مصنوعی پیشرفته (frontier model) خود رونمایی کرده است. برخلاف مدل سبک‌وزن Muse Spark که برای عملکرد با تأخیر کم طراحی شده بود، Muse Wonder مقیاس بزرگ‌تری دارد و توانایی‌های بیشتری را به نمایش می‌گذارد. این مدل جدید با کسب نمرات بالاتر در بنچمارک‌ها و عملکرد بهتر در وظایف پیچیده‌ای مانند کدنویسی، برتری خود را ثابت کرده است.",
+      "tags": [
+        "Meta",
+        "Muse Wonder",
+        "هوش مصنوعی",
+        "مدل‌های هوش مصنوعی",
+        "Frontier AI"
+      ]
+    },
+    {
+      "id": "8e8b602fc5f53407",
+      "date": "2026-10-12",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "WindBorne: بالون‌های هوشمند و هوش مصنوعی، برنده قرارداد ۵۰ میلیون دلاری نیروی هوایی آمریکا",
+      "title_en": "WindBorne wins a hefty US Air Force contract for its balloon data",
+      "summary_fa": "استارتاپ WindBorne در سیلیکون‌ولی که با استفاده از بالون‌های هواشناسی و هوش مصنوعی به پیش‌بینی وضعیت جوی می‌پردازد، موفق به کسب یک قرارداد مهم نظامی در ایالات متحده شده است. این قرارداد با ارزشی نزدیک به ۵۰ میلیون دلار، از سوی نیروی هوایی آمریکا به این شرکت اعطا شده است.",
+      "tags": [
+        "WindBorne",
+        "USAF",
+        "AI",
+        "پیش‌بینی آب و هوا",
+        "بالون‌های هواشناسی"
+      ]
+    },
+    {
+      "id": "fa08cc00ea9a27a9",
+      "date": "2026-10-12",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "Honeyjar: هوش مصنوعی برای بازآفرینی روابط عمومی و ارتباطات سازمانی",
+      "title_en": "Honeyjar offers AI tools to improve PR and comms at every company",
+      "summary_fa": "با وجود اینکه بسیاری از روزنامه‌نگاران، کارآفرینان و حتی متخصصان روابط عمومی، فرآیند سنتی PR را ناکارآمد می‌دانند، این سوال مطرح می‌شود که آیا هوش مصنوعی می‌تواند به بهبود آن کمک کند؟ شرکت Honeyjar با ارائه ابزارهای مبتنی بر هوش مصنوعی، قصد دارد کیفیت روابط عمومی و ارتباطات سازمانی را در تمامی شرکت‌ها به طور چشمگیری ارتقا دهد.",
+      "tags": [
+        "Honeyjar",
+        "هوش مصنوعی",
+        "روابط عمومی",
+        "ارتباطات سازمانی"
+      ]
+    },
+    {
+      "id": "da2cafd8b4908248",
+      "date": "2026-10-12",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "مایکروسافت: بریتانیا بهترین موقعیت را برای رهبری تنظیم‌گری هوش مصنوعی دارد",
+      "title_en": "Microsoft president says UK is best placed to drive AI regulation",
+      "summary_fa": "برد اسمیت، رئیس مایکروسافت، با تاکید بر ضرورت فوری تنظیم‌گری هوش مصنوعی، اظهار داشت که در حال حاضر شرکت‌های هوش مصنوعی نظارت کمتری نسبت به تولیدکنندگان شیر یا ماشین لباسشویی دارند. او معتقد است بریتانیا در بهترین موقعیت برای هدایت و اجرای این مقررات است.",
+      "tags": [
+        "Microsoft",
+        "AI regulation",
+        "Brad Smith",
+        "UK"
+      ]
+    },
+    {
+      "id": "6ecbcc7a7d94a271",
+      "date": "2026-10-12",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+      "category": "کاربرد هوش مصنوعی در صنعت ساختمان",
+      "title_fa": "هوش مصنوعی نقشه‌های ساختمانی آماده‌ی مجوز را در چند دقیقه تولید می‌کند",
+      "title_en": "This AI startup says it can generate permit-ready blueprints in minutes",
+      "summary_fa": "استارتاپ خودگردان Blueprints AI، واقع در سانتا مونیکا، نرم‌افزاری توسعه داده است. این نرم‌افزار قادر است از روی عکس، فایل PDF یا طرح‌های اولیه، نقشه‌های ساختمانی کاملاً مطابق با کدهای استاندارد را در عرض چند دقیقه تولید کند و آنها را آماده‌ی دریافت مجوز کند.",
+      "tags": [
+        "هوش مصنوعی",
+        "Blueprints AI",
+        "ساختمان‌سازی",
+        "نقشه ساختمانی",
+        "استارتاپ"
+      ]
+    },
+    {
+      "id": "47c2a6e011d8ec69",
+      "date": "2026-10-12",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "آغاز TechCrunch Disrupt 2026: آخرین فرصت برای تخفیف ۱۰۰ دلاری بلیط",
+      "title_en": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
+      "summary_fa": "رویداد بزرگ TechCrunch Disrupt 2026 فردا ساعت ۸ صبح به وقت اقیانوس آرام در موسکون وست سان‌فرانسیسکو آغاز خواهد شد. این کنفرانس سه روزه میزبان بیش از ۱۰ هزار کارآفرین، سرمایه‌گذار و فعال حوزه فناوری است که برای تبادل ایده، شبکه‌سازی و معرفی استارتاپ‌های آینده‌ساز گرد هم می‌آیند. تنها ۲۴ ساعت فرصت باقی است تا بلیط‌های این رویداد را با تخفیف ۱۰۰ دلاری و خرید بلیط دوم با ۵۰ درصد تخفیف تهیه کنید.",
+      "tags": [
+        "TechCrunch Disrupt 2026",
+        "Startup",
+        "Investment",
+        "Tech Conference",
+        "San Francisco"
+      ]
+    },
+    {
+      "id": "7c431d9eeb01b7e3",
+      "date": "2026-10-13",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "بازار پنهان داده: آزمایشگاه‌های هوش مصنوعی، اطلاعات استارتاپ‌های منحل‌شده را می‌خرند",
+      "title_en": "AI labs are buying data from dead startups to train their models",
+      "summary_fa": "کیلن میسکل، بنیان‌گذار یک استارتاپ رمزارز که در حال تعطیلی کسب‌وکار خود بود، گمان نمی‌کرد داده‌های شرکتش ارزشی داشته باشند. با این حال، او موفق شد آرشیوهای دیجیتالی و کدبیس شرکت را به پول تبدیل کند و حدود ۲۵,۰۰۰ دلار از فروش آن‌ها به دست آورد. این اتفاق نشان‌دهنده‌ی یک ترند نوظهور است که در آن آزمایشگاه‌های هوش مصنوعی برای آموزش مدل‌هایشان، داده‌ها را از استارتاپ‌های ازبین‌رفته خریداری می‌کنند.",
+      "tags": [
+        "AI",
+        "داده",
+        "آموزش مدل هوش مصنوعی",
+        "Startup",
+        "منابع داده"
+      ]
+    },
+    {
+      "id": "babd907c94f6c479",
+      "date": "2026-10-12",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/",
+      "category": "فضا و اکتشافات فضایی",
+      "title_fa": "رقابت آمریکا و چین بر سر ساخت پایگاه در ماه؛ چالش‌های سکونت فضایی",
+      "title_en": "The Download: moon city problems and drone traffic controllers",
+      "summary_fa": "در جدیدترین اخبار دنیای فناوری، رقابت فشرده‌ای میان ایالات متحده و چین برای ایجاد پایگاه‌هایی دائمی در سطح ماه در جریان است. ناسا نیز با هدف راه‌اندازی یک پایگاه کوچک، به این رقابت پیوسته، اگرچه چالش‌های زندگی در ماه به دشواری‌های مریخ تشبیه شده است.",
+      "tags": [
+        "ماه",
+        "رقابت فضایی",
+        "NASA",
+        "چین",
+        "ایالات متحده"
+      ]
+    },
+    {
+      "id": "2a956f245a64303d",
+      "date": "2026-10-12",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/12/1145760/imagining-building-cities-on-the-moon/",
+      "category": "فناوری فضایی و اکتشافات",
+      "title_fa": "تب‌وتاب رقابت فضایی جدید: ماه، میدان نبرد آمریکا و چین",
+      "title_en": "Mars may be a hellhole, but the moon is not far behind",
+      "summary_fa": "دنیای امروز شاهد آغاز دومین مسابقه فضایی بزرگ است، رقابتی که یادآور دوران جنگ سرد و شوروی و آمریکا است. این بار، ایالات متحده و چین در تلاشی نفس‌گیر برای رسیدن به سطح ماه و برافراشتن پرچم‌های خود با یکدیگر به رقابت می‌پردازند. این مسابقه تنها به این دو کشور محدود نمی‌شود و چندین کشور دیگر نیز با اهداف متفاوت، درگیر این رقابت پر چالش هستند.",
+      "tags": [
+        "رقابت فضایی",
+        "ماه",
+        "USA",
+        "China",
+        "اکتشاف فضا"
       ]
     }
   ]
