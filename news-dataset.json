@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-10-13",
+    "last_updated": "2026-10-14",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 1386
+    "total_articles": 1399
   },
   "articles": [
     {
@@ -23500,6 +23500,227 @@
         "USA",
         "China",
         "اکتشاف فضا"
+      ]
+    },
+    {
+      "id": "ffc748cb8d88a919",
+      "date": "2026-10-13",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/higgsfield-longer-videos-voice",
+      "category": "تولید محتوای هوش مصنوعی",
+      "title_fa": "Higgsfield مرز ۱۰ دقیقه را در تولید ویدئوهای هوش مصنوعی شکست",
+      "title_en": "Higgsfield takes AI video from 1 minute to over 10",
+      "summary_fa": "شرکت Higgsfield با معرفی مدل‌های جدید خود، امکان ساخت ویدئوهای هوش مصنوعی طولانی‌تر را برای تولیدکنندگان محتوا فراهم کرده است. این شرکت با مدل GPT-6 Astra، طول ویدئوهای تولید شده را از یک دقیقه به بیش از ۱۰ دقیقه افزایش داده است. همچنین، مدل GPT-Image-2.5 به ایجاد تصاویر بصری دقیق‌تر کمک می‌کند و GPT-Live نیز راه را برای تولید فیلم‌های مبتنی بر صدا هموار می‌سازد.",
+      "tags": [
+        "Higgsfield",
+        "AI video",
+        "GPT-6 Astra",
+        "هوش مصنوعی مولد",
+        "تولید ویدئو هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "6510370f7f002df3",
+      "date": "2025-10-06",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/global-affairs/accelerating-ai-uptake-in-europe",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "اروپا و هوش مصنوعی: طرح ۲۰ راهکار عملی برای تسریع پذیرش",
+      "title_en": "Accelerating AI adoption in Europe",
+      "summary_fa": "شرکت OpenAI و سازمان Allied for Startups با همکاری یکدیگر، گزارش 'Hacktivate AI' را منتشر کرده‌اند. این گزارش شامل ۲۰ ایده سیاستی عملیاتی است که با هدف تسریع پذیرش هوش مصنوعی در اروپا تدوین شده‌اند. هدف نهایی، افزایش توان رقابتی قاره سبز و قدرت‌بخشیدن به نوآوران در این حوزه است.",
+      "tags": [
+        "هوش مصنوعی",
+        "اروپا",
+        "سیاست هوش مصنوعی",
+        "OpenAI",
+        "Allied for Startups"
+      ]
+    },
+    {
+      "id": "3f4d97580c7b0091",
+      "date": "2025-10-06",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/introducing-agentkit",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "معرفی AgentKit و ابزارهای نوین برای توسعه سریع‌تر عامل‌های هوش مصنوعی",
+      "title_en": "Introducing AgentKit, new Evals, and RFT for agents",
+      "summary_fa": "ابزارهای جدیدی برای کمک به توسعه‌دهندگان هوش مصنوعی در گذار سریع‌تر از نمونه اولیه به محصول نهایی معرفی شده‌اند. این مجموعه شامل AgentKit، قابلیت‌های ارزیابی (Evals) گسترش‌یافته و تکنیک تنظیم دقیق تقویتی (RFT) مخصوص عامل‌های هوش مصنوعی است. هدف این ابزارها، شتاب‌بخشیدن به فرآیند توسعه و استقرار عامل‌های هوشمند در مقیاس عملیاتی است.",
+      "tags": [
+        "AgentKit",
+        "AI agents",
+        "Evals",
+        "RFT",
+        "توسعه هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "a3e0671889992401",
+      "date": "2025-10-02",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/wrtn",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "Wrtn با تکیه بر GPT-5، هوش مصنوعی سبک زندگی را به میلیون‌ها کاربر کره‌ای می‌رساند؛ توسعه به شرق آسیا",
+      "title_en": "With GPT-5, Wrtn builds lifestyle AI for millions in Korea",
+      "summary_fa": "شرکت Wrtn با بهره‌گیری از مدل پیشرفته GPT-5، موفق شده است اپلیکیشن‌های هوش مصنوعی خود را به ۶.۵ میلیون کاربر در کره جنوبی برساند. این شرکت مفهوم \"هوش مصنوعی سبک زندگی\" (Lifestyle AI) را توسعه داده که ترکیبی از قابلیت‌های بهره‌وری، خلاقیت و یادگیری را ارائه می‌دهد. Wrtn اکنون در حال گسترش این تجربه به سراسر منطقه شرق آسیا است.",
+      "tags": [
+        "Wrtn",
+        "GPT-5",
+        "Lifestyle AI",
+        "کره جنوبی",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "e93a3b209d30b0b0",
+      "date": "2025-10-02",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/global-affairs/strategic-collaboration-with-japan-digital-agency",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "همکاری استراتژیک OpenAI با ژاپن: پیشبرد هوش مصنوعی در خدمات عمومی و حکمرانی جهانی",
+      "title_en": "OpenAI announces strategic collaboration with Japan’s Digital Agency",
+      "summary_fa": "OpenAI و آژانس دیجیتال ژاپن برای پیشبرد استفاده از هوش مصنوعی مولد در خدمات عمومی این کشور، وارد یک همکاری استراتژیک شده‌اند. هدف این مشارکت، توسعه‌ی فناوری‌های هوش مصنوعی قابل اعتماد و امن در بخش دولتی ژاپن است. این همکاری همچنین بر حمایت از چارچوب‌های حکمرانی بین‌المللی هوش مصنوعی و ترویج پذیرش ایمن و مسئولانه آن در سراسر جهان تمرکز دارد.",
+      "tags": [
+        "OpenAI",
+        "ژاپن",
+        "هوش مصنوعی مولد",
+        "حکمرانی هوش مصنوعی",
+        "خدمات عمومی"
+      ]
+    },
+    {
+      "id": "f2bc43a6d7e74461",
+      "date": "2025-10-01",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/samsung-and-sk-join-stargate",
+      "category": "سخت‌افزار و تراشه",
+      "title_fa": "سامسونگ و SK به طرح «استارگیت» OpenAI برای توسعه زیرساخت جهانی هوش مصنوعی پیوستند",
+      "title_en": "Samsung and SK join OpenAI’s Stargate initiative to advance global AI infrastructure",
+      "summary_fa": "شرکت‌های سامسونگ و SK با هدف گسترش زیرساخت جهانی هوش مصنوعی، به ابتکار «استارگیت» OpenAI ملحق شدند. این مشارکت استراتژیک بر افزایش تولید تراشه‌های حافظه پیشرفته و ساخت مراکز داده نسل آتی در کره جنوبی تمرکز دارد.",
+      "tags": [
+        "Samsung",
+        "SK",
+        "OpenAI",
+        "Stargate",
+        "AI Infrastructure"
+      ]
+    },
+    {
+      "id": "a2d00ff109e7d12f",
+      "date": "2026-10-13",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+      "category": "کاربرد هوش مصنوعی در علم و پزشکی",
+      "title_fa": "کاشت موفقیت‌آمیز تراشه ترمیم بینایی Science Corporation در اولین بیمار استارگارد",
+      "title_en": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+      "summary_fa": "شرکت Science Corporation، به رهبری مکس هوداک (هم‌بنیان‌گذار سابق Neuralink)، اولین تراشه ترمیم بینایی خود را در یک بیمار مبتلا به بیماری استارگارد کاشت. این اقدام که گامی مهم در توسعه رابط‌های مغز و کامپیوتر (BCI) شرکت محسوب می‌شود، در رویداد TechCrunch Disrupt توسط هوداک تشریح شد. او توضیح داد که همکاری شرکت با فناوری PRIMA، بخشی از مسیر آن‌ها به سوی یک رابط مغز و کامپیوتر نوآورانه است.",
+      "tags": [
+        "Science Corporation",
+        "Stargardt disease",
+        "BCI",
+        "ترمیم بینایی",
+        "Max Hodak"
+      ]
+    },
+    {
+      "id": "314375845b17a428",
+      "date": "2026-10-13",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "مدیرعامل Cerebras: دستیاران هوش مصنوعی شخصی، لوازم خانگی آینده هر خانه",
+      "title_en": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+      "summary_fa": "اندرو فلدمن، مدیرعامل Cerebras، پیش‌بینی می‌کند که دستیاران هوش مصنوعی شخصی به زودی به اندازه لوازم خانگی رایج خواهند شد و به جزء جدایی‌ناپذیری از هر خانه تبدیل می‌شوند. وی معتقد است این دستیاران، ترکیبی از پردازش محلی روی دستگاه‌های شخصی و قدرت پردازش ابری را برای ارائه خدمات به کار خواهند گرفت. این رویکرد هیبریدی، دسترسی گسترده و کارایی بالا را برای هوش مصنوعی خانگی فراهم خواهد کرد.",
+      "tags": [
+        "Cerebras",
+        "Andrew Feldman",
+        "دستیار هوش مصنوعی شخصی",
+        "آینده هوش مصنوعی",
+        "Edge AI"
+      ]
+    },
+    {
+      "id": "8ffa5222f5cfbfa3",
+      "date": "2026-10-13",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "مدیرعامل Cerebras: تمرکز بر خطرات، مانع دیدن پتانسیل‌های هوش مصنوعی است",
+      "title_en": "Cerebras CEO pushes back on AI doomsday warnings",
+      "summary_fa": "اندرو فلدمن، مدیرعامل شرکت Cerebras، پیامی جدی برای رهبران هوش مصنوعی که هشدارهای «پایان دنیا» می‌دهند، دارد: «شاید بهتر است دیگر صحبت نکنید؟» او در کنفرانس TechCrunch Disrupt استدلال کرد که تمرکز بیش از حد صنعت بر خطرات و ریسک‌های هوش مصنوعی، پتانسیل‌ها و مزایای چشمگیر آن را تحت‌الشعاع قرار داده است.",
+      "tags": [
+        "Cerebras",
+        "AI",
+        "AI risks",
+        "AI benefits",
+        "Andrew Feldman"
+      ]
+    },
+    {
+      "id": "41d15466fa73b3da",
+      "date": "2026-10-13",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+      "category": "دعوای حقوقی و مالکیت فکری",
+      "title_fa": "در پرونده اسرار تجاری اپل، قاضی OpenAI را به افشای سوابق استخدامی ملزم کرد",
+      "title_en": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+      "summary_fa": "یک قاضی فدرال حکم داده است که شرکت اپل می‌تواند به اسناد مصاحبه OpenAI با کارمندان سابق اپل دسترسی پیدا کند. این حکم همچنین شامل دسترسی به پیام‌های خصوصی و شهادت چهره‌های کلیدی مرتبط با پرونده جاری اسرار تجاری می‌شود.",
+      "tags": [
+        "Apple",
+        "OpenAI",
+        "Trade Secrets",
+        "Legal Case",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "ec248a8be840f0c3",
+      "date": "2026-10-13",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
+      "category": "کاربردهای هوش مصنوعی در حفاظت و ایمنی",
+      "title_fa": "فلوکس اینتلیجنس: هوش مصنوعی در خدمت حفاظت از حیات وحش و زیرساخت‌ها",
+      "title_en": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
+      "summary_fa": "شرکت فلوکس اینتلیجنس با توسعه دستگاه‌های هوش مصنوعی لبه (Edge AI) به دنبال جلوگیری از برخورد حیات وحش با زیرساخت‌های حیاتی است. این دستگاه‌ها قادرند حیوانات را شناسایی کرده و با استفاده از صداهای مخصوص هر گونه، آن‌ها را از مناطق خطرناک مانند خطوط ریلی، فرودگاه‌ها و جاده‌ها دور نگه دارند.",
+      "tags": [
+        "Flox Intelligence",
+        "هوش مصنوعی",
+        "حیات وحش",
+        "ایمنی زیرساخت",
+        "Edge AI"
+      ]
+    },
+    {
+      "id": "fcea7a4f647b675d",
+      "date": "2026-10-13",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "هشدار Anthropic: مدل‌های هوش مصنوعی قدرتمند و خطر فزاینده حملات سایبری",
+      "title_en": "The Download: open model trade-offs and geothermal power’s promise",
+      "summary_fa": "بحث بر سر مزایا و معایب مدل‌های هوش مصنوعی باز همچنان ادامه دارد. اخیراً شرکت Anthropic گزارشی منتشر کرده که نسبت به خطرات امنیتی جدی ناشی از مدل‌های قدرتمند هوش مصنوعی هشدار می‌دهد. بر اساس این گزارش، یک مدل جدید و قدرتمند منتشر شده توسط شرکت چینی Z.ai، پتانسیل ایجاد حملات سایبری گسترده‌ای را دارد. این گزارش بر لزوم بررسی دقیق پیامدهای امنیتی این فناوری‌ها تأکید می‌کند.",
+      "tags": [
+        "Anthropic",
+        "Z.ai",
+        "امنیت سایبری",
+        "مدل‌های هوش مصنوعی",
+        "ایمنی هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "089e26be9c889c4d",
+      "date": "2026-10-13",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "هشدار Anthropic: آیا مدل‌های باز هوش مصنوعی، خطر حملات سایبری را افزایش می‌دهند؟",
+      "title_en": "Open models have real benefits. Do they outweigh the risks?",
+      "summary_fa": "بحث‌ها پیرامون مزایا و خطرات مدل‌های باز هوش مصنوعی همچنان ادامه دارد. به تازگی، شرکت Anthropic با انتشار گزارشی هشدار داده است که مدل‌هایی نظیر GLM-5.3 می‌توانند تهدید جدی برای امنیت سایبری محسوب شوند. این گزارش، که در مجموعه مقالات MIT Technology Review به آن اشاره شده، نگرانی‌های اساسی را درباره پتانسیل سوءاستفاده و افزایش ریسک حملات سایبری از طریق این مدل‌ها مطرح می‌کند.",
+      "tags": [
+        "Anthropic",
+        "مدل‌های باز هوش مصنوعی",
+        "امنیت سایبری",
+        "خطرات هوش مصنوعی",
+        "GLM-5.3"
       ]
     }
   ]
