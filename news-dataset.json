@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-10-14",
+    "last_updated": "2026-10-15",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 1399
+    "total_articles": 1413
   },
   "articles": [
     {
@@ -23721,6 +23721,244 @@
         "امنیت سایبری",
         "خطرات هوش مصنوعی",
         "GLM-5.3"
+      ]
+    },
+    {
+      "id": "a0e0fec2c2b5f568",
+      "date": "2026-10-14",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/amp-beyond-coding",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "Amp و OpenAI: عامل‌های هوش مصنوعی فراتر از کدنویسی وارد عمل می‌شوند",
+      "title_en": "Amp puts AI agents to work beyond code with OpenAI models",
+      "summary_fa": "شرکت Amp در حال متحول کردن کاربردهای عامل‌های هوش مصنوعی است و با استفاده از مدل‌های پیشرفته OpenAI، مرزهای قابلیت‌های آن‌ها را جابجا می‌کند. این نوآوری به عامل‌ها امکان می‌دهد تا وظایفی بسیار فراتر از تولید کد را به انجام برسانند. بهره‌گیری از مدل‌هایی نظیر GPT-6 Astra، Ultrafast، GPT-Live-1 و قابلیت «Sign in with ChatGPT» نشان‌دهنده گام‌های بلند Amp در گسترش دامنه عملکردهای هوش مصنوعی است.",
+      "tags": [
+        "Amp",
+        "OpenAI",
+        "AI agents",
+        "GPT-6 Astra",
+        "کاربرد هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "24cc989c02dbc2a2",
+      "date": "2026-10-14",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/sentinelone",
+      "category": "امنیت سایبری",
+      "title_fa": "جهش بزرگ سنتینل‌وان: تحلیل بدافزار از هفته‌ها به ساعت با کمک هوش مصنوعی",
+      "title_en": "SentinelOne cuts malware analysis from weeks to hours",
+      "summary_fa": "شرکت امنیت سایبری SentinelOne با به‌کارگیری ابزار OpenAI Daybreak، موفق شده است زمان تحلیل بدافزار را به شکلی چشمگیر کاهش دهد. این فرآیند که پیش از این هفته‌ها به طول می‌انجامید، اکنون تنها در عرض چند ساعت تکمیل می‌شود. این جهش در کارایی، ظرفیت سنتینل‌وان را برای شناسایی و مقابله با تهدیدات سایبری بیشتر به طور قابل توجهی افزایش می‌دهد.",
+      "tags": [
+        "SentinelOne",
+        "OpenAI Daybreak",
+        "تحلیل بدافزار",
+        "امنیت سایبری",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "e181547094b0a112",
+      "date": "2026-10-14",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/third-moment-research",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "Third Moment: ۱۰ هزار عامل هوش مصنوعی با تمرکز چندروزه و قابلیت خودبهبودی",
+      "title_en": "How Third Moment Research runs 10,000 agents for 36+ hours",
+      "summary_fa": "آزمایشگاه هوش مصنوعی Third Moment موفق به توسعه و اجرای ۱۰ هزار عامل هوشمند شده است که قادرند برای بیش از ۳۶ ساعت متوالی تمرکز داشته باشند. این عوامل با استفاده از مدل‌های پیشرفته‌ای چون GPT-6 Astra، GPT-6.1 Sol، Codex و سیستم Daybreak برای امنیت سایبری، با گذر زمان بهبود می‌یابند. توانایی این عوامل در حفظ تمرکز طولانی‌مدت و یادگیری مداوم، یک پیشرفت چشمگیر در حوزه هوش مصنوعی محسوب می‌شود.",
+      "tags": [
+        "Third Moment Research",
+        "AI agents",
+        "هوش مصنوعی مولد",
+        "امنیت سایبری",
+        "GPT-6"
+      ]
+    },
+    {
+      "id": "7d10f0ddfecf202c",
+      "date": "2026-10-14",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/block-ai-powered-security",
+      "category": "امنیت سایبری",
+      "title_fa": "Block با هوش مصنوعی OpenAI: تحول در امنیت سایبری هوشمند",
+      "title_en": "How Block is building AI-powered security with OpenAI technology",
+      "summary_fa": "شرکت Block در حال ساخت یک سیستم امنیتی مبتنی بر هوش مصنوعی با استفاده از فناوری OpenAI است. این رویکرد جدید به تیم امنیتی Block امکان می‌دهد تا تهدیدات را با سرعت بیشتری بررسی کرده و وصله‌های امنیتی را در عرض چند دقیقه پیشنهاد دهد.",
+      "tags": [
+        "Block",
+        "OpenAI",
+        "هوش مصنوعی",
+        "امنیت سایبری",
+        "AI security"
+      ]
+    },
+    {
+      "id": "2f3282e483141f68",
+      "date": "2026-10-14",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "فصل جدید هوش مصنوعی در اتحادیه اروپا: ظهور سیستم‌های عامل‌گرا",
+      "title_en": "The EU’s next chapter in AI is agentic",
+      "summary_fa": "تحلیل‌های جدید نشان می‌دهد که پذیرش هوش مصنوعی عامل‌گرا در میان شرکت‌های بزرگ و کسب‌وکارهای کوچک اتحادیه اروپا در حال افزایش است. این گزارش تاکید می‌کند که استفاده عمیق‌تر و گسترده‌تر از این فناوری، پتانسیل زیادی برای آزادسازی ارزش‌های جدید و ایجاد مزایای اقتصادی دارد.",
+      "tags": [
+        "EU",
+        "Agentic AI",
+        "پذیرش تکنولوژی",
+        "کسب‌وکار",
+        "تحلیل صنعت"
+      ]
+    },
+    {
+      "id": "b144ef9f087e21be",
+      "date": "2025-10-01",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/disrupting-malicious-uses-of-ai-stop-news-2025",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "اوپن‌ای‌آی عملیات نفوذ هوش مصنوعی «توقف اخبار» روسیه را خنثی کرد",
+      "title_en": "Operation “Stop News”: Recidivist influence activity",
+      "summary_fa": "شرکت اوپن‌ای‌آی اعلام کرد که حساب‌های مرتبط با یک عملیات نفوذ دیجیتال با منشاء روسیه را مسدود کرده است. این عملیات که «توقف اخبار» (Stop News) نام دارد، از هوش مصنوعی برای تولید محتوای تکراری و هدفمند جهت تأثیرگذاری بر افکار عمومی در کشورهای آفریقایی و بریتانیا استفاده می‌کرد. اوپن‌ای‌آی هدف از این اقدام را مقابله با سوءاستفاده از فناوری‌های هوش مصنوعی برای انتشار اطلاعات نادرست و نفوذ سایبری عنوان کرده است.",
+      "tags": [
+        "OpenAI",
+        "Russia",
+        "عملیات نفوذ",
+        "هوش مصنوعی",
+        "Stop News"
+      ]
+    },
+    {
+      "id": "134069d44702de28",
+      "date": "2026-10-15",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "فیگما با ابزارهای تازه، نحوه کار ایجنت‌ها را در پلتفرم خود مشخص می‌کند",
+      "title_en": "Figma announces new features to define how agents work on its platform",
+      "summary_fa": "شرکت فیگما، پلتفرم محبوب طراحی، از قابلیت‌های جدیدی رونمایی کرده است که به کاربران اجازه می‌دهد نحوه تعامل و عملکرد ایجنت‌ها را در پلتفرم خود دقیق‌تر مشخص کنند. این اقدام می‌تواند به بهبود کنترل و سفارشی‌سازی ابزارهای خودکار کمک کند. علاوه بر این، فیگما قابلیت «لایه‌های کد» (Code Layers) خود را نیز به صورت بتای عمومی (Open Beta) عرضه کرده است.",
+      "tags": [
+        "Figma",
+        "AI agents",
+        "ابزارهای طراحی",
+        "Code Layers",
+        "توسعه محصول"
+      ]
+    },
+    {
+      "id": "f86858c1d8495e4a",
+      "date": "2026-10-15",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+      "category": "سخت‌افزار و تراشه",
+      "title_fa": "تراشه‌های طراحی‌شده با هوش مصنوعی؛ راهکار Ricursive Intelligence برای بحران پردازش",
+      "title_en": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+      "summary_fa": "بنیان‌گذاران استارتاپ Ricursive Intelligence فاش کردند که چگونه هوش مصنوعی را برای طراحی تراشه‌ها توسعه می‌دهند. این سیستم قادر است از هر مرحله طراحی خود درس بگیرد و نسخه‌های بعدی را بهبود بخشد. هدف نهایی این نوآوری، خودکارسازی و تسریع فرآیند پیچیده طراحی تراشه برای مقابله با بحران فزاینده توان محاسباتی در جهان است.",
+      "tags": [
+        "Ricursive Intelligence",
+        "تراشه‌های هوش مصنوعی",
+        "طراحی تراشه",
+        "بحران پردازش",
+        "خودکارسازی"
+      ]
+    },
+    {
+      "id": "5abc04e05146a5cd",
+      "date": "2026-10-15",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+      "category": "کاربرد هوش مصنوعی در مدیریت ریسک و بحران",
+      "title_fa": "هوش مصنوعی Gudea: پیش‌بینی و پیشگیری از بحران‌های شبکه‌های اجتماعی",
+      "title_en": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+      "summary_fa": "مکالمات روزمره در شبکه‌های اجتماعی و وب‌سایت‌ها می‌تواند به سرعت از پستی به ظاهر بی‌اهمیت، مانند اطلاعات نادرست تولیدشده با هوش مصنوعی، سخنان نفرت‌پراکن یا شایعات مخرب، به یک جنجال عمومی گسترده تبدیل شود. شرکت Gudea، که خود را 'ردیاب طوفان‌های اینترنتی' می‌نامد، با استفاده از هوش مصنوعی، نحوه انتشار داستان‌ها و شایعات آنلاین را رصد می‌کند. هدف این سیستم، کمک به سازمان‌ها برای پیشگیری از بروز بحران‌های رسانه‌ای و مدیریت اعتبار پیش از اوج گرفتن آنهاست.",
+      "tags": [
+        "Gudea",
+        "AI",
+        "Social Media",
+        "Crisis Management",
+        "Misinformation"
+      ]
+    },
+    {
+      "id": "bd61b92171acdf66",
+      "date": "2026-10-14",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
+      "category": "حریم خصوصی",
+      "title_fa": "ادعای جنجالی مدیرعامل Flock: میکروفون‌های نظارتی ما فقط شلیک گلوله را تشخیص می‌دهند؛ وب‌سایت شرکت حرف دیگری می‌زند",
+      "title_en": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
+      "summary_fa": "اظهارات اخیر مدیرعامل شرکت Flock مبنی بر اینکه میکروفون‌های نظارتی این شرکت تنها شلیک گلوله را تشخیص می‌دهند، با محتوای وب‌سایت خود شرکت در تضاد است. این تناقض در پی افزایش نگرانی‌ها از سوی فعالان حریم خصوصی، از جمله ACLU، و عموم مردم در مورد سوءاستفاده احتمالی از فناوری Flock مطرح شده است. مدافعان حقوق شهروندی، قابلیت‌های گسترده‌تر این میکروفون‌ها و تبعات آن بر حریم خصوصی را زیر سوال می‌برند.",
+      "tags": [
+        "Flock",
+        "حریم خصوصی",
+        "نظارت",
+        "ACLU",
+        "ایمنی هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "55222f29942f9010",
+      "date": "2026-10-14",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "با هجوم موسیقی تولیدشده با هوش مصنوعی، یوتیوب موزیک برچسب‌های شناسایی جدید معرفی کرد",
+      "title_en": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
+      "summary_fa": "در پی افزایش بی‌سابقه موسیقی‌های تولیدشده با هوش مصنوعی در پلتفرم‌های استریم، یوتیوب موزیک برچسب‌های جدیدی را برای شناسایی این نوع محتوا معرفی کرده است. این برچسب‌ها بر روی صفحه پخش‌کننده نمایش داده می‌شوند و شامل آهنگ‌هایی خواهند بود که تماماً یا جزئی از آن‌ها، مانند آهنگسازی و وکال، با استفاده از هوش مصنوعی تولید شده‌اند.",
+      "tags": [
+        "YouTube Music",
+        "AI-generated music",
+        "موسیقی هوش مصنوعی",
+        "پلتفرم‌های استریم",
+        "صنعت موسیقی"
+      ]
+    },
+    {
+      "id": "619d87b09b01324a",
+      "date": "2026-10-14",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
+      "category": "امنیت سایبری",
+      "title_fa": "Apate: ماموران هوش مصنوعی مخفی در دام کلاهبرداران برای جمع‌آوری اطلاعات",
+      "title_en": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
+      "summary_fa": "در حالی که بیشتر شرکت‌ها از عاملان هوش مصنوعی برای افزایش سرعت عملیات و بهبود گردش کار استفاده می‌کنند، شرکت Apate رویکردی متفاوت دارد. این شرکت عاملان هوش مصنوعی خود را به صورت مخفی به دنیای آنلاین می‌فرستد تا عمداً در معرض کلاهبرداری قرار گیرند. هدف از این کار، جمع‌آوری اطلاعات و شناسایی روش‌های جدید تقلب برای مبارزه مؤثرتر با آن است.",
+      "tags": [
+        "Apate",
+        "AI agents",
+        "کلاهبرداری",
+        "امنیت سایبری",
+        "ردیابی تقلب"
+      ]
+    },
+    {
+      "id": "a81aeed3bf8e1613",
+      "date": "2026-10-14",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/14/1146452/the-download-military-fake-blood-future-batteries/",
+      "category": "فناوری‌های زیستی و پزشکی",
+      "title_fa": "خون مصنوعی ارتش آمریکا و آینده باتری‌ها: تازه‌های دنیای فناوری",
+      "title_en": "The Download: faking blood and the future of batteries",
+      "summary_fa": "این خبر به تلاش ارتش ایالات متحده برای تولید خون مصنوعی می‌پردازد. این ابتکار پس از حوادثی نظیر سقوط یک بالگرد نظامی حامل خون در عراق در سال ۲۰۰۷، که منجر به کشته شدن هفت خدمه شد، اهمیت دوچندانی یافته است. هدف از این پروژه، تامین جایگزینی ایمن و پایدار برای خون در شرایط اضطراری و میدان‌های نبرد است.",
+      "tags": [
+        "خون مصنوعی",
+        "فناوری پزشکی",
+        "ارتش آمریکا",
+        "باتری",
+        "نوآوری"
+      ]
+    },
+    {
+      "id": "26a7b2e97851f71f",
+      "date": "2026-10-14",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/14/1145807/us-military-race-to-make-fake-blood/",
+      "category": "فناوری زیستی و پزشکی",
+      "title_fa": "رقابت ارتش آمریکا برای توسعه خون مصنوعی",
+      "title_en": "The US military’s race to make fake blood",
+      "summary_fa": "ارتش آمریکا در حال رقابتی جدی برای توسعه خون مصنوعی است. این تلاش با هدف رفع نیاز مبرم به خون در شرایط اضطراری و مناطق جنگی صورت می‌گیرد، جایی که دسترسی به خون طبیعی دشوار و نگهداری آن چالش‌برانگیز است. این فناوری می‌تواند جان هزاران سرباز و مصدوم را در میدان نبرد و بلایای طبیعی نجات دهد.",
+      "tags": [
+        "خون مصنوعی",
+        "ارتش آمریکا",
+        "بیوتکنولوژی",
+        "پزشکی نظامی",
+        "پژوهش"
       ]
     }
   ]
