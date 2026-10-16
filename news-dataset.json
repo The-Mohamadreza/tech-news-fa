@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-10-15",
+    "last_updated": "2026-10-16",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 1413
+    "total_articles": 1421
   },
   "articles": [
     {
@@ -23959,6 +23959,142 @@
         "بیوتکنولوژی",
         "پزشکی نظامی",
         "پژوهش"
+      ]
+    },
+    {
+      "id": "a72d1e4da6b0e106",
+      "date": "2026-10-15",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "category": "کاربرد هوش مصنوعی در علم و پزشکی",
+      "title_fa": "GPT-Rosalind در خدمت آزمایشگاه‌های دانشگاهی: شتاب‌دهنده پژوهش‌های علوم زیستی",
+      "title_en": "Bringing GPT-Rosalind to academic research labs",
+      "summary_fa": "طرح آکادمیک Rosalind معرفی شد تا دسترسی حمایت‌شده و رایگان به مدل هوش مصنوعی GPT-Rosalind را برای آزمایشگاه‌های دانشگاهی واجد شرایط فراهم کند. این طرح با هدف پیشبرد و شتاب‌بخشی به پژوهش‌های حوزه علوم زیستی ارائه شده است.",
+      "tags": [
+        "GPT-Rosalind",
+        "Rosalind Academic Plan",
+        "علوم زیستی",
+        "پژوهش دانشگاهی",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "fa14b8f7db4605df",
+      "date": "2026-10-15",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+      "category": "کاربرد هوش مصنوعی در آموزش",
+      "title_fa": "هوش مصنوعی؛ ابزاری نوین برای تقویت تفکر و یادگیری فعال دانش‌آموزان",
+      "title_en": "Teaching students to think and learn through questions",
+      "summary_fa": "با معرفی «هوش مصنوعی برای معلمان» (AI for Educators) به زبان پرتغالی برزیلی، ابزارهای جدیدی برای ارتقای کیفیت آموزش فراهم شده است. این فناوری، به ویژه از طریق قابلیت «حالت مطالعه» (Study Mode)، به معلمان کمک می‌کند تا دانش‌آموزان را به سمت تفکر فعال و یادگیری گام‌به‌گام از طریق پرسش هدایت کنند. این ابتکار که به مناسبت روز معلم معرفی شد، بر نقش هوش مصنوعی در پشتیبانی از رویکردهای نوین آموزشی تأکید دارد.",
+      "tags": [
+        "هوش مصنوعی",
+        "آموزش",
+        "معلمان",
+        "Study Mode",
+        "یادگیری فعال"
+      ]
+    },
+    {
+      "id": "dd00c04c9b95848e",
+      "date": "2026-10-15",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/sullivan-cromwell",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "Sullivan & Cromwell با ابزار هوش مصنوعی OpenAI به بازبینی قراردادها سرعت می‌بخشد",
+      "title_en": "Sullivan & Cromwell brings legal expertise into agreement review",
+      "summary_fa": "شرکت حقوقی Sullivan & Cromwell با همکاری OpenAI، ابزاری مبتنی بر هوش مصنوعی به نام Agreement Analyzer را توسعه داده است. این ابزار به منظور شناسایی سریع و دقیق مشکلات و موارد حساس در پیش‌نویس توافق‌نامه‌های حقوقی طراحی شده و به افزایش کارایی در فرآیندهای حقوقی کمک می‌کند.",
+      "tags": [
+        "Sullivan & Cromwell",
+        "OpenAI",
+        "Agreement Analyzer",
+        "هوش مصنوعی",
+        "حقوق"
+      ]
+    },
+    {
+      "id": "9c6276c956e0246f",
+      "date": "2025-10-01",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/disrupting-malicious-uses-of-ai-russian-speaking-malware-tooling",
+      "category": "امنیت سایبری",
+      "title_fa": "مبارزه اوپن‌ای‌آی با مجرمان سایبری روس‌زبان: هوش مصنوعی در ساخت بدافزار",
+      "title_en": "Cyber Operation: Russian-speaking malware tooling",
+      "summary_fa": "شرکت اوپن‌ای‌آی اعلام کرد حساب‌هایی را که احتمالاً به گروه‌های مجرم سایبری روس‌زبان مرتبط بوده‌اند، مسدود کرده است. این گروه‌ها از هوش مصنوعی برای ساخت ابزارهای مخرب سایبری نظیر لودرهای بدافزار، لایه‌های دور زدن سیستم‌های امنیتی، اسکریپت‌های سرقت اطلاعات کاربری و زیرساخت‌های C2 سوءاستفاده می‌کردند. این اقدام اوپن‌ای‌آی در راستای جلوگیری از به‌کارگیری فناوری‌های هوش مصنوعی در فعالیت‌های مجرمانه صورت گرفته است.",
+      "tags": [
+        "OpenAI",
+        "Malware",
+        "Cybercrime",
+        "روسیه",
+        "AI"
+      ]
+    },
+    {
+      "id": "2723c023fed104de",
+      "date": "2025-10-01",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/disrupting-malicious-uses-of-ai-prc-linked-abuse",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "اوپن‌ای‌آی حساب‌های وابسته به چین را به دلیل سوءاستفاده نظارتی و نفوذی مسدود کرد",
+      "title_en": "PRC-linked abuse: Surveillance and influence activity",
+      "summary_fa": "شرکت OpenAI اعلام کرد که تعدادی از حساب‌های کاربری مرتبط با جمهوری خلق چین را مسدود کرده است. این حساب‌ها از مدل‌های هوش مصنوعی این شرکت برای اهداف نظارتی استفاده می‌کردند. فعالیت‌های آن‌ها شامل برنامه‌ریزی برای نظارت، تهیه پروفایل‌های هدفمند و تحقیق درباره منتقدان و افراد دیگر بوده است.",
+      "tags": [
+        "OpenAI",
+        "PRC",
+        "نظارت",
+        "سوءاستفاده از هوش مصنوعی",
+        "اخلاق هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "6f47a8de778c4393",
+      "date": "2025-10-01",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/disrupting-malicious-uses-of-ai-nine-emdash-line",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "اوپن‌ای‌آی عملیات نفوذ منطقه‌ای هوش مصنوعی چین را خنثی کرد",
+      "title_en": "Operation “Nine–emdash Line”: Regional influence activity",
+      "summary_fa": "شرکت اوپن‌ای‌آی اعلام کرد که حساب‌های کاربری متعددی را مسدود کرده که به یک عملیات نفوذ با منشاء جمهوری خلق چین موسوم به «ناین-ام‌دش لاین» مرتبط بوده‌اند. این عملیات، که پیش از این گزارشی از آن منتشر نشده بود، از هوش مصنوعی برای تولید محتوای هدفمند منطقه‌ای در مورد موضوعاتی نظیر دریای جنوبی چین، هنگ‌کنگ و سیاست‌های ایالات متحده استفاده می‌کرده است.",
+      "tags": [
+        "OpenAI",
+        "هوش مصنوعی",
+        "چین",
+        "عملیات نفوذ",
+        "امنیت سایبری"
+      ]
+    },
+    {
+      "id": "c9c43f1e32a507cc",
+      "date": "2026-10-15",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "نقش محوری اینفلوئنسرها در موفقیت ویروسی و تصاحب Cal AI",
+      "title_en": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+      "summary_fa": "شرکت Cal AI با استراتژی هدفمند بازاریابی اینفلوئنسری، به موفقیت ویروسی چشمگیری دست یافت. این موفقیت منجر به کسب درآمدی بالغ بر ۳۰ میلیون دلار طی تنها دو سال شد. در نهایت، MyFitnessPal این شرکت را در ماه مارس با مبلغی نامشخص تصاحب کرد.",
+      "tags": [
+        "Cal AI",
+        "MyFitnessPal",
+        "Influencer Marketing",
+        "Startup",
+        "Acquisition"
+      ]
+    },
+    {
+      "id": "21e3505542d990f7",
+      "date": "2026-10-15",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "همکاری متا و اپل: مدل هوش مصنوعی Muse Spark Open روی مک‌ها اجرا می‌شود",
+      "title_en": "Meta launches an open-weight AI model that runs on Macs",
+      "summary_fa": "شرکت متا با همکاری اپل، جدیدترین مدل هوش مصنوعی خود را با نام Muse Spark Open معرفی کرده است. این مدل قابلیت اجرا به صورت محلی بر روی پردازنده‌های Apple Silicon در مک‌ها را دارد.",
+      "tags": [
+        "Meta",
+        "Apple",
+        "Muse Spark Open",
+        "مدل هوش مصنوعی",
+        "Apple Silicon"
       ]
     }
   ]
