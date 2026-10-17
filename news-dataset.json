@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-10-16",
+    "last_updated": "2026-10-17",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 1421
+    "total_articles": 1435
   },
   "articles": [
     {
@@ -24095,6 +24095,244 @@
         "Muse Spark Open",
         "مدل هوش مصنوعی",
         "Apple Silicon"
+      ]
+    },
+    {
+      "id": "9db4940a53f86840",
+      "date": "2026-10-16",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "category": "ابزارهای توسعه هوش مصنوعی",
+      "title_fa": "جهش Stack Overflow for Agents: ثبت‌نام‌ها با افزونه ChatGPT سه برابر شد",
+      "title_en": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "summary_fa": "پلتفرم Stack Overflow for Agents با عرضه افزونه‌ای برای ChatGPT، شاهد رشد سه برابری در ثبت‌نام‌ها و افزایش کاربران خود بوده است. این پلتفرم که توسط دو مهندس و طی چند هفته با استفاده از مدل Codex توسعه یافته بود، اکنون به لطف این افزونه، تا ۱۰ برابر افزایش در ایجاد ایجنت‌های هوش مصنوعی را تجربه می‌کند.",
+      "tags": [
+        "Stack Overflow for Agents",
+        "ChatGPT",
+        "AI Agents",
+        "Codex",
+        "Plugins"
+      ]
+    },
+    {
+      "id": "4a2f3ca18eb9cee6",
+      "date": "2026-10-16",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/benefit-street-partners",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "Benefit Street Partners: پاسخگویی سریع‌تر با هوش مصنوعی Codex",
+      "title_en": "Benefit Street Partners answers questions faster with Codex",
+      "summary_fa": "شرکت Benefit Street Partners با بهره‌گیری از هوش مصنوعی Codex، سرعت پاسخگویی و کارایی عملیاتی خود را به میزان قابل توجهی افزایش داده است. آنانت کومار در این شرکت، ابزارهایی برای مقایسه ارزش‌گذاری وام‌ها و تحلیل قراردادهای اعتباری توسعه داده است. استفاده از Codex برای بازبینی کدها و پیگیری‌های سریع‌تر، فرآیندهای مالی این شرکت را تسریع بخشیده است.",
+      "tags": [
+        "Benefit Street Partners",
+        "Codex",
+        "هوش مصنوعی",
+        "صنعت مالی",
+        "بهره‌وری"
+      ]
+    },
+    {
+      "id": "b63194cca71d7dd8",
+      "date": "2025-10-01",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/disrupting-malicious-uses-of-ai-korean-language-malware-support",
+      "category": "امنیت سایبری",
+      "title_fa": "ممنوعیت حساب‌های کره‌ای توسط OpenAI به دلیل توسعه بدافزار با هوش مصنوعی",
+      "title_en": "Cyber Operation: Korean-language malware support",
+      "summary_fa": "OpenAI اخیراً اقدام به مسدودسازی حساب‌های کره‌ای کرده که از پلتفرم هوش مصنوعی این شرکت برای مقاصد مخرب سایبری استفاده می‌کردند.\nاین حساب‌ها به طور خاص در پشتیبانی از توسعه بدافزار، اشکال‌زدایی (debugging)، حملات فیشینگ و گردش کار سرقت اطلاعات کاربری با کمک هوش مصنوعی، فعال بوده‌اند.",
+      "tags": [
+        "OpenAI",
+        "Malware",
+        "Cybersecurity",
+        "سوءاستفاده از هوش مصنوعی",
+        "فیشینگ"
+      ]
+    },
+    {
+      "id": "44b600d30fee10f4",
+      "date": "2025-10-01",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/disrupting-malicious-uses-of-ai-phishing-and-scripting-support",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "اوپن‌ای‌آی: سوءاستفاده از هوش مصنوعی در عملیات سایبری مرتبط با سازمان‌های اطلاعاتی چین",
+      "title_en": "Cyber Operation: Phishing and scripting support",
+      "summary_fa": "شرکت OpenAI اعلام کرد که حساب‌های کاربری‌ای را مسدود کرده است که فعالیت‌های آنها با گروه‌های تهدید سایبری شناخته‌شده همپوشانی داشته و نشانه‌هایی مطابق با الزامات اطلاعاتی جمهوری خلق چین را بروز داده است. این حساب‌ها از هوش مصنوعی برای پشتیبانی از فرایندهای فیشینگ و اسکریپت‌نویسی در راستای اهداف سایبری استفاده می‌کردند.",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "امنیت سایبری",
+        "فیشینگ",
+        "چین"
+      ]
+    },
+    {
+      "id": "d0f11237d1f3614e",
+      "date": "2026-10-16",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "Replit به همکاری با Anthropic پایان داد؛ مدیرعامل: تمرکز بر OpenAI و دلایل هزینه",
+      "title_en": "Replit is no longer working with Anthropic, CEO says",
+      "summary_fa": "پلتفرم توسعه نرم‌افزار Replit، همکاری خود با شرکت هوش مصنوعی Anthropic را به پایان رسانده است. مدیرعامل Replit اعلام کرد که این تصمیم به دلایل متعددی از جمله ملاحظات مالی گرفته شده است. این در حالی است که Replit در ماه آگوست شراکت خود با OpenAI را اعلام کرده بود، اما هیچ نشانه‌ای مبنی بر قطع همکاری با Anthropic وجود نداشت.",
+      "tags": [
+        "Replit",
+        "Anthropic",
+        "OpenAI",
+        "هزینه",
+        "شراکت"
+      ]
+    },
+    {
+      "id": "3ee888866ef9d7e3",
+      "date": "2026-10-16",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "هوش مصنوعی فیزیکی فراتر از ربات‌ها: سرمایه‌گذاری جدید متخصص سابق انویدیا",
+      "title_en": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+      "summary_fa": "آمولی ویسوانات، که سال‌ها رهبری بازاریابی پلتفرم‌های رباتیک انویدیا را بر عهده داشته، معتقد است که مفهوم «هوش مصنوعی فیزیکی» بسیار فراتر از ربات‌هاست. او با اشاره به اینکه رباتیک هنوز در «دوران لگو» خود قرار دارد، می‌گوید اجزای اساسی مانند محرک‌ها، دست‌های رباتیک، نرم‌افزار و استانداردهای ایمنی همچنان در حال بازسازی و توسعه هستند. این دیدگاه در تضاد با باورهای رایج است که پیشرفت سریع رباتیک را با مدل‌های بنیادی هوش مصنوعی پیش‌بینی می‌کنند و نشان می‌دهد که زمینه‌های اساسی این حوزه نیازمند سرمایه‌گذاری و توسعه بیشتری هستند.",
+      "tags": [
+        "NVIDIA",
+        "Physical AI",
+        "Robotics",
+        "سرمایه‌گذاری",
+        "تحلیل صنعت"
+      ]
+    },
+    {
+      "id": "6f0ec75f9d13aede",
+      "date": "2026-10-16",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "Glimpse، مدل هوش مصنوعی جدید Elorian، با توانایی استدلال تصویری عمیق، رقبای قدرتمند را به چالش می‌کشد",
+      "title_en": "Elorian’s first AI model wants to reason with images, not just about them",
+      "summary_fa": "شرکت Elorian از اولین مدل هوش مصنوعی خود با نام Glimpse رونمایی کرده است که به جای صرفاً توصیف تصاویر، قادر به استدلال عمیق با آن‌ها است. طبق ارزیابی‌های داخلی Elorian، Glimpse در استدلال با نمودارهای علمی و شرح‌نویسی ویدئوهای کوتاه، حتی از GPT-6 Astra نیز پیشی می‌گیرد. این مدل در سایر وظایف استدلال بصری نیز نتایج رقابتی از خود نشان داده و نویدبخش پیشرفت‌های چشمگیر در درک بصری ماشین است.",
+      "tags": [
+        "Elorian",
+        "Glimpse",
+        "Visual Reasoning",
+        "مدل هوش مصنوعی",
+        "GPT-6 Astra"
+      ]
+    },
+    {
+      "id": "7524c167f0c40ac1",
+      "date": "2026-10-16",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+      "category": "پلتفرم‌ها و سرویس‌های هوش مصنوعی",
+      "title_fa": "Jev؛ رکوردشکنی یک مدل هوش مصنوعی در پلتفرم Vercel",
+      "title_en": "Jev is Vercel’s fastest-adopted AI model ever",
+      "summary_fa": "مدل هوش مصنوعی Jev توانسته سریع‌ترین نرخ پذیرش را در پلتفرم Vercel به ثبت برساند. این اطلاعات بر اساس داده‌های جمع‌آوری شده از \"Vercel AI Gateway\" است که یک سرویس API یکپارچه، مشابه OpenRouter، برای دسترسی به مدل‌های مختلف هوش مصنوعی محسوب می‌شود. این رکورد نشان‌دهنده علاقه فزاینده توسعه‌دهندگان به این مدل در اکوسیستم Vercel است.",
+      "tags": [
+        "Jev",
+        "Vercel",
+        "مدل هوش مصنوعی",
+        "Vercel AI Gateway",
+        "پذیرش فناوری"
+      ]
+    },
+    {
+      "id": "85ddbdc7a76daa7f",
+      "date": "2026-10-16",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "category": "کاربرد هوش مصنوعی در علم و پزشکی",
+      "title_fa": "هوش مصنوعی و طراحی ویروس: گفتگویی با خالق طرح‌های ژنتیکی نوآورانه در استنفورد",
+      "title_en": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "summary_fa": "ساموئل کینگ، دانشجوی دکترای دانشگاه استنفورد، در سال ۲۰۲۵ با بهره‌گیری از مدل‌های هوش مصنوعی مولد، موفق به ارائه طرح‌های ژنتیکی برای ویروس‌های میکروسکوپی شد. این اقدام پاسخی اولیه به پرسش قابلیت هوش مصنوعی در طراحی اشکال جدید حیات بود. اگرچه هنوز این مورد به معنای خلق حیات توسط هوش مصنوعی نیست، اما این پژوهش نشان می‌دهد که گام بعدی در این مسیر ممکن است نزدیک باشد.",
+      "tags": [
+        "Generative AI",
+        "بیوتکنولوژی",
+        "طراحی ژنتیکی",
+        "Samuel King",
+        "Stanford University"
+      ]
+    },
+    {
+      "id": "f1c9f97326da45a1",
+      "date": "2026-10-16",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
+      "category": "تنظیم‌گری شبکه‌های اجتماعی",
+      "title_fa": "ممنوعیت شبکه‌های اجتماعی برای کودکان بی‌اثر است؛ نوجوانان راه‌های دور زدن را می‌یابند",
+      "title_en": "The Download: failed social media bans, and extending pets’ lives",
+      "summary_fa": "گزارش‌ها نشان می‌دهد که کودکان و نوجوانان به طور فزاینده‌ای در حال دور زدن ممنوعیت‌های وضع شده برای استفاده از شبکه‌های اجتماعی هستند. در حالی که کشورهایی مانند فرانسه به این روند ممنوعیت‌ها می‌پیوندند، متخصصان معتقدند این رویکرد ناکارآمد است و «مشکلی نیست که باید حلش کنیم». این وضعیت چالش جدیدی را برای قانون‌گذاران و والدین در مواجهه با دسترسی نسل جوان به فضای مجازی ایجاد کرده است.",
+      "tags": [
+        "شبکه‌های اجتماعی",
+        "ممنوعیت سنی",
+        "تنظیم‌گری",
+        "کودکان و نوجوانان",
+        "France"
+      ]
+    },
+    {
+      "id": "bb62f8b7f6274149",
+      "date": "2026-10-16",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
+      "category": "کاربرد هوش مصنوعی در علم و پزشکی",
+      "title_fa": "بازگشت بینایی برای مبتلایان به دژنراسیون ماکولا با ایمپلنت جدید",
+      "title_en": "This implant can restore sight for patients with macular degeneration",
+      "summary_fa": "بیش از ۵ میلیون نفر در سراسر جهان به دلیل دژنراسیون ماکولای وابسته به سن (AMD) دچار آتروفی شبکیه هستند و تاکنون هیچ درمانی قادر به بازگرداندن بینایی آن‌ها نبوده است. اکنون، سیستم PRIMA که در ماه ژوئیه در اروپا تأیید شده و منتظر مجوز FDA در آمریکا است، این وضعیت را تغییر می‌دهد. این فناوری نوین با ترکیب یک ایمپلنت شبکیه و عینک مجهز به دوربین، بینایی را برای این بیماران بازیابی می‌کند.",
+      "tags": [
+        "دژنراسیون ماکولا",
+        "ایمپلنت بینایی",
+        "PRIMA system",
+        "فناوری پزشکی",
+        "FDA"
+      ]
+    },
+    {
+      "id": "284c47b12cd58f31",
+      "date": "2026-10-16",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/16/1145845/love-is-infrastructure-fiction-charlie-jane-anders/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "زیرساخت پنهان: چرا پیوند عمیق موتور محرکه نوآوری است؟",
+      "title_en": "Love is infrastructure",
+      "summary_fa": "دو نهاد، به نام‌های Barnabas و Mainspring، در نزدیکی یکدیگر فعالیت می‌کردند اما برای مدت طولانی هیچ ارتباط عمیقی با هم نداشتند. با وجود همسایگی، آن‌ها بیشتر به برقراری ارتباط با نهادهای دورتر و به ظاهر غنی‌تر تمایل نشان می‌دادند و فرصت‌های همکاری محلی را نادیده می‌گرفتند. این وضعیت، این پرسش را مطرح می‌کند که آیا پیوندهای عمیق و هم‌افزایی، زیربنای حقیقی توسعه و پیشرفت در هر اکوسیستمی نیست.",
+      "tags": [
+        "Barnabas",
+        "Mainspring",
+        "Infrastructure",
+        "Collaboration",
+        "تحلیل صنعت"
+      ]
+    },
+    {
+      "id": "36209e2ea5ff1817",
+      "date": "2026-10-16",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/16/1146766/pet-biotech-longevity-cloning-cryonics/",
+      "category": "زیست‌فناوری و کاربردهای نوین",
+      "title_fa": "فناوری زیستی: راهی برای التیام فراق حیوانات خانگی",
+      "title_en": "Can’t bear to say goodbye to your pet? Biotech’s got you covered.",
+      "summary_fa": "بسیاری از ما پس از جدایی از حیوانات خانگی محبوبمان، با چالشی عمیق روبرو می‌شویم: چگونه خاطرات و لحظات شیرینمان را زنده نگه داریم؟ با گذشت زمان، جزئیات کم‌رنگ شده و دلتنگی فزونی می‌یابد. این خبر به بررسی راه‌حل‌های نوآورانه در حوزه بیوتکنولوژی می‌پردازد که وعده می‌دهد به صاحبان حیوانات خانگی کمک کند تا با فراق کنار بیایند و حتی پیوندی فراتر از مرگ با حیواناتشان داشته باشند، از حفظ خاطرات تا بازآفرینی.",
+      "tags": [
+        "Biotechnology",
+        "حیوانات خانگی",
+        "غم و فراق",
+        "حفظ خاطره",
+        "زیست‌فناوری"
+      ]
+    },
+    {
+      "id": "bdad458aadf3f9b7",
+      "date": "2026-10-16",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/16/1146834/kids-are-outsmarting-social-media-bans-thats-not-a-problem-we-need-to-solve/",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "نوجوانان از ممنوعیت‌های شبکه‌های اجتماعی پیشی می‌گیرند؛ آیا این مشکل اصلی است؟",
+      "title_en": "Kids are outsmarting social media bans. That’s not a problem we need to solve.",
+      "summary_fa": "در حالی که تلاش کشورهایی نظیر فرانسه، استرالیا و بریتانیا برای وضع ممنوعیت و محدودیت دسترسی نوجوانان به شبکه‌های اجتماعی در حال افزایش است، این طرح‌ها با چالش‌هایی جدی روبرو هستند. به عنوان مثال، طرح فرانسه برای منع دسترسی زیر ۱۵ ساله‌ها به پلتفرم‌های اصلی، به دلایل حقوق بشری توسط دادگاه عالی این کشور مسدود شد. این خبر به پدیده دور زدن این محدودیت‌ها توسط نوجوانان می‌پردازد و سوال می‌کند که آیا تمرکز بر این ممنوعیت‌ها، راه‌حل اصلی مشکل است یا خیر.",
+      "tags": [
+        "شبکه‌های اجتماعی",
+        "محدودیت سنی",
+        "سیاست‌گذاری",
+        "نوجوانان",
+        "France"
       ]
     }
   ]
