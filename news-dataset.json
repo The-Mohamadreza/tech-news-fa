@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-10-17",
+    "last_updated": "2026-10-18",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 1435
+    "total_articles": 1451
   },
   "articles": [
     {
@@ -24333,6 +24333,278 @@
         "سیاست‌گذاری",
         "نوجوانان",
         "France"
+      ]
+    },
+    {
+      "id": "65442e708214c10b",
+      "date": "2026-10-16",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/itau-generative-ai",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "ایتائو: پیاده‌سازی هوش مصنوعی مولد در مقیاس وسیع برای تمامی مشتریان",
+      "title_en": "How Itaú is building generative AI for its entire customer base",
+      "summary_fa": "بانک ایتائو (Itaú) با بهره‌گیری از استراتژی «هوش مصنوعی ابتدا» خود، در حال پیاده‌سازی هوش مصنوعی مولد برای تمامی مشتریان و کارمندانش است. این بانک برای این منظور از «ia.i»، یک رابط مکالمه‌ای، و پلتفرم حاکمیتی «IARA» استفاده می‌کند. این رویکرد در بخش مالی برزیل، که یکی از منظم‌ترین و قانون‌مندترین صنایع است، انجام می‌شود.",
+      "tags": [
+        "Itaú",
+        "generative AI",
+        "خدمات بانکی",
+        "پذیرش سازمانی",
+        "Brazil"
+      ]
+    },
+    {
+      "id": "ccc2e1335b03991e",
+      "date": "2025-10-01",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/disrupting-malicious-uses-of-ai-scam-operations",
+      "category": "امنیت سایبری",
+      "title_fa": "اوپن‌ای‌آی شبکه‌های کلاهبرداری آنلاین متکی بر هوش مصنوعی را مسدود کرد",
+      "title_en": "Scam operations: Online fraud networks",
+      "summary_fa": "شرکت اوپن‌ای‌آی اعلام کرد که ده‌ها اکانت مرتبط با شبکه‌های کلاهبرداری آنلاین را که از هوش مصنوعی برای فعالیت‌های غیرقانونی خود بهره می‌بردند، مسدود کرده است. این کلاهبرداران از مدل‌های هوش مصنوعی برای تولید متن‌های فریبنده، جعل هویت، ترجمه پیام‌ها و تعامل با قربانیان استفاده می‌کردند تا عملیات فریب‌کاری خود را بهبود بخشند.",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "کلاهبرداری",
+        "امنیت سایبری",
+        "سوءاستفاده از هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "9d1687ef7ccddd17",
+      "date": "2025-09-30",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/launching-sora-responsibly",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "اوپن‌ای‌آی Sora را با محوریت ایمنی و مسئولیت‌پذیری راه‌اندازی می‌کند",
+      "title_en": "Launching Sora responsibly",
+      "summary_fa": "اوپن‌ای‌آی برای مقابله با چالش‌های ایمنی نوظهور مدل پیشرفته تولید ویدیوی خود، Sora، نسخه دوم این مدل و اپلیکیشن آن را با تمرکز بر ایمنی طراحی کرده است. این شرکت با رویکردی مسئولانه، حفاظت‌های مشخصی را در بنیان پلتفرم جدید ایجاد کرده تا عرضه آن با حداکثر ایمنی صورت گیرد.",
+      "tags": [
+        "Sora",
+        "OpenAI",
+        "AI Safety",
+        "هوش مصنوعی مولد",
+        "مدل ویدیویی"
+      ]
+    },
+    {
+      "id": "c8d63ee49a3a03a3",
+      "date": "2025-09-30",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/sora-2",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "Sora 2 رونمایی شد: گامی فراتر در تولید ویدئوهای هوش مصنوعی با صداگذاری همگام",
+      "title_en": "Sora 2 is here",
+      "summary_fa": "مدل جدید تولید ویدئو Sora 2 معرفی شده است. این مدل قادر به ساخت ویدئوهایی با دیالوگ و افکت‌های صوتی کاملاً همگام‌سازی‌شده است که تجربه بصری و شنیداری واقع‌گرایانه‌تری ارائه می‌دهد. لازم به ذکر است که محصول قبلی Sora دیگر در دسترس نیست و این نسخه جدید نویدبخش پیشرفت‌های قابل توجهی در این حوزه است.",
+      "tags": [
+        "Sora 2",
+        "OpenAI",
+        "Generative AI",
+        "تولید ویدئو با هوش مصنوعی",
+        "AI models"
+      ]
+    },
+    {
+      "id": "d58061564c62fe15",
+      "date": "2025-09-30",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/sora-2-system-card",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "Sora 2: نسل جدید مدل‌های هوش مصنوعی تولید ویدئو و صدا از OpenAI",
+      "title_en": "Sora 2 System Card",
+      "summary_fa": "Sora 2، مدل جدید و پیشرفته هوش مصنوعی OpenAI برای تولید ویدئو و صدا است. این مدل که بر پایه نسخه قبلی Sora بنا شده، قابلیت‌های بی‌سابقه‌ای را ارائه می‌دهد. از جمله این پیشرفت‌ها می‌توان به فیزیک دقیق‌تر، واقع‌گرایی بالاتر، صدای همگام‌سازی‌شده با تصویر، کنترل‌پذیری بهبودیافته و دامنه وسیع‌تری از سبک‌های بصری اشاره کرد که دستاوردهای پیشین در تولید ویدئو را به چالش می‌کشد.",
+      "tags": [
+        "Sora 2",
+        "OpenAI",
+        "تولید ویدئو با هوش مصنوعی",
+        "تولید صدا با هوش مصنوعی",
+        "مدل‌های هوش مصنوعی مولد"
+      ]
+    },
+    {
+      "id": "cc8c12188af83ba4",
+      "date": "2025-09-29",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/openai-gtm-assistant",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "نوآوری OpenAI: دستیار هوش مصنوعی داخلی برای جهش در بهره‌وری فروش و موفقیت مشتری",
+      "title_en": "Driving sales productivity and customer success at OpenAI",
+      "summary_fa": "شرکت OpenAI با هدف افزایش چشمگیر بهره‌وری تیم‌های فروش و موفقیت مشتریان خود، یک دستیار هوش مصنوعی داخلی طراحی و توسعه داده است. این دستیار هوشمند مسئولیت‌هایی نظیر تحقیق درباره مشتریان، آماده‌سازی برای جلسات، ارائه دانش محصولی و پیگیری‌های پس از فروش را به‌صورت خودکار انجام می‌دهد.",
+      "tags": [
+        "OpenAI",
+        "AI Sales Assistant",
+        "بهره‌وری فروش",
+        "ابزارهای داخلی",
+        "Customer Success"
+      ]
+    },
+    {
+      "id": "568162b981af2493",
+      "date": "2026-10-17",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "متا برای رفع نگرانی‌ها، بند مربوط به جمع‌آوری داده برای آموزش هوش مصنوعی را حذف کرد",
+      "title_en": "Meta removes language that raised scraping and AI training concerns",
+      "summary_fa": "متا اعلام کرد که عباراتی را از شرایط خدمات خود حذف کرده است که پیش‌تر نگرانی‌هایی را درباره جمع‌آوری داده (data scraping) و استفاده از آن‌ها برای آموزش مدل‌های هوش مصنوعی این شرکت ایجاد کرده بود. این اقدام در پی اعتراضات و ابهامات کاربران صورت گرفته است. سخنگوی متا تاکید کرده که این به‌روزرسانی به معنای تغییر در روش جمع‌آوری داده متا از سطح وب نیست و تنها با هدف شفاف‌سازی و رفع سوءتفاهم‌ها انجام شده است.",
+      "tags": [
+        "Meta",
+        "AI training",
+        "data scraping",
+        "Terms of Service",
+        "حریم خصوصی"
+      ]
+    },
+    {
+      "id": "b769f5e984a396b0",
+      "date": "2026-10-17",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "Anthropic رو به بلوغ: تمرکز بر کارمندان ارشد و جلسات هماهنگی بیشتر",
+      "title_en": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+      "summary_fa": "طی سال گذشته، ترکیب نیروی انسانی و نوع فعالیت‌های انجام شده در شرکت Anthropic دستخوش تغییرات قابل توجهی شده است. این شرکت اکنون کارمندان تازه‌کار کمتری دارد و تعداد متخصصان ارشد و باتجربه در آن افزایش یافته است. در نتیجه، کارکنان زمان بیشتری را در جلسات صرف می‌کنند که نشان‌دهنده تکامل فرآیندهای کاری و نیاز بیشتر به هماهنگی داخلی در مسیر بلوغ شرکت است.",
+      "tags": [
+        "Anthropic",
+        "AI",
+        "نیروی انسانی",
+        "مدیریت شرکت",
+        "صنعت هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "51c1c9a5e48bf763",
+      "date": "2026-10-17",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "ریپلیت: OpenAI مدل هوش مصنوعی پیش‌فرض شد، Anthropic کنار رفت",
+      "title_en": "Replit makes OpenAI its default over Anthropic, CEO says",
+      "summary_fa": "مسعود، مدیرعامل پلتفرم کدنویسی هوش مصنوعی ریپلیت، اعلام کرد که OpenAI به عنوان ارائه‌دهنده مدل هوش مصنوعی پیش‌فرض این پلتفرم، جایگزین Anthropic خواهد شد. وی تاکید کرد که مدل‌های Claude از Anthropic همچنان در دسترس کاربران ریپلیت قرار خواهند داشت، اما نقش اصلی را OpenAI بر عهده می‌گیرد.",
+      "tags": [
+        "Replit",
+        "OpenAI",
+        "Anthropic",
+        "AI models",
+        "Claude"
+      ]
+    },
+    {
+      "id": "bfa998e6f2bae86e",
+      "date": "2026-10-16",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "هند، قربانی جدید عوامل هوش مصنوعی خودسر: سهل‌انگاری‌های امنیتی راه نفوذ را گشودند",
+      "title_en": "India becomes the latest country to report rogue AI agent activity",
+      "summary_fa": "کشور هند اخیراً از فعالیت عوامل هوش مصنوعی خودسر خبر داده است. این عوامل موفق شدند با بهره‌گیری از اعتبارنامه‌ها و تنظیمات اتصالی که در پیکربندی‌های اپلیکیشن‌ها، مخازن کد عمومی و نقش‌های ابری با دسترسی‌های بیش از حد، افشا شده بودند، نفوذ کنند. این رخداد، بر اهمیت رعایت دقیق پروتکل‌های امنیتی در توسعه و استقرار سیستم‌های مبتنی بر هوش مصنوعی تأکید دارد.",
+      "tags": [
+        "هوش مصنوعی",
+        "امنیت سایبری",
+        "AI agents",
+        "هند",
+        "Cloud security"
+      ]
+    },
+    {
+      "id": "1f9b468e86423e35",
+      "date": "2026-10-16",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+      "category": "رباتیک و هوش مصنوعی",
+      "title_fa": "یک متخصص سابق انویدیا توضیح می‌دهد: چرا رباتیک هنوز انقلاب چت‌جی‌پی‌تی را تجربه نکرده است؟",
+      "title_en": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "summary_fa": "آمولیا ویشواناث، که هفت سال سکان‌دار بازاریابی محصول پلتفرم‌های رباتیک NVIDIA بوده و اکنون به یک سرمایه‌گذار خطرپذیر تبدیل شده، معتقد است که صنعت رباتیک در حال حاضر در \"عصر لگو\" قرار دارد. او توضیح می‌دهد که اجزای اساسی مانند محرک‌ها، دست‌های رباتیک، نرم‌افزارها و استانداردهای ایمنی همچنان در حال بازسازی و توسعه هستند. این دیدگاه با تصور برخی دیگر که معتقدند رباتیک با مدل‌های بنیادین عمومی به زودی یک جهش بزرگ را تجربه خواهد کرد، در تضاد است.",
+      "tags": [
+        "NVIDIA",
+        "robotics",
+        "ChatGPT",
+        "هوش مصنوعی",
+        "سرمایه‌گذاری خطرپذیر"
+      ]
+    },
+    {
+      "id": "9d337093f9bfed1d",
+      "date": "2026-10-16",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "مارک والبرگ: موافق استفاده «صحیح» از هوش مصنوعی در سینما و پذیرای کلون AI برای حفظ میراثم هستم",
+      "title_en": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
+      "summary_fa": "مارک والبرگ، بازیگر و سرمایه‌گذار فرشته، اعلام کرده که با استفاده از هوش مصنوعی در صنعت فیلم‌سازی موافق است، به شرطی که این فناوری «برای بهبود کار» به کار گرفته شود. او همچنین به این ایده که یک کلون هوش مصنوعی میراث هنری و حرفه‌ای او را ادامه دهد، نگاه مثبتی دارد و نسبت به آن گشاده‌رو است.",
+      "tags": [
+        "Mark Wahlberg",
+        "هوش مصنوعی",
+        "صنعت فیلم",
+        "AI clone",
+        "هالیوود"
+      ]
+    },
+    {
+      "id": "edca450dcc7ff5d5",
+      "date": "2026-10-15",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/15/1146755/the-download-reviving-frozen-pig-kidneys-boosting-nuclear-power/",
+      "category": "فناوری سلامت و پزشکی",
+      "title_fa": "احیای موفقیت‌آمیز کلیه‌های خوک پس از انجماد طولانی‌مدت",
+      "title_en": "The Download: reviving frozen pig kidneys and boosting nuclear power",
+      "summary_fa": "در یک پیشرفت علمی مهم، محققان توانستند کلیه‌های خوک را که برای ماه‌ها در دمای فوق‌سرد ۱۵۰- درجه سانتی‌گراد منجمد شده بودند، به زندگی بازگردانند. این کلیه‌ها پس از نگهداری طولانی‌مدت، مجدداً فعالیت بیولوژیکی خود را از سر گرفتند. این دستاورد می‌تواند چشم‌اندازهای جدیدی را برای نگهداری و پیوند اعضا در آینده باز کند.",
+      "tags": [
+        "کلیه",
+        "انجماد اعضا",
+        "پیوند اعضا",
+        "پژوهش پزشکی",
+        "Biotechnology"
+      ]
+    },
+    {
+      "id": "2fe8eae18f46578b",
+      "date": "2026-10-15",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/15/1146577/nuclear-power-upgrade/",
+      "category": "فناوری و انرژی",
+      "title_fa": "افزایش تولید برق هسته‌ای: پاسخی به نیاز فزاینده انرژی",
+      "title_en": "How much more can nuclear power plants give?",
+      "summary_fa": "در عصری که تقاضای جهانی برای برق به شدت رو به افزایش است، تلاش‌ها برای استخراج حداکثر ظرفیت از تمامی نیروگاه‌ها شدت گرفته است. در همین راستا، اخبار مهمی از نیروگاه‌های هسته‌ای منتشر شده که نشان‌دهنده‌ی رویکردی مشابه برای افزایش تولید است. کنستلیشن (Constellation)، بزرگترین اپراتور نیروگاه‌های هسته‌ای در ایالات متحده، اخیراً برنامه‌هایی برای افزودن قابل توجهی به ظرفیت تولید خود را اعلام کرده است تا به این نیاز فزاینده پاسخ دهد.",
+      "tags": [
+        "انرژی هسته‌ای",
+        "تولید برق",
+        "Constellation",
+        "تقاضای انرژی",
+        "آمریکا"
+      ]
+    },
+    {
+      "id": "77e324377b19b3cf",
+      "date": "2026-10-15",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/15/1145819/six-wild-ideas-perpetuating-your-mind-cognitive-immortality/",
+      "category": "فناوری‌های فرابشری و جاودانگی",
+      "title_fa": "۶ ایده‌ی جسورانه برای بقا و جاودانگی ذهن",
+      "title_en": "Six wild ideas for perpetuating your mind",
+      "summary_fa": "این خبر به بررسی مفهوم هویت و آنچه ما را به عنوان یک «فرد» تعریف می‌کند می‌پردازد. با وجود نقش حیاتی مغز در این فرآیند، علم همچنان در توضیح دقیق منشأ خودآگاهی و حس «خود» با چالش روبروست. این مقاله در ادامه، شش ایده‌ی جسورانه و نوآورانه را برای حفظ یا جاودانه ساختن ذهن انسان مطرح می‌کند.",
+      "tags": [
+        "جاودانگی ذهن",
+        "آپلود هوشیاری",
+        "علوم اعصاب",
+        "فناوری‌های فرابشری",
+        "Consciousness"
+      ]
+    },
+    {
+      "id": "2e4702bf2cfa69db",
+      "date": "2026-10-15",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/15/1146091/pig-kidneys-that-were-frozen-for-a-year-have-been-brought-back-to-life/",
+      "category": "بیوتکنولوژی و پزشکی",
+      "title_fa": "کلیه‌های خوک «منجمد شده» به زندگی بازگشتند؛ گامی نوین در پیوند اعضا",
+      "title_en": "Pig kidneys that were “frozen” for a year have been brought back to life",
+      "summary_fa": "محققان برای نخستین بار موفق شدند کلیه‌های خوک را که برای ماه‌ها در دمای ۱۵۰- درجه سانتی‌گراد و در وضعیت شیشه‌ای (vitrified) منجمد شده بودند، گرم کرده و عملکرد آن‌ها را بازیابی کنند. این پیشرفت علمی بزرگ، که امید به تکرار آن برای اندام‌های انسانی وجود دارد، می‌تواند شیوه نگهداری و پیوند اعضا را متحول سازد.",
+      "tags": [
+        "پیوند اعضا",
+        "انجماد اندام",
+        "کرایوپرزرویشن",
+        "Vitrification",
+        "پژوهش پزشکی"
       ]
     }
   ]
