@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-10-19",
+    "last_updated": "2026-10-20",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 1455
+    "total_articles": 1470
   },
   "articles": [
     {
@@ -24673,6 +24673,261 @@
         "مدیریت قراردادها",
         "استخراج داده",
         "بهره‌وری سازمانی"
+      ]
+    },
+    {
+      "id": "7a364f356aab4946",
+      "date": "2026-10-19",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/low-resource-programming-languages",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "جهش ChatGPT در پشتیبانی از زبان‌های برنامه‌نویسی کمیاب: ابتکار جدید OpenAI",
+      "title_en": "Advancing coding in low‑resource programming languages",
+      "summary_fa": "OpenAI در حال توسعه قابلیت‌های ChatGPT است تا عملکرد آن را در زبان‌های برنامه‌نویسی کم‌منابع بهبود بخشد. این شرکت ارزیابی‌های جدیدی را برای مهندسی نرم‌افزار، پشتیبانی از SQLite و مهاجرت کدهای COBOL انجام داده است تا مدل خود را در این زمینه‌ها توانمندتر سازد.",
+      "tags": [
+        "OpenAI",
+        "ChatGPT",
+        "Programming languages",
+        "AI development",
+        "COBOL"
+      ]
+    },
+    {
+      "id": "cf61ac28a05fdddc",
+      "date": "2025-09-29",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/building-openai-with-openai",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "OpenAI چگونه خودش را با هوش مصنوعی خودش می‌سازد؟",
+      "title_en": "Building OpenAI with OpenAI",
+      "summary_fa": "شرکت OpenAI اعلام کرده است که برای بهبود فرآیندهای داخلی، افزایش کارایی و دستیابی به نتایج بهتر، به طور گسترده‌ای از فناوری‌های هوش مصنوعی خود بهره می‌برد. این رویکرد به آن‌ها کمک می‌کند تا کارهای خود را ساده‌تر کرده و تخصص کارشناسانشان را گسترش دهند. در یک مجموعه جدید به نام 'OpenAI on OpenAI'، این شرکت قصد دارد تجربیات و درس‌های خود را با سایر سازمان‌ها به اشتراک بگذارد تا آن‌ها نیز بتوانند از این روش‌ها استفاده کنند.",
+      "tags": [
+        "OpenAI",
+        "AI",
+        "AI Adoption",
+        "Internal Tools",
+        "کارایی"
+      ]
+    },
+    {
+      "id": "01b4df8f20314117",
+      "date": "2025-09-29",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/combating-online-child-sexual-exploitation-abuse",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "OpenAI: نبرد با سوءاستفاده جنسی از کودکان در فضای آنلاین",
+      "title_en": "Combating online child sexual exploitation & abuse",
+      "summary_fa": "شرکت OpenAI با اتخاذ سیاست‌های سخت‌گیرانه، توسعه ابزارهای پیشرفته شناسایی و همکاری با سایر شرکت‌ها، به طور فعال با سوءاستفاده جنسی از کودکان در فضای آنلاین مبارزه می‌کند. هدف این شرکت مسدود کردن، گزارش‌دهی و جلوگیری از سوءاستفاده از هوش مصنوعی برای انتشار چنین محتوایی است.",
+      "tags": [
+        "OpenAI",
+        "ایمنی کودکان",
+        "سوءاستفاده از هوش مصنوعی",
+        "CSAM",
+        "AI safety"
+      ]
+    },
+    {
+      "id": "547b61e7f3995152",
+      "date": "2025-09-29",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/introducing-parental-controls",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "ChatGPT ابزارهای کنترل والدین را برای استفاده امن‌تر کودکان معرفی می‌کند",
+      "title_en": "Introducing parental controls",
+      "summary_fa": "شرکت OpenAI ابزارهای جدیدی را برای کنترل والدین در سرویس هوش مصنوعی ChatGPT معرفی کرده است. این قابلیت‌ها به همراه یک صفحه منابع اختصاصی برای والدین، به خانواده‌ها کمک می‌کند تا نحوه تعامل و استفاده کودکان خود از ChatGPT را در محیط خانه به شکل مسئولانه‌تری مدیریت کنند.",
+      "tags": [
+        "ChatGPT",
+        "OpenAI",
+        "Parental Controls",
+        "ایمنی هوش مصنوعی",
+        "خانواده"
+      ]
+    },
+    {
+      "id": "3e28c88dca269869",
+      "date": "2025-09-26",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/aarp-partnership-older-adults-online-safety",
+      "category": "امنیت سایبری",
+      "title_fa": "OpenAI و AARP: هوش مصنوعی برای ایمنی آنلاین سالمندان به میدان می‌آید",
+      "title_en": "Partnering with AARP to help keep older adults safe online",
+      "summary_fa": "OpenAI و AARP در یک همکاری مشترک، برنامه‌هایی را برای افزایش ایمنی آنلاین سالمندان آغاز کرده‌اند. این همکاری شامل آموزش‌های جدید هوش مصنوعی و ارائه ابزارهایی برای تشخیص کلاهبرداری‌های آنلاین می‌شود. برنامه‌های ملی این طرح از طریق آکادمی OpenAI و طرح Senior Planet سازمان OATS به اجرا درمی‌آید.",
+      "tags": [
+        "OpenAI",
+        "AARP",
+        "امنیت سایبری",
+        "سالمندان",
+        "کلاهبرداری آنلاین"
+      ]
+    },
+    {
+      "id": "ed298111b59a085c",
+      "date": "2026-10-20",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "انتقاد از کوتاهی دولت آمریکا در تنظیم‌گری هوش مصنوعی؛ فراخوان مامدانی برای مقاومت و قانون‌گذاری",
+      "title_en": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+      "summary_fa": "زهران مامدانی، شهردار نیویورک، روز دوشنبه اعلام کرد که نیویورکی‌ها باید در برابر این روایت که تسلط هوش مصنوعی اجتناب‌ناپذیر است، مقاومت کنند. او تاکید کرد که دولت فدرال در زمینه هوش مصنوعی از مسئولیت خود شانه خالی کرده است. مامدانی از شهروندان خواست تا برای وضع مقرراتی که از مردم محافظت کرده و قدرت را به دست آن‌ها بازگرداند، مطالبه‌گری کنند.",
+      "tags": [
+        "Zohran Mamdani",
+        "AI regulation",
+        "سیاستگذاری هوش مصنوعی",
+        "دولت فدرال",
+        "نیویورک"
+      ]
+    },
+    {
+      "id": "b0fb4c0567199f7f",
+      "date": "2026-10-19",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "تداوم سرمایه‌گذاری‌های عظیم Anthropic: مذاکرات ۴۵ میلیارد دلاری با Nscale برای منابع محاسباتی",
+      "title_en": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+      "summary_fa": "شرکت‌های Nscale و Anthropic طبق گزارش‌ها در حال مذاکره برای یک قرارداد بزرگ ۴۵ میلیارد دلاری به منظور تأمین منابع محاسباتی هستند. در صورت نهایی شدن، این توافق جدیدترین مورد در سلسله قراردادهای عظیم Anthropic برای تقویت زیرساخت‌های محاسباتی خود طی یک سال گذشته خواهد بود.",
+      "tags": [
+        "Anthropic",
+        "Nscale",
+        "AI",
+        "Compute Deal",
+        "سرمایه‌گذاری"
+      ]
+    },
+    {
+      "id": "d45dacf783b2543c",
+      "date": "2026-10-19",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "مدیر سیاست‌گذاری Hugging Face: استقرار ارزیابان تعبیه‌شده، راه‌حل ساده‌ای برای چالش‌های هوش مصنوعی نیست",
+      "title_en": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+      "summary_fa": "در پی حوادث متعدد ایمنی و نگرانی‌ها درباره خطرات بالقوه فناوری‌های هوش مصنوعی، ایده استقرار «ارزیابان تعبیه‌شده» در شرکت‌های AI رواج یافته است. این ارزیابان، ناظران به ظاهر بی‌طرفی هستند که از سوی شخص ثالث درون سازمان‌ها فعالیت می‌کنند. اما مدیر سیاست‌گذاری Hugging Face این رویکرد را راه‌حلی آسان ندانسته و به چالش‌های آن اشاره کرده است.",
+      "tags": [
+        "Hugging Face",
+        "AI safety",
+        "Embedded evaluators",
+        "AI governance",
+        "تنظیم‌گری هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "0cffae2fd0c5318b",
+      "date": "2026-10-19",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "مایکروسافت: ابزارهای هوش مصنوعی (AI Agents) مانند تهدید داخلی هستند؛ به مدل‌های پیشرفته نمی‌توان اعتماد کرد",
+      "title_en": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+      "summary_fa": "مایکروسافت به شرکت‌ها هشدار داده است که باید با دقت فراوان ابزارهای هوش مصنوعی (AI Agents) مورد استفاده توسط کارکنانشان را زیر نظر داشته باشند. این توصیه به ویژه متوجه سیستم‌هایی است که توسط آزمایشگاه‌های بزرگ هوش مصنوعی مانند OpenAI و Anthropic کنترل نمی‌شوند. این غول نرم‌افزاری معتقد است که مدل‌های پیشرفته هوش مصنوعی کنونی (frontier models) ممکن است قابل اعتماد نباشند و پتانسیل تبدیل شدن به یک تهدید داخلی را برای سازمان‌ها دارند.",
+      "tags": [
+        "Microsoft",
+        "AI agents",
+        "امنیت هوش مصنوعی",
+        "تهدید داخلی",
+        "LLMs"
+      ]
+    },
+    {
+      "id": "aaaf393dcb103418",
+      "date": "2026-10-19",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+      "category": "سخت‌افزار و ابزارهای توسعه هوش مصنوعی",
+      "title_fa": "چالش بزرگ آمازون با انویدیا: ابزار جدید TorchNeuron برای توسعه‌دهندگان هوش مصنوعی",
+      "title_en": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+      "summary_fa": "آمازون در تلاش است تا با معرفی ابزار توسعه TorchNeuron، انحصار انویدیا را در پلتفرم PyTorch، که ابزار اصلی برای توسعه اکثر اپلیکیشن‌های هوش مصنوعی است، بشکند. هدف این اقدام ترغیب توسعه‌دهندگان است تا برنامه‌های خود را روی تراشه‌های جایگزین، از جمله تراشه‌های اختصاصی آمازون، اجرا کرده و وابستگی به سخت‌افزار انویدیا را کاهش دهند.",
+      "tags": [
+        "Amazon",
+        "Nvidia",
+        "PyTorch",
+        "TorchNeuron",
+        "تراشه هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "039a84854fb85dd6",
+      "date": "2026-10-19",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+      "category": "امنیت سایبری",
+      "title_fa": "حمله هکرها به ابزار کدنویسی هوش مصنوعی OpenCode؛ سرقت کلیدهای API و افزایش هزینه‌های کاربران",
+      "title_en": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+      "summary_fa": "OpenCode، یک ابزار کدنویسی هوش مصنوعی متن‌باز و محبوب است که هکرها به پلتفرم آنلاین آن نفوذ کرده‌اند. در این حمله، کلیدهای API برخی از کاربران به سرقت رفته و هزینه‌های غیرمجازی در حساب‌های هوش مصنوعی آن‌ها ایجاد شده است. نکته قابل توجه این است که ابزارهای هوش مصنوعی به کار گرفته شده برای بررسی کدهای مخرب، از تحلیل و شناسایی آن‌ها امتناع کرده‌اند.",
+      "tags": [
+        "OpenCode",
+        "هوش مصنوعی",
+        "امنیت سایبری",
+        "API keys",
+        "هک"
+      ]
+    },
+    {
+      "id": "fbbcdbe57addf83e",
+      "date": "2026-10-19",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "بهینه‌سازی اینترنت برای عوامل هوش مصنوعی: آیا کاربران انسانی متضرر می‌شوند؟",
+      "title_en": "Making the internet better for AI agents might make it worse for everyone else",
+      "summary_fa": "اینترنت به‌طور سنتی بین کاربران انسانی و ربات‌ها تقسیم شده است، که ربات‌ها وظایف خودکار مشخصی مانند جمع‌آوری داده‌ها را انجام می‌دادند. اما با ظهور عوامل هوش مصنوعی پیشرفته، بحث بر سر چگونگی تطبیق اینترنت با نیازهای آنها مطرح شده است. نگرانی اصلی اینجاست که بهینه‌سازی زیرساخت‌های وب برای کارایی عوامل هوش مصنوعی، می‌تواند به‌طور ناخواسته به کاهش کیفیت تجربه کاربری برای انسان‌ها منجر شود.",
+      "tags": [
+        "اینترنت",
+        "هوش مصنوعی",
+        "عوامل هوشمند",
+        "تجربه کاربری",
+        "ربات‌ها"
+      ]
+    },
+    {
+      "id": "7216fffbb8a1125e",
+      "date": "2026-10-19",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "ادعای بنیادین در هوش مصنوعی: نگاهی جدید به ماهیت شبکه‌های عصبی که دنیای AI را زیر و رو کرد",
+      "title_en": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
+      "summary_fa": "نیک کاماراتا، پژوهشگر استارتاپ هوش مصنوعی Goodfire، در یک پست بلندبالا ادعایی را مطرح کرده که درک فعلی از ماهیت شبکه‌های عصبی را به چالش می‌کشد. او مدعی شده خبرهای خوبی درباره‌ی این شبکه‌ها دارد و همین امر باعث بحث‌های گسترده و گمانه‌زنی‌های فراوان در جامعه هوش مصنوعی شده است. این دیدگاه جدید می‌تواند پارادایم‌های رایج در حوزه AI را تغییر دهد و تحولی عمیق در این عرصه ایجاد کند.",
+      "tags": [
+        "Nick Cammarata",
+        "Goodfire",
+        "Neural Networks",
+        "پژوهش هوش مصنوعی",
+        "ماهیت هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "02a380a09a05e2df",
+      "date": "2026-10-19",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/19/1146832/inside-the-quest-to-combat-arctic-fires-and-save-the-planets-frozen-carbon/",
+      "category": "کاربرد فناوری در محیط زیست و تغییر اقلیم",
+      "title_fa": "مبارزه با آتش‌سوزی‌های قطبی: نبردی برای حفظ کربن منجمد و سلامت سیاره",
+      "title_en": "Inside the quest to combat Arctic fires and save the planet’s frozen carbon",
+      "summary_fa": "آتش‌سوزی‌های گسترده در مناطق قطبی، به ویژه در مکان‌هایی نظیر آلاسکا، به یک چالش جدی زیست‌محیطی تبدیل شده‌اند. این حوادث نه تنها اکوسیستم‌های حساس را نابود می‌کنند، بلکه با ذوب و سوختن خاک‌های منجمد (پرمافراست)، مقادیر عظیمی از کربن ذخیره‌شده را آزاد کرده و گرمایش جهانی را تشدید می‌کنند. گزارش‌ها حاکی از تلاش‌های علمی و فناورانه فزاینده‌ای برای توسعه راهکارهای نوین جهت مهار این آتش‌سوزی‌ها و جلوگیری از انتشار کربن منجمد است تا از تشدید تغییرات اقلیمی جلوگیری شود.",
+      "tags": [
+        "آتش‌سوزی قطبی",
+        "تغییر اقلیم",
+        "پرمافراست",
+        "کربن منجمد",
+        "فناوری محیط زیست"
+      ]
+    },
+    {
+      "id": "b327983725873259",
+      "date": "2026-10-19",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "وقتی هوش مصنوعی بیکار می‌شود: مشاهده 'بازی' عامل‌های کلود در جزیره‌ای مجازی",
+      "title_en": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+      "summary_fa": "محققان برای بررسی رفتار هوش مصنوعی بدون دستورات صریح، نسخه‌هایی از مدل Claude Opus 4.7 (ملقب به Eko) را به مدت ۳۰ ساعت در یک جزیره مجازی رها کردند. در کمال تعجب، این عامل‌های هوش مصنوعی به‌جای انفعال، شروع به انجام فعالیت‌های خودخواسته و بی‌هدف کردند که شبیه به 'بازی' در انسان‌هاست. این آزمایش، که یادآور سناریوهای فیلم‌هایی چون Cast Away است، بینش‌های جدیدی در مورد ظرفیت‌های خودانگیختگی و رفتارهای پیش‌بینی‌نشده در مدل‌های پیشرفته هوش مصنوعی ارائه می‌دهد.",
+      "tags": [
+        "هوش مصنوعی",
+        "Claude Opus 4.7",
+        "پژوهش هوش مصنوعی",
+        "رفتار خودگردان هوش مصنوعی",
+        "مدل‌های زبانی بزرگ"
       ]
     }
   ]
