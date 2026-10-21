@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-10-20",
+    "last_updated": "2026-10-21",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 1470
+    "total_articles": 1488
   },
   "articles": [
     {
@@ -24928,6 +24928,312 @@
         "پژوهش هوش مصنوعی",
         "رفتار خودگردان هوش مصنوعی",
         "مدل‌های زبانی بزرگ"
+      ]
+    },
+    {
+      "id": "b3fcb2e42d321123",
+      "date": "2026-10-20",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/ted-taylor-restaurant",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "فرانشیز Schlotzsky’s و Cinnabon با ChatGPT زمان تسویه حساب را ۹۴٪ کاهش داد",
+      "title_en": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "summary_fa": "یک فرانشیز مستقل از رستوران‌های Schlotzsky و Cinnabon موفق شد با به‌کارگیری ChatGPT، زمان بازبینی و قیمت‌گذاری مجدد منو را ۹۵ درصد کاهش دهد. این هوش مصنوعی همچنین به او کمک کرد تا با ایجاد یک گردش کار بهینه، پتانسیل آزادسازی ۱۰۰ هزار دلار در جریان نقدینگی کسب‌وکار خود را فراهم آورد.",
+      "tags": [
+        "ChatGPT",
+        "هوش مصنوعی در کسب‌وکار",
+        "کارایی",
+        "صرفه‌جویی در زمان",
+        "جریان نقدینگی"
+      ]
+    },
+    {
+      "id": "a84b6a7bee5c68a6",
+      "date": "2026-10-20",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/terminal-x",
+      "category": "کاربرد هوش مصنوعی در امور مالی",
+      "title_fa": "Terminal X: مطابقت چشمگیر ۸۸.۶ درصدی GPT-6.1 با قضاوت سرمایه‌گذاران ارشد",
+      "title_en": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+      "summary_fa": "شرکت Terminal X با بهره‌گیری از مدل پیشرفته هوش مصنوعی GPT-6.1 Sol، یک سیستم ارزیابی (Eval Agent) توسعه داده است. این عامل ارزیابی، خروجی‌های سرمایه‌گذاری را بر اساس یک معیار ۵۴ گانه مورد سنجش قرار می‌دهد. نتایج نشان می‌دهد که هوش مصنوعی Terminal X به ۸۸.۶ درصد مطابقت با قضاوت سرمایه‌گذاران ارشد دست یافته است. علاوه بر این، این سیستم در شناسایی موارد انحراف از دستورالعمل‌های صندوق‌های سرمایه‌گذاری، ۲۵ درصد مؤثرتر عمل کرده است.",
+      "tags": [
+        "Terminal X",
+        "GPT-6.1",
+        "هوش مصنوعی",
+        "سرمایه‌گذاری",
+        "Fintech"
+      ]
+    },
+    {
+      "id": "dbaa902542534b3a",
+      "date": "2026-10-20",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "OpenAI با خرید Orchestra Bio به دنیای علوم زیستی و کشف دارو گام نهاد",
+      "title_en": "OpenAI acquires Orchestra Bio",
+      "summary_fa": "OpenAI، شرکت پیشرو در حوزه هوش مصنوعی، اخیراً اقدام به خرید Orchestra Bio کرده است. این گام استراتژیک با هدف ادغام قابلیت‌های هوش مصنوعی در فرآیندهای تحقیق و توسعه علوم زیستی برداشته شده است. انتظار می‌رود این همکاری به تیم‌های بیوداروسازی کمک کند تا کشف و توسعه داروها و درمان‌های جدید را با سرعت بیشتری پیش ببرند.",
+      "tags": [
+        "OpenAI",
+        "Orchestra Bio",
+        "هوش مصنوعی",
+        "علوم زیستی",
+        "کشف دارو"
+      ]
+    },
+    {
+      "id": "feac9f29d2c8661a",
+      "date": "2025-09-29",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/buy-it-in-chatgpt",
+      "category": "کاربرد هوش مصنوعی در تجارت",
+      "title_fa": "خرید مستقیم از ChatGPT: آغاز عصر «تجارت عاملی» با پرداخت فوری",
+      "title_en": "Buy it in ChatGPT: Instant Checkout and the Agentic Commerce Protocol",
+      "summary_fa": "OpenAI با معرفی قابلیت‌های جدید، گام‌های اولیه را به سوی «تجارت عاملی» (Agentic Commerce) در ChatGPT برمی‌دارد. این پلتفرم اکنون قابلیت «تسویه حساب فوری» را ارائه می‌دهد که به افراد، عامل‌های هوش مصنوعی و کسب‌وکارها اجازه می‌دهد تا به روش‌های نوین و تعاملی با یکدیگر خرید کنند.",
+      "tags": [
+        "ChatGPT",
+        "Agentic Commerce Protocol",
+        "OpenAI",
+        "تجارت الکترونیک",
+        "پرداخت فوری"
+      ]
+    },
+    {
+      "id": "6a247e1bdfa57a4d",
+      "date": "2025-09-25",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/more-ways-to-work-with-your-team",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "ChatGPT: تقویت همکاری تیمی و یکپارچه‌سازی ابزارها با قابلیت‌های جدید",
+      "title_en": "More ways to work with your team and tools in ChatGPT",
+      "summary_fa": "OpenAI به‌روزرسانی‌های جدیدی برای ChatGPT معرفی کرده که با هدف افزایش همکاری تیمی و بهره‌وری سازمانی طراحی شده‌اند. این امکانات شامل قابلیت ایجاد پروژه‌های مشترک، اتصال‌دهنده‌های هوشمندتر برای ادغام با سایر ابزارها، و بهبودهای امنیتی و انطباق‌پذیری است. هدف از این تغییرات، کمک به تیم‌ها برای انجام کارآمدتر وظایف خود در محیط ChatGPT است.",
+      "tags": [
+        "ChatGPT",
+        "OpenAI",
+        "همکاری تیمی",
+        "یکپارچه‌سازی ابزار",
+        "بهره‌وری سازمانی"
+      ]
+    },
+    {
+      "id": "4335714f4d0c2f7f",
+      "date": "2025-09-25",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/gdpval",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "OpenAI با «GDPval» ارزش اقتصادی مدل‌های هوش مصنوعی را در مشاغل واقعی می‌سنجد",
+      "title_en": "Measuring the performance of our models on real-world tasks",
+      "summary_fa": "شرکت OpenAI به تازگی ابزار ارزیابی جدیدی به نام GDPval را معرفی کرده است. این معیار نوین، عملکرد مدل‌های هوش مصنوعی را در انجام وظایف واقعی و دارای ارزش اقتصادی، مورد سنجش قرار می‌دهد. هدف GDPval بررسی کارایی مدل‌ها در ۴۴ شغل مختلف است تا درک عمیق‌تری از تأثیر بالقوه آن‌ها بر اقتصاد جهانی ارائه کند.",
+      "tags": [
+        "OpenAI",
+        "GDPval",
+        "ارزیابی هوش مصنوعی",
+        "مدل‌های هوش مصنوعی",
+        "کارایی اقتصادی"
+      ]
+    },
+    {
+      "id": "d4e57614c374e23f",
+      "date": "2026-10-20",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "Anthropic پیش‌نویس قانون ایمنی هوش مصنوعی را ارائه داد: توقف مدل‌های مرگبار مشروط به تایید قاضی",
+      "title_en": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+      "summary_fa": "شرکت هوش مصنوعی Anthropic پیش‌نویس لایحه‌ای برای ایمنی هوش مصنوعی ارائه کرده است. بر اساس این پیشنهاد، اگر یک مدل هوش مصنوعی پتانسیل کشتن بیش از ۵۰ نفر را داشته باشد، می‌توان آن را متوقف کرد. با این حال، این لایحه سازمان‌های فدرال را از مسدود کردن انتشار یک مدل بدون مجوز قاضی منع می‌کند، که می‌تواند اعمال حفاظت‌های لازم را دشوار سازد.",
+      "tags": [
+        "Anthropic",
+        "AI safety",
+        "AI regulation",
+        "قانون‌گذاری هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "fda7124672794d3f",
+      "date": "2026-10-20",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "مستند 'AI Gone Rogue' نتفلیکس زیر ذره‌بین: مدیرعامل Hugging Face صحت آن را زیر سوال برد",
+      "title_en": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+      "summary_fa": "پیش از آنکه مستند نتفلیکس با عنوان 'AI Gone Rogue' را به اشتراک بگذارید، توجه داشته باشید. کلم دلانگ، هم‌بنیان‌گذار Hugging Face که خود در این فیلم حضور دارد، اعلام کرده است که این مستند به شدت به سمت 'حالت فاجعه‌آمیز' متمایل شده و محتوای آن دقیق نیست. او معتقد است این فیلم تصویری اغراق‌آمیز و غیرواقعی از هوش مصنوعی ارائه می‌دهد.",
+      "tags": [
+        "Hugging Face",
+        "Netflix",
+        "AI Gone Rogue",
+        "هوش مصنوعی",
+        "ایمنی هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "9ea810a533713aeb",
+      "date": "2026-10-20",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "چالش آنتروپیک برای تامین قدرت پردازشی: شرکای ابری به رقیب تبدیل می‌شوند",
+      "title_en": "Anthropic’s cloud partnerships are getting messy",
+      "summary_fa": "گزارش‌ها حاکی از آن است که شرکت Anthropic برای تامین قدرت پردازشی کافی از ارائه‌دهندگان خدمات ابری با مشکل مواجه شده است. این ارائه‌دهندگان به طور فزاینده‌ای Anthropic را رقیب خود می‌دانند، در حالی که این استارتاپ پیش از عرضه اولیه سهام (IPO) خود در ماه نوامبر، هزینه‌های زیرساختی خود را به شدت افزایش داده است.",
+      "tags": [
+        "Anthropic",
+        "cloud computing",
+        "IPO",
+        "AI competition",
+        "زیرساخت هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "38bd10c8e49d1d2a",
+      "date": "2026-10-20",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "هوش مصنوعی، پیشران سودآوری چشمگیر اسپیس‌ایکس",
+      "title_en": "SpaceX’s AI business is beating expectations",
+      "summary_fa": "شرکت اسپیس‌ایکس در سه‌ماهه سوم سال جاری به سودآوری بی‌سابقه‌ای دست یافت و درآمد خالص ۴.۴ میلیارد دلاری را ثبت کرد. این موفقیت مالی فراتر از انتظارات تحلیلگران بود. بر اساس گزارش‌ها، کسب‌وکار مرتبط با هوش مصنوعی در این شرکت، موتور محرک اصلی این رشد و سودآوری محسوب می‌شود.",
+      "tags": [
+        "SpaceX",
+        "AI",
+        "سودآوری",
+        "کسب‌وکار هوش مصنوعی",
+        "نتایج مالی"
+      ]
+    },
+    {
+      "id": "a323e283c5c71adc",
+      "date": "2026-10-20",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+      "category": "کاربرد هوش مصنوعی در علم و پزشکی",
+      "title_fa": "تقویت فعالیت‌های بیوتکنولوژی OpenAI با خرید استارتاپ Orchestra Bio",
+      "title_en": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+      "summary_fa": "OpenAI اعلام کرده که تیم و فناوری استارتاپ Orchestra Bio را به مجموعه خود اضافه کرده است. هدف از این اقدام، تقویت مدل هوش مصنوعی Rosalind برای تحقیقات علوم زیستی و ابزار مرتبط Rosalind Workbench است. این ابزار به محققان کمک می‌کند تا آزمایش‌ها را برنامه‌ریزی کرده و نتایج را تحلیل کنند.",
+      "tags": [
+        "OpenAI",
+        "Orchestra Bio",
+        "هوش مصنوعی",
+        "بیوتکنولوژی",
+        "علوم زیستی"
+      ]
+    },
+    {
+      "id": "45cc8f58865901fe",
+      "date": "2026-10-20",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+      "category": "پلتفرم‌ها و ابزارهای توسعه هوش مصنوعی",
+      "title_fa": "گوگل و آمازون، سلطه انویدیا بر توسعه‌دهندگان هوش مصنوعی را به چالش می‌کشند",
+      "title_en": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+      "summary_fa": "گوگل به جمع آمازون پیوسته و ابزاری جدید برای توسعه‌دهندگان هوش مصنوعی منتشر کرده است. این ابزار به کاربران فریم‌ورک PyTorch امکان می‌دهد تا برنامه‌های خود را به سادگی از پردازنده‌های گرافیکی (GPU) انویدیا به زیرساخت‌های دیگر منتقل کنند. هدف این اقدام، به چالش کشیدن سلطه انویدیا در بازار سخت‌افزار هوش مصنوعی و جذب توسعه‌دهندگان به پلتفرم‌های ابری رقبا است.",
+      "tags": [
+        "Google",
+        "Amazon",
+        "Nvidia",
+        "هوش مصنوعی",
+        "PyTorch",
+        "GPU"
+      ]
+    },
+    {
+      "id": "7ab77eba0938592e",
+      "date": "2026-10-20",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/20/1145205/its-a-bird-its-a-plane-its-a-robo-puffin/",
+      "category": "پژوهش‌های رباتیک",
+      "title_fa": "آیا این یک پرنده است؟ یک هواپیماست؟ نه، این یک ربات پافین است!",
+      "title_en": "It’s a bird, it’s a plane … it’s a robo-puffin?",
+      "summary_fa": "حرکت مؤثر در دو محیط با چگالی بسیار متفاوت مانند هوا و آب، چالشی بزرگ در مهندسی است. با این حال، پرندگانی مانند پافین‌ها با الهام‌بخشی بی‌نظیر، می‌توانند به راحتی بین پرواز و شنا جابجا شوند. اکنون مهندسان دانشگاه MIT و EPFL سوئیس، با توسعه رباتی نوین که از این قابلیت طبیعی الگوبرداری کرده، امکان حرکت کارآمد در هر دو محیط را فراهم کرده‌اند.",
+      "tags": [
+        "MIT",
+        "EPFL",
+        "رباتیک",
+        "بیونیک",
+        "Puffin"
+      ]
+    },
+    {
+      "id": "3c83529c6d353e17",
+      "date": "2026-10-20",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/20/1145274/heres-the-tea/",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "MIT: هوش مصنوعی و بازنویسی تاریخ؛ معمای برچسب چای چینی فاش شد",
+      "title_en": "Here’s the tea",
+      "summary_fa": "پژوهشگران دانشگاه MIT با به‌کارگیری تکنیک‌های پیشرفته تحلیل داده و هوش مصنوعی، به بررسی مجدد برچسب یک جعبه چای چینی پرداختند که روایت‌های تاریخی رایج درباره‌ی آن را زیر سؤال می‌برد. این تیم کشف کردند که داستان این برچسب، که از سال‌ها پیش پذیرفته شده بود، با شواهد جدید همخوانی ندارد. این یافته‌ها نشان می‌دهد که حتی با داده‌های به‌ظاهر مستند، نیاز به ابزارهای هوش مصنوعی برای اعتبارسنجی عمیق‌تر و کشف حقایق پنهان وجود دارد و می‌تواند در بازنویسی بخش‌هایی از تاریخ تاثیرگذار باشد.",
+      "tags": [
+        "AI",
+        "Historical Data",
+        "Data Authenticity",
+        "MIT",
+        "Digital Humanities"
+      ]
+    },
+    {
+      "id": "610c960cac487603",
+      "date": "2026-10-20",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/20/1145276/melt-it-spin-it-use-it-again/",
+      "category": "فناوری‌های پایدار و محیط زیست",
+      "title_fa": "بازیافت بی‌نظیر منسوجات: نخ جدید MIT آینده پوشاک را دگرگون می‌کند",
+      "title_en": "Melt it, spin it, use it again",
+      "summary_fa": "با دورریز سالانه ۸۱ پوند لباس توسط هر آمریکایی و کمبود راه‌های بازیافت موثر، مهندسان MIT به دنبال راه حلی هستند. آن‌ها نوع جدیدی از نخ ترموپلاستیک ابداع کرده‌اند که می‌تواند خواص نخ‌های کشسان مرسوم (ترکیبی از اسپندکس، پلی‌استر و نایلون) را شبیه‌سازی کند. این نوآوری به امید کاهش چشمگیر زباله‌های نساجی و فراهم آوردن امکان بازیافت کامل پوشاک توسعه یافته است.",
+      "tags": [
+        "MIT",
+        "Textile recycling",
+        "Sustainability",
+        "Thermoplastic yarn",
+        "Waste management"
+      ]
+    },
+    {
+      "id": "de078fa344f4020e",
+      "date": "2026-10-20",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/20/1145279/a-reason-to-eat-carbs/",
+      "category": "پزشکی و سلامت",
+      "title_fa": "هشدار تازه درباره رژیم کتوژنیک: افزایش ریسک سرطان روده کوچک",
+      "title_en": "A reason to eat carbs",
+      "summary_fa": "رژیم غذایی کتوژنیک، که با چربی بالا و کربوهیدرات کم شناخته می‌شود، گرچه در کاهش وزن موثر بوده و برخی تحقیقات آن را در محافظت از سرطان روده بزرگ مفید دانسته‌اند، اکنون با یک یافته نگران‌کننده جدید همراه شده است. مطالعه‌ای تازه نشان می‌دهد که این رژیم ممکن است خطر ابتلا به سرطان در روده کوچک را افزایش دهد. این کشف، سوالاتی را درباره پیامدهای بلندمدت رژیم کتوژنیک بر سلامت مطرح کرده و نیاز به تحقیقات بیشتر را برجسته می‌سازد.",
+      "tags": [
+        "Ketogenic diet",
+        "رژیم کتوژنیک",
+        "سرطان",
+        "سلامت",
+        "تغذیه"
+      ]
+    },
+    {
+      "id": "18c0faa9dffe6a67",
+      "date": "2026-10-20",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/20/1145282/robotic-therapy-for-stroke-patients/",
+      "category": "کاربرد هوش مصنوعی در علم و پزشکی",
+      "title_fa": "کمبود فیزیوتراپ با هوش مصنوعی و رباتیک جبران می‌شود: راهکاری نوین برای توانبخشی بیماران سکته مغزی",
+      "title_en": "Robotic therapy for stroke patients",
+      "summary_fa": "سالانه ۵ میلیون نفر در جهان بر اثر سکته مغزی دچار ناتوانی‌های بلندمدت می‌شوند و کمبود روزافزون فیزیوتراپیست‌ها، دسترسی آن‌ها به مراقبت‌های لازم را دشوار کرده است. یک رویکرد نوین با تلفیق هوش مصنوعی و درمان انسانی، به دنبال حل این چالش بزرگ است. این روش که توسط یوهانس لاخنر، پژوهشگر سابق MIT، توسعه یافته، نویدبخش توانبخشی موثرتر و دسترس‌پذیرتر برای این بیماران است.",
+      "tags": [
+        "سکته مغزی",
+        "توانبخشی رباتیک",
+        "هوش مصنوعی پزشکی",
+        "فیزیوتراپی",
+        "MIT"
+      ]
+    },
+    {
+      "id": "987813cc3fdaf647",
+      "date": "2026-10-20",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/20/1145287/taking-a-swing-at-a-pickleball-startup/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "ورود متفاوت یک مدیر کارکشته به دنیای استارتاپ پیکلبال",
+      "title_en": "Taking a swing at a pickleball startup",
+      "summary_fa": "این خبر به معرفی استنلی اندرسون، یک مدیر باسابقه می‌پردازد که علی‌رغم پیشینه‌ای متفاوت و چالش‌برانگیز در مقایسه با همکاران خود در شرکت‌های بزرگ آمریکایی، اکنون قصد دارد وارد حوزه استارتاپ‌های ورزشی شود. او تجربیات تلخی از دوران جوانی خود، از جمله تلاش برای دوری از گروه‌های تبهکار و مشاهده خشونت، داشته که دیدگاه او را شکل داده است. این پیشینه منحصر به فرد او را برای چالش جدیدش در راه‌اندازی یا سرمایه‌گذاری در یک استارتاپ پیکلبال آماده می‌کند.",
+      "tags": [
+        "Stanley Anderson",
+        "Pickleball",
+        "Startup",
+        "سرمایه‌گذاری",
+        "کارآفرینی"
       ]
     }
   ]
