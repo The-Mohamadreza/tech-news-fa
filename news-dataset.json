@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-10-21",
+    "last_updated": "2026-10-22",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 1488
+    "total_articles": 1506
   },
   "articles": [
     {
@@ -25234,6 +25234,311 @@
         "Startup",
         "سرمایه‌گذاری",
         "کارآفرینی"
+      ]
+    },
+    {
+      "id": "4ab93569e260b2b0",
+      "date": "2026-10-21",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/att-legal",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "تحول در بخش حقوقی AT&T با همکاری OpenAI",
+      "title_en": "How AT&T is rethinking in-house legal work with OpenAI",
+      "summary_fa": "شرکت AT&T با همکاری OpenAI در حال بازنگری در شیوه انجام کارهای حقوقی داخلی خود است. هدف این همکاری تسهیل دسترسی به اطلاعات حقوقی و ارتقاء توانایی‌های قضایی تیم LegalEdge AT&T است. این اقدام رویکردی جدید برای بهره‌برداری از هوش مصنوعی در دپارتمان‌های حقوقی شرکت‌ها را نشان می‌دهد.",
+      "tags": [
+        "AT&T",
+        "OpenAI",
+        "هوش مصنوعی",
+        "خدمات حقوقی",
+        "پذیرش سازمانی"
+      ]
+    },
+    {
+      "id": "2ed22a61b2f19a0c",
+      "date": "2026-10-21",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/broad-access-through-consistent-standards",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "OpenAI: تضمین دسترسی گسترده و مسئولانه با استانداردهای یکپارچه",
+      "title_en": "Broad access through consistent standards",
+      "summary_fa": "OpenAI در راستای فراهم آوردن دسترسی گسترده اما مسئولانه به مدل‌های هوش مصنوعی خود گام برمی‌دارد. این شرکت با همکاری شرکای توزیع خود، تلاش می‌کند تا راهکارهای حفاظتی یکپارچه‌ای را برقرار کرده و دسترسی ایمن را پشتیبانی کند. هدف نهایی، شفاف‌سازی انتظارات در سیاست‌های کاربری برای اطمینان از به کارگیری اخلاقی و مسئولانه هوش مصنوعی است.",
+      "tags": [
+        "OpenAI",
+        "AI safety",
+        "هوش مصنوعی مسئولانه",
+        "سیاست‌های کاربری",
+        "شرکای توزیع"
+      ]
+    },
+    {
+      "id": "61f4d0141ff303c0",
+      "date": "2026-10-21",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/openai-models-google-cloud",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "مدل‌های پیشرفته OpenAI راهی گوگل کلاد شدند",
+      "title_en": "OpenAI models are coming to Google Cloud",
+      "summary_fa": "OpenAI و گوگل کلاد در یک همکاری جدید اعلام کردند که مدل‌های پیشرفته هوش مصنوعی (frontier models) و جریان‌های کاری Codex از OpenAI به Model Garden جیمنای گوگل کلاد اضافه خواهند شد. این مدل‌ها که پیشگام در نوع خود هستند، از طریق Google Cloud Marketplace در دسترس مشتریان و توسعه‌دهندگان قرار می‌گیرند. این اقدام دسترسی مستقیم به قابلیت‌های پیشرفته و نوین هوش مصنوعی OpenAI را برای کاربران پلتفرم ابری گوگل تسهیل می‌کند.",
+      "tags": [
+        "OpenAI",
+        "Google Cloud",
+        "هوش مصنوعی",
+        "مدل‌های پیشرفته هوش مصنوعی",
+        "خدمات ابری"
+      ]
+    },
+    {
+      "id": "d3f519557f32dd3d",
+      "date": "2026-10-21",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+      "category": "امنیت سایبری",
+      "title_fa": "«Patch the Planet»؛ ابتکاری جهانی برای ایمن‌سازی نرم‌افزارهای متن‌باز",
+      "title_en": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+      "summary_fa": "«Patch the Planet» پلتفرمی است که محققان امنیتی، توسعه‌دهندگان و تیم‌های پاسخ‌دهنده به حوادث را گرد هم می‌آورد. هدف این پلتفرم کمک به رفع آسیب‌پذیری‌های حیاتی در سراسر پروژه‌های متن‌باز است. این ابتکار با هماهنگی جهانی، به افزایش امنیت اکوسیستم نرم‌افزاری جهان یاری می‌رساند.",
+      "tags": [
+        "Patch the Planet",
+        "Open source",
+        "امنیت سایبری",
+        "آسیب‌پذیری امنیتی",
+        "نرم‌افزار متن‌باز"
+      ]
+    },
+    {
+      "id": "74fcf21eca7add4a",
+      "date": "2026-10-21",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "گسترش جهانی ChatGPT Ads: اکنون در ۲۶ کشور و با بیش از ۱۰۰ هزار تبلیغ‌کننده فعال",
+      "title_en": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "summary_fa": "سرویس تبلیغاتی ChatGPT Ads به ۲۶ کشور جدید گسترش یافته است. این گسترش به کسب‌وکارهای محلی تا برندهای جهانی امکان می‌دهد تا هنگام کاوش و تصمیم‌گیری برای خرید در ChatGPT، به مشتریان بالقوه دسترسی پیدا کنند. تا کنون بیش از ۱۰۰ هزار تبلیغ‌کننده از این پلتفرم برای تبلیغات خود استفاده کرده‌اند.",
+      "tags": [
+        "ChatGPT Ads",
+        "OpenAI",
+        "بازاریابی دیجیتال",
+        "گسترش بازار",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "1de8e62ff715d1f1",
+      "date": "2026-10-21",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+      "category": "کاربرد هوش مصنوعی در علم و پزشکی",
+      "title_fa": "هوش مصنوعی توزیع‌شده: کشف سرنخ‌های جدید در داده‌های مغزی با هزاران عامل AI",
+      "title_en": "Using thousands of AI agents to uncover new leads in biological data",
+      "summary_fa": "سازمان‌های برجسته‌ای چون OpenAI، PerturbAI و Scripps Research با استفاده از هزاران عامل هوش مصنوعی توزیع‌شده، گام بلندی در تحلیل داده‌های بیولوژیکی برداشته‌اند. این تیم توانسته است سرنخ‌های تحقیقاتی امیدبخشی را در داده‌های عظیم حاصل از میلیون‌ها سلول مغزی کشف کند. این رویکرد پیشگامانه، پتانسیل بالایی برای سرعت بخشیدن به اکتشافات علمی در علوم اعصاب و زیست‌شناسی دارد.",
+      "tags": [
+        "OpenAI",
+        "PerturbAI",
+        "Scripps Research",
+        "هوش مصنوعی توزیع‌شده",
+        "زیست‌شناسی"
+      ]
+    },
+    {
+      "id": "25443172439e4af4",
+      "date": "2026-10-21",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "بلک‌اِستون: ترس از بدهی‌های توسعه زیرساخت‌های هوش مصنوعی بیش از حد بزرگنمایی شده است",
+      "title_en": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+      "summary_fa": "جس خیره، مدیر بخش هوش مصنوعی بلک‌اِستون، اعلام کرده که نگرانی‌ها در مورد بدهی‌های ناشی از ساخت و توسعه زیرساخت‌های هوش مصنوعی اغراق‌آمیز است. او تاکید کرد که این غول سرمایه‌گذاری خصوصی، با وجود نگرانی‌های موجود در بازار، در این زمینه دچار وحشت نشده و به مسیر خود ادامه می‌دهد. این دیدگاه نشان‌دهنده اطمینان بلک‌اِستون به پایداری سرمایه‌گذاری‌های بلندمدت در حوزه هوش مصنوعی است.",
+      "tags": [
+        "Blackstone",
+        "AI investment",
+        "Jas Khaira",
+        "زیرساخت هوش مصنوعی",
+        "بدهی"
+      ]
+    },
+    {
+      "id": "063c29a16ff7723c",
+      "date": "2026-10-21",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "TechCrunch Founder Summit: گردهمایی بنیان‌گذاران با سرمایه‌گذاران و کارآفرینان برتر",
+      "title_en": "TechCrunch Founder Summit 2026: Everything you need to know",
+      "summary_fa": "TechCrunch Founder Summit یک گردهمایی یک‌روزه است که در تاریخ ۴ نوامبر در بوستون برگزار می‌شود. این رویداد فرصتی برای بنیان‌گذاران است تا در هر مرحله‌ای از توسعه کسب‌وکار خود، با سرمایه‌گذاران خطرپذیر برتر و کارآفرینان باتجربه ارتباط برقرار کنند. هدف اصلی، کسب بینش‌های عملی برای ساخت و مقیاس‌دهی موفقیت‌آمیز شرکت‌هاست.",
+      "tags": [
+        "TechCrunch",
+        "Founder Summit",
+        "استارتاپ",
+        "سرمایه‌گذاری خطرپذیر",
+        "کارآفرینی"
+      ]
+    },
+    {
+      "id": "21039cf535863304",
+      "date": "2026-10-21",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+      "category": "پذیرش عمومی هوش مصنوعی",
+      "title_fa": "اپلیکیشن هوش مصنوعی Meta Muse از ۱۰ میلیون کاربر عبور کرد؛ خرید آنلاین، فعالیت اصلی",
+      "title_en": "Meta says Muse has over 10M users, with shopping a top activity",
+      "summary_fa": "بر اساس اعلام متا در گزارش درآمد سه ماهه سوم خود، اپلیکیشن هوش مصنوعی Muse این شرکت اکنون بیش از ۱۰ میلیون کاربر فعال دارد. کاربران این برنامه عمدتاً برای خرید و همچنین افزایش بهره‌وری شخصی از آن استفاده می‌کنند.",
+      "tags": [
+        "Meta",
+        "Muse",
+        "هوش مصنوعی",
+        "خرید آنلاین",
+        "تعداد کاربران"
+      ]
+    },
+    {
+      "id": "dc1c99f7973e826c",
+      "date": "2026-10-21",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "Recursive از Flint رونمایی کرد: مدل کدنویسی لپ‌تاپی که هوش مصنوعی خودش آن را ساخت",
+      "title_en": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+      "summary_fa": "استارتاپ Recursive مدل کدنویسی رایگان و قابل اجرا روی لپ‌تاپ به نام Flint را عرضه کرده است. بخش عمده‌ای از توسعه این مدل توسط سیستم هوش مصنوعی خود Recursive انجام شده است. این محصول گام اولیه‌ای برای آزمایش قابلیت‌های هوش مصنوعی خودبهبوددهنده و توانایی آن در ساخت و ارتقاء خویش به شمار می‌رود.",
+      "tags": [
+        "Recursive",
+        "Flint",
+        "هوش مصنوعی",
+        "مدل کدنویسی",
+        "هوش مصنوعی خودبهبوددهنده"
+      ]
+    },
+    {
+      "id": "a9cc4be8b0bea8a2",
+      "date": "2026-10-21",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "آمازون درها را به روی عاملان هوش مصنوعی می‌بندد؛ والمارت فرش قرمز می‌گستراند",
+      "title_en": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+      "summary_fa": "در حالی که آمازون استفاده از عاملان خرید هوش مصنوعی را در پلتفرم خود ممنوع کرده است، والمارت مسیری کاملاً متفاوت را در پیش گرفته است. این شرکت فناوری جدیدی را معرفی کرده که به عاملان هوش مصنوعی اجازه می‌دهد تا به نمایندگی از مشتریان خرید کنند. این سیستم با مکانیزم‌های کنترلی برای مدیریت هزینه‌ها و تأیید تراکنش‌ها همراه است.",
+      "tags": [
+        "Amazon",
+        "Walmart",
+        "AI agents",
+        "تجارت الکترونیک",
+        "استراتژی شرکت‌ها"
+      ]
+    },
+    {
+      "id": "66d6885dea0a4d03",
+      "date": "2026-10-21",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+      "category": "امنیت سایبری",
+      "title_fa": "PHP در خطر بزرگ: هوش مصنوعی OpenAI و گوگل حفره‌های امنیتی دیرینه را یافتند",
+      "title_en": "PHP Armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+      "summary_fa": "هوش مصنوعی شرکت‌های OpenAI و Google Wiz اخیراً آسیب‌پذیری‌های امنیتی دیرینه‌ای را در PHP کشف کرده است که اینترنت را به نگرانی عمیق انداخته است. این کشف، اهمیت نقاط ضعف کهنه در سیستم‌های پرکاربرد را برجسته می‌کند. در حالی که هوش مصنوعی در شناسایی و پیشگیری از اینگونه مسائل امنیتی نقش حیاتی ایفا می‌کند، خود نیز می‌تواند خطر این آسیب‌پذیری‌ها را در دست افراد مخرب به شدت افزایش دهد.",
+      "tags": [
+        "PHP",
+        "OpenAI",
+        "Google",
+        "امنیت سایبری",
+        "آسیب‌پذیری نرم‌افزاری"
+      ]
+    },
+    {
+      "id": "26ff3c995518432c",
+      "date": "2026-10-21",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/21/1147573/the-download-introducing-impossible-issue/",
+      "category": "چشم‌انداز و آینده‌نگری تکنولوژی",
+      "title_fa": "The Download: شماره‌ی ویژه «ناممکن» و رؤیای ایده‌های تکنولوژیک آینده",
+      "title_en": "The Download: introducing the Impossible issue",
+      "summary_fa": "نشریه‌ی The Download، خبرنامه‌ی روزانه‌ی تکنولوژی، از انتشار یک شماره‌ی ویژه با عنوان «ناممکن» خبر داده است. این شماره که قرار است آخرین نسخه‌ی چاپی سال ۲۰۲۶ باشد، به ایده‌هایی می‌پردازد که در حال حاضر دست‌نیافتنی به نظر می‌رسند. هدف از این رویکرد، تشویق خوانندگان به رؤیاپردازی و کاوش مرزهای آینده‌ی تکنولوژی است.",
+      "tags": [
+        "The Download",
+        "Impossible issue",
+        "آینده تکنولوژی",
+        "فناوری‌های نوظهور",
+        "پیش‌بینی فناوری"
+      ]
+    },
+    {
+      "id": "7e687ee1014d6696",
+      "date": "2026-10-21",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/21/1146053/editor-letter-we-can-do-impossible-things/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "ذهنیت پیشگامان تکنولوژی: از خودانتقادی تا تحقق ناممکن‌ها",
+      "title_en": "We can do impossible things",
+      "summary_fa": "این خبر به بررسی ذهنیت منحصربه‌فرد رهبران و نوآوران در صنعت تکنولوژی می‌پردازد. با اشاره به رویکرد یک «متفکر سیستمی» که حتی خودانتقادی شدید را به عنوان یک نقطه قوت معرفی می‌کند، مقاله نشان می‌دهد که چگونه چنین دیدگاهی می‌تواند راه را برای دستیابی به «ناممکن‌ها» در دنیای پویای تکنولوژی و هوش مصنوعی هموار سازد. این تحلیل بر اهمیت نگرش فردی در پیشبرد مرزهای نوآوری تأکید دارد.",
+      "tags": [
+        "تفکر سیستمی",
+        "نوآوری",
+        "رهبری تکنولوژی",
+        "ذهنیت",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "caf65a67c881a1a1",
+      "date": "2026-10-21",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/21/1146061/nuclear-powered-spaceships-impossible-issue/",
+      "category": "فناوری فضایی و اکتشافات",
+      "title_fa": "انقلاب فضایی با سوخت هسته‌ای: ماموریت ناسا به مریخ",
+      "title_en": "Nuclear-powered spaceships",
+      "summary_fa": "ناسا از برنامه‌های خود برای ساخت Space Reactor-1 Freedom (SR-1)، اولین فضاپیمای بین‌سیاره‌ای با راکتور هسته‌ای خبر داد. این ماموریت بدون سرنشین با هدف رسیدن به مریخ تا پایان سال ۲۰۲۸ طراحی شده و پیش‌بینی می‌شود در سال ۲۰۲۹ به مقصد برسد. موفقیت SR-1 می‌تواند سرآغاز عصری نوین در سفرهای فضایی باشد و امکان اکتشافات عمیق‌تر و سریع‌تر در منظومه شمسی را فراهم کند.",
+      "tags": [
+        "NASA",
+        "Space Reactor-1 Freedom",
+        "Mars",
+        "Nuclear Propulsion",
+        "Space Exploration"
+      ]
+    },
+    {
+      "id": "f38307b3a9adc6ae",
+      "date": "2026-10-21",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/21/1146121/exercise-in-a-pill-impossible-issue/",
+      "category": "پژوهش‌های پزشکی و سلامت",
+      "title_fa": "«قرص ورزش‌ساز»: دانشمندان به دنبال تقلید فواید حرکت در دارو",
+      "title_en": "Exercise in a pill",
+      "summary_fa": "دانشمندان در تلاشند تا با رمزگشایی از چگونگی تأثیر مثبت حرکت بر بدن، داروهایی توسعه دهند که برخی از فواید ورزش را بدون نیاز به فعالیت بدنی فراهم کنند. این تحقیقات با هدف بهره‌مندی از مزایایی مانند تقویت عضلات و استخوان‌ها، کاهش فشار خون و بهبود خلق و خو صورت می‌گیرد. هدف نهایی جایگزینی کامل ورزش نیست، بلکه ارائه این مزایا به افرادی است که قادر به انجام فعالیت‌های ورزشی نیستند.",
+      "tags": [
+        "قرص ورزش‌ساز",
+        "پژوهش پزشکی",
+        "سلامت",
+        "داروسازی",
+        "فواید ورزش"
+      ]
+    },
+    {
+      "id": "1cac1afee099d00e",
+      "date": "2026-10-21",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/21/1146124/interspecies-communication-impossible-issue/",
+      "category": "کاربرد هوش مصنوعی در علم",
+      "title_fa": "هوش مصنوعی و فناوری: دریچه‌ای نوین به درک ارتباطات حیوانات",
+      "title_en": "Interspecies communication",
+      "summary_fa": "انسان‌ها تنها گونه‌ای نیستند که توانایی برقراری ارتباط پیچیده را دارند؛ دنیای حیوانات نیز سرشار از پیام‌های نهفته است. رمزگشایی از شیوه‌های ارتباطی این موجودات، با بهره‌گیری از فناوری‌های نوین و به‌ویژه هوش مصنوعی، می‌تواند دریچه‌ای نو به سوی درک عمیق‌تر زندگی درونی و آگاهی سایر گونه‌ها باز کند. این تلاش نه تنها به پژوهشگران کمک می‌کند تا زبان حیوانات را درک کنند، بلکه به انسان‌ها نشان می‌دهد که حیوانات موجوداتی متفکر و صاحب احساس هستند.",
+      "tags": [
+        "هوش مصنوعی",
+        "ارتباطات حیوانات",
+        "علوم زیستی",
+        "رمزگشایی",
+        "آگاهی حیوانات"
+      ]
+    },
+    {
+      "id": "37c8fc6fae8d28a2",
+      "date": "2026-10-21",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/21/1146128/cleaning-up-pfas-impossible-issue/",
+      "category": "محیط زیست و فناوری",
+      "title_fa": "PFAS: تلاش برای پاکسازی «مواد شیمیایی همیشگی» از محیط زیست",
+      "title_en": "Cleaning up PFAS",
+      "summary_fa": "PFAS که به «مواد شیمیایی همیشگی» معروف هستند، ترکیبات مضری‌اند که برای دهه‌ها در محصولات متنوعی از ظروف نچسب تا فوم‌های آتش‌نشانی کاربرد داشته‌اند. این مواد در بدن انسان و محیط زیست انباشته شده و با افزایش خطر مشکلات باروری، تاخیر در رشد، سرطان و کاهش پاسخ ایمنی بدن مرتبط هستند. پاکسازی زمین از این آلاینده‌ها می‌تواند بسیاری از مشکلات سلامتی و زیست‌محیطی را از بین ببرد و برای سلامت انسان و کره زمین حیاتی است.",
+      "tags": [
+        "PFAS",
+        "مواد شیمیایی همیشگی",
+        "آلاینده محیط زیست",
+        "سلامت عمومی"
       ]
     }
   ]
