@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-10-23",
+    "last_updated": "2026-10-24",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 1524
+    "total_articles": 1536
   },
   "articles": [
     {
@@ -25844,6 +25844,209 @@
         "ذخیره‌سازی داده",
         "GPU",
         "زیرساخت فناوری"
+      ]
+    },
+    {
+      "id": "b2deaf97c98cf0ff",
+      "date": "2026-10-21",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/empowering-cyber-defenders",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "حاکمیت هوش مصنوعی پیشرفته: راهکار OpenAI برای توانمندسازی مدافعان سایبری",
+      "title_en": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+      "summary_fa": "OpenAI در ادامه‌ی مبحث «حاکمیت دموکراتیک هوش مصنوعی پیشرفته»، طرحی جامع برای تقویت مدافعان سایبری ارائه کرده است. این طرح بر توانمندسازی متخصصان امنیت سایبری با هوش مصنوعی پیشرفته، ایجاد حفاظت‌های قوی‌تر و مدرن‌سازی سیستم‌های امنیتی تاکید دارد. هدف نهایی، افزایش مقاومت و تاب‌آوری نهادهای عمومی در برابر تهدیدات سایبری با بهره‌گیری از فناوری‌های نوین است.",
+      "tags": [
+        "OpenAI",
+        "هوش مصنوعی پیشرفته",
+        "امنیت سایبری",
+        "حاکمیت هوش مصنوعی",
+        "مدافعان سایبری"
+      ]
+    },
+    {
+      "id": "79631049fc1314ba",
+      "date": "2025-09-25",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/introducing-chatgpt-pulse",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "ChatGPT Pulse رونمایی شد: تجربه جدید هوش مصنوعی برای اطلاعات شخصی‌سازی شده",
+      "title_en": "Introducing ChatGPT Pulse",
+      "summary_fa": "OpenAI از قابلیت جدید ChatGPT Pulse رونمایی کرده است که در حال حاضر به صورت پیش‌نمایش برای کاربران پولی (Pro) روی موبایل در دسترس است. این دستیار هوش مصنوعی به صورت فعال به تحقیق می‌پردازد و بر اساس مکالمات کاربر، بازخوردها و اپلیکیشن‌های متصل مانند تقویم، به‌روزرسانی‌های شخصی‌سازی شده و هوشمند ارائه می‌دهد. هدف این قابلیت، تبدیل ChatGPT به یک منبع اطلاعاتی فعال و شخصی برای هر کاربر است.",
+      "tags": [
+        "ChatGPT Pulse",
+        "OpenAI",
+        "هوش مصنوعی",
+        "شخصی‌سازی",
+        "کاربران پرو"
+      ]
+    },
+    {
+      "id": "c70a231e612f960d",
+      "date": "2025-09-24",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/eneos-materials",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "ENEOS Materials: ChatGPT Enterprise سرعت‌بخش تولید و پژوهش",
+      "title_en": "ENEOS Materials brings ChatGPT Enterprise to manufacturing",
+      "summary_fa": "شرکت ENEOS Materials، فعال در حوزه مواد، از نسخه سازمانی ChatGPT برای تسریع تحقیقات، افزایش ایمنی طراحی کارخانه‌ها و کاهش ۹۰ درصدی زمان تحلیل منابع انسانی استفاده می‌کند. این اقدام همچنین منجر به بهبود چشمگیر گردش کار برای ۸۰ درصد از کارکنان شده است.",
+      "tags": [
+        "ENEOS Materials",
+        "ChatGPT Enterprise",
+        "OpenAI",
+        "تولید صنعتی",
+        "هوش مصنوعی سازمانی"
+      ]
+    },
+    {
+      "id": "becdb7a47715517f",
+      "date": "2025-09-24",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/global-affairs/openai-for-germany",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "همکاری SAP و OpenAI برای راه‌اندازی «OpenAI برای آلمان» با هوش مصنوعی حاکمیتی",
+      "title_en": "SAP and OpenAI partner to launch sovereign ‘OpenAI for Germany’",
+      "summary_fa": "شرکت‌های SAP و OpenAI با همکاری یکدیگر پلتفرم «OpenAI برای آلمان» را راه‌اندازی می‌کنند. این شراکت که قرار است تا سال ۲۰۲۶ عملیاتی شود، هدفش ارائه هوش مصنوعی امن و «حاکمیتی» به بخش عمومی آلمان است. از طریق این ابتکار، خدمات عمومی در آلمان ایمن‌تر و کارآمدتر خواهند شد.",
+      "tags": [
+        "SAP",
+        "OpenAI",
+        "Germany",
+        "هوش مصنوعی حاکمیتی",
+        "بخش عمومی آلمان"
+      ]
+    },
+    {
+      "id": "b15a6fb9671b3fea",
+      "date": "2026-10-23",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "اوپن‌ای‌آی: توقف آموزش مدل‌های هوش مصنوعی از اینترنت زنده به دلیل «خطرات عمده»",
+      "title_en": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "summary_fa": "شرکت اوپن‌ای‌آی اعلام کرده است که مدل‌های هوش مصنوعی پیشرفته خود را دیگر از داده‌های زنده اینترنت آموزش نخواهد داد. این تصمیم به دلیل «خطرات قابل توجهی» که در این فرایند شناسایی شده، اتخاذ گردیده است. این اقدام در حالی صورت می‌گیرد که تنها چند هفته پیش، یکی از مهندسان خود این شرکت گفته بود که چنین راه‌حلی برای جلوگیری از مشکلات احتمالی کارساز نخواهد بود.",
+      "tags": [
+        "OpenAI",
+        "مدل‌های هوش مصنوعی",
+        "داده‌های آموزشی",
+        "ایمنی هوش مصنوعی",
+        "خطرات AI"
+      ]
+    },
+    {
+      "id": "f782f2bc9618a504",
+      "date": "2026-10-23",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+      "category": "روباتیک و محصولات هوشمند",
+      "title_fa": "روبات‌های Microduck، محبوب‌ترین اسباب‌بازی سال؟ بازی مدیرعامل انویدیا و فروش ۲۰ هزار دستگاهی",
+      "title_en": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+      "summary_fa": "روبات‌های Microduck، محصولی جدید در دنیای اسباب‌بازی‌های هوشمند، با ظاهری دوست‌داشتنی و قابلیت‌های جذاب توجه‌ها را به خود جلب کرده‌اند. این روبات‌های کوچک قادرند با صدور فرمان‌های صوتی حرکت کنند، بنشینند، یا حتی مانند یک حرکت نمایشی به پهلو افتاده و به خواب بروند. حرکات بانمک و صداهای شبیه به R2-D2 آن‌ها، تجربه‌ای منحصر به فرد را برای کاربران فراهم می‌آورد و همین امر به فروش موفق ۲۰ هزار دستگاهی آن‌ها کمک کرده است.",
+      "tags": [
+        "NVIDIA",
+        "Microduck",
+        "روباتیک",
+        "اسباب‌بازی هوشمند"
+      ]
+    },
+    {
+      "id": "0931d3afc7b71d97",
+      "date": "2026-10-23",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "TechCrunch Founder Summit 2026: راهکارهای عملی برای رشد استارتاپ، فراتر از جذب سرمایه و هوش مصنوعی",
+      "title_en": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+      "summary_fa": "رویداد یک‌روزه‌ی TechCrunch Founder Summit 2026، با مشارکت Fidelity Private Shares و میزبانی TechCrunch، برگزار خواهد شد. این گردهمایی فراتر از مباحث جذب سرمایه و هوش مصنوعی، بر واقعیت‌های عملی اداره یک شرکت نوپا تمرکز دارد. موضوعاتی نظیر یافتن مشتری، تشکیل تیم، تقویت مهارت‌های ارائه، توسعه رهبری بنیان‌گذاران و گسترش شرکت‌ها در مراکز استارتاپی و خارج از آن‌ها مورد بحث قرار خواهد گرفت.",
+      "tags": [
+        "TechCrunch",
+        "استارتاپ",
+        "بنیان‌گذار",
+        "رشد کسب‌وکار",
+        "Fidelity Private Shares"
+      ]
+    },
+    {
+      "id": "4baf690dfb57b3c5",
+      "date": "2026-10-22",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+      "category": "کاربرد هوش مصنوعی در علم و پزشکی",
+      "title_fa": "هوش مصنوعی مایکروسافت از پزشکان در تشخیص موارد دشوار سبقت گرفت؛ هدف: «فراهوش پزشکی»",
+      "title_en": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+      "summary_fa": "یک مطالعه منتشر شده در مجله Science نشان می‌دهد که سیستم تشخیصی جدید هوش مصنوعی مایکروسافت، در تشخیص موارد پیچیده بیماری‌ها از پزشکان عمومی بهتر عمل کرده است. این سیستم توانست در چالش‌برانگیزترین پرونده‌ها، عملکرد خود را بالاتر از پزشکان نشان دهد. با این حال، بخش عمده‌ای از این بهبود ظاهراً نه از خود سیستم مایکروسافت، بلکه از مدل‌های هوش مصنوعی زیربنایی آن نشأت می‌گیرد.",
+      "tags": [
+        "Microsoft",
+        "Mustafa Suleyman",
+        "هوش مصنوعی پزشکی",
+        "تشخیص بیماری",
+        "AI Diagnostics"
+      ]
+    },
+    {
+      "id": "93c844a35d415e95",
+      "date": "2026-10-22",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+      "category": "امنیت سایبری",
+      "title_fa": "جاسوسی سایبری گسترده هکرهای چینی از هزاران شرکت با نفوذ به ConnectWise",
+      "title_en": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+      "summary_fa": "مایکروسافت، هکرهای وابسته به دولت چین را عامل نفوذ گسترده به شرکت بزرگ فناوری اطلاعات ConnectWise معرفی کرده است. این مهاجمان با بهره‌گیری از عامل‌های هوش مصنوعی (AI agents)، توانستند به سرعت به سامانه‌های هزاران مشتری ConnectWise نفوذ کرده و از آن‌ها جاسوسی کنند.",
+      "tags": [
+        "ConnectWise",
+        "Microsoft",
+        "هکرهای چینی",
+        "امنیت سایبری",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "9d72639f5e003f5a",
+      "date": "2026-10-22",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "اوبر ChatGPT Work را در اختیار تمامی ۳۰ هزار کارمند خود قرار می‌دهد",
+      "title_en": "Uber puts all 30,000 employees on ChatGPT Work",
+      "summary_fa": "شرکت اوبر، غول خدمات حمل و نقل آنلاین، پس از یک فاز آزمایشی محدود، تصمیم گرفته است که پلتفرم ChatGPT Work را در مقیاس وسیع و برای تمامی ۳۰ هزار کارمند خود پیاده‌سازی کند. این حرکت نشان‌دهنده‌ی گسترش استفاده از ابزارهای هوش مصنوعی سازمانی در این شرکت است.",
+      "tags": [
+        "Uber",
+        "ChatGPT Work",
+        "AI",
+        "هوش مصنوعی سازمانی",
+        "پذیرش سازمانی"
+      ]
+    },
+    {
+      "id": "795b54b85a067d52",
+      "date": "2026-10-23",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+      "category": "نوآوری و آینده فناوری",
+      "title_fa": "شش وعده بزرگ تکنولوژی: از پیش‌بینی تا واقعیت",
+      "title_en": "The Download: testing six tech promises and biotech’s blind spots",
+      "summary_fa": "این خبر به بررسی واقع‌بینانه شش وعده بزرگ در دنیای فناوری می‌پردازد و میزان پیشرفت آن‌ها را ارزیابی می‌کند. برخی از این ایده‌ها، هرچند بلندپروازانه و به ظاهر غیرممکن، همچنان امیدبخش هستند. یکی از این وعده‌ها، توانایی رمزگشایی از صداهای حیوانات خانگی برای درک بهتر نیازها و احساسات آن‌هاست.",
+      "tags": [
+        "وعده‌های تکنولوژی",
+        "آینده فناوری",
+        "نوآوری",
+        "ارزیابی فناوری",
+        "واقعیت‌سنجی"
+      ]
+    },
+    {
+      "id": "765ba2e8859e99dd",
+      "date": "2026-10-23",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "مستند جدید الیزابت هولمز؛ آیا واقعاً همه چیز پیداست؟",
+      "title_en": "In the biotech world, you can’t see everything",
+      "summary_fa": "یک خبرنگار اخیراً در اکران مستند جدید «تو می‌توانی همه‌چیز را ببینی» درباره‌ی الیزابت هولمز، مدیرعامل سابق و بدنام شرکت بیوتکنولوژی Theranos، حضور یافت. وی با کنجکاوی و بدون اطلاع قبلی از جزئیات فیلم، به تماشای آن نشست. هدف خبرنگار این بود که دریابد این مستند چه اطلاعات تازه‌ای از پشت پرده سقوط این امپراتوری بیوتکنولوژی آشکار خواهد کرد.",
+      "tags": [
+        "Elizabeth Holmes",
+        "Theranos",
+        "بیوتکنولوژی",
+        "مستند",
+        "استارتاپ"
       ]
     }
   ]
