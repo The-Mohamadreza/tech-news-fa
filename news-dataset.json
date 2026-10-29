@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-10-28",
+    "last_updated": "2026-10-29",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 1578
+    "total_articles": 1593
   },
   "articles": [
     {
@@ -26760,6 +26760,261 @@
         "شبکه برق",
         "مصرف انرژی",
         "زیرساخت فناوری"
+      ]
+    },
+    {
+      "id": "75e2017ed4c5a2ec",
+      "date": "2026-10-28",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "تقویت همکاری OpenAI و ServiceNow برای اتوماسیون فرآیندهای سازمانی",
+      "title_en": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "summary_fa": "شرکت‌های OpenAI و ServiceNow همکاری خود را گسترش داده‌اند تا قابلیت‌های هوش مصنوعی را در محیط‌های کاری سازمانی عمیق‌تر کنند. این مشارکت جدید، مدل‌ها و عامل‌های هوش مصنوعی OpenAI را به پلتفرم ServiceNow می‌آورد. همچنین، فرآیندهای کاری ServiceNow با ابزارهایی نظیر ChatGPT و Codex یکپارچه خواهند شد تا بهره‌وری کسب‌وکارها افزایش یابد.",
+      "tags": [
+        "OpenAI",
+        "ServiceNow",
+        "هوش مصنوعی",
+        "همکاری تجاری",
+        "اتوماسیون سازمانی"
+      ]
+    },
+    {
+      "id": "0dc3cf0b7c98dcde",
+      "date": "2026-10-28",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/the-future-of-the-firm",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "هوش مصنوعی: بازطراحی چارت سازمانی شرکت‌های آینده",
+      "title_en": "The future of the firm",
+      "summary_fa": "هوش مصنوعی در آینده نه فقط به عنوان یک ابزار، بلکه به عنوان جزئی جدایی‌ناپذیر از چارت سازمانی شرکت‌ها نقش‌آفرینی خواهد کرد. این فناوری پیشرفته می‌تواند در موقعیت‌های مختلفی نظیر دستیار، همکار هم‌تراز یا حتی واسطه‌ای بین سطوح مدیریتی ظاهر شود. این تحول، ساختار سنتی سازمان‌ها و نحوه تعامل انسان و هوش مصنوعی در محیط کار را به طور اساسی دگرگون خواهد کرد.",
+      "tags": [
+        "هوش مصنوعی",
+        "ساختار سازمانی",
+        "آینده کار",
+        "مدیریت منابع انسانی",
+        "AI integration"
+      ]
+    },
+    {
+      "id": "41c97fe8dc29ac4a",
+      "date": "2026-10-28",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/legora",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "Legora: سیستم عامل هوشمند حقوقی با قدرت OpenAI، کارهای وکلا را متحول می‌کند",
+      "title_en": "Legora is building the agentic operating system for legal work",
+      "summary_fa": "شرکت Legora در حال توسعه یک سیستم عامل مبتنی بر هوش مصنوعی برای حوزه حقوقی است. این سیستم با بهره‌گیری از مدل‌های OpenAI مانند ChatGPT و Codex، به تسریع فرآیندهای حقوقی و گسترش تحلیل قراردادها کمک می‌کند. هدف Legora آزاد کردن وکلا از کارهای روتین و امکان تمرکز آن‌ها بر امور با ارزش‌تر است.",
+      "tags": [
+        "Legora",
+        "OpenAI",
+        "ChatGPT",
+        "هوش مصنوعی حقوقی",
+        "اتوماسیون حقوقی"
+      ]
+    },
+    {
+      "id": "a3a879144b2984ac",
+      "date": "2026-10-27",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/oracle-apps-in-chatgpt",
+      "category": "راهکارهای سازمانی هوش مصنوعی",
+      "title_fa": "همکاری OpenAI و Oracle عمیق‌تر شد: برنامه‌های کاربردی به ChatGPT می‌رسند",
+      "title_en": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "summary_fa": "شرکت‌های OpenAI و Oracle همکاری خود را گسترش داده‌اند. هدف از این مشارکت، ادغام برنامه‌های کاربردی تجاری و عامل‌های هوش مصنوعی به داخل پلتفرم ChatGPT است. علاوه بر این، این همکاری ظرفیت‌های جدیدی برای ارائه محصولات و خدمات اوراکل فراهم خواهد کرد.",
+      "tags": [
+        "OpenAI",
+        "Oracle",
+        "ChatGPT",
+        "راهکارهای سازمانی",
+        "همکاری"
+      ]
+    },
+    {
+      "id": "1d7d75b47c31f4d0",
+      "date": "2026-10-16",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/grupo-boticario",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "Grupo Boticário: تحکیم ارتباطات انسانی در فروش با هوش مصنوعی",
+      "title_en": "How Grupo Boticário uses AI to strengthen human connections",
+      "summary_fa": "شرکت Grupo Boticário، با تقریباً نیم قرن سابقه فعالیت، از یک پلتفرم اختصاصی عامل هوش مصنوعی برای بهینه‌سازی عملیات خود بهره می‌برد. این سیستم قادر است تا ۸۰ درصد از درخواست‌های عملیاتی نمایندگان فروش را به صورت خودکار حل کند. با این رویکرد، نیروی فروش زمان بیشتری برای ایفای نقش مشاوره‌ای و توسعه ارتباطات انسانی قوی‌تر با مشتریان خود پیدا می‌کند.",
+      "tags": [
+        "Grupo Boticário",
+        "AI",
+        "اتوماسیون",
+        "نیروی فروش",
+        "ارتباط با مشتری"
+      ]
+    },
+    {
+      "id": "827221925d8dc2bc",
+      "date": "2026-10-16",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/localiza-generative-ai",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "Localiza: تحول عملیاتی با قدرت هوش مصنوعی مولد",
+      "title_en": "How Localiza reorganized work around generative AI",
+      "summary_fa": "شرکت Localiza، ارائه‌دهنده خدمات حمل و نقل، با بهره‌گیری گسترده از هوش مصنوعی مولد، شیوه‌های کاری خود را به طور کامل بازآرایی کرده است. این شرکت با استفاده از ابزارهایی نظیر ChatGPT Enterprise، APIهای OpenAI، Codex و بیش از ۶۰ عامل هوش مصنوعی تخصصی، نه تنها ساختار عملیاتی خود را متحول کرده، بلکه در صدد ایجاد تجربه‌های حمل و نقل نوین و بومی‌شده بر پایه هوش مصنوعی است.",
+      "tags": [
+        "Localiza",
+        "Generative AI",
+        "ChatGPT Enterprise",
+        "OpenAI API",
+        "تحول عملیاتی"
+      ]
+    },
+    {
+      "id": "b126d7721238eea7",
+      "date": "2026-10-28",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+      "category": "مالی و عملکرد شرکت‌های فناوری",
+      "title_fa": "مایکروسافت برای اولین بار درآمد ۳۳.۲ میلیارد دلاری Azure را افشا کرد؛ نزدیک‌تر به رقابت با AWS",
+      "title_en": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+      "summary_fa": "مایکروسافت که پیش از این هرگز درآمد فصلی Azure را به دلار اعلام نکرده بود، اکنون برای اولین بار این رقم را فاش کرده است. این شرکت اعلام کرد که سرویس ابری Azure به درآمد ۳۳.۲ میلیارد دلاری دست یافته است. افشای این آمار نشان می‌دهد که Azure تا چه حد به رقابت با بزرگترین رقیب خود در بازار، یعنی AWS، نزدیک شده است.",
+      "tags": [
+        "Microsoft",
+        "Azure",
+        "AWS",
+        "Cloud Computing",
+        "درآمد"
+      ]
+    },
+    {
+      "id": "f348c6db37d87fbe",
+      "date": "2026-10-28",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "گسترش جهانی تبلیغات هوش مصنوعی گوگل در مواجهه با کندی رشد تبلیغات اصلی",
+      "title_en": "Google expands AI Search ads globally as core ad growth slows",
+      "summary_fa": "گوگل اعلام کرده که تبلیغات جستجوی مبتنی بر هوش مصنوعی خود را در سطح جهانی گسترش می‌دهد. این اقدام در حالی صورت می‌گیرد که رشد در بخش تبلیغات اصلی این شرکت کند شده است. این خبر همزمان با گزارش مالی سه‌ماهه سوم آلفابت (شرکت مادر گوگل) منتشر شد که در آن رشد ۲۵ درصدی درآمد کلی این شرکت به ۱۲۷.۶ میلیارد دلار گزارش شده است.",
+      "tags": [
+        "Google",
+        "Alphabet",
+        "AI Search ads",
+        "تبلیغات هوش مصنوعی",
+        "گزارش مالی"
+      ]
+    },
+    {
+      "id": "90b267becbf2eaa8",
+      "date": "2026-10-28",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "درآمد ۱۰ میلیارد دلاری مایکروسافت از OpenAI در یک فصل مالی",
+      "title_en": "Microsoft recorded $10 billion in revenue from OpenAI",
+      "summary_fa": "شرکت مایکروسافت اعلام کرد که در سه ماهه منتهی به ۳۰ سپتامبر، ۱۰ میلیارد دلار درآمد از همکاری‌های تجاری خود با OpenAI، شامل پرداخت‌های حاصل از تقسیم درآمد، کسب کرده است. این رقم چشمگیر، نشان‌دهنده وابستگی مالی و عمق استراتژیک این شراکت بین دو غول فناوری است. این میزان درآمد بر اهمیت فزاینده OpenAI برای کسب‌وکار مایکروسافت تأکید می‌کند.",
+      "tags": [
+        "Microsoft",
+        "OpenAI",
+        "درآمد",
+        "همکاری",
+        "هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "f7041d98b5619cae",
+      "date": "2026-10-28",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+      "category": "نتایج مالی شرکت‌های فناوری",
+      "title_fa": "مایکروسافت برای دهمین فصل متوالی رکورد درآمد خود را شکست",
+      "title_en": "Microsoft hits 10 quarters of record-breaking revenue in a row",
+      "summary_fa": "مایکروسافت، غول فناوری، برای دهمین فصل متوالی رکورد درآمد فصلی خود را شکست و وضعیت کنونی خود را بسیار خوب گزارش کرد. این شرکت درآمدی معادل ۹۲.۳ میلیارد دلار ثبت کرد که نشان‌دهنده رشدی ۱۹ درصدی نسبت به سه‌ماهه مشابه سال قبل است. این عملکرد قدرتمند مالی، جایگاه مایکروسافت را در بازارهای جهانی، فارغ از هرگونه ابهام درباره آینده هوش مصنوعی، تثبیت می‌کند.",
+      "tags": [
+        "Microsoft",
+        "Revenue",
+        "درآمد فصلی",
+        "رشد مالی",
+        "AI"
+      ]
+    },
+    {
+      "id": "2ede9b7f343197b4",
+      "date": "2026-10-28",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+      "category": "مدیریت و بهینه‌سازی هوش مصنوعی",
+      "title_fa": "Anthropic ابزارهایی برای رصد و بهینه‌سازی هزینه‌های هوش مصنوعی شرکت‌ها ارائه کرد",
+      "title_en": "Anthropic just launched tools to show companies what their AI spending is buying",
+      "summary_fa": "شرکت Anthropic، از پیشروان توسعه هوش مصنوعی، ابزارهای جدیدی را معرفی کرده که به شرکت‌ها امکان می‌دهد تا نحوه هزینه‌کرد و بازدهی سرمایه‌گذاری‌های خود در مدل‌های هوش مصنوعی این شرکت را شفاف‌تر مشاهده کنند. این اقدام با هدف افزایش شفافیت برای مشتریان سازمانی و در آستانه عرضه اولیه سهام (IPO) Anthropic صورت گرفته است.",
+      "tags": [
+        "Anthropic",
+        "هوش مصنوعی سازمانی",
+        "مدیریت هزینه",
+        "شفافیت",
+        "IPO"
+      ]
+    },
+    {
+      "id": "66c9055b3cf21443",
+      "date": "2026-10-28",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
+      "category": "امنیت سایبری",
+      "title_fa": "هشدار CTO شرکت Wiz: باگ‌های PHP و چشم‌انداز «آتش‌فشان آسیب‌پذیری‌ها» در وب",
+      "title_en": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
+      "summary_fa": "هفته گذشته، کشف دو آسیب‌پذیری حیاتی در زبان برنامه‌نویسی متن‌باز PHP که زیربنای حدود ۷۰ درصد وب‌سایت‌های جهان است، نگرانی‌های جدی ایجاد کرد. این باگ‌ها باعث شدند بسیاری از سازمان‌ها برای رفع مشکلات امنیتی، وب‌سایت‌های خود را موقتاً از دسترس خارج کنند و فرآیند پاکسازی هنوز ادامه دارد. در همین راستا، مدیر ارشد فناوری شرکت Wiz هشدار داده است که این وقایع می‌توانند آغازگر یک «آتش‌فشان گسترده آسیب‌پذیری‌ها» در فضای وب باشند.",
+      "tags": [
+        "PHP",
+        "آسیب‌پذیری نرم‌افزاری",
+        "امنیت وب",
+        "Wiz",
+        "PHP2Shell"
+      ]
+    },
+    {
+      "id": "5d25973f53528cf6",
+      "date": "2026-10-28",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "راز خلق ارزش با هوش مصنوعی در کسب‌وکارها: درک بستر سازمانی",
+      "title_en": "Creating AI value with enterprise context",
+      "summary_fa": "امروزه سازمان‌ها از پلتفرم‌ها و ابزارهای متنوع هوش مصنوعی مانند دستیارهای مکالمه‌ای و ابزارهای اتوماسیون فرایند استفاده می‌کنند. هرچند این سیستم‌ها پیشرفته و پاسخگو هستند، اما گاهی نتایج آن‌ها اشتباه، مبهم یا ناکارآمد از آب درمی‌آید. این مشکل اغلب به دلیل عدم درک کافی از بستر و زمینه فعالیت کسب‌وکار رخ می‌دهد. بنابراین، برای خلق ارزش واقعی و نتایج مؤثر از هوش مصنوعی، ضروری است که سیستم‌ها به درک عمیقی از محیط سازمانی مجهز شوند.",
+      "tags": [
+        "هوش مصنوعی",
+        "کسب‌وکار",
+        "بستر سازمانی",
+        "خلق ارزش",
+        "اتوماسیون"
+      ]
+    },
+    {
+      "id": "741a865a00c37151",
+      "date": "2026-10-28",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "داده‌های استارتاپ‌های منحل‌شده، سوخت جدید مدل‌های هوش مصنوعی",
+      "title_en": "The Download: dead startups fueling AI and interspecies communication",
+      "summary_fa": "آزمایشگاه‌های هوش مصنوعی رویکرد جدیدی را برای آموزش مدل‌های خود در پیش گرفته‌اند: خرید داده از استارتاپ‌هایی که فعالیتشان متوقف شده است. این روند به آن‌ها امکان می‌دهد تا از اطلاعاتی که پیش از این بی‌ارزش تلقی می‌شدند، استفاده کنند. به عنوان مثال، داده‌های یک استارتاپ رمزارز که صاحبش فکر می‌کرد ارزش چندانی ندارند، اکنون برای آموزش مدل‌های هوش مصنوعی مورد توجه قرار گرفته‌اند.",
+      "tags": [
+        "هوش مصنوعی",
+        "داده",
+        "آموزش مدل",
+        "استارتاپ",
+        "AI Industry"
+      ]
+    },
+    {
+      "id": "056614830d953cd4",
+      "date": "2026-10-28",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
+      "category": "کاربرد هوش مصنوعی در صنعت",
+      "title_fa": "هوش مصنوعی صنعتی: تلفیق خودگردانی و کنترل انسانی",
+      "title_en": "Pairing industrial AI autonomy and human control",
+      "summary_fa": "گسترش هوش مصنوعی در صنایع، بحث مهمی را درباره‌ی نحوه‌ی ترکیب استقلال عملیاتی سیستم‌های هوش مصنوعی با نظارت و کنترل انسانی مطرح کرده است. این رویکرد به دنبال یافتن تعادلی بهینه است تا ضمن بهره‌برداری از کارایی و سرعت AI، اطمینان از ایمنی و امکان مداخله‌ی انسان در مواقع حساس فراهم آید. هدف، طراحی سیستمی است که در آن هوش مصنوعی و انسان به طور مؤثر با یکدیگر همکاری کنند.",
+      "tags": [
+        "هوش مصنوعی صنعتی",
+        "کنترل انسانی",
+        "خودگردانی AI",
+        "اتوماسیون",
+        "Industry 4.0"
       ]
     }
   ]
