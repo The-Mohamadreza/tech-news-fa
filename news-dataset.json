@@ -3,7 +3,7 @@
     "name": "آرشیو اخبار تکنولوژی و هوش مصنوعی",
     "description": "دیتاست خبرهای روزانه‌ی تکنولوژی و هوش مصنوعی، استخراج‌شده و ترجمه‌شده به فارسی، برای استفاده در تحلیل روند آینده‌ی فناوری",
     "created_at": "2026-06-27",
-    "last_updated": "2026-10-30",
+    "last_updated": "2026-10-31",
     "schema_version": 1,
     "sources": [
       "openai.com/news",
@@ -11,7 +11,7 @@
       "technologyreview.com",
       "theverge.com / techmeme.com"
     ],
-    "total_articles": 1607
+    "total_articles": 1618
   },
   "articles": [
     {
@@ -27252,6 +27252,193 @@
         "گرمایش زمین",
         "چرخه‌های بازخورد",
         "گازهای گلخانه‌ای"
+      ]
+    },
+    {
+      "id": "25cc4c9bb2e3e7e5",
+      "date": "2026-10-30",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "رباتز.تکست (Robots.txt)؛ ابزار جدید وب‌سایت‌ها برای کنترل آموزش مدل‌های هوش مصنوعی",
+      "title_en": "Making it easier for websites to express AI training preferences",
+      "summary_fa": "شرکت OpenAI اعلام کرده است که از یک سیگنال مشترک در فایل robots.txt پشتیبانی خواهد کرد. این اقدام به مدیران وب‌سایت‌ها امکان می‌دهد تا ترجیحات خود را در مورد استفاده از محتوایشان برای آموزش مدل‌های هوش مصنوعی، به ارائه‌دهندگان خدمات هوش مصنوعی اطلاع دهند. هدف این استانداردسازی، فراهم آوردن راهی ساده‌تر و یکپارچه‌تر برای کنترل دسترسی هوش مصنوعی به داده‌های وب است.",
+      "tags": [
+        "OpenAI",
+        "robots.txt",
+        "AI training",
+        "حریم خصوصی",
+        "کنترل محتوا"
+      ]
+    },
+    {
+      "id": "c7606af40dbb903f",
+      "date": "2026-10-30",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "اوپن‌ای‌آی ایمنی ChatGPT را با تدابیر جدید برای نوجوانان تقویت می‌کند",
+      "title_en": "Community safety report and new protections for teens",
+      "summary_fa": "شرکت OpenAI با هدف پیشگیری از خشونت، تدابیر امنیتی ChatGPT را تقویت می‌کند. این اقدامات شامل گسترش سازوکارهای حفاظتی و مداخله‌های زودهنگام است. همچنین، OpenAI تعهد جدیدی برای گزارش‌دهی عمومی در مورد ایمنی محصولات خود ارائه داده است.",
+      "tags": [
+        "OpenAI",
+        "ChatGPT",
+        "ایمنی هوش مصنوعی",
+        "پیشگیری از خشونت",
+        "نوجوانان"
+      ]
+    },
+    {
+      "id": "d2282bcce1625c64",
+      "date": "2026-10-30",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/fair-use-benefits-everyone",
+      "category": "سیاست و تنظیم‌گری هوش مصنوعی",
+      "title_fa": "حمایت قاطع از «استفاده منصفانه» برای آموزش هوش مصنوعی؛ OpenAI نظرات کارشناسان را منتشر کرد",
+      "title_en": "Fair use benefits everyone",
+      "summary_fa": "شرکت OpenAI بخش‌هایی از دفاعیات حقوقی ارائه شده توسط طیف وسیعی از افراد شامل سازندگان محتوا، دانشگاهیان، حامیان دسترسی و متخصصان حقوقی را منتشر کرده است. این دفاعیات نشان می‌دهند که چگونه اصل «استفاده منصفانه» (Fair Use) از آموزش مدل‌های هوش مصنوعی و نوآوری در این حوزه پشتیبانی می‌کند و در نهایت به نفع همگان است.",
+      "tags": [
+        "OpenAI",
+        "استفاده منصفانه",
+        "آموزش هوش مصنوعی",
+        "مالکیت فکری",
+        "قوانین هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "6750c2461412185f",
+      "date": "2026-10-29",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/credit-saison",
+      "category": "پذیرش سازمانی هوش مصنوعی",
+      "title_fa": "موفقیت خیره‌کننده Credit Saison با ChatGPT Enterprise: بازگشت سرمایه ۹۵۴ درصدی و پذیرش سراسری",
+      "title_en": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+      "summary_fa": "شرکت Credit Saison در یک برنامه آزمایشی با ChatGPT Enterprise، به بازگشت سرمایه شگفت‌انگیز ۹۵۴ درصدی دست یافت. این نتایج درخشان نشان‌دهنده پتانسیل بالای هوش مصنوعی در محیط‌های سازمانی است. با مشارکت فعال مدیران و کارمندان، این موفقیت اولیه به پذیرش و استقرار ChatGPT Enterprise در سراسر شرکت منجر شد.",
+      "tags": [
+        "Credit Saison",
+        "ChatGPT Enterprise",
+        "ROI",
+        "هوش مصنوعی سازمانی",
+        "پذیرش تکنولوژی"
+      ]
+    },
+    {
+      "id": "759103f0a9dbf837",
+      "date": "2025-09-15",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/gpt-5-system-card-addendum-gpt-5-codex",
+      "category": "پژوهش و مدل‌های هوش مصنوعی",
+      "title_fa": "GPT-5-Codex معرفی شد: کدنویسی پویا با هوش مصنوعی نسل جدید OpenAI",
+      "title_en": "Addendum to GPT-5 system card: GPT-5-Codex",
+      "summary_fa": "OpenAI مدل جدیدی به نام GPT-5-Codex را معرفی کرده است. این مدل که بخشی از خانواده GPT-5 است، به طور خاص برای کدنویسی خودکار در Codex بهینه شده است. قابلیت برجسته آن، تنظیم پویای میزان تلاش محاسباتی بر اساس پیچیدگی وظیفه است؛ به این معنی که هم به سوالات ساده سریع پاسخ می‌دهد و هم قادر است برای وظایف پیچیده‌تر به طور مستقل و طولانی‌تر کار کند.",
+      "tags": [
+        "GPT-5-Codex",
+        "OpenAI",
+        "هوش مصنوعی",
+        "کدنویسی",
+        "مدل زبان بزرگ"
+      ]
+    },
+    {
+      "id": "379d43668b44a888",
+      "date": "2025-09-12",
+      "source": "OpenAI News",
+      "source_url": "https://openai.com/index/us-caisi-uk-aisi-ai-update",
+      "category": "ایمنی و خطرات هوش مصنوعی",
+      "title_fa": "OpenAI از پیشرفت همکاری با نهادهای ایمنی آمریکا و بریتانیا برای هوش مصنوعی امن‌تر خبر داد",
+      "title_en": "Working with US CAISI and UK AISI to build more secure AI systems",
+      "summary_fa": "شرکت OpenAI اعلام کرده که در همکاری خود با موسسه ایمنی هوش مصنوعی ایالات متحده (CAISI) و همتای بریتانیایی آن (AISI) به پیشرفت‌هایی دست یافته است. این مشارکت استراتژیک با هدف اصلی تقویت ایمنی و امنیت سیستم‌های هوش مصنوعی و تدوین استانداردهای مشترک برای آن‌ها ادامه دارد.",
+      "tags": [
+        "OpenAI",
+        "CAISI",
+        "AISI",
+        "ایمنی هوش مصنوعی",
+        "امنیت هوش مصنوعی"
+      ]
+    },
+    {
+      "id": "6336aff37e57b820",
+      "date": "2026-10-31",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "انویدیا در پی تضمین مالی پروژه دیتاسنتر هوش مصنوعی Nscale",
+      "title_en": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "summary_fa": "انویدیا، غول تراشه‌سازی هوش مصنوعی، در حال بررسی ایفای نقش ضامن برای تامین مالی پروژه دیتاسنتر هوش مصنوعی شرکت Nscale در ویرجینیای غربی است. این اقدام در حالی صورت می‌گیرد که سرمایه‌گذاران نسبت به هزینه‌های هنگفت زیرساخت‌های هوش مصنوعی محتاط شده‌اند. ورود انویدیا می‌تواند به کاهش نگرانی‌های مالی کمک کرده و جریان تقاضا برای تراشه‌های پیشرفته خود را تضمین کند.",
+      "tags": [
+        "NVIDIA",
+        "Nscale",
+        "AI data center",
+        "سرمایه‌گذاری",
+        "تامین مالی"
+      ]
+    },
+    {
+      "id": "60ba719a05749cde",
+      "date": "2026-10-30",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+      "category": "سرمایه‌گذاری و استارتاپ",
+      "title_fa": "رتبه اعتباری «جَک» در کمین Anthropic پس از عرضه اولیه سهام؛ جذب سرمایه دشوارتر می‌شود",
+      "title_en": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+      "summary_fa": "گزارش‌ها حاکی از آن است که شرکت Anthropic، فعال در حوزه هوش مصنوعی، پس از عرضه اولیه سهام خود (IPO) ممکن است از سوی آژانس‌های اعتبارسنجی رتبه اعتباری «جَک» (پایین) دریافت کند. این پیش‌بینی که توسط بلک‌اِستون مطرح شده، نشان می‌دهد که دریافت چنین رتبه‌ای، تامین مالی و جذب سرمایه برای Anthropic را بسیار دشوارتر و پرهزینه‌تر خواهد کرد. این امر به نوبه خود، تامین هزینه‌های هنگفت عملیاتی و توسعه این شرکت را که لازمه تداوم فعالیت آن است، با چالش مواجه خواهد ساخت.",
+      "tags": [
+        "Anthropic",
+        "IPO",
+        "رتبه اعتباری",
+        "جذب سرمایه",
+        "AI"
+      ]
+    },
+    {
+      "id": "0806533d8a710536",
+      "date": "2026-10-30",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+      "category": "فرهنگ تکنولوژی",
+      "title_fa": "هالووین فناورانه: ایده‌های لباس لحظه آخری برای اهل تکنولوژی",
+      "title_en": "Last-minute Halloween costumes for tech nerds",
+      "summary_fa": "با نزدیک شدن به هالووین و کمبود وقت برای تهیه لباس، این خبر چند ایده خلاقانه و دقیقه نودی با تم تکنولوژی را برای شما فراهم کرده است. نیازی نیست نگران باشید؛ می‌توانید به سادگی در نقش یک نماد هوش مصنوعی فریبنده، یک آسیب‌پذیری PHP یا حتی با حالتی خسته و خواب‌آلود، برایان جانسون ظاهر شوید. این پیشنهادات بامزه برای علاقه‌مندان به تکنولوژی که به دنبال راهی سریع و شوخ‌طبعانه برای جشن هالووین هستند، مناسب است.",
+      "tags": [
+        "Halloween",
+        "Costumes",
+        "AI",
+        "Bryan Johnson",
+        "Tech Culture"
+      ]
+    },
+    {
+      "id": "f1f6194d20367130",
+      "date": "2026-10-30",
+      "source": "TechCrunch",
+      "source_url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+      "category": "تحلیل صنعت هوش مصنوعی",
+      "title_fa": "ترک‌خوردگی در رونق هزینه‌کرد هوش مصنوعی: نگرانی‌ها درباره پایداری اوج می‌گیرد",
+      "title_en": "Cracks are emerging in the AI spending boom",
+      "summary_fa": "شرکت‌های بزرگ فناوری میلیاردها دلار در زیرساخت‌های هوش مصنوعی سرمایه‌گذاری می‌کنند. اما بدهی‌های فزاینده، جریان نقدی منفی و افزایش تردید سرمایه‌گذاران، سوالاتی جدی درباره پایداری این رونق بی‌سابقه هزینه‌ای در هوش مصنوعی مطرح کرده است. این وضعیت نشان می‌دهد که چالش‌های اقتصادی بلندمدت، علی‌رغم هیجان اولیه، در این حوزه در حال ظهور است.",
+      "tags": [
+        "هوش مصنوعی",
+        "سرمایه‌گذاری",
+        "Big Tech",
+        "اقتصاد هوش مصنوعی",
+        "پایداری مالی"
+      ]
+    },
+    {
+      "id": "34936df5c82f27d4",
+      "date": "2026-10-30",
+      "source": "MIT Technology Review",
+      "source_url": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/",
+      "category": "بیوتکنولوژی و سلامت",
+      "title_fa": "نگرانی‌ها از تاثیر داروهای کاهش وزن GLP-1 بر اختلالات خوردن",
+      "title_en": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
+      "summary_fa": "در حالی که اختلالات خوردن رو به افزایش است، پزشکان نسبت به پیامدهای داروهای کاهش وزن GLP-1 ابراز نگرانی کرده‌اند. این داروها که یکی از بزرگترین پیشرفت‌های بیوتکنولوژی دهه اخیر به شمار می‌روند، از دید برخی متخصصان بالینی می‌توانند وضعیت اختلالات خوردن را تشدید کنند.",
+      "tags": [
+        "GLP-1",
+        "داروهای کاهش وزن",
+        "اختلالات خوردن",
+        "بیوتکنولوژی",
+        "سلامت"
       ]
     }
   ]
